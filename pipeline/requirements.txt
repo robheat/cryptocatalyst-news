@@ -1,0 +1,2 @@
+# Pipeline requirements (used by GitHub Actions)
+# No external dependencies needed — all pipeline code uses stdlib + venice_client.py

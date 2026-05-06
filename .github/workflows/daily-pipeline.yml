@@ -1,0 +1,69 @@
+name: Daily Crypto News Pipeline
+
+on:
+  workflow_dispatch: # Triggered externally via Vercel cron endpoint
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run fetch feeds
+        working-directory: pipeline
+        run: python fetch_feeds.py
+
+      - name: Run curation (Venice AI)
+        working-directory: pipeline
+        env:
+          VENICE_AI_API_KEY: ${{ secrets.VENICE_AI_API_KEY }}
+        run: python curate.py
+
+      - name: Generate article content (Venice AI)
+        working-directory: pipeline
+        env:
+          VENICE_AI_API_KEY: ${{ secrets.VENICE_AI_API_KEY }}
+        run: python generate_content.py
+
+      - name: Commit new articles and images
+        run: |
+          git config user.name "CryptoCatalyst Bot"
+          git config user.email "bot@cryptocatalyst.news"
+          git add content/articles/ public/images/articles/
+          git add content/.tweeted.json 2>/dev/null || true
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "📰 Daily digest: $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Post to Twitter/X
+        if: success()
+        working-directory: pipeline
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: python post_twitter.py
+
+      - name: Commit tweeted tracking file
+        if: always()
+        run: |
+          git add content/.tweeted.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "🐦 Update tweeted tracking"
+          git push
