@@ -36,7 +36,7 @@ export default function NewsletterSignup({ compact = false }: { compact?: boolea
   if (status === "success") {
     return (
       <div className={compact ? "" : "border border-neutral-800 rounded-xl p-6 bg-neutral-900 text-center"}>
-        <p className="text-violet-400 font-medium">✓ Subscribed!</p>
+        <p className="text-amber-400 font-medium">✓ Subscribed!</p>
         <p className="text-sm text-neutral-400 mt-1">{message}</p>
       </div>
     );
@@ -48,10 +48,10 @@ export default function NewsletterSignup({ compact = false }: { compact?: boolea
         <>
           <p className="text-neutral-400 text-sm mb-1">Stay in the loop</p>
           <h3 className="text-lg font-semibold text-neutral-100 mb-1">
-            Weekly AI Digest
+            Weekly Crypto Digest
           </h3>
           <p className="text-sm text-neutral-500 mb-4">
-            The top AI stories of the week, delivered every Sunday.
+            The top crypto and blockchain stories of the week, delivered every Sunday.
           </p>
         </>
       )}
@@ -65,12 +65,12 @@ export default function NewsletterSignup({ compact = false }: { compact?: boolea
             setEmail(e.target.value);
             if (status === "error") setStatus("idle");
           }}
-          className="flex-1 bg-neutral-800 border border-neutral-700 rounded-lg px-3 py-2 text-sm text-neutral-100 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-violet-500/50 focus:border-violet-500"
+          className="flex-1 bg-neutral-800 border border-neutral-700 rounded-lg px-3 py-2 text-sm text-neutral-100 placeholder:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500"
         />
         <button
           type="submit"
           disabled={status === "loading"}
-          className="bg-violet-600 hover:bg-violet-500 disabled:opacity-50 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
+          className="bg-amber-500 hover:bg-amber-400 disabled:opacity-50 text-black text-sm font-medium px-4 py-2 rounded-lg transition-colors"
         >
           {status === "loading" ? "..." : "Subscribe"}
         </button>

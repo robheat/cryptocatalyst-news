@@ -33,16 +33,16 @@ export async function GET(request: NextRequest) {
               letterSpacing: "-0.5px",
             }}
           >
-            AI
+            Crypto
           </span>
           <span
             style={{
-              color: "#a78bfa",
+              color: "#f59e0b",
               fontSize: "28px",
               fontWeight: 700,
             }}
           >
-            nformed
+            Catalyst
           </span>
           <span
             style={{
@@ -51,7 +51,7 @@ export async function GET(request: NextRequest) {
               marginLeft: "2px",
             }}
           >
-            .dev
+            .news
           </span>
           {category ? (
             <span
@@ -97,7 +97,7 @@ export async function GET(request: NextRequest) {
           }}
         >
           <span>{date}</span>
-          <span>Daily Crypto News — Curated by AI</span>
+          <span>cryptocatalyst.news</span>
         </div>
       </div>
     ),
