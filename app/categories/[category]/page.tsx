@@ -4,7 +4,7 @@ import { getArticlesByCategory, getAllArticles } from "@/lib/content";
 import { CATEGORIES, Category } from "@/lib/types";
 import ArticleCard from "@/components/ArticleCard";
 
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 interface Props {
   params: Promise<{ category: string }>;

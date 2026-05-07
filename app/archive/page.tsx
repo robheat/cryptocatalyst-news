@@ -3,7 +3,7 @@ import { getPaginatedArticles } from "@/lib/content";
 import ArticleCard from "@/components/ArticleCard";
 import Link from "next/link";
 
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: "Archive — All Crypto News",

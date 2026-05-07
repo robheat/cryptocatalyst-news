@@ -11,7 +11,7 @@ interface Props {
 export default function ArticleCard({ article, featured = false }: Props) {
   return (
     <article
-      className={`group rounded-xl border border-neutral-800 bg-neutral-900 hover:border-violet-500 transition-colors duration-200 overflow-hidden ${
+      className={`group rounded-xl border border-neutral-800 bg-neutral-900 hover:border-amber-500 transition-colors duration-200 overflow-hidden ${
         featured ? "md:col-span-2" : ""
       }`}
     >
@@ -31,7 +31,7 @@ export default function ArticleCard({ article, featured = false }: Props) {
         )}
         <div className="p-5">
         <div className="flex items-center gap-2 mb-3">
-          <span className="text-xs font-medium uppercase tracking-wider px-2 py-0.5 rounded-full bg-violet-500/20 text-violet-400 border border-violet-500/30">
+          <span className="text-xs font-medium uppercase tracking-wider px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
             {article.category}
           </span>
           <time
@@ -43,7 +43,7 @@ export default function ArticleCard({ article, featured = false }: Props) {
         </div>
 
         <h2
-          className={`font-semibold text-neutral-100 group-hover:text-violet-300 transition-colors leading-snug mb-2 ${
+          className={`font-semibold text-neutral-100 group-hover:text-amber-300 transition-colors leading-snug mb-2 ${
             featured ? "text-xl md:text-2xl" : "text-base"
           }`}
         >

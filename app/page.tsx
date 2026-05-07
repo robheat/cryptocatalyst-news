@@ -4,7 +4,7 @@ import ArticleCard from "@/components/ArticleCard";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import { formatDate } from "@/lib/utils";
 
-export const revalidate = 3600; // ISR: revalidate every hour
+export const revalidate = 86400; // ISR: revalidate once daily (matches pipeline schedule)
 
 export const metadata: Metadata = {
   title: "CryptoCatalyst — Daily Crypto & Blockchain News",

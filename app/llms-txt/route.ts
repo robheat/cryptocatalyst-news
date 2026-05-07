@@ -3,7 +3,7 @@ import { getAllArticles } from "@/lib/content";
 import { CATEGORIES } from "@/lib/types";
 
 export const dynamic = "force-static";
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export async function GET() {
   const articles = getAllArticles().slice(0, 100);

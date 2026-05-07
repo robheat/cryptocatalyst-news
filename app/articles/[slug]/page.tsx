@@ -5,7 +5,9 @@ import { getArticleBySlug, getAllArticles } from "@/lib/content";
 import SchemaMarkup from "@/components/SchemaMarkup";
 import { formatDateTime } from "@/lib/utils";
 
-export const revalidate = 3600;
+// Articles never change after publish — build statically and cache permanently.
+// New slugs from the daily pipeline are rendered on first request then cached.
+export const revalidate = false;
 
 interface Props {
   params: Promise<{ slug: string }>;

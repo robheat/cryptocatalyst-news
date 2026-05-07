@@ -3,7 +3,7 @@ import { Feed } from "feed";
 import { getAllArticles } from "@/lib/content";
 
 export const dynamic = "force-static";
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export async function GET() {
   const articles = getAllArticles().slice(0, 50);
@@ -41,7 +41,7 @@ export async function GET() {
   return new NextResponse(feed.rss2(), {
     headers: {
       "Content-Type": "application/rss+xml; charset=utf-8",
-      "Cache-Control": "public, max-age=3600, stale-while-revalidate=86400",
+      "Cache-Control": "public, max-age=86400, stale-while-revalidate=604800",
     },
   });
 }

@@ -156,11 +156,11 @@ def generate_article(story: dict) -> dict | None:
 
 
 IMAGE_PROMPT_SYSTEM = """\
-You are a visual prompt engineer. Given an article title and summary about AI/tech news,
+You are a visual prompt engineer. Given a crypto/blockchain article title and summary,
 write a concise DALL-E / Stable Diffusion style image prompt (max 200 chars) for a
-compelling hero image. Since every article is about AI, always incorporate AI-themed
-visual concepts such as neural networks, glowing circuits, data streams, digital brains,
-or machine learning nodes. The image should be abstract, futuristic, and tech-themed.
+compelling hero image. Incorporate crypto-themed visual concepts such as Bitcoin symbols,
+blockchain grids, glowing coins, DeFi vaults, on-chain data streams, or digital wallets.
+The image should be abstract, futuristic, and finance-tech-themed.
 Do NOT include any text or letters in the image. No people's faces. No logos.
 Respond with ONLY the image prompt text, nothing else."""
 

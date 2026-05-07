@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { getAllArticles } from "@/lib/content";
 
 export const dynamic = "force-static";
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 /**
  * /llms-full.txt — Complete plain-text dump of all article content.
