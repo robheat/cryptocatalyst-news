@@ -6,7 +6,7 @@ const REPO = "robheat/cryptocatalyst-news";
 const WORKFLOW_FILE = "daily-pipeline.yml";
 const BRANCH = "master";
 
-export async function POST(req: NextRequest) {
+async function triggerPipeline(req: NextRequest) {
   // Verify shared secret
   const auth = req.headers.get("authorization");
   if (!CRON_SECRET || auth !== `Bearer ${CRON_SECRET}`) {
@@ -46,4 +46,14 @@ export async function POST(req: NextRequest) {
     { error: `GitHub API ${resp.status}: ${body}` },
     { status: resp.status }
   );
+}
+
+// Vercel Cron Jobs send GET requests
+export async function GET(req: NextRequest) {
+  return triggerPipeline(req);
+}
+
+// Allow manual POST triggers as well
+export async function POST(req: NextRequest) {
+  return triggerPipeline(req);
 }
