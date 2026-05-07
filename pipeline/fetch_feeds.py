@@ -68,6 +68,11 @@ RSS_FEEDS = [
         "url": "https://blockworks.co/feed",
         "category_hint": "industry",
     },
+    {
+        "name": "Glassnode Insights",
+        "url": "https://insights.glassnode.com/rss/",
+        "category_hint": "bitcoin",
+    },
 ]
 
 MAX_STORIES_PER_FEED = 15
