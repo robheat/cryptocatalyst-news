@@ -1,0 +1,27 @@
+{
+  "slug": "2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours",
+  "title": "Major Crypto Liquidity Crisis: $687M Vanishes in Hours",
+  "summary": "A hacker exploited a security flaw to drain $116,500 worth of crypto, triggering a massive liquidity crisis. This event highlights the risks of complex crypto systems and how quickly things can go wrong.",
+  "body": "A hacker recently exploited a security flaw in the LayerZero system, draining $116,500 worth of rsETH from Kelp DAO. This attack set off a chain reaction on the Aave lending platform, causing a dramatic drop in available liquidity. In just two hours, the amount of WETH (Wrapped Ether) available for trading plummeted from $689 million to a mere $1.5 million. This is the largest confidence-driven liquidity event in Aave's history.\n\nThis event shows how interconnected crypto systems can be. When one part fails, it can quickly affect others, leading to sudden and severe consequences. For everyday users, this means that even seemingly stable crypto platforms can face unexpected risks. It's a reminder to always be cautious and understand the platforms you're using.\n\nIf you're using crypto lending platforms like Aave, it's a good idea to keep an eye on news about similar events. Stay informed about the platforms you're using and consider diversifying your holdings to reduce risk. This way, you can better protect your investments from sudden market shifts.",
+  "sourceUrl": "https://insights.glassnode.com/anatomy-of-a-liquidity-freeze/",
+  "sourceName": "Glassnode Insights",
+  "category": "defi",
+  "tags": [
+    "liquidity",
+    "hack",
+    "aave",
+    "defi",
+    "security",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-05-08T08:44:30.375397+00:00",
+  "imageUrl": "/images/articles/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours.jpg",
+  "twitterThread": [
+    "🚨 A crypto hack just caused $687M to vanish in hours. Here's what happened and why it matters for you. \n\nA hacker exploited a flaw in LayerZero, draining $116,500 worth of crypto. \n\nThis triggered a chain reaction on Aave, a popular lending platform.",
+    "In plain English: A hacker found a way to steal crypto, which then caused a domino effect. \n\nThe available liquidity on Aave dropped from $689M to just $1.5M in two hours. \n\nThis is the biggest liquidity event in Aave's history.",
+    "Here's what this means for you: \n\nCrypto systems are interconnected. When one part fails, it can affect others quickly. \n\nThis event shows how sudden and severe the consequences can be.",
+    "If you're using crypto lending platforms, stay informed. \n\nKeep an eye on news about similar events and consider diversifying your holdings to reduce risk. \n\nThis way, you can better protect your investments.",
+    "Full breakdown → https://cryptocatalyst.news/articles/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours"
+  ],
+  "standaloneTweet": "🚨 A crypto hack just caused $687M to vanish in hours. Here's what happened and why it matters for you. A hacker exploited a flaw in LayerZero, draining $116,500 worth of crypto. This triggered a chain reaction on Aave, a popular lending platform."
+}
