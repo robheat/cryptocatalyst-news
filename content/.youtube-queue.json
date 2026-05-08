@@ -1,0 +1,101 @@
+{
+  "queue": [
+    {
+      "slug": "2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours",
+      "title": "Major Crypto Liquidity Crisis: $687M Vanishes in Hours",
+      "category": "defi",
+      "tags": [
+        "liquidity",
+        "hack",
+        "aave",
+        "defi",
+        "security",
+        "cryptocurrency"
+      ],
+      "imageUrl": "/images/articles/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours",
+      "script": {
+        "hook": "Imagine your bank account suddenly losing hundreds of millions of dollars in hours—that's what just happened in cryptocurrency.",
+        "narration_lines": [
+          "A hacker found a flaw in a crypto system called LayerZero, stealing $116,500 worth of cryptocurrency.",
+          "This triggered a domino effect, causing a massive drop in available funds on the Aave lending platform.",
+          "In just two hours, $687 million disappeared, leaving only $1.5 million available for trading.",
+          "This shows how connected crypto systems are—one small issue can cause big problems fast.",
+          "If you're using cryptocurrency, it's crucial to understand these risks and how they can impact your investments.",
+          "Always research and stay informed to protect your money in this fast-moving world."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "fa2add79a2710662",
+      "scriptText": "Imagine your bank account suddenly losing hundreds of millions of dollars in hours—that's what just happened in cryptocurrency. A hacker found a flaw in a crypto system called LayerZero, stealing $116,500 worth of cryptocurrency. This triggered a domino effect, causing a massive drop in available funds on the Aave lending platform. In just two hours, $687 million disappeared, leaving only $1.5 million available for trading. This shows how connected crypto systems are—one small issue can cause big problems fast. If you're using cryptocurrency, it's crucial to understand these risks and how they can impact your investments. Always research and stay informed to protect your money in this fast-moving world. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-08-major-crypto-liquidity-crisis-687m-vanishes-in-hours.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-08T16:14:48.141731+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        7.509333333333333,
+        8.234666666666667,
+        6.229333333333333,
+        8.298666666666668,
+        5.653333333333333,
+        6.4,
+        4.906666666666666,
+        4.032
+      ]
+    },
+    {
+      "slug": "2026-05-08-bitcoin-nears-85k-resistance-as-etf-inflows-surge",
+      "title": "Bitcoin Nears $85K Resistance as ETF Inflows Surge",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "etf",
+        "resistance",
+        "investing",
+        "market"
+      ],
+      "imageUrl": "/images/articles/2026-05-08-bitcoin-nears-85k-resistance-as-etf-inflows-surge.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-08-bitcoin-nears-85k-resistance-as-etf-inflows-surge",
+      "script": {
+        "hook": "Imagine if the stock of your favorite company was about to hit a huge milestone—what would you do?",
+        "narration_lines": [
+          "Bitcoin is nearing $85,000, a key price level that could mean big things for investors.",
+          "This surge is driven by massive inflows into Bitcoin ETFs, showing strong interest from big players.",
+          "Think of it like a popular stock that everyone wants a piece of—prices can keep climbing.",
+          "If Bitcoin breaks through this level, it could mean even higher prices ahead.",
+          "For you, this could be a chance to get in or see if your holdings could grow.",
+          "Keep an eye on the market, but remember to invest wisely and only what you can afford to lose."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "23e721e8a8ff0eda",
+      "scriptText": "Imagine if the stock of your favorite company was about to hit a huge milestone—what would you do? Bitcoin is nearing $85,000, a key price level that could mean big things for investors. This surge is driven by massive inflows into Bitcoin ETFs, showing strong interest from big players. Think of it like a popular stock that everyone wants a piece of—prices can keep climbing. If Bitcoin breaks through this level, it could mean even higher prices ahead. For you, this could be a chance to get in or see if your holdings could grow. Keep an eye on the market, but remember to invest wisely and only what you can afford to lose. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-08-bitcoin-nears-85k-resistance-as-etf-inflows-surge.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-08-bitcoin-nears-85k-resistance-as-etf-inflows-surge.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-08T16:14:53.518368+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        5.802666666666667,
+        7.338666666666667,
+        6.442666666666667,
+        5.12,
+        4.074666666666666,
+        3.8186666666666667,
+        5.696,
+        4.032
+      ]
+    }
+  ]
+}
