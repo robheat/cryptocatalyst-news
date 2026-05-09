@@ -96,6 +96,100 @@
         5.696,
         4.032
       ]
+    },
+    {
+      "slug": "2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody",
+      "title": "Boltz Enables Direct Bitcoin-to-USDC Swaps Without Custody",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "usdc",
+        "stablecoin",
+        "non-custodial",
+        "boltz",
+        "lightning-network"
+      ],
+      "imageUrl": "/images/articles/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody",
+      "script": {
+        "hook": "Imagine swapping your Bitcoin for dollars instantly without handing over your private keys. Now you can!",
+        "narration_lines": [
+          "Boltz just launched a way to swap Bitcoin for USDC directly, keeping your funds in your control.",
+          "USDC is a stablecoin backed by real dollars, accepted by big names like Stripe and Visa.",
+          "This means you can pay bills or buy goods with Bitcoin's flexibility and USDC's stability.",
+          "No middleman, no waiting. Just instant, secure swaps using Circle's Cross-Chain Transfer Protocol.",
+          "Try it out if you want to use cryptocurrency for everyday spending without the hassle."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "b4397d6b4b91d9c8",
+      "scriptText": "Imagine swapping your Bitcoin for dollars instantly without handing over your private keys. Now you can! Boltz just launched a way to swap Bitcoin for USDC directly, keeping your funds in your control. USDC is a stablecoin backed by real dollars, accepted by big names like Stripe and Visa. This means you can pay bills or buy goods with Bitcoin's flexibility and USDC's stability. No middleman, no waiting. Just instant, secure swaps using Circle's Cross-Chain Transfer Protocol. Try it out if you want to use cryptocurrency for everyday spending without the hassle. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-09T15:48:21.356130+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        6.634666666666667,
+        5.461333333333333,
+        5.952,
+        5.482666666666667,
+        6.485333333333333,
+        4.8853333333333335,
+        4.032
+      ]
+    },
+    {
+      "slug": "2026-05-09-stablecoins-get-regulatory-approval-but-challenges-remain",
+      "title": "Stablecoins Get Regulatory Approval, But Challenges Remain",
+      "category": "general",
+      "tags": [
+        "stablecoins",
+        "regulation",
+        "financial",
+        "privacy",
+        "infrastructure",
+        "adoption"
+      ],
+      "imageUrl": "/images/articles/2026-05-09-stablecoins-get-regulatory-approval-but-challenges-remain.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-09-stablecoins-get-regulatory-approval-but-challenges-remain",
+      "script": {
+        "hook": "Imagine sending money across the world as easily as sending a text message, without bank fees or delays.",
+        "narration_lines": [
+          "Stablecoins just got a big thumbs up from regulators, making them more trustworthy for everyday use.",
+          "These are digital currencies tied to real money, like the US dollar, so their value doesn't swing wildly.",
+          "Companies like MoonPay and Ripple say this could make sending money abroad or paying online much cheaper and faster.",
+          "But there are still hurdles, like making sure your data stays private and that the systems are secure.",
+          "For now, keep an eye on stablecoins—they might soon be a game-changer for your money."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "0a9dd252fe3ce168",
+      "scriptText": "Imagine sending money across the world as easily as sending a text message, without bank fees or delays. Stablecoins just got a big thumbs up from regulators, making them more trustworthy for everyday use. These are digital currencies tied to real money, like the US dollar, so their value doesn't swing wildly. Companies like MoonPay and Ripple say this could make sending money abroad or paying online much cheaper and faster. But there are still hurdles, like making sure your data stays private and that the systems are secure. For now, keep an eye on stablecoins—they might soon be a game-changer for your money. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-09-stablecoins-get-regulatory-approval-but-challenges-remain.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-09-stablecoins-get-regulatory-approval-but-challenges-remain.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-09T15:48:25.577255+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        6.506666666666667,
+        5.824,
+        6.570666666666667,
+        7.274666666666667,
+        5.418666666666667,
+        5.0986666666666665,
+        4.032
+      ]
     }
   ]
 }
