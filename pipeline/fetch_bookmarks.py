@@ -155,51 +155,59 @@ def extract_urls(tweet: dict) -> list[str]:
     return urls
 
 
-def fetch_url_content(url: str) -> str:
-    """Fetch basic text content from a URL for context."""
+def fetch_url_content(url: str) -> dict:
+    """Fetch title, publication name, and full body text from a linked article URL."""
+    result = {"title": "", "body": "", "publication": ""}
     try:
         req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; CryptoCatalystBot/1.0)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         })
-        resp = urllib.request.urlopen(req, timeout=10)
-        html = resp.read().decode("utf-8", errors="ignore")[:50000]
+        resp = urllib.request.urlopen(req, timeout=15)
+        html = resp.read().decode("utf-8", errors="ignore")[:100000]
 
         # Extract title
         title_match = re.search(r"<title[^>]*>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
-        title = title_match.group(1).strip() if title_match else ""
+        result["title"] = title_match.group(1).strip() if title_match else ""
 
-        # Extract meta description
-        desc_match = re.search(
-            r'<meta[^>]+name=["\']description["\'][^>]+content=["\'](.*?)["\']',
+        # Extract og:site_name as publication name
+        site_match = re.search(
+            r'<meta[^>]+property=["\']og:site_name["\'][^>]+content=["\'](.*?)["\']',
             html, re.IGNORECASE
         )
-        if not desc_match:
-            desc_match = re.search(
-                r'<meta[^>]+content=["\'](.*?)["\'][^>]+name=["\']description["\']',
-                html, re.IGNORECASE
-            )
-        description = desc_match.group(1).strip() if desc_match else ""
+        result["publication"] = site_match.group(1).strip() if site_match else ""
 
-        # Extract og:description as fallback
-        if not description:
-            og_match = re.search(
-                r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\'](.*?)["\']',
-                html, re.IGNORECASE
-            )
-            description = og_match.group(1).strip() if og_match else ""
+        # Extract meta/og description
+        desc = ""
+        for pattern in [
+            r'<meta[^>]+name=["\']description["\'][^>]+content=["\'](.*?)["\']',
+            r'<meta[^>]+content=["\'](.*?)["\'][^>]+name=["\']description["\']',
+            r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\'](.*?)["\']',
+        ]:
+            m = re.search(pattern, html, re.IGNORECASE)
+            if m:
+                desc = m.group(1).strip()
+                break
 
-        # Extract some body text as fallback
-        if not description:
-            body_text = re.sub(r"<script[^>]*>.*?</script>", " ", html, flags=re.DOTALL | re.IGNORECASE)
-            body_text = re.sub(r"<style[^>]*>.*?</style>", " ", body_text, flags=re.DOTALL | re.IGNORECASE)
-            body_text = re.sub(r"<[^>]+>", " ", body_text)
-            body_text = re.sub(r"\s+", " ", body_text).strip()
-            description = body_text[:500]
+        # Extract paragraph body text
+        body_html = re.sub(r"<script[^>]*>.*?</script>", " ", html, flags=re.DOTALL | re.IGNORECASE)
+        body_html = re.sub(r"<style[^>]*>.*?</style>", " ", body_html, flags=re.DOTALL | re.IGNORECASE)
+        body_html = re.sub(r"<nav[^>]*>.*?</nav>", " ", body_html, flags=re.DOTALL | re.IGNORECASE)
+        body_html = re.sub(r"<header[^>]*>.*?</header>", " ", body_html, flags=re.DOTALL | re.IGNORECASE)
+        body_html = re.sub(r"<footer[^>]*>.*?</footer>", " ", body_html, flags=re.DOTALL | re.IGNORECASE)
+        paragraphs = re.findall(r"<p[^>]*>(.*?)</p>", body_html, re.DOTALL | re.IGNORECASE)
+        para_text = " ".join(
+            re.sub(r"<[^>]+>", "", p).strip()
+            for p in paragraphs
+            if len(re.sub(r"<[^>]+>", "", p).strip()) > 40
+        )
+        para_text = re.sub(r"\s+", " ", para_text).strip()
 
-        return f"{title}\n{description}" if title else description
+        body_parts = [x for x in [desc, para_text] if x]
+        result["body"] = " ".join(body_parts)[:5000]
+
     except Exception as e:
         print(f"  Warning: Could not fetch {url}: {e}")
-        return ""
+    return result
 
 
 def bookmark_to_story(entry: dict) -> dict:
@@ -210,26 +218,44 @@ def bookmark_to_story(entry: dict) -> dict:
     author_name = author.get("name", "Unknown")
     author_handle = author.get("username", "unknown")
 
-    # Extract linked URLs and fetch their content for more context
+    # Extract linked URLs and fetch their full content
     urls = extract_urls(tweet)
-    linked_content = ""
     source_url = f"https://x.com/{author_handle}/status/{tweet['id']}"
+    article_data = None
 
     if urls:
-        # Use the first linked URL as the primary source
         source_url = urls[0]
-        linked_content = fetch_url_content(urls[0])
+        print(f"  Fetching linked article: {source_url[:80]}")
+        article_data = fetch_url_content(source_url)
 
-    # Build description from tweet text + any fetched content
+    # Use article title if available, otherwise fall back to tweet text
+    if article_data and article_data["title"]:
+        title_hint = article_data["title"]
+    else:
+        title_hint = tweet_text[:120].split("\n")[0]
+
+    # Build rich description: tweet context + full article body
     description = f"Tweet by @{author_handle} ({author_name}):\n{tweet_text}"
-    if linked_content:
-        description += f"\n\nLinked article content:\n{linked_content}"
+    if article_data and article_data["body"]:
+        description += f"\n\nFull article content:\n{article_data['body']}"
+    elif article_data and article_data["title"]:
+        description += f"\n\nLinked article: {article_data['title']}"
+
+    # Use publication name if available
+    if article_data and article_data["publication"]:
+        source_name = article_data["publication"]
+    elif urls:
+        # Extract domain as source name
+        domain_match = re.search(r"https?://(?:www\.)?([^/]+)", source_url)
+        source_name = domain_match.group(1) if domain_match else f"@{author_handle} on X"
+    else:
+        source_name = f"@{author_handle} on X"
 
     return {
-        "title": tweet_text[:120].split("\n")[0],  # First line of tweet as title hint
-        "description": description[:2000],
+        "title": title_hint,
+        "description": description[:6000],
         "url": source_url,
-        "source_name": f"@{author_handle} on X",
+        "source_name": source_name,
         "category_hint": "general",
         "tweet_id": tweet["id"],
         "published": tweet.get("created_at", ""),
