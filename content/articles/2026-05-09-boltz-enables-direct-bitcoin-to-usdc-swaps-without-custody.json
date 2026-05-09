@@ -1,0 +1,27 @@
+{
+  "slug": "2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody",
+  "title": "Boltz Enables Direct Bitcoin-to-USDC Swaps Without Custody",
+  "summary": "Boltz now lets you swap Bitcoin for USDC instantly without giving up control of your funds. This bridges Bitcoin's network with Circle's regulated stablecoin, making it easier to use crypto for everyday payments.",
+  "body": "Boltz has launched a new service that allows you to swap Bitcoin for USDC directly, without needing to trust a third party with your funds. Using Circle's Cross-Chain Transfer Protocol (CCTP), this feature lets you move between Bitcoin, including its Lightning Network, and USDC instantly. USDC is a stablecoin backed by the US dollar and accepted by major companies like Stripe, Coinbase, and Visa.\n\nThis is a big deal because it means you can now use Bitcoin for everyday transactions that require stable value, like paying bills or buying goods, without converting to traditional money first. Since the swaps are non-custodial, you keep full control of your crypto assets, reducing the risk of hacks or theft. It's like having a direct bridge between Bitcoin's fast, low-cost transactions and the stability of USDC.\n\nIf you're a Bitcoin user, you can now try swapping to USDC for transactions where dollar stability matters, like paying for services or transferring money abroad. Keep an eye out for more services that use Circle's CCTP, as this could make moving between different crypto networks even easier in the future.",
+  "sourceUrl": "https://bitcoinmagazine.com/business/boltz-launches-non-custodial-usdc-swaps-bridging-bitcoin-directly-to-circles-regulated-dollar",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "usdc",
+    "stablecoin",
+    "non-custodial",
+    "boltz",
+    "lightning-network"
+  ],
+  "publishedAt": "2026-05-09T08:27:40.289665+00:00",
+  "imageUrl": "/images/articles/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody.jpg",
+  "twitterThread": [
+    "💡 Big news for Bitcoin users! You can now swap BTC for USDC instantly — without giving up control of your funds. No middleman, no hassle. \n\nHere's how it works:",
+    "Boltz just launched a new feature using Circle's CCTP. In plain English: it lets you move between Bitcoin (even Lightning) and USDC instantly. \n\nThe part that matters: you stay in control the whole time. No accounts, no custody.",
+    "Why does this matter? USDC is a stablecoin backed by real dollars. It's accepted by Stripe, Coinbase, Visa, and more. \n\nNow you can use Bitcoin for fast, cheap transactions — and swap to USDC when you need dollar stability.",
+    "Think of it like having a direct bridge. Need to pay a bill in stable dollars? Swap BTC to USDC in seconds. \n\nWant to hold Bitcoin again? Swap back just as easily. \n\nIf you've ever wanted to use Bitcoin for everyday payments, this is a game-changer.",
+    "Here's how you can try it today: \n\n1. Head to Boltz's website. \n2. Choose your swap amount. \n3. That's it! Your funds stay in your control the whole time. \n\nFull breakdown → https://cryptocatalyst.news/articles/2026-05-09-boltz-enables-direct-bitcoin-to-usdc-swaps-without-custody"
+  ],
+  "standaloneTweet": "💡 You can now swap Bitcoin for USDC instantly — without giving up control of your funds. No middleman, no hassle. Here's how it works: Boltz just launched a new feature using Circle's CCTP. In plain English: it lets you move between Bitcoin (even Lightning) and USDC instantly. The part that matters: you stay in control the whole time. No accounts, no custody."
+}
