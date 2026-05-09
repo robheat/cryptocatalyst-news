@@ -19,7 +19,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 CLIENT_ID = os.environ.get("TWITTER_CLIENT_ID", "")
@@ -30,6 +30,9 @@ CACHE_DIR = Path(__file__).parent / "cache"
 CACHE_DIR.mkdir(exist_ok=True)
 OUTPUT_FILE = CACHE_DIR / "bookmark_stories.json"
 CONTENT_DIR = Path(__file__).parent.parent / "content" / "articles"
+
+# Bookmarks older than this are skipped (not removed) to avoid processing stale tweets
+MAX_BOOKMARK_AGE_DAYS = 1
 
 # File to persist the refreshed token across runs
 TOKEN_CACHE = CACHE_DIR / ".twitter_oauth2_token.json"
@@ -278,7 +281,19 @@ def main():
     # Convert to stories
     stories = []
     processed_tweet_ids = []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_BOOKMARK_AGE_DAYS)
     for entry in bookmarks:
+        tweet = entry["tweet"]
+        created_at_str = tweet.get("created_at", "")
+        if created_at_str:
+            try:
+                created_at = datetime.fromisoformat(created_at_str.replace("Z", "+00:00"))
+                if created_at < cutoff:
+                    print(f"  → Skipped (older than {MAX_BOOKMARK_AGE_DAYS} days): {tweet.get('text', '')[:60]}")
+                    continue
+            except ValueError:
+                pass
+
         story = bookmark_to_story(entry)
 
         if story["url"] in existing_urls:

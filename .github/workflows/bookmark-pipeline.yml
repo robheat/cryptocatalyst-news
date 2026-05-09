@@ -37,6 +37,7 @@ jobs:
 
       - name: Update rotated refresh token
         if: always()
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         working-directory: pipeline
