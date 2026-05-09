@@ -2,7 +2,7 @@ name: Bookmark Articles Pipeline
 
 on:
   schedule:
-    - cron: "30 8,20 * * *" # Twice daily: 08:30 and 20:30 UTC
+    - cron: "0 14,21 * * *" # Twice daily: 10:00 AM and 5:00 PM EDT (14:00 and 21:00 UTC)
   workflow_dispatch: # Manual trigger
 
 permissions:
