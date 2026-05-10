@@ -190,6 +190,102 @@
         5.0986666666666665,
         4.032
       ]
+    },
+    {
+      "slug": "2026-05-10-bitcoin-reclaims-78k-what-it-means-for-investors",
+      "title": "Bitcoin Reclaims $78K: What It Means for Investors",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "etf",
+        "investing",
+        "market-analysis",
+        "short-squeeze"
+      ],
+      "imageUrl": "/images/articles/2026-05-10-bitcoin-reclaims-78k-what-it-means-for-investors.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-10-bitcoin-reclaims-78k-what-it-means-for-investors",
+      "script": {
+        "hook": "Bitcoin just hit $78,000 — and that could mean big things for your investments.",
+        "narration_lines": [
+          "Imagine buying a stock that suddenly jumps in value — that's what's happening with Bitcoin right now.",
+          "This surge is driven by lots of people buying Bitcoin through special funds called ETFs.",
+          "But here's the catch: experts think Bitcoin might hit a wall around $80,000, where people start selling to lock in profits.",
+          "So, if you're thinking about investing, it might be a good time to watch and wait.",
+          "Think of it like waiting for the right moment to buy a hot new gadget — you don't want to pay the highest price."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "e13407f19e51a66e",
+      "scriptText": "Bitcoin just hit $78,000 — and that could mean big things for your investments. Imagine buying a stock that suddenly jumps in value — that's what's happening with Bitcoin right now. This surge is driven by lots of people buying Bitcoin through special funds called ETFs. But here's the catch: experts think Bitcoin might hit a wall around $80,000, where people start selling to lock in profits. So, if you're thinking about investing, it might be a good time to watch and wait. Think of it like waiting for the right moment to buy a hot new gadget — you don't want to pay the highest price. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-bitcoin-reclaims-78k-what-it-means-for-investors.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-bitcoin-reclaims-78k-what-it-means-for-investors.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-10T15:50:52.057508+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        6.250666666666667,
+        5.653333333333333,
+        5.653333333333333,
+        8.938666666666666,
+        4.352,
+        5.952,
+        4.032
+      ]
+    },
+    {
+      "slug": "2026-05-10-senator-warren-challenges-meta-on-stablecoin-plans-ahead-of-2026-launch",
+      "title": "Senator Warren Challenges Meta on Stablecoin Plans Ahead of 2026 Launch",
+      "category": "general",
+      "tags": [
+        "stablecoin",
+        "meta",
+        "regulation",
+        "finance",
+        "crypto",
+        "elizabeth-warren"
+      ],
+      "imageUrl": "/images/articles/2026-05-10-senator-warren-challenges-meta-on-stablecoin-plans-ahead-of-2026-launch.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-10-senator-warren-challenges-meta-on-stablecoin-plans-ahead-of-2026-launch",
+      "script": {
+        "hook": "Imagine paying for your groceries with Facebook money—Senator Warren is asking tough questions about that future.",
+        "narration_lines": [
+          "Meta, the company behind Facebook, is planning to launch a new cryptocurrency called a stablecoin in 2026.",
+          "Senator Elizabeth Warren is worried this could be risky, like a failed project called Libra.",
+          "Stablecoins are digital money tied to regular currencies, like the dollar, making them stable in value.",
+          "If this takes off, you might use it to shop online or send money to friends easily.",
+          "But Warren wants to make sure it's safe and transparent before it becomes widely used.",
+          "Keep an eye on this—it could change how you handle money online."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "0203b17d1f849134",
+      "scriptText": "Imagine paying for your groceries with Facebook money—Senator Warren is asking tough questions about that future. Meta, the company behind Facebook, is planning to launch a new cryptocurrency called a stablecoin in 2026. Senator Elizabeth Warren is worried this could be risky, like a failed project called Libra. Stablecoins are digital money tied to regular currencies, like the dollar, making them stable in value. If this takes off, you might use it to shop online or send money to friends easily. But Warren wants to make sure it's safe and transparent before it becomes widely used. Keep an eye on this—it could change how you handle money online. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-senator-warren-challenges-meta-on-stablecoin-plans-ahead-of-2026-launch.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-senator-warren-challenges-meta-on-stablecoin-plans-ahead-of-2026-launch.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-10T15:50:59.701544+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        6.677333333333333,
+        7.744,
+        5.333333333333333,
+        6.592,
+        5.013333333333334,
+        4.864,
+        3.7546666666666666,
+        4.032
+      ]
     }
   ]
 }
