@@ -36,10 +36,10 @@ CHYRON_BG  = (15, 12, 30, 230)   # near-black, semi-opaque
 CHYRON_H = 260
 CHYRON_Y = VIDEO_HEIGHT - CHYRON_H - 20  # 1640
 
-CAPTION_FONT_SIZE  = 130   # word-highlight karaoke text size
-CAPTION_WRAP_W     = 12    # chars per line (~80% video width at 130 px)
-CAPTION_MAX_LINES  = 8     # max wrapped lines
-CAPTION_LINE_H     = 156   # line spacing
+CAPTION_FONT_SIZE  = 80    # word-highlight karaoke text size
+CAPTION_WRAP_W     = 20    # chars per line (~85% video width at 80 px)
+CAPTION_MAX_LINES  = 12    # max wrapped lines
+CAPTION_LINE_H     = 96    # line spacing
 CAPTION_AREA_TOP   = 650   # top of caption zone (below header/title)
 CAPTION_AREA_BOT   = 1820  # bottom of caption zone (above CTA)
 
@@ -248,8 +248,8 @@ def _build_chyron_word_slice(
             if gidx == highlight_word_idx:
                 # Indigo pill behind the active word
                 draw.rounded_rectangle(
-                    [x - 10, cap_y - 70, x + ww + 10, cap_y + 70],
-                    radius=20, fill=(*INDIGO, 230),
+                    [x - 8, cap_y - 44, x + ww + 8, cap_y + 44],
+                    radius=14, fill=(*INDIGO, 230),
                 )
                 color = WHITE
             elif gidx < highlight_word_idx:
