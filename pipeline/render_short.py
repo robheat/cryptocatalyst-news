@@ -456,6 +456,14 @@ def main() -> None:
     done = 0
     for item in pending:
         print(f"\n  -> {item['slug'][:60]}")
+        # If audio file path is stale (from a previous CI run), reset to scripted
+        audio_path = Path(item.get("audioFile", ""))
+        if not audio_path.exists():
+            print(f"  [RESET] Audio file missing, resetting to scripted: {item['audioFile']}")
+            item["status"] = "scripted"
+            item["audioFile"] = ""
+            item["videoFile"] = ""
+            continue
         output = render_video(item, force=args.force)
         if output:
             item["videoFile"] = str(output)
