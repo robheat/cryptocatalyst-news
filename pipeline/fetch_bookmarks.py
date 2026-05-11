@@ -234,12 +234,13 @@ def bookmark_to_story(entry: dict) -> dict:
     else:
         title_hint = tweet_text[:120].split("\n")[0]
 
-    # Build rich description: tweet context + full article body
+    # Build description: tweet context + article OG description only
     description = f"Tweet by @{author_handle} ({author_name}):\n{tweet_text}"
-    if article_data and article_data["body"]:
-        description += f"\n\nFull article content:\n{article_data['body']}"
-    elif article_data and article_data["title"]:
+    if article_data and article_data["title"] and article_data["title"] != title_hint:
         description += f"\n\nLinked article: {article_data['title']}"
+
+    # Store full scraped body separately for richer article generation
+    full_content = (article_data or {}).get("body", "")[:5000]
 
     # Use publication name if available
     if article_data and article_data["publication"]:
@@ -253,7 +254,8 @@ def bookmark_to_story(entry: dict) -> dict:
 
     return {
         "title": title_hint,
-        "description": description[:6000],
+        "description": description[:2000],
+        "full_content": full_content,
         "url": source_url,
         "source_name": source_name,
         "category_hint": "general",

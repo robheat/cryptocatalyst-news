@@ -59,6 +59,14 @@ Requirements:
 
 Write factually. Do not hallucinate details not present in the input.
 If the description is thin, stay close to what's stated.
+If a "full_content" field is provided, use it as your primary source:
+  - Extract ALL notable facts, figures, names, statistics, and announcements
+  - Cover more ground in the body — expand to 4-5 paragraphs (~350 words) if the content warrants it
+  - Paragraph 1: What happened — the core news in plain language.
+  - Paragraph 2: Key details and supporting facts drawn from the full content.
+  - Paragraph 3: Why it matters to everyday people.
+  - Paragraph 4 (if applicable): Additional notable points or sub-stories from the article.
+  - Final paragraph: How you can use it or what to watch — concrete, actionable angle.
 
 Respond with ONLY valid JSON matching this schema:
 {
@@ -83,25 +91,27 @@ def slugify(text: str) -> str:
 
 def generate_article(story: dict) -> dict | None:
     """Generate a full article JSON from a curated story using Venice AI."""
+    user_payload: dict = {
+        "title": story["title"],
+        "description": story.get("description", ""),
+        "source_name": story["source_name"],
+        "source_url": story["url"],
+        "category_hint": story.get("category_hint", "general"),
+    }
+    if story.get("full_content"):
+        user_payload["full_content"] = story["full_content"]
+
     messages = [
         {"role": "system", "content": ARTICLE_SYSTEM_PROMPT},
         {
             "role": "user",
-            "content": json.dumps(
-                {
-                    "title": story["title"],
-                    "description": story.get("description", ""),
-                    "source_name": story["source_name"],
-                    "source_url": story["url"],
-                    "category_hint": story.get("category_hint", "general"),
-                },
-                ensure_ascii=False,
-            ),
+            "content": json.dumps(user_payload, ensure_ascii=False),
         },
     ]
 
     try:
-        result = json_chat(messages, temperature=0.4, max_tokens=2048)
+        max_tok = 3000 if story.get("full_content") else 2048
+        result = json_chat(messages, temperature=0.4, max_tokens=max_tok)
     except Exception as exc:
         print(f"  [ERROR] Venice AI call failed: {exc}")
         return None
