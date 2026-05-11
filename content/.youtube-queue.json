@@ -286,6 +286,52 @@
         3.7546666666666666,
         4.032
       ]
+    },
+    {
+      "slug": "2026-05-10-solrouter-ai-introduces-new-cross-chain-swap-feature",
+      "title": "SolRouter AI Introduces New Cross-Chain Swap Feature",
+      "category": "general",
+      "tags": [
+        "cross-chain",
+        "solrouter",
+        "dex",
+        "crypto",
+        "swaps"
+      ],
+      "imageUrl": "/images/articles/2026-05-10-solrouter-ai-introduces-new-cross-chain-swap-feature.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-10-solrouter-ai-introduces-new-cross-chain-swap-feature",
+      "script": {
+        "hook": "Imagine swapping cryptocurrencies between Ethereum and Solana in one go, no extra steps needed.",
+        "narration_lines": [
+          "SolRouter AI just launched a new feature that lets you do just that.",
+          "Before, you needed multiple apps or bridges to move money between blockchains.",
+          "Now, it's as easy as transferring money between your own bank accounts.",
+          "This means less hassle and faster trades for anyone using different cryptocurrency networks.",
+          "If you trade across blockchains, give this a try to simplify your process."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 80
+      },
+      "scriptHash": "3b713b7e2d65f2ce",
+      "scriptText": "Imagine swapping cryptocurrencies between Ethereum and Solana in one go, no extra steps needed. SolRouter AI just launched a new feature that lets you do just that. Before, you needed multiple apps or bridges to move money between blockchains. Now, it's as easy as transferring money between your own bank accounts. This means less hassle and faster trades for anyone using different cryptocurrency networks. If you trade across blockchains, give this a try to simplify your process. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-solrouter-ai-introduces-new-cross-chain-swap-feature.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-10-solrouter-ai-introduces-new-cross-chain-swap-feature.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-11T12:35:51.363438+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        6.165333333333334,
+        4.309333333333333,
+        4.714666666666667,
+        4.181333333333333,
+        5.44,
+        4.288,
+        4.032
+      ]
     }
   ]
 }
