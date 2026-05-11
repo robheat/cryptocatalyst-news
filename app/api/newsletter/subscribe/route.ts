@@ -13,10 +13,14 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    const audienceId = process.env.RESEND_AUDIENCE_ID;
+    if (!audienceId) throw new Error("RESEND_AUDIENCE_ID is not configured");
+
     const resend = getResend();
     await resend.contacts.create({
       email,
       unsubscribed: false,
+      audienceId,
     });
 
     // Send welcome email (fire-and-forget — don't block the response)
