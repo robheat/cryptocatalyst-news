@@ -1,7 +1,10 @@
 name: Daily Crypto News Pipeline
 
 on:
-  workflow_dispatch: # Triggered externally via Vercel cron endpoint
+  schedule:
+    - cron: "0 13 * * *"  # 9:00 AM EDT (13:00 UTC)
+    - cron: "0 20 * * *"  # 4:00 PM EDT (20:00 UTC)
+  workflow_dispatch: # Also triggerable manually or via Vercel cron
 
 permissions:
   contents: write
