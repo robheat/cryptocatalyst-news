@@ -83,6 +83,12 @@ jobs:
           KOKORO_VOICE: ${{ secrets.KOKORO_VOICE || 'af_heart' }}
         run: python generate_tts.py
 
+      - name: Generate B-roll background images (Venice AI)
+        working-directory: pipeline
+        env:
+          VENICE_AI_API_KEY: ${{ secrets.VENICE_AI_API_KEY }}
+        run: python generate_broll.py
+
       - name: Render Short videos (MoviePy)
         working-directory: pipeline
         env:
