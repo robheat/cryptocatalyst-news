@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-12-starknet-launches-strkbtc-zk-powered-shielded-bitcoin-on-layer-2",
+  "title": "Starknet Launches strkBTC: ZK-Powered Shielded Bitcoin on Layer 2",
+  "summary": "Starknet has introduced strkBTC, a shielded bitcoin wrapper that operates on its Layer 2 network. This innovation uses zero-knowledge proofs to enhance privacy and security for Bitcoin transactions.",
+  "body": "Starknet has launched strkBTC, a new asset that functions as a shielded bitcoin wrapper. Unlike traditional Bitcoin transactions, strkBTC operates on Starknet's Layer 2 network, leveraging zero-knowledge (ZK) proofs for enhanced privacy and security. This development allows users to transact with Bitcoin in a more private and efficient manner.\n\nFor everyday users, this means better privacy for Bitcoin transactions without the need to interact directly with the Bitcoin base layer. Think of it like using a private, secure tunnel for your Bitcoin transactions instead of the public highway. This could be particularly useful for those concerned about transaction privacy and security.\n\nIf you're interested in trying strkBTC, you can start by exploring Starknet's platform and learning how to wrap your Bitcoin into strkBTC. This process involves converting your Bitcoin into the shielded form, which can then be used on Starknet's network. Keep an eye out for tutorials and guides that will help you get started with this new privacy-focused asset.",
+  "sourceUrl": "https://www.theblock.co/post/400903/starknet-launches-strkbtc-to-bring-zk-powered-shielded-bitcoin-to-its-layer-2-network?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "bitcoin",
+  "tags": [
+    "starknet",
+    "strkbtc",
+    "zk-proofs",
+    "privacy",
+    "layer-2"
+  ],
+  "publishedAt": "2026-05-12T13:12:27.573877+00:00",
+  "imageUrl": "/images/articles/2026-05-12-starknet-launches-strkbtc-zk-powered-shielded-bitcoin-on-layer-2.jpg",
+  "twitterThread": [
+    "🚀 Starknet just launched strkBTC. Here's why you should care. \n\nPrivacy for your Bitcoin, but on a faster, cheaper network. #Bitcoin #Privacy",
+    "strkBTC is a shielded Bitcoin wrapper. \n\nIn plain English: Your Bitcoin transactions become more private and secure. \n\nThe part that matters: It runs on Starknet, not the Bitcoin base layer. \n\nThink of it like a private tunnel for your Bitcoin.",
+    "Why does this matter for you? \n\nIf you've ever wanted more privacy for your Bitcoin transactions, this is a big deal. \n\nNo need to interact with the Bitcoin base layer. \n\nFaster, cheaper, and more private transactions.",
+    "How can you use it? \n\nYou can wrap your Bitcoin into strkBTC and start using it on Starknet. \n\nKeep an eye out for tutorials and guides to get started. \n\nThis is a game-changer for privacy-focused Bitcoin users.",
+    "Full breakdown → https://cryptocatalyst.news/articles/2026-05-12-starknet-launches-strkbtc-zk-powered-shielded-bitcoin-on-layer-2"
+  ],
+  "standaloneTweet": "Starknet just launched strkBTC, a shielded Bitcoin wrapper. Privacy for your Bitcoin, but on a faster, cheaper network. #Bitcoin #Privacy"
+}

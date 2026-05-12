@@ -1,0 +1,28 @@
+{
+  "slug": "2026-05-12-aave-moves-to-transfer-71m-in-disputed-eth-via-arbitrum-vote",
+  "title": "Aave Moves to Transfer $71M in Disputed ETH via Arbitrum Vote",
+  "summary": "Aave has started a binding vote on Arbitrum to transfer $71 million in disputed ETH. The funds are tied to a 2024 exploit, with creditors and Aave in a legal battle over ownership.",
+  "body": "Aave, a major decentralized finance (DeFi) platform, has initiated a binding governance vote on the Arbitrum network to transfer $71 million in disputed Ethereum (ETH). The funds are part of a $170 million exploit from 2024, where hackers exploited a vulnerability in Aave's code. The vote aims to move the funds to a secure wallet controlled by Aave, but the process is complicated by ongoing legal battles.\n\nThis situation matters to everyday crypto users because it highlights the complexities of recovering stolen funds in DeFi. When exploits happen, determining who rightfully owns the recovered assets can be a lengthy and contentious process. For Aave users, this vote could signal a step toward resolving the dispute and potentially restoring trust in the platform.\n\nIf you're an Aave user or hold Aave tokens, keep an eye on the outcome of this vote. The result could affect the platform's stability and future governance decisions. Additionally, watch for updates on the legal battle, as the court's decision could have broader implications for how stolen crypto funds are handled in the future.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "aave",
+    "defi",
+    "arbitrum",
+    "ethereum",
+    "exploit",
+    "governance"
+  ],
+  "publishedAt": "2026-05-12T13:11:56.390194+00:00",
+  "imageUrl": "/images/articles/2026-05-12-aave-moves-to-transfer-71m-in-disputed-eth-via-arbitrum-vote.jpg",
+  "twitterThread": [
+    "🚨 Aave is voting to move $71M in disputed ETH. Here's why it matters for you.\n\nA massive hack in 2024 left $170M stolen. Now, Aave wants to secure part of it.\n\nBut there's a catch...",
+    "In plain English: Aave is trying to move $71M in recovered ETH to a safe wallet. But creditors—including victims of North Korean terrorism—are fighting for it in court.",
+    "The part that matters: This vote shows how messy crypto recoveries can be. Even when funds are found, figuring out who they belong to isn't simple.",
+    "If you've ever wondered how stolen crypto gets returned, this is a real-world example. It's not as straightforward as you might think.",
+    "For Aave users: Keep an eye on this vote. The outcome could shape the platform's future and how it handles exploits.",
+    "Full breakdown → https://cryptocatalyst.news/articles/2026-05-12-aave-moves-to-transfer-71m-in-disputed-eth-via-arbitrum-vote"
+  ],
+  "standaloneTweet": "Aave is voting to move $71M in disputed ETH. But creditors—including victims of North Korean terrorism—are fighting for it in court. Here's what you need to know."
+}
