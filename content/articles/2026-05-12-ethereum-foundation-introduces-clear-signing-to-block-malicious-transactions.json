@@ -1,0 +1,27 @@
+{
+  "slug": "2026-05-12-ethereum-foundation-introduces-clear-signing-to-block-malicious-transactions",
+  "title": "Ethereum Foundation Introduces 'Clear Signing' to Block Malicious Transactions",
+  "summary": "The Ethereum Foundation has launched a new standard called 'Clear Signing' to help users avoid accidentally approving harmful transactions. This move aims to reduce losses from phishing attacks and wallet drains, making crypto transactions safer for everyone.",
+  "body": "The Ethereum Foundation has introduced a new standard called 'Clear Signing' designed to prevent users from unknowingly approving malicious transactions. This initiative comes in response to billions of dollars lost to phishing attacks and wallet drains, where users are tricked into signing harmful transactions. The new standard aims to make transaction approvals clearer and more secure, reducing the risk of falling victim to scams.\n\nThis update is crucial for everyday crypto users because it simplifies the process of understanding what you're approving before you sign a transaction. Think of it like a pop-up warning on your phone that asks, 'Are you sure you want to delete this?' before you permanently erase a file. Clear Signing will provide similar warnings and clearer language, helping you avoid costly mistakes.\n\nIf you use Ethereum, keep an eye out for wallets and apps that adopt the Clear Signing standard. In the meantime, always double-check transaction details, especially the recipient address and the amount, before approving any transaction. This simple habit can save you from potential scams and losses.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "security",
+    "clear-signing",
+    "phishing",
+    "crypto-safety"
+  ],
+  "publishedAt": "2026-05-12T21:20:21.793929+00:00",
+  "imageUrl": "/images/articles/2026-05-12-ethereum-foundation-introduces-clear-signing-to-block-malicious-transactions.jpg",
+  "twitterThread": [
+    "🚨 Big news for Ethereum users! The Ethereum Foundation just launched 'Clear Signing' to stop you from accidentally approving malicious transactions. Here's why it matters:",
+    "Phishing attacks and wallet drains have cost users BILLIONS. Clear Signing aims to make transaction approvals safer and easier to understand.",
+    "In plain English: Think of it like a warning pop-up on your phone before you delete a file. It's a safeguard to prevent costly mistakes.",
+    "The part that matters: Wallets and apps adopting Clear Signing will make it harder for scammers to trick you into approving harmful transactions.",
+    "If you use Ethereum, watch for wallets that adopt this standard. In the meantime, always double-check transaction details before signing.",
+    "Full breakdown → https://cryptocatalyst.news/articles/2026-05-12-ethereum-foundation-introduces-clear-signing-to-block-malicious-transactions"
+  ],
+  "standaloneTweet": "🚨 Ethereum just launched 'Clear Signing' to block malicious transactions. A big step to make crypto safer for everyone. Here's how it works:"
+}
