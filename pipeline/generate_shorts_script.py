@@ -57,7 +57,7 @@ Respond with ONLY valid JSON:
 
 def load_queue() -> dict:
     if QUEUE_FILE.exists():
-        return json.loads(QUEUE_FILE.read_text())
+        return json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
     return {"queue": []}
 
 
@@ -126,7 +126,7 @@ def main() -> None:
     articles: list[dict] = []
     for f in sorted(CONTENT_DIR.glob("*.json"), reverse=True):
         try:
-            article = json.loads(f.read_text())
+            article = json.loads(f.read_text(encoding="utf-8"))
             slug = article.get("slug", "")
             if slug and slug not in queued:
                 articles.append(article)
