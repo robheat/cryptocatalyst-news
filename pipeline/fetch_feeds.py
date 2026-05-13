@@ -170,7 +170,7 @@ def parse_rss(raw: bytes, source_name: str, category_hint: str) -> list[dict]:
         if link_el is not None:
             link = link_el.get("href") or (link_el.text or "")
         link = link.strip()
-        description = _strip_html(desc_el.text if desc_el is not None else "")[:600]
+        description = _strip_html(desc_el.text if desc_el is not None else "")[:1400]
         pub_date = pub_el.text.strip() if pub_el is not None and pub_el.text else ""
 
         if not title or not link:

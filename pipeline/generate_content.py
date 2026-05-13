@@ -29,36 +29,39 @@ Given a raw story (title, description, source), write a complete article in JSON
 Requirements:
 - title: Crisp, informative headline (max 120 chars). Not clickbait.
 - summary: Two concise sentences explaining the key takeaway in plain English. (~50 words)
-  Write as if explaining to a smart friend who doesn't follow crypto closely.
-- body: Three clear paragraphs (~250 words total):
-  Paragraph 1: What happened — the core news in plain language. Avoid jargon; briefly explain any technical terms.
-  Paragraph 2: Why it matters to everyday people — what does this change, enable, or affect for regular users?
-    Use relatable comparisons. Avoid insider framing like "the industry" — think "you and me".
-  Paragraph 3: How you can use it or what to watch — concrete, actionable angle.
-    e.g. "You can try this today by...", "If you hold X, this means...", "Keep an eye out for..."
+    Write as if explaining to a smart friend who doesn't follow crypto closely.
+    Include the strongest concrete detail available when one exists: a number, company name, product, date, quote, or policy change.
+- body: Three clear paragraphs (~250 words total), or 4-5 paragraphs when the source has enough detail:
+    Paragraph 1: What happened — the core news in plain language. Avoid jargon; briefly explain any technical terms.
+    Paragraph 2: The most important supporting details — preserve names, figures, dates, products, and notable claims from the source.
+    Paragraph 3: Why it matters to everyday people — what does this change, enable, or affect for regular users?
+    Paragraph 4 or final paragraph: What to do or watch next — be concrete. Name the trigger, risk, timeline, audience, or next step.
   Separate paragraphs with \\n\\n.
 - category: One of: bitcoin, ethereum, defi, nft, policy, web3, general
 - tags: 3-6 lowercase single-word or hyphenated tags
-- twitterThread: An array of 4-6 tweet strings (each ≤280 chars) forming a viral thread.
-  Style: punchy, conversational — like explaining to a curious friend, not an expert audience.
-  Use short sentences. Sentence fragments OK. Strategic line breaks for readability.
-  Tweet 1: A bold hook — lead with what this means for regular people, not insiders. Use an emoji.
-  Tweet 2-4: Key details, each building on the last. Use plain language, explain any acronyms.
-    Use phrases like "In plain English:", "Here's what this means for you:", "The part that matters:",
-    "If you've ever wanted to...", "Think of it like..."
-  Tweet 5: A practical tip or action — what someone can do or try TODAY based on this news.
-  Final tweet ONLY: "Full breakdown → https://cryptocatalyst.news" (not the article slug, just the site)
-  IMPORTANT: tweets 1 through N-1 must contain NO URLs or links whatsoever. Only the final tweet may have a link.
-  Do NOT use hashtags. Do NOT be generic. Every tweet should make a non-expert feel informed and empowered.
+- twitterThread: An array of EXACTLY 3 tweet strings (each ≤260 chars).
+    Style: punchy, conversational, specific.
+    Avoid repetitive stock openers like "In plain English" or "Here's what this means for you" unless they feel truly natural.
+    Tweet 1: A strong hook about the user-facing consequence, plus one specific fact when available.
+    Tweet 2: The key explanation in plain English, including at least one concrete supporting detail.
+    Tweet 3: A practical takeaway, warning, or next step, and it must end with: "Read more → ARTICLE_URL"
+    IMPORTANT: tweets 1 and 2 must contain NO URLs or links. Only tweet 3 may have a link.
+    Do NOT use hashtags.
+    Do NOT be generic.
+    Do NOT waste a tweet repeating the headline.
 
 - standaloneTweet: A single catchy tweet (≤280 chars) that could go viral on its own.
   Lead with what this means for everyday crypto users, not industry insiders.
-  Make a non-expert feel like they just learned something useful.
+    Make a non-expert feel like they just learned something useful.
+    Include one concrete fact when available.
   Do NOT include any URLs or links.
   No hashtags.
 
 Write factually. Do not hallucinate details not present in the input.
 If the description is thin, stay close to what's stated.
+Preserve the strongest available specifics instead of flattening them into generic summaries.
+If the source is thin or uncertain, say that plainly rather than padding with filler.
+Avoid vague endings like "keep an eye on this" unless you say exactly what to watch for.
 If a "full_content" field is provided, use it as your primary source:
   - Extract ALL notable facts, figures, names, statistics, and announcements
   - Cover more ground in the body — expand to 4-5 paragraphs (~350 words) if the content warrants it
@@ -80,6 +83,8 @@ Respond with ONLY valid JSON matching this schema:
 }
 """
 
+HASHTAG_RE = re.compile(r"(?<!\w)#\w+")
+
 
 def slugify(text: str) -> str:
     text = text.lower()
@@ -87,6 +92,28 @@ def slugify(text: str) -> str:
     text = re.sub(r"\s+", "-", text)
     text = re.sub(r"-+", "-", text)
     return text.strip("-")[:80]
+
+
+def _clean_text(text: str) -> str:
+    text = HASHTAG_RE.sub("", text or "")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def _normalize_thread(tweets: list[str], correct_url: str) -> list[str]:
+    cleaned = [_clean_text(t) for t in tweets if _clean_text(t)]
+
+    first = cleaned[0] if cleaned else ""
+    second = cleaned[1] if len(cleaned) > 1 else ""
+    third = cleaned[2] if len(cleaned) > 2 else "Read more"
+
+    third = third.replace("ARTICLE_URL", correct_url)
+    third = re.sub(r"https?://\S+", correct_url, third)
+    if correct_url not in third:
+        third = f"{third.rstrip('. ')} Read more → {correct_url}".strip()
+
+    normalized = [tweet for tweet in [first, second, third] if tweet]
+    return normalized[:3]
 
 
 def generate_article(story: dict) -> dict | None:
@@ -97,6 +124,7 @@ def generate_article(story: dict) -> dict | None:
         "source_name": story["source_name"],
         "source_url": story["url"],
         "category_hint": story.get("category_hint", "general"),
+        "pub_date": story.get("pub_date", ""),
     }
     if story.get("full_content"):
         user_payload["full_content"] = story["full_content"]
@@ -132,6 +160,7 @@ def generate_article(story: dict) -> dict | None:
     def _fix_urls(text: str) -> str:
         """Replace any cryptocatalyst.news article URL (including LLM-guessed slugs with dots)
         with the authoritative URL for this article."""
+        text = text.replace("ARTICLE_URL", correct_url)
         text = re.sub(r"https?://cryptocatalyst\.news/articles/[\w.-]+", correct_url, text)
         text = re.sub(r"https?://cryptocatalyst\.news(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
         # Also catch any lingering ainformed.dev URLs from LLM output
@@ -139,8 +168,8 @@ def generate_article(story: dict) -> dict | None:
         text = re.sub(r"https?://ainformed\.dev(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
         return text
 
-    fixed_thread = [_fix_urls(t) for t in result.get("twitterThread", [])]
-    fixed_standalone = _fix_urls(result.get("standaloneTweet", ""))
+    fixed_thread = _normalize_thread([_fix_urls(t) for t in result.get("twitterThread", [])], correct_url)
+    fixed_standalone = _clean_text(_fix_urls(result.get("standaloneTweet", "")))
 
     article = {
         "slug": slug,
@@ -166,12 +195,14 @@ def generate_article(story: dict) -> dict | None:
 
 
 IMAGE_PROMPT_SYSTEM = """\
-You are a visual prompt engineer. Given a crypto/blockchain article title and summary,
-write a concise DALL-E / Stable Diffusion style image prompt (max 200 chars) for a
-compelling hero image. Incorporate crypto-themed visual concepts such as Bitcoin symbols,
-blockchain grids, glowing coins, DeFi vaults, on-chain data streams, or digital wallets.
-The image should be abstract, futuristic, and finance-tech-themed.
-Do NOT include any text or letters in the image. No people's faces. No logos.
+You are a visual editor creating story-specific hero image prompts for a crypto news site.
+Given an article title, summary, tags, and body excerpt, write one concise cinematic prompt
+(max 220 chars) for a compelling editorial image.
+Prefer concrete scenes, objects, locations, documents, devices, market screens, payment flows,
+server rooms, or legislative settings that fit the story.
+Do NOT default to generic glowing coins, abstract blockchain grids, or random cyberpunk cityscapes
+unless the story is truly about those visuals.
+Do NOT include any text, letters, logos, or recognizable faces.
 Respond with ONLY the image prompt text, nothing else."""
 
 
@@ -182,7 +213,15 @@ def generate_article_image(article: dict) -> str | None:
         image_prompt = chat(
             [
                 {"role": "system", "content": IMAGE_PROMPT_SYSTEM},
-                {"role": "user", "content": f"Title: {article['title']}\nSummary: {article['summary']}"},
+                {
+                    "role": "user",
+                    "content": (
+                        f"Title: {article['title']}\n"
+                        f"Summary: {article['summary']}\n"
+                        f"Tags: {', '.join(article.get('tags', []))}\n"
+                        f"Body excerpt: {article.get('body', '')[:450]}"
+                    ),
+                },
             ],
             temperature=0.7,
             max_tokens=100,
@@ -217,7 +256,7 @@ def generate_all():
         print("ERROR: curated_stories.json not found. Run curate.py first.")
         sys.exit(1)
 
-    curated: list[dict] = json.loads(INPUT_FILE.read_text())
+    curated: list[dict] = json.loads(INPUT_FILE.read_text(encoding="utf-8"))
     print(f"Generating articles for {len(curated)} stories...")
 
     # Build set of source URLs that already have articles
@@ -225,7 +264,7 @@ def generate_all():
     for f in CONTENT_DIR.iterdir():
         if f.suffix == ".json":
             try:
-                existing_urls.add(json.loads(f.read_text()).get("sourceUrl", ""))
+                existing_urls.add(json.loads(f.read_text(encoding="utf-8")).get("sourceUrl", ""))
             except Exception:
                 pass
 
@@ -246,7 +285,7 @@ def generate_all():
             continue
 
         out_path = CONTENT_DIR / f"{article['slug']}.json"
-        out_path.write_text(json.dumps(article, indent=2, ensure_ascii=False))
+        out_path.write_text(json.dumps(article, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"  → Saved: {out_path.name}")
         existing_urls.add(story["url"])
         written += 1

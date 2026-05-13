@@ -28,17 +28,23 @@ PREFERRED_CATEGORIES = {"bitcoin", "ethereum", "defi"}
 SCRIPT_SYSTEM_PROMPT = """\
 You are a scriptwriter for CryptoCatalyst.news, a crypto news brand making YouTube Shorts.
 Your audience is people new to crypto — curious, non-technical, want to know what this means for them.
-Given an article (title, summary, body), write a punchy 45-60 second narration script.
+Given an article (title, summary, body, tags, source), write a punchy 45-60 second narration script.
 
 Requirements:
-- Target: exactly 120-150 words total (maps to 45-60 seconds at ~150wpm TTS)
+- Target: exactly 110-140 words total (maps to 45-60 seconds at ~150wpm TTS)
 - hook: One bold opening sentence to grab attention instantly.
-  Start with what this means for everyday people — not the headline, not insider jargon.
-  Frame it as something the viewer can personally relate to or use.
+    Start with what just changed for everyday people — not the headline, not insider jargon.
+    Use a surprise, warning, opportunity, deadline, or myth-buster angle.
+    Do NOT start with "Imagine", "What if", or a rhetorical question.
 - narration_lines: 4-6 short lines. Each line is one natural speech pause.
-  Cover: what happened in plain English, why a normal person should care,
-  a concrete example or analogy they can picture, and what they can do or try.
-  Keep each line under 20 words. No jargon without a quick plain-English explanation.
+    Cover: what happened in plain English, why a normal person should care,
+    a concrete example or analogy they can picture, and what they can do or try.
+    Include at least one concrete fact from the article: a number, company, product, date, dollar amount, or policy detail.
+    Explain any jargon in plain English.
+    Include one specific consequence for a user, investor, customer, or builder.
+    Keep each line under 20 words.
+    Avoid generic filler and avoid repeating the title.
+    Vary sentence openings so the script does not sound templated.
 - cta: One closing line such as "For more crypto news made simple, visit cryptocatalyst dot news."
 - Do NOT use hashtags, emojis, or markdown formatting.
 - Use plain spoken language — this will be read aloud by a voice synthesizer.
@@ -62,7 +68,7 @@ def load_queue() -> dict:
 
 
 def save_queue(data: dict) -> None:
-    QUEUE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+    QUEUE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def already_queued_slugs(queue: dict) -> set:
@@ -100,7 +106,9 @@ def generate_script(article: dict) -> dict | None:
                 {
                     "title": article["title"],
                     "summary": article.get("summary", ""),
-                    "body": article.get("body", "")[:600],
+                    "body": article.get("body", "")[:1400],
+                    "tags": article.get("tags", [])[:6],
+                    "source_name": article.get("sourceName", ""),
                 },
                 ensure_ascii=False,
             ),
@@ -163,6 +171,8 @@ def main() -> None:
             "title": article["title"],
             "category": article.get("category", "general"),
             "tags": article.get("tags", []),
+            "articleSummary": article.get("summary", ""),
+            "articleBody": article.get("body", "")[:1400],
             "imageUrl": article.get("imageUrl", ""),
             "articleUrl": f"https://cryptocatalyst.news/articles/{slug}",
             "script": script,

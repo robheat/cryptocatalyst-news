@@ -40,6 +40,9 @@ TWEET_INTERVAL = int(os.environ.get("TWEET_INTERVAL_SECS", "300"))
 # Seconds between tweets within a thread (default 30s)
 THREAD_INTERVAL = int(os.environ.get("THREAD_INTERVAL_SECS", "30"))
 
+HASHTAG_RE = re.compile(r"(?<!\w)#\w+")
+URL_RE = re.compile(r"https?://\S+")
+
 
 def _percent_encode(s: str) -> str:
     return urllib.parse.quote(s, safe="")
@@ -144,6 +147,78 @@ def get_article_image_path(article: dict) -> str | None:
     return None
 
 
+def _fix_article_urls(text: str, correct_url: str) -> str:
+    text = (text or "").replace("ARTICLE_URL", correct_url)
+    text = re.sub(r"https?://cryptocatalyst\.news/articles/[\w.-]+", correct_url, text)
+    text = re.sub(r"https?://cryptocatalyst\.news(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
+    text = re.sub(r"https?://ainformed\.dev/articles/[\w.-]+", correct_url, text)
+    text = re.sub(r"https?://ainformed\.dev(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
+    return text
+
+
+def _clean_tweet_text(text: str, keep_links: bool = True) -> str:
+    text = HASHTAG_RE.sub("", text or "")
+    if not keep_links:
+        text = URL_RE.sub("", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def _build_fallback_thread(article: dict, correct_url: str) -> list[str]:
+    first = _clean_tweet_text(article.get("standaloneTweet", ""), keep_links=False)
+    if not first:
+        first = _clean_tweet_text(f"💰 {article['title']}\n\n{article.get('summary', '')}", keep_links=False)
+
+    second = _clean_tweet_text(article.get("summary", ""), keep_links=False)
+    if not second or second == first:
+        second = _clean_tweet_text(article["title"], keep_links=False)
+
+    third = f"Read more → {correct_url}"
+    return [tweet for tweet in [first, second, third] if tweet]
+
+
+def _select_thread_tweets(article: dict) -> list[str]:
+    correct_url = f"https://cryptocatalyst.news/articles/{article['slug']}"
+    raw_tweets = article.get("twitterThread", [])
+    cleaned = []
+    for tweet in raw_tweets:
+        fixed = _clean_tweet_text(_fix_article_urls(tweet, correct_url))
+        if fixed:
+            cleaned.append(fixed)
+
+    if not cleaned:
+        return _build_fallback_thread(article, correct_url)
+
+    first = cleaned[0]
+    second = ""
+    final_seed = ""
+
+    if len(cleaned) == 1:
+        second = _clean_tweet_text(article.get("summary", ""), keep_links=False)
+    elif len(cleaned) == 2:
+        second = cleaned[1]
+    else:
+        middle_pool = cleaned[1:-1]
+        second = max(middle_pool, key=lambda t: len(URL_RE.sub("", t))) if middle_pool else cleaned[1]
+        final_seed = cleaned[-1]
+
+    first = _clean_tweet_text(first, keep_links=False)
+    second = _clean_tweet_text(second, keep_links=False)
+    if not second or second == first:
+        second = _clean_tweet_text(article.get("summary", ""), keep_links=False)
+    if not second or second == first:
+        second = _clean_tweet_text(article["title"], keep_links=False)
+
+    final_seed = _clean_tweet_text(URL_RE.sub("", final_seed), keep_links=False)
+    if final_seed:
+        third = f"{final_seed.rstrip('. ')}\n\nRead more → {correct_url}"
+    else:
+        third = f"Read more → {correct_url}"
+
+    return [tweet for tweet in [first, second, third] if tweet]
+
+
 def post_tweet(text: str, reply_to: str | None = None, media_id: str | None = None) -> str | None:
     """
     Post a single tweet. Returns tweet ID on success, None on failure.
@@ -235,7 +310,7 @@ def get_todays_articles() -> list[dict]:
         return articles
     for f in sorted(CONTENT_DIR.iterdir(), reverse=True):  # newest first
         if f.suffix == ".json" and f.name.startswith(today):
-            art = json.loads(f.read_text())
+            art = json.loads(f.read_text(encoding="utf-8"))
             if art.get("slug") not in tweeted:
                 articles.append(art)
     # Only tweet the most recent batch (up to 8)
@@ -257,26 +332,7 @@ def main():
 
     # Post thread for top article (first one, which is usually highest scored)
     top = articles[0]
-    thread_tweets = top.get("twitterThread", [])
-
-    if not thread_tweets:
-        # Fallback: generate a simple thread from the article
-        thread_tweets = [
-            f"💰 {top['title']}\n\n{top['summary']}",
-            f"Read more → https://cryptocatalyst.news/articles/{top['slug']}",
-        ]
-    else:
-        # Fix LLM-generated URLs: replace any ainformed.dev or cryptocatalyst.news URLs
-        # with the correct slug
-        correct_url = f"https://cryptocatalyst.news/articles/{top['slug']}"
-        fixed = []
-        for t in thread_tweets:
-            t = re.sub(r"https?://cryptocatalyst\.news/articles/[\w.-]+", correct_url, t)
-            t = re.sub(r"https?://cryptocatalyst\.news(?!/articles/)(?:\s|$)", correct_url + " ", t).rstrip()
-            t = re.sub(r"https?://ainformed\.dev/articles/[\w.-]+", correct_url, t)
-            t = re.sub(r"https?://ainformed\.dev(?!/articles/)(?:\s|$)", correct_url + " ", t).rstrip()
-            fixed.append(t)
-        thread_tweets = fixed
+    thread_tweets = _select_thread_tweets(top)
 
     # Upload image for top article thread
     top_media_id = None
@@ -288,16 +344,6 @@ def main():
     print(f"\nPosting thread for: {top['title'][:70]}")
     if DRY_RUN:
         print("[DRY RUN MODE]")
-
-    # Cap at 3 tweets per run to minimise pay-per-use API costs
-    thread_tweets = thread_tweets[:3]
-
-    # Strip https:// links from all tweets except the last — X charges $0.20/post with a link
-    def _strip_links(text: str) -> str:
-        return re.sub(r"https?://\S+", "", text).strip()
-
-    if len(thread_tweets) > 1:
-        thread_tweets = [_strip_links(t) for t in thread_tweets[:-1]] + [thread_tweets[-1]]
 
     ids = post_thread(thread_tweets, first_media_id=top_media_id)
     print(f"\nThread posted: {len(ids)} tweets")

@@ -27,14 +27,17 @@ CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 BROLL_SYSTEM_PROMPT = """\
 You are a cinematographer creating image-generation prompts for YouTube Shorts B-roll.
-Given an article title, tags, and short summary, write exactly 4 cinematic image prompts.
+Given an article title, tags, summary, body excerpt, and 4 narration beats, write exactly 4 cinematic image prompts.
+Write the prompts in the same order as the beats so the visuals can track the narration.
 
 Each prompt must:
 - Be 15-30 words, purely visual and highly descriptive
+- Visualize the specific beat it corresponds to, not a generic crypto wallpaper
 - Relate to a different aspect or angle of the news story
+- Prefer concrete objects and settings from the story: payment terminals, wallets, server racks, congressional documents, market screens, mining rigs, data centers, apps, or infrastructure
 - Use photography/cinematography terms (golden hour, bokeh, wide angle, aerial, close-up)
 - Vary shot type: one aerial/wide, one medium, one close-up, one atmospheric/mood shot
-- Avoid text, logos, or human faces
+- Avoid text, logos, or recognizable human faces
 
 Return ONLY a JSON array of 4 strings, no other text:
 ["prompt 1", "prompt 2", "prompt 3", "prompt 4"]
@@ -42,23 +45,34 @@ Return ONLY a JSON array of 4 strings, no other text:
 
 
 def load_queue() -> dict:
-    return json.loads(QUEUE_FILE.read_text())
+    return json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
 
 
 def save_queue(data: dict) -> None:
-    QUEUE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+    QUEUE_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def _beat_texts(item: dict) -> list[str]:
+    script = item.get("script", {})
+    beats = [script.get("hook", "")] + script.get("narration_lines", [])
+    beats = [beat.strip() for beat in beats if beat.strip()]
+    fallback = item.get("articleSummary") or item.get("title", "")
+    while len(beats) < 4 and fallback:
+        beats.append(fallback)
+    return beats[:4]
 
 
 def _generate_prompts(item: dict) -> list[str]:
     """Ask Venice AI LLM to produce 4 cinematic image prompts for this article."""
-    script    = item.get("script", {})
-    narration = " ".join(script.get("narration_lines", [])[:3])
-    tags      = item.get("tags", [])
+    tags = item.get("tags", [])
+    beats = _beat_texts(item)
 
     user_msg = json.dumps({
-        "title":   item["title"],
-        "tags":    tags[:6],
-        "summary": (narration or item.get("title", ""))[:300],
+        "title": item["title"],
+        "tags": tags[:6],
+        "summary": item.get("articleSummary", item.get("title", ""))[:300],
+        "body_excerpt": item.get("articleBody", "")[:800],
+        "beats": beats,
     }, ensure_ascii=False)
 
     try:
@@ -80,14 +94,13 @@ def _generate_prompts(item: dict) -> list[str]:
     except Exception as exc:
         print(f"  [WARN] LLM prompt generation failed: {exc}")
 
-    # Fallback: generic prompts from tags
-    tag1 = tags[0] if tags else "artificial intelligence"
-    tag2 = tags[1] if len(tags) > 1 else "technology"
+    # Fallback: keep prompts tied to the first four script beats so visuals still track the narration
+    beat1, beat2, beat3, beat4 = (beats + [item.get("title", "")])[:4]
     return [
-        f"Aerial wide shot of {tag1} infrastructure at golden hour, cinematic lighting, 8k",
-        f"Close-up of {tag2} circuit patterns, glowing blue tones, shallow depth of field",
-        f"Futuristic cityscape at night, {tag1} technology visible, neon reflections, moody",
-        f"Dramatic wide angle of data center server rows, cool blue lighting, deep shadows",
+        f"Aerial wide editorial scene illustrating {beat1}, dramatic golden hour lighting, cinematic realism, no text, no faces",
+        f"Medium shot illustrating {beat2}, realistic devices and infrastructure, shallow depth of field, moody editorial style",
+        f"Close-up editorial image illustrating {beat3}, detailed textures, bokeh highlights, realistic finance-tech environment",
+        f"Atmospheric mood shot illustrating {beat4}, cinematic shadows, story-specific setting, realistic editorial photography",
     ]
 
 
