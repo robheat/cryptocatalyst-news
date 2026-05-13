@@ -1,0 +1,28 @@
+{
+  "slug": "2026-05-13-coinbase-backed-x402-introduces-batch-settlement-for-ai-payments",
+  "title": "Coinbase-backed x402 Introduces Batch Settlement for AI Payments",
+  "summary": "x402, backed by Coinbase, now allows AI agents to process multiple small payments offchain and settle them onchain later. This could make AI transactions faster and more efficient.",
+  "body": "x402, a project supported by Coinbase, has introduced a new feature called batch settlement. This allows AI agents to authorize many small payments offchain and then settle them onchain all at once. Normally, each small payment would require its own transaction on the blockchain, which can be slow and expensive. By batching them together, x402 makes the process more efficient.\n\nThis matters because it could make AI transactions more practical for everyday use. Imagine if your smart home assistant could pay for small services—like adjusting your thermostat or ordering groceries—without needing to process each payment individually. Batch settlement could make these kinds of transactions faster and cheaper, similar to how batch processing helps businesses handle large volumes of data more efficiently.\n\nIf you're interested in AI and blockchain, this is a feature to watch. While it's still early, batch settlement could become a standard way for AI agents to handle payments. Keep an eye on x402 and similar projects as they develop new tools for the future of AI and crypto.",
+  "sourceUrl": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "ai",
+    "payments",
+    "batch-settlement",
+    "coinbase",
+    "blockchain",
+    "x402"
+  ],
+  "publishedAt": "2026-05-13T13:35:16.651500+00:00",
+  "imageUrl": "/images/articles/2026-05-13-coinbase-backed-x402-introduces-batch-settlement-for-ai-payments.jpg",
+  "twitterThread": [
+    "🤖💰 Big news for AI and crypto! x402 (backed by Coinbase) just launched batch settlement. Here's why you should care:",
+    "In plain English: AI agents can now authorize many small payments offchain and settle them onchain all at once. No more slow, expensive individual transactions.",
+    "The part that matters: This could make AI transactions way faster and cheaper. Think of it like batch processing for payments.",
+    "If you've ever wanted your smart home AI to pay for small services without hassle, this is a game-changer.",
+    "How you can use it: While it's still early, keep an eye on x402. This could become a standard for AI payments in the future.",
+    "Full breakdown → https://cryptocatalyst.news/articles/2026-05-13-coinbase-backed-x402-introduces-batch-settlement-for-ai-payments"
+  ],
+  "standaloneTweet": "🚀 Coinbase-backed x402 just launched batch settlement for AI payments. This could make AI transactions faster and cheaper—like batch processing for crypto! 💡"
+}
