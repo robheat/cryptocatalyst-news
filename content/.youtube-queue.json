@@ -1608,6 +1608,117 @@
         3.584,
         4.032
       ]
+    },
+    {
+      "slug": "2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi",
+      "title": "Yield Basis Brings Native Bitcoin Yield to DeFi",
+      "category": "defi",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "yield",
+        "amm",
+        "liquidity",
+        "yield-basis"
+      ],
+      "articleSummary": "Yield Basis has launched an automated market maker (AMM) that offers Bitcoin yield without impermanent loss (IL). The platform has already captured a significant share of BTC DEX liquidity, making it a notable player in the space.",
+      "articleBody": "Yield Basis has introduced a new type of automated market maker (AMM) that allows users to earn yield on Bitcoin without facing impermanent loss (IL). This is a significant development in the decentralized finance (DeFi) space, as IL has been a major barrier to entry for many potential users.\n\nThe platform's innovative design has already attracted a substantial amount of liquidity, making it a dominant force in BTC DEX trading. By eliminating IL, Yield Basis is making it easier and more attractive for users to participate in DeFi with their Bitcoin holdings.\n\nThis development is important for everyday crypto users because it lowers the risk associated with earning yield on Bitcoin. Without the threat of IL, users can feel more confident about participating in DeFi, potentially leading to greater adoption and liquidity in the space.\n\nFor those interested in exploring this new opportunity, Yield Basis is now live and accepting liquidity providers. Users can start earning yield on their Bitcoin holdings by participating in the platform's AMM pools. Keep an eye on the platform's performance and growth in the coming months to see how it continues to shape the BTC DeFi landscape.",
+      "imageUrl": "/images/articles/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi",
+      "script": {
+        "hook": "Bitcoin just got a major upgrade in DeFi that cuts a huge risk for everyday investors.",
+        "narration_lines": [
+          "Yield Basis launched a new system where you can earn interest on Bitcoin without impermanent loss.",
+          "Impermanent loss is like a hidden tax when you trade crypto, but this platform removes that risk.",
+          "In just weeks, it's already grabbed 20% of Bitcoin's decentralized exchange liquidity.",
+          "Now, you can safely earn yield on your Bitcoin without worrying about losing money on price swings.",
+          "If you're holding Bitcoin, check out Yield Basis to start earning today."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "aa364eb811c1bc6a",
+      "scriptText": "Bitcoin just got a major upgrade in DeFi that cuts a huge risk for everyday investors. Yield Basis launched a new system where you can earn interest on Bitcoin without impermanent loss. Impermanent loss is like a hidden tax when you trade crypto, but this platform removes that risk. In just weeks, it's already grabbed 20% of Bitcoin's decentralized exchange liquidity. Now, you can safely earn yield on your Bitcoin without worrying about losing money on price swings. If you're holding Bitcoin, check out Yield Basis to start earning today. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "3UfOsgChLEc",
+      "youtubeUrl": "https://youtube.com/watch?v=3UfOsgChLEc",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-13T17:14:45.200871+00:00",
+      "uploadedAt": "2026-05-13T17:21:41.196290+00:00",
+      "audioLineDurations": [
+        5.568,
+        5.802666666666667,
+        5.930666666666666,
+        5.461333333333333,
+        5.674666666666667,
+        3.968,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data",
+      "title": "Glassnode Expands to Include Macro and Traditional Finance Data",
+      "category": "bitcoin",
+      "tags": [
+        "glassnode",
+        "macroeconomics",
+        "tradfi",
+        "crypto",
+        "data"
+      ],
+      "articleSummary": "Glassnode is adding macroeconomic and traditional finance (TradFi) data to its platform, helping users understand digital asset markets in a broader financial context. This move aims to provide a more comprehensive view of market conditions for crypto investors.",
+      "articleBody": "Glassnode, a leading blockchain data provider, has announced it will expand its data coverage to include macroeconomic and traditional finance (TradFi) metrics. This addition will allow users to better contextualize digital asset markets within the broader financial landscape, offering a more holistic view of market conditions.\n\nThe new data will include key macroeconomic indicators such as interest rates, inflation data, and economic growth metrics. Additionally, Glassnode will provide insights into traditional financial markets, including stock market performance and commodity prices. This expansion is designed to help investors make more informed decisions by understanding the interplay between digital assets and traditional financial markets.\n\nFor everyday crypto users, this means having access to a more comprehensive set of tools to analyze market trends. By integrating macro and TradFi data, Glassnode aims to provide a clearer picture of how external financial conditions might impact digital asset prices. This can be particularly useful for investors looking to diversify their portfolios or hedge against market volatility.\n\nGlassnode plans to roll out these new data features gradually, starting with the most relevant macroeconomic indicators. Users can expect to see these additions in the coming months, with further updates and enhancements based on user feedback. This ex",
+      "imageUrl": "/images/articles/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data",
+      "script": {
+        "hook": "Your cryptocurrency investments just got a big upgrade with real-world financial data.",
+        "narration_lines": [
+          "Glassnode is adding macroeconomic and traditional finance data to its platform.",
+          "This means you'll see how interest rates, stock markets, and inflation affect crypto prices.",
+          "Imagine checking Bitcoin's price alongside the S&P 500 or inflation rates—all in one place.",
+          "For investors, this is a game-changer. You can now make smarter decisions by seeing the bigger picture.",
+          "Glassnode will roll out these features gradually, starting with key indicators like interest rates.",
+          "This is your chance to level up your crypto investing strategy with real-world context."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "07d7c7c7d1e1a875",
+      "scriptText": "Your cryptocurrency investments just got a big upgrade with real-world financial data. Glassnode is adding macroeconomic and traditional finance data to its platform. This means you'll see how interest rates, stock markets, and inflation affect crypto prices. Imagine checking Bitcoin's price alongside the S&P 500 or inflation rates—all in one place. For investors, this is a game-changer. You can now make smarter decisions by seeing the bigger picture. Glassnode will roll out these features gradually, starting with key indicators like interest rates. This is your chance to level up your crypto investing strategy with real-world context. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "wp_y3rp_UFg",
+      "youtubeUrl": "https://youtube.com/watch?v=wp_y3rp_UFg",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-13T17:14:54.342775+00:00",
+      "uploadedAt": "2026-05-13T17:21:42.681957+00:00",
+      "audioLineDurations": [
+        5.504,
+        5.034666666666666,
+        5.525333333333333,
+        6.741333333333333,
+        5.952,
+        5.525333333333333,
+        5.333333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_3.jpg"
+      ]
     }
   ]
 }
