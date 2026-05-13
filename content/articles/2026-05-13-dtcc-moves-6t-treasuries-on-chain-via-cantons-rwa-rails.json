@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-13-dtcc-moves-6t-treasuries-on-chain-via-cantons-rwa-rails",
+  "title": "DTCC Moves $6T Treasuries On-Chain via Canton’s RWA Rails",
+  "summary": "The Depository Trust & Clearing Corporation (DTCC) is moving $6 trillion in DTC-custodied U.S. Treasuries onto the blockchain using Canton’s real-world asset (RWA) infrastructure. Meanwhile, Lighter’s LIT token launched trading at a fee multiple comparable to Hyperliquid’s high-fee model.",
+  "body": "The Depository Trust & Clearing Corporation (DTCC), a key player in U.S. financial infrastructure, has announced it will move $6 trillion in DTC-custodied U.S. Treasuries onto the blockchain. This move leverages Canton’s real-world asset (RWA) infrastructure, marking a significant step in the integration of traditional financial assets with blockchain technology.\n\nCanton’s technology allows for the tokenization and on-chain management of these Treasuries, enhancing transparency and efficiency in settlement processes. This development is part of a broader trend of bringing traditional financial assets onto blockchain platforms, potentially reducing counterparty risk and improving liquidity.\n\nFor everyday investors, this move could mean more efficient trading and settlement of Treasury securities, potentially lowering costs and increasing accessibility. It also signals growing institutional confidence in blockchain technology for managing high-value assets.\n\nIn related news, Lighter’s LIT token launched trading at a fee multiple that competes with Hyperliquid’s high-fee model. This indicates a strategic move to capture market share in the decentralized exchange space by offering competitive fee structures. Investors should watch for further developments in both RWA tokenization and the evolving fee structures in decentralized exchanges.\n\nRead more → https://blockworks.com/news/cantons-rwa-rails",
+  "sourceUrl": "https://blockworks.com/news/cantons-rwa-rails",
+  "sourceName": "Blockworks",
+  "category": "general",
+  "tags": [
+    "rw",
+    "treasuries",
+    "dtcc",
+    "canton",
+    "lighter",
+    "hyperliquid"
+  ],
+  "publishedAt": "2026-05-13T15:40:47.311545+00:00",
+  "imageUrl": "/images/articles/2026-05-13-dtcc-moves-6t-treasuries-on-chain-via-cantons-rwa-rails.jpg",
+  "twitterThread": [
+    "DTCC is moving $6T in U.S. Treasuries onto the blockchain via Canton’s RWA rails. This is a game-changer for traditional finance and crypto integration. 🚀",
+    "By tokenizing Treasuries on-chain, Canton’s tech aims to boost transparency and efficiency. This could lower costs and improve liquidity for investors. 💰",
+    "Meanwhile, Lighter’s LIT token launched with fees rivaling Hyperliquid. What does this mean for decentralized exchanges? Read more → https://cryptocatalyst.news/articles/2026-05-13-dtcc-moves-6t-treasuries-on-chain-via-cantons-rwa-rails"
+  ],
+  "standaloneTweet": "DTCC is moving $6T in Treasuries onto the blockchain, a huge step for crypto and traditional finance. What does this mean for your investments? 💡"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi",
+  "title": "Yield Basis Brings Native Bitcoin Yield to DeFi",
+  "summary": "Yield Basis has launched an automated market maker (AMM) that offers Bitcoin yield without impermanent loss (IL). The platform has already captured a significant share of BTC DEX liquidity, making it a notable player in the space.",
+  "body": "Yield Basis has introduced a new type of automated market maker (AMM) that allows users to earn yield on Bitcoin without facing impermanent loss (IL). This is a significant development in the decentralized finance (DeFi) space, as IL has been a major barrier to entry for many potential users.\n\nThe platform's innovative design has already attracted a substantial amount of liquidity, making it a dominant force in BTC DEX trading. By eliminating IL, Yield Basis is making it easier and more attractive for users to participate in DeFi with their Bitcoin holdings.\n\nThis development is important for everyday crypto users because it lowers the risk associated with earning yield on Bitcoin. Without the threat of IL, users can feel more confident about participating in DeFi, potentially leading to greater adoption and liquidity in the space.\n\nFor those interested in exploring this new opportunity, Yield Basis is now live and accepting liquidity providers. Users can start earning yield on their Bitcoin holdings by participating in the platform's AMM pools. Keep an eye on the platform's performance and growth in the coming months to see how it continues to shape the BTC DeFi landscape.",
+  "sourceUrl": "https://blockworks.com/news/yield-basis-native-btc-yield",
+  "sourceName": "Blockworks",
+  "category": "defi",
+  "tags": [
+    "bitcoin",
+    "defi",
+    "yield",
+    "amm",
+    "liquidity",
+    "yield-basis"
+  ],
+  "publishedAt": "2026-05-13T15:42:14.912281+00:00",
+  "imageUrl": "/images/articles/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi.jpg",
+  "twitterThread": [
+    "Earning yield on Bitcoin just got safer. Yield Basis launches an IL-free AMM, already dominating BTC DEX liquidity.",
+    "Yield Basis' new AMM design eliminates impermanent loss, a major hurdle for Bitcoin DeFi users. Liquidity providers can now earn yield without the risk of IL.",
+    "Ready to dip your toes? Yield Basis is live and accepting liquidity providers. Start earning yield on your Bitcoin holdings today. Read more → https://cryptocatalyst.news/articles/2026-05-13-yield-basis-brings-native-bitcoin-yield-to-defi"
+  ],
+  "standaloneTweet": "Earning yield on Bitcoin without impermanent loss is now possible. Yield Basis' new AMM design is already a major player in BTC DEX liquidity."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-13-ethereum-working-group-launches-clear-signing-to-prevent-blind-signing-risks",
+  "title": "Ethereum Working Group Launches Clear Signing to Prevent Blind Signing Risks",
+  "summary": "A new Ethereum standard called Clear Signing aims to prevent blind signing, a flaw that has led to billions in losses. The initiative involves major wallet developers, security firms, and the Ethereum Foundation.",
+  "body": "A coalition of Ethereum wallet developers, security firms, and the Ethereum Foundation’s Trillion Dollar Security Initiative has launched Clear Signing, an open standard designed to prevent blind signing. Blind signing occurs when users approve transactions without fully understanding what they are signing, leading to significant financial losses, including the recent Bybit hack.\n\nClear Signing provides users with clear, readable information about the transactions they are approving. This includes details about the actions the transaction will perform, the assets involved, and any potential risks. The standard is being adopted by major Ethereum wallets and is expected to significantly reduce the risk of blind signing-related losses.\n\nThis initiative is crucial for everyday Ethereum users, as it makes transaction approvals safer and more transparent. By providing clear information, users can make more informed decisions, reducing the likelihood of falling victim to scams or unintended transactions. The standard is part of a broader effort to enhance security across the Ethereum ecosystem.\n\nThe Ethereum Foundation and participating wallet developers are encouraging all wallet providers to adopt Clear Signing. Users should look for wallets that support this standard and update their software to benefit from the enhanced security features. The adoption of Clear Signing is a significant step forward in making Ethereum transactions safer for everyone.\n\nUsers should watch for updates from their wallet providers about Clear Signing support and ensure they are using the latest versions of their wallets. This will help them take advantage of the new security features and reduce the risk of blind signing-related losses. Read more → https://blog.ethereum.org/en/2026/05/12/clear-signing-announcement",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/05/12/clear-signing-announcement",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "security",
+    "clear-signing",
+    "transaction",
+    "wallet"
+  ],
+  "publishedAt": "2026-05-13T15:42:01.641095+00:00",
+  "imageUrl": "/images/articles/2026-05-13-ethereum-working-group-launches-clear-signing-to-prevent-blind-signing-risks.jpg",
+  "twitterThread": [
+    "Blind signing on Ethereum has cost users billions. A new standard called Clear Signing aims to fix this.",
+    "Clear Signing provides users with readable info about transactions, reducing the risk of scams. Supported by major wallets.",
+    "Update your wallet to support Clear Signing and stay safe. Read more → https://cryptocatalyst.news/articles/2026-05-13-ethereum-working-group-launches-clear-signing-to-prevent-blind-signing-risks"
+  ],
+  "standaloneTweet": "Clear Signing on Ethereum makes transaction approvals safer by showing users exactly what they're signing. Update your wallet to stay protected."
+}
