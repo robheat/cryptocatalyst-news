@@ -1719,6 +1719,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-13-glassnode-expands-to-include-macro-and-traditional-finance-data_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights",
+      "title": "Glassnode Adds IBIT Options Metrics for Institutional Bitcoin Insights",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "institutional",
+        "options",
+        "glassnode",
+        "etf",
+        "trading"
+      ],
+      "articleSummary": "Glassnode now tracks IBIT options, offering a window into how institutions manage Bitcoin risk and hedging strategies. This data reveals new details about market sentiment and trading behavior.",
+      "articleBody": "Glassnode has launched real-time metrics for IBIT options, providing unprecedented visibility into institutional Bitcoin trading strategies. IBIT, the Bitcoin ETF by BlackRock, has become a significant tool for large investors to express views on Bitcoin's price movements and manage risk.\n\nThe new metrics include data on open interest, volume, and implied volatility, which are critical indicators of market sentiment. For instance, high open interest suggests strong institutional participation, while implied volatility can signal expected price swings. These insights help traders and analysts understand how institutions are positioning themselves in the Bitcoin market.\n\nFor everyday investors, this development means better access to institutional-grade data. Understanding how large players hedge and speculate can provide clues about potential market trends. It also highlights the growing integration of Bitcoin into traditional financial markets, making it more accessible and transparent.\n\nInvestors should watch for significant changes in open interest or implied volatility, as these could indicate shifts in institutional sentiment. Keeping an eye on Glassnode's updates can provide timely insights into market dynamics. Read more → https://insights.glassnode.com/ibit-options-metrics-live-on-glassnode/",
+      "imageUrl": "/images/articles/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights",
+      "script": {
+        "hook": "Big investors just got a new tool to bet on Bitcoin—and it could move prices for everyone.",
+        "narration_lines": [
+          "Glassnode now tracks IBIT options, BlackRock's Bitcoin ETF, in real time.",
+          "This shows how institutions hedge risks and predict price swings.",
+          "Open interest and implied volatility are key—high numbers mean big bets are being made.",
+          "For you, this means better insights into where Bitcoin might go next.",
+          "Watch for spikes in these metrics—they could signal big market moves.",
+          "Now you can follow the pros without needing a Wall Street degree."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "8c5675695d1879b7",
+      "scriptText": "Big investors just got a new tool to bet on Bitcoin—and it could move prices for everyone. Glassnode now tracks IBIT options, BlackRock's Bitcoin ETF, in real time. This shows how institutions hedge risks and predict price swings. Open interest and implied volatility are key—high numbers mean big bets are being made. For you, this means better insights into where Bitcoin might go next. Watch for spikes in these metrics—they could signal big market moves. Now you can follow the pros without needing a Wall Street degree. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "Yw_6sIv_8H8",
+      "youtubeUrl": "https://youtube.com/watch?v=Yw_6sIv_8H8",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-14T16:58:57.413003+00:00",
+      "uploadedAt": "2026-05-14T17:04:37.111946+00:00",
+      "audioLineDurations": [
+        5.525333333333333,
+        5.077333333333334,
+        3.8186666666666667,
+        5.632,
+        3.968,
+        4.053333333333334,
+        3.6053333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-glassnode-adds-ibit-options-metrics-for-institutional-bitcoin-insights_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration",
+      "title": "Ethereum Foundation Launches Platform Team to Strengthen L1 and L2 Integration",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "blockchain",
+        "scaling",
+        "developers",
+        "integration"
+      ],
+      "articleSummary": "The Ethereum Foundation has created a new Platform Team to improve the relationship between Ethereum's base layer (L1) and scaling solutions (L2s). This initiative aims to create a more cohesive ecosystem where all parts of Ethereum work together seamlessly, benefiting developers and users alike.",
+      "articleBody": "The Ethereum Foundation (EF) has announced the formation of a new Platform Team dedicated to enhancing the integration and collaboration between Ethereum's base layer (L1) and its scaling solutions (L2s). The team's primary goal is to ensure that L1 and L2s are optimally positioned to support users, applications, and organizations building on Ethereum. This initiative is crucial for the ecosystem's growth, as it aims to foster a mutually beneficial relationship between the different layers of the Ethereum network.\n\nThe Platform Team will focus on improving the technical and operational aspects of the L1-L2 relationship. This includes developing tools and standards that facilitate better communication and interoperability between the layers. The team will also work on addressing any bottlenecks or inefficiencies that currently exist, ensuring a smoother experience for developers and end-users. By strengthening this relationship, the Ethereum Foundation hopes to create a more robust and scalable platform that can support the growing demands of the crypto community.\n\nFor everyday users and developers, this initiative means a more seamless and efficient experience when interacting with Ethereum. Improved L1-L2 integration can lead to faster transaction times, lower fees, and better overall performance. This is particularly important for developers who are building applications on E",
+      "imageUrl": "/images/articles/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration",
+      "script": {
+        "hook": "Ethereum just got a major upgrade that could save you money and time.",
+        "narration_lines": [
+          "The Ethereum Foundation created a new team to make its blockchain faster and cheaper.",
+          "This team will improve how the main network and its scaling solutions work together.",
+          "Think of it like a highway system where all the roads connect smoothly.",
+          "For you, this means faster transactions and lower fees when using cryptocurrency.",
+          "Developers will also find it easier to build apps on Ethereum.",
+          "This initiative shows Ethereum is committed to making its platform better for everyone."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "312e346bd98efde7",
+      "scriptText": "Ethereum just got a major upgrade that could save you money and time. The Ethereum Foundation created a new team to make its blockchain faster and cheaper. This team will improve how the main network and its scaling solutions work together. Think of it like a highway system where all the roads connect smoothly. For you, this means faster transactions and lower fees when using cryptocurrency. Developers will also find it easier to build apps on Ethereum. This initiative shows Ethereum is committed to making its platform better for everyone. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "VApD5XhVuc0",
+      "youtubeUrl": "https://youtube.com/watch?v=VApD5XhVuc0",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-14T16:59:03.700411+00:00",
+      "uploadedAt": "2026-05-14T17:04:38.956079+00:00",
+      "audioLineDurations": [
+        4.373333333333333,
+        5.0986666666666665,
+        4.629333333333333,
+        3.648,
+        5.12,
+        3.989333333333333,
+        4.970666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-14-ethereum-foundation-launches-platform-team-to-strengthen-l1-and-l2-integration_bg_3.jpg"
+      ]
     }
   ]
 }
