@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-14-ethereum-core-devs-set-200m-gas-limit-for-glamsterdam-upgrade",
+  "title": "Ethereum Core Devs Set 200M Gas Limit for Glamsterdam Upgrade",
+  "summary": "Ethereum developers met in Norway to finalize plans for the Glamsterdam upgrade, setting a 200M gas limit floor. This change aims to improve network efficiency and reduce transaction costs for users.",
+  "body": "Ethereum core developers gathered in Svalbard, Norway, for a week-long meeting to prepare for the upcoming Glamsterdam upgrade. The event brought together teams from various client implementations to focus on hardening the network and finalizing key milestones.\n\nOne of the most significant outcomes was the establishment of a 200 million gas limit floor. This adjustment is designed to enhance network efficiency and potentially lower transaction costs for users. The developers also discussed other critical aspects of the upgrade, ensuring that the Ethereum network remains robust and scalable.\n\nFor everyday users, this upgrade could mean faster and cheaper transactions. The increased gas limit allows more transactions to be processed in each block, which can help reduce congestion and lower fees during peak times. This is particularly important for DeFi applications and NFT minting, where high gas fees can be a significant barrier.\n\nThe developers also addressed interoperability and security measures to ensure a smooth transition. The next steps involve further testing and community feedback before the upgrade is implemented. Users should keep an eye on official Ethereum channels for updates and prepare their wallets and applications for the changes.",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/05/11/protocol-update-may-26",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "glamsterdam",
+    "gas-limit",
+    "upgrade",
+    "blockchain"
+  ],
+  "publishedAt": "2026-05-14T21:09:56.305013+00:00",
+  "imageUrl": "/images/articles/2026-05-14-ethereum-core-devs-set-200m-gas-limit-for-glamsterdam-upgrade.jpg",
+  "twitterThread": [
+    "Ethereum's next upgrade, Glamsterdam, just got a 200M gas limit floor. What does this mean for your transactions? The devs met in Norway to finalize plans, and this change could lower fees and speed up transactions.",
+    "A higher gas limit means more transactions per block, reducing congestion. For DeFi users and NFT minting, this could mean lower costs and faster processing.",
+    "Keep an eye on Ethereum's official channels for updates. Prepare your wallets and apps for the upgrade. Read more → https://cryptocatalyst.news/articles/2026-05-14-ethereum-core-devs-set-200m-gas-limit-for-glamsterdam-upgrade"
+  ],
+  "standaloneTweet": "Ethereum's Glamsterdam upgrade just set a 200M gas limit floor. This could mean faster, cheaper transactions for you. Keep an eye on official updates!"
+}
