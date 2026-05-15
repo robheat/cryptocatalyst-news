@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-15-kraken-moves-wrapped-bitcoin-to-chainlink-amid-layerzero-exodus",
+  "title": "Kraken Moves Wrapped Bitcoin to Chainlink Amid LayerZero Exodus",
+  "summary": "Kraken is abandoning LayerZero's technology for its wrapped Bitcoin service, joining a wave of firms leaving after a $292 million hack. The exchange will now use Chainlink's cross-chain tech instead.",
+  "body": "Kraken has announced it will migrate its wrapped Bitcoin (WBTC) technology from LayerZero to Chainlink. This move comes as part of a broader exodus from LayerZero following last month's $292 million Kelp DAO exploit, which raised concerns about the security of the cross-chain protocol.\n\nThe transition to Chainlink's technology is expected to enhance the security and reliability of Kraken's WBTC service. LayerZero has faced increased scrutiny after the Kelp DAO hack, leading several other projects to also abandon its tech in favor of alternatives.\n\nFor everyday crypto users, this shift means that Kraken's WBTC will now rely on Chainlink's well-established cross-chain infrastructure, which is known for its robust security measures. This migration could help restore confidence in Kraken's wrapped Bitcoin offerings.\n\nUsers of Kraken's WBTC service should watch for official announcements regarding the migration timeline and any potential downtime. The transition is expected to be seamless, but it's always wise to stay informed about such changes to ensure the safety of your assets.",
+  "sourceUrl": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "kraken",
+    "wrapped-bitcoin",
+    "chainlink",
+    "layerzero",
+    "security",
+    "exodus"
+  ],
+  "publishedAt": "2026-05-15T13:55:29.367298+00:00",
+  "imageUrl": "/images/articles/2026-05-15-kraken-moves-wrapped-bitcoin-to-chainlink-amid-layerzero-exodus.jpg",
+  "twitterThread": [
+    "Kraken is ditching LayerZero for Chainlink after a $292M hack. What does this mean for your WBTC?",
+    "The exchange is migrating its wrapped Bitcoin tech to Chainlink, joining others leaving LayerZero post-exploit. Chainlink's cross-chain tech is seen as more secure.",
+    "If you use Kraken's WBTC, watch for migration updates. The shift aims to boost security—read more → https://cryptocatalyst.news/articles/2026-05-15-kraken-moves-wrapped-bitcoin-to-chainlink-amid-layerzero-exodus"
+  ],
+  "standaloneTweet": "Kraken is moving its wrapped Bitcoin to Chainlink after a $292M hack. What does this mean for your WBTC?"
+}
