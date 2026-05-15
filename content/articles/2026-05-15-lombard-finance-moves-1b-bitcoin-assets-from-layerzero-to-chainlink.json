@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-15-lombard-finance-moves-1b-bitcoin-assets-from-layerzero-to-chainlink",
+  "title": "Lombard Finance Moves $1B Bitcoin Assets from LayerZero to Chainlink",
+  "summary": "Lombard Finance is shifting its $1 billion in Bitcoin assets from LayerZero to Chainlink after a major exploit. The move comes following the Kelp DAO hack, which resulted in a $292 million loss.",
+  "body": "Lombard Finance, a prominent Bitcoin DeFi protocol, is migrating its $1 billion in Bitcoin assets from LayerZero to Chainlink. This decision follows the recent Kelp DAO exploit, which led to a significant loss of $292 million.\n\nThe shift involves moving all of Lombard Finance's Bitcoin assets to Chainlink's Cross-Chain Interoperability Protocol (CCIP). This transition is expected to enhance security and reliability for the protocol's users.\n\nFor everyday users, this move means potentially better security for their Bitcoin assets on the Lombard Finance platform. The transition to Chainlink's more established infrastructure could reduce the risk of similar exploits in the future.\n\nUsers of Lombard Finance should watch for announcements regarding the completion of this transition. The protocol is expected to provide updates on the migration process and any potential downtime or changes in service. Read more → https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+  "sourceUrl": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "defi",
+    "security",
+    "lombard-finance",
+    "chainlink"
+  ],
+  "publishedAt": "2026-05-15T21:02:04.070816+00:00",
+  "imageUrl": "/images/articles/2026-05-15-lombard-finance-moves-1b-bitcoin-assets-from-layerzero-to-chainlink.jpg",
+  "twitterThread": [
+    "Lombard Finance is moving $1B in Bitcoin assets from LayerZero to Chainlink after a $292M exploit. What does this mean for users?",
+    "The shift comes after the Kelp DAO hack, which resulted in a massive loss. Chainlink's CCIP is seen as a more secure option.",
+    "Users should watch for updates on the migration process. Better security could be on the horizon. Read more → https://cryptocatalyst.news/articles/2026-05-15-lombard-finance-moves-1b-bitcoin-assets-from-layerzero-to-chainlink"
+  ],
+  "standaloneTweet": "Lombard Finance is moving $1B in Bitcoin assets to Chainlink for better security after a $292M exploit. Users should watch for updates."
+}
