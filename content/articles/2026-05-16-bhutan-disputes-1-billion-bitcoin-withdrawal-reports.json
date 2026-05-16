@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-16-bhutan-disputes-1-billion-bitcoin-withdrawal-reports",
+  "title": "Bhutan Disputes $1 Billion Bitcoin Withdrawal Reports",
+  "summary": "Bhutan claims it has not sold any bitcoin, despite blockchain data showing over $1 billion in BTC moved from wallets linked to the country in the past year. The discrepancy highlights the challenges of tracking crypto holdings at a national level.",
+  "body": "Blockchain analytics firm Arkham Intelligence reported that over $1 billion worth of bitcoin has been transferred from wallets attributed to Bhutan over the past year. These funds reportedly flowed to various exchanges and trading firms, suggesting significant selling activity.\n\nHowever, Bhutan's government has disputed these findings, stating that it does not recall selling any bitcoin. The country's stance raises questions about the accuracy of blockchain attribution methods and the transparency of national crypto holdings.\n\nThis discrepancy matters because it underscores the complexities of tracking cryptocurrency movements, especially when linked to sovereign entities. For everyday users, it serves as a reminder that blockchain data can sometimes be misleading or incomplete, even when sourced from reputable analytics firms.\n\nMoving forward, observers will likely watch for further clarification from Bhutan or additional data from blockchain analysts. If the discrepancy remains unresolved, it could prompt broader discussions about the reliability of blockchain forensics in attributing crypto transactions to specific entities.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bhutan",
+    "blockchain",
+    "crypto",
+    "analytics",
+    "discrepancy"
+  ],
+  "publishedAt": "2026-05-16T13:10:04.806521+00:00",
+  "imageUrl": "/images/articles/2026-05-16-bhutan-disputes-1-billion-bitcoin-withdrawal-reports.jpg",
+  "twitterThread": [
+    "Bhutan says it hasn’t sold any bitcoin, but blockchain data shows $1B in BTC moved from wallets linked to the country. What’s going on?",
+    "Arkham Intelligence tracked $1B in bitcoin transfers from wallets attributed to Bhutan over the past year, but the government disputes this. The discrepancy highlights the challenges of tracking crypto at a national level.",
+    "This case shows that blockchain data isn’t always clear-cut. For now, watch for further statements from Bhutan or additional data from analysts. Read more → https://cryptocatalyst.news/articles/2026-05-16-bhutan-disputes-1-billion-bitcoin-withdrawal-reports"
+  ],
+  "standaloneTweet": "Bhutan claims it hasn’t sold any bitcoin, but blockchain data shows $1B in BTC moved from wallets linked to the country. This highlights the complexities of tracking crypto at a national level."
+}
