@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-17-north-korean-hackers-steal-over-12m-in-crypto",
+  "title": "North Korean Hackers Steal Over $12M in Crypto",
+  "summary": "A sophisticated hacking group linked to North Korea has stolen over $12 million in cryptocurrency from unsuspecting users. The campaign involved phishing and social engineering tactics to trick victims into revealing their private keys.",
+  "body": "A cybercrime group with ties to North Korea has successfully siphoned over $12 million in cryptocurrency from individual users. The hackers employed a combination of phishing and social engineering tactics to gain access to victims' wallets and steal their funds.\n\nThe campaign, which spanned several months, targeted crypto users across multiple platforms. The hackers used fake websites and impersonated customer support representatives to trick victims into revealing their private keys. Once obtained, the keys were used to transfer funds to wallets controlled by the hackers.\n\nThis incident highlights the growing threat of cybercrime in the cryptocurrency space. As the popularity of crypto continues to rise, so does the risk of falling victim to sophisticated hacking schemes. Users are advised to be vigilant and take extra precautions to protect their digital assets.\n\nTo safeguard against such attacks, crypto users should use hardware wallets, enable two-factor authentication, and be cautious of unsolicited messages asking for private keys. Staying informed about the latest security practices can also help mitigate the risk of falling prey to these schemes.",
+  "sourceUrl": "https://therecord.media/north-korean-hackers-siphon-12-million-from-crypto-users",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "cybercrime",
+    "north-korea",
+    "phishing",
+    "security",
+    "crypto-theft"
+  ],
+  "publishedAt": "2026-05-17T20:51:51.714082+00:00",
+  "imageUrl": "/images/articles/2026-05-17-north-korean-hackers-steal-over-12m-in-crypto.jpg",
+  "twitterThread": [
+    "North Korean hackers just stole over $12M in crypto using phishing and social engineering. Here's how they did it.",
+    "The hackers impersonated customer support and tricked users into revealing their private keys. Once accessed, funds were transferred to hacker-controlled wallets.",
+    "To protect yourself, use hardware wallets and enable 2FA. Stay vigilant and don't share your private keys. Read more → https://cryptocatalyst.news/articles/2026-05-17-north-korean-hackers-steal-over-12m-in-crypto"
+  ],
+  "standaloneTweet": "North Korean hackers stole over $12M in crypto through phishing. Protect your assets with hardware wallets and 2FA."
+}

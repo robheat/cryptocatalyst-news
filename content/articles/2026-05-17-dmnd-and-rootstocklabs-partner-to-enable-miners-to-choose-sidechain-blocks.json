@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks",
+  "title": "DMND and RootstockLabs Partner to Enable Miners to Choose Sidechain Blocks",
+  "summary": "DMND and RootstockLabs are collaborating to bring Stratum V2 to merge-mining, allowing miners to select which sidechain blocks they support. This partnership aims to enhance miner autonomy and efficiency in the Bitcoin ecosystem.",
+  "body": "DMND and RootstockLabs have announced a partnership to integrate Stratum V2 technology into merge-mining operations. This collaboration will enable Bitcoin miners to choose which sidechain blocks they support, giving them more control over their mining activities. \n\nThe integration of Stratum V2 is significant because it allows miners to select the sidechain blocks they wish to include in their mining process. This feature is expected to increase miner autonomy and potentially improve the efficiency of sidechain operations. \n\nFor everyday users, this development means that the Bitcoin network could become more decentralized and efficient. Miners will have the ability to support specific sidechains, which could lead to a more diverse and robust ecosystem. \n\nThis partnership is still in its early stages, and the full impact on the mining community and sidechain ecosystems remains to be seen. However, it represents a step forward in giving miners more control over their operations. Miners and enthusiasts should watch for further developments in this collaboration as it progresses. Read more → https://bitcoinmagazine.com/news/dmnd-and-rootstocklabs-partner-to-bring-stratum-v2-to-merge-mining",
+  "sourceUrl": "https://bitcoinmagazine.com/news/dmnd-and-rootstocklabs-partner-to-bring-stratum-v2-to-merge-mining",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "stratum-v2",
+    "dmnd",
+    "rootstocklabs",
+    "sidechains"
+  ],
+  "publishedAt": "2026-05-17T20:51:33.533371+00:00",
+  "imageUrl": "/images/articles/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks.jpg",
+  "twitterThread": [
+    "Miners gain more control: DMND and RootstockLabs partner to bring Stratum V2 to merge-mining, allowing miners to choose sidechain blocks they support.",
+    "Stratum V2 integration lets miners pick which sidechain blocks to include, boosting autonomy and potentially improving efficiency in the Bitcoin ecosystem.",
+    "This partnership could lead to a more decentralized and robust Bitcoin network. Miners should watch for further developments in this collaboration. Read more → https://cryptocatalyst.news/articles/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks"
+  ],
+  "standaloneTweet": "DMND and RootstockLabs are teaming up to give Bitcoin miners more control over sidechain blocks using Stratum V2. This could make the network more decentralized and efficient."
+}
