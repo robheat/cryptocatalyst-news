@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-18-bitcoin-vulnerable-to-quantum-computing-threats-citi-warns",
+  "title": "Bitcoin Vulnerable to Quantum Computing Threats, Citi Warns",
+  "summary": "Citi warns that rapid advances in quantum computing could soon threaten Bitcoin and other cryptocurrencies. Bitcoin's security model is particularly at risk due to its reliance on cryptographic methods that quantum computers could potentially break.",
+  "body": "Citi has issued a warning that accelerating breakthroughs in quantum computing are shortening the timeline for significant risks to Bitcoin and broader internet infrastructure. The bank highlights that Bitcoin, in particular, is vulnerable due to its dependence on cryptographic methods that quantum computers could potentially compromise.\n\nAccording to Citi's analysis, the growing capabilities of quantum computing could undermine the cryptographic foundations of Bitcoin, potentially rendering its security mechanisms obsolete. This threat is not immediate but is expected to become a pressing concern within the next decade as quantum technology advances.\n\nFor everyday users, this means that the security of Bitcoin holdings could be at risk in the future. While no immediate action is required, the warning serves as a reminder to stay informed about advancements in quantum computing and potential upgrades to Bitcoin's security protocols.\n\nCiti also notes that other cryptocurrencies and internet infrastructure could be affected, but Bitcoin's prominence and specific cryptographic approach make it a prime target. The financial institution advises stakeholders to prepare for potential security overhauls in the cryptocurrency space as quantum computing continues to evolve.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/18/bitcoin-faces-outsized-quantum-threat-as-computing-breakthroughs-accelerate-citi-says",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "crypto",
+    "citi",
+    "threat"
+  ],
+  "publishedAt": "2026-05-18T13:24:06.336643+00:00",
+  "imageUrl": "/images/articles/2026-05-18-bitcoin-vulnerable-to-quantum-computing-threats-citi-warns.jpg",
+  "twitterThread": [
+    "Bitcoin's security could be at risk as quantum computing advances, warns Citi. The bank says breakthroughs are accelerating faster than expected.",
+    "Quantum computers could break the cryptographic methods Bitcoin relies on, potentially compromising its security. This threat is expected to become significant within a decade.",
+    "While no immediate action is needed, users should stay informed about quantum advancements and potential upgrades to Bitcoin's security. Read more → https://cryptocatalyst.news/articles/2026-05-18-bitcoin-vulnerable-to-quantum-computing-threats-citi-warns"
+  ],
+  "standaloneTweet": "Quantum computing could soon threaten Bitcoin's security, warns Citi. Stay informed and watch for potential upgrades to protect your holdings."
+}
