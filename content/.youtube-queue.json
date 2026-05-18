@@ -2386,6 +2386,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-onramp-secures-125m-to-expand-institutional-bitcoin-custody_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-onramp-secures-125m-to-expand-institutional-bitcoin-custody_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks",
+      "title": "DMND and RootstockLabs Partner to Enable Miners to Choose Sidechain Blocks",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "stratum-v2",
+        "dmnd",
+        "rootstocklabs",
+        "sidechains"
+      ],
+      "articleSummary": "DMND and RootstockLabs are collaborating to bring Stratum V2 to merge-mining, allowing miners to select which sidechain blocks they support. This partnership aims to enhance miner autonomy and efficiency in the Bitcoin ecosystem.",
+      "articleBody": "DMND and RootstockLabs have announced a partnership to integrate Stratum V2 technology into merge-mining operations. This collaboration will enable Bitcoin miners to choose which sidechain blocks they support, giving them more control over their mining activities. \n\nThe integration of Stratum V2 is significant because it allows miners to select the sidechain blocks they wish to include in their mining process. This feature is expected to increase miner autonomy and potentially improve the efficiency of sidechain operations. \n\nFor everyday users, this development means that the Bitcoin network could become more decentralized and efficient. Miners will have the ability to support specific sidechains, which could lead to a more diverse and robust ecosystem. \n\nThis partnership is still in its early stages, and the full impact on the mining community and sidechain ecosystems remains to be seen. However, it represents a step forward in giving miners more control over their operations. Miners and enthusiasts should watch for further developments in this collaboration as it progresses. Read more → https://bitcoinmagazine.com/news/dmnd-and-rootstocklabs-partner-to-bring-stratum-v2-to-merge-mining",
+      "imageUrl": "/images/articles/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks",
+      "script": {
+        "hook": "Bitcoin miners just got a powerful new tool to shape the future of cryptocurrency.",
+        "narration_lines": [
+          "DMND and RootstockLabs are teaming up to let miners pick which sidechain blocks they support.",
+          "This means miners can now choose where to put their computing power, making the Bitcoin network more flexible.",
+          "Imagine miners as traffic cops directing Bitcoin transactions to different lanes for faster, more efficient travel.",
+          "With Stratum V2, miners can support specific sidechains, potentially leading to a more diverse and robust ecosystem.",
+          "For everyday users, this could mean better performance and more options in the Bitcoin network.",
+          "If you're a miner or a Bitcoin enthusiast, keep an eye on this developing story."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "4a666be4177b3e51",
+      "scriptText": "Bitcoin miners just got a powerful new tool to shape the future of cryptocurrency. DMND and RootstockLabs are teaming up to let miners pick which sidechain blocks they support. This means miners can now choose where to put their computing power, making the Bitcoin network more flexible. Imagine miners as traffic cops directing Bitcoin transactions to different lanes for faster, more efficient travel. With Stratum V2, miners can support specific sidechains, potentially leading to a more diverse and robust ecosystem. For everyday users, this could mean better performance and more options in the Bitcoin network. If you're a miner or a Bitcoin enthusiast, keep an eye on this developing story. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "p9f6D4wWigI",
+      "youtubeUrl": "https://youtube.com/watch?v=p9f6D4wWigI",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-18T20:57:34.727996+00:00",
+      "uploadedAt": "2026-05-18T21:04:14.847953+00:00",
+      "audioLineDurations": [
+        5.12,
+        6.357333333333333,
+        6.08,
+        6.976,
+        7.957333333333334,
+        5.461333333333333,
+        4.8,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-dmnd-and-rootstocklabs-partner-to-enable-miners-to-choose-sidechain-blocks_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54",
+      "title": "Bitcoin's Market Dynamics: The Bitcoin Vector #54",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "market",
+        "analysis",
+        "investment",
+        "on-chain"
+      ],
+      "articleSummary": "The latest Bitcoin Vector report highlights key market trends and on-chain insights. Swissblock and Willy Woo analyze data to provide a snapshot of Bitcoin's current state.",
+      "articleBody": "The Bitcoin Vector #54, a collaborative effort by Swissblock and Willy Woo, presented by Glassnode, offers a detailed analysis of Bitcoin's market dynamics. This report is designed to help investors and enthusiasts understand the current state of the Bitcoin market through on-chain data and market trends.\n\nThe report delves into various aspects of Bitcoin's performance, including transaction volumes, miner activity, and investor behavior. Key details include the recent fluctuations in transaction fees, the impact of miner rewards, and the distribution of Bitcoin holdings among different investor groups. Notably, the report highlights a significant increase in institutional investment, indicating growing confidence in Bitcoin as a long-term asset.\n\nFor everyday Bitcoin users, this report provides valuable insights into the health of the Bitcoin network. Understanding these trends can help individuals make informed decisions about buying, holding, or trading Bitcoin. The data suggests that despite market volatility, Bitcoin continues to attract significant interest from both retail and institutional investors.\n\nTo stay updated on these trends, readers should regularly review the Bitcoin Vector reports. These reports offer a comprehensive look at the factors influencing Bitcoin's price and adoption. For those new to Bitcoin, this can be a great resource to understand the broader m",
+      "imageUrl": "/images/articles/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54",
+      "script": {
+        "hook": "Bitcoin just got a major vote of confidence from big investors, and here's what it means for you.",
+        "narration_lines": [
+          "Institutional investors are pouring money into Bitcoin, showing they believe in its long-term value.",
+          "The latest Bitcoin Vector report shows transaction volumes and miner activity are strong, despite market ups and downs.",
+          "Think of it like a stock market report, but for Bitcoin—it helps you see the bigger picture.",
+          "For everyday users, this means Bitcoin is becoming more stable and trusted over time.",
+          "You can use this data to decide if now is a good time to buy, hold, or trade your Bitcoin.",
+          "Check out the Bitcoin Vector reports to stay informed and make smarter decisions."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "d3a8944819f0f961",
+      "scriptText": "Bitcoin just got a major vote of confidence from big investors, and here's what it means for you. Institutional investors are pouring money into Bitcoin, showing they believe in its long-term value. The latest Bitcoin Vector report shows transaction volumes and miner activity are strong, despite market ups and downs. Think of it like a stock market report, but for Bitcoin—it helps you see the bigger picture. For everyday users, this means Bitcoin is becoming more stable and trusted over time. You can use this data to decide if now is a good time to buy, hold, or trade your Bitcoin. Check out the Bitcoin Vector reports to stay informed and make smarter decisions. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "geEaNqw-0X0",
+      "youtubeUrl": "https://youtube.com/watch?v=geEaNqw-0X0",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-18T20:57:40.191107+00:00",
+      "uploadedAt": "2026-05-18T21:04:17.351769+00:00",
+      "audioLineDurations": [
+        5.44,
+        6.058666666666666,
+        7.530666666666667,
+        5.141333333333334,
+        5.397333333333333,
+        5.546666666666667,
+        4.672,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_3.jpg"
+      ]
     }
   ]
 }
