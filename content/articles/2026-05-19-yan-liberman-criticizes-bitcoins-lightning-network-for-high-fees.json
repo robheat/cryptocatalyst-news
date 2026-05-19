@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-19-yan-liberman-criticizes-bitcoins-lightning-network-for-high-fees",
+  "title": "Yan Liberman Criticizes Bitcoin's Lightning Network for High Fees",
+  "summary": "Yan Liberman, a prominent crypto analyst, has called out Bitcoin's Lightning Network for its high fees, which he claims are making it impractical for everyday transactions. He argues that the fees are negating the benefits of using Bitcoin for small payments.",
+  "body": "Yan Liberman, a well-known figure in the cryptocurrency space, has recently taken to social media to express his frustrations with Bitcoin's Lightning Network. According to Liberman, the fees associated with using the Lightning Network have become so high that they are making it impractical for everyday transactions. He argues that the fees are negating the benefits of using Bitcoin for small payments, which was one of the primary goals of the Lightning Network.\n\nLiberman's criticism comes at a time when the Lightning Network has been gaining traction as a solution to Bitcoin's scalability issues. The network is designed to enable fast and cheap transactions by allowing users to conduct multiple transactions off-chain before settling them on the Bitcoin blockchain. However, Liberman's observations suggest that the network is not living up to its promise of low-cost transactions.\n\nFor everyday users, this criticism highlights the ongoing challenges in making Bitcoin a practical currency for daily use. High fees can deter users from adopting Bitcoin for small transactions, which are a significant part of everyday commerce. This issue is particularly relevant for users in regions with high inflation or unstable currencies, who might rely on Bitcoin as a store of value or a medium of exchange.\n\nWhat to watch: Keep an eye on the fee trends on the Lightning Network. If fees continue to rise, it could signal broader issues with the network's scalability and adoption. Users should also monitor responses from the Bitcoin community and developers to see if any solutions or improvements are proposed to address these concerns.",
+  "sourceUrl": "https://x.com/YanLiberman/status/2056797867415916997",
+  "sourceName": "@YanLiberman on X",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "lightning-network",
+    "fees",
+    "criticism",
+    "scalability"
+  ],
+  "publishedAt": "2026-05-19T22:19:12.508587+00:00",
+  "imageUrl": "/images/articles/2026-05-19-yan-liberman-criticizes-bitcoins-lightning-network-for-high-fees.jpg",
+  "twitterThread": [
+    "Yan Liberman says Bitcoin's Lightning Network fees are too high for small transactions. Are we back to square one?",
+    "The Lightning Network was supposed to make Bitcoin transactions fast and cheap. But Liberman argues fees are negating those benefits, making it impractical for everyday use.",
+    "If fees keep rising, it could signal bigger issues with the network. Watch this space. Read more → https://cryptocatalyst.news/articles/2026-05-19-yan-liberman-criticizes-bitcoins-lightning-network-for-high-fees"
+  ],
+  "standaloneTweet": "Bitcoin's Lightning Network fees are too high for small transactions, says Yan Liberman. This could impact everyday use. What's next?"
+}
