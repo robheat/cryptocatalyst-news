@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-19-defi-exchange-launches-equity-perpetuals-using-nasdaq-data",
+  "title": "DeFi Exchange Launches Equity Perpetuals Using Nasdaq Data",
+  "summary": "A decentralized finance (DeFi) exchange is now offering equity perpetuals, a type of financial derivative, using real-time data from Nasdaq. This marks the first time a DeFi platform has integrated traditional stock market data into its offerings.",
+  "body": "A decentralized finance (DeFi) exchange has become the first to offer equity perpetuals, a type of financial derivative, powered by real-time data from Nasdaq. This partnership highlights the growing intersection between traditional financial markets and the burgeoning world of blockchain-based trading.\n\nThe exchange, which has not been named in the initial announcement, will use Nasdaq's data feeds to provide onchain trading of perpetual contracts tied to the performance of traditional equities. These contracts allow traders to speculate on the price movements of stocks without actually owning them, similar to traditional futures but without an expiration date.\n\nThis development is significant for everyday investors because it bridges the gap between traditional finance and decentralized trading. It allows crypto-native traders to gain exposure to traditional stock markets using blockchain technology, potentially offering more flexibility and lower barriers to entry. Additionally, it underscores Nasdaq's strategic move to support the tokenization of traditional assets, which could lead to more integrated financial markets in the future.\n\nFor those interested in exploring this new financial product, the next step is to watch for official announcements from the DeFi exchange regarding the launch date and the specific equities that will be available for trading. Traders should also stay informed about any regulatory developments that might affect the trading of these equity perpetuals.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "defi",
+    "nasdaq",
+    "equity",
+    "perpetuals",
+    "trading"
+  ],
+  "publishedAt": "2026-05-19T13:14:20.655518+00:00",
+  "imageUrl": "/images/articles/2026-05-19-defi-exchange-launches-equity-perpetuals-using-nasdaq-data.jpg",
+  "twitterThread": [
+    "A DeFi exchange is now offering equity perpetuals using Nasdaq's real-time data. This is a first in blockchain trading.",
+    "Equity perpetuals are derivatives that let traders speculate on stock prices without owning them. Nasdaq's data ensures accuracy and reliability.",
+    "This could open up traditional stock markets to crypto traders. Watch for launch details and regulatory updates. Read more → https://cryptocatalyst.news/articles/2026-05-19-defi-exchange-launches-equity-perpetuals-using-nasdaq-data"
+  ],
+  "standaloneTweet": "A DeFi exchange is now offering equity perpetuals using Nasdaq's real-time data, bridging traditional finance and blockchain trading."
+}

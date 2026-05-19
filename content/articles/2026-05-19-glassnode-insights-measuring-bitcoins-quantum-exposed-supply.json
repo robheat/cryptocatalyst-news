@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply",
+  "title": "Glassnode Insights: Measuring Bitcoin's Quantum-Exposed Supply",
+  "summary": "Glassnode has analyzed how much Bitcoin could be at risk from quantum computing attacks. They found that about 23% of Bitcoin's supply is potentially vulnerable due to past transaction patterns.",
+  "body": "Glassnode Insights has published a detailed analysis on Bitcoin's quantum-exposed supply, breaking down the structural and operational sources of public-key exposure across the network. The report highlights that quantum computing advancements could potentially compromise the security of certain Bitcoin transactions, making them vulnerable to attacks.\n\nAccording to the analysis, approximately 23% of Bitcoin's total supply is at risk due to past transaction patterns that exposed public keys. This exposure is primarily due to the way Bitcoin addresses and keys have been managed over the years, particularly in older transactions that did not account for future quantum threats.\n\nFor everyday Bitcoin users, this analysis underscores the importance of adopting quantum-resistant practices. While the immediate risk is low, the study suggests that users should consider using newer address formats and security measures that are less susceptible to quantum attacks. This includes using Hierarchical Deterministic (HD) wallets and regularly updating wallet software to incorporate the latest security protocols.\n\nThe report also notes that the Bitcoin community is already working on solutions to mitigate these risks. Developers are exploring quantum-resistant algorithms and encryption methods that could be integrated into the Bitcoin protocol. Users should stay informed about these developments and be prepared to adapt their security practices as new solutions become available.",
+  "sourceUrl": "https://insights.glassnode.com/measuring-bitcoins-quantum-exposed-supply/",
+  "sourceName": "Glassnode Insights",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "glassnode",
+    "cryptography"
+  ],
+  "publishedAt": "2026-05-19T13:12:29.087580+00:00",
+  "imageUrl": "/images/articles/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply.jpg",
+  "twitterThread": [
+    "23% of Bitcoin's supply could be at risk from quantum computing attacks, according to a new report by Glassnode Insights. Here's what you need to know.",
+    "Glassnode's analysis shows that past transaction patterns have exposed public keys, making certain Bitcoin transactions vulnerable to quantum attacks. This affects about 23% of the total supply.",
+    "To protect your Bitcoin, consider using newer address formats and updating your wallet software. Stay informed about quantum-resistant solutions. Read more → https://cryptocatalyst.news/articles/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply"
+  ],
+  "standaloneTweet": "Glassnode found that 23% of Bitcoin's supply could be at risk from quantum computing. Here's how to protect your holdings."
+}
