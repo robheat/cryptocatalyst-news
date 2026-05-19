@@ -2499,6 +2499,116 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-17-bitcoins-market-dynamics-the-bitcoin-vector-54_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply",
+      "title": "Glassnode Insights: Measuring Bitcoin's Quantum-Exposed Supply",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "quantum",
+        "security",
+        "glassnode",
+        "cryptography"
+      ],
+      "articleSummary": "Glassnode has analyzed how much Bitcoin could be at risk from quantum computing attacks. They found that about 23% of Bitcoin's supply is potentially vulnerable due to past transaction patterns.",
+      "articleBody": "Glassnode Insights has published a detailed analysis on Bitcoin's quantum-exposed supply, breaking down the structural and operational sources of public-key exposure across the network. The report highlights that quantum computing advancements could potentially compromise the security of certain Bitcoin transactions, making them vulnerable to attacks.\n\nAccording to the analysis, approximately 23% of Bitcoin's total supply is at risk due to past transaction patterns that exposed public keys. This exposure is primarily due to the way Bitcoin addresses and keys have been managed over the years, particularly in older transactions that did not account for future quantum threats.\n\nFor everyday Bitcoin users, this analysis underscores the importance of adopting quantum-resistant practices. While the immediate risk is low, the study suggests that users should consider using newer address formats and security measures that are less susceptible to quantum attacks. This includes using Hierarchical Deterministic (HD) wallets and regularly updating wallet software to incorporate the latest security protocols.\n\nThe report also notes that the Bitcoin community is already working on solutions to mitigate these risks. Developers are exploring quantum-resistant algorithms and encryption methods that could be integrated into the Bitcoin protocol. Users should stay informed about these development",
+      "imageUrl": "/images/articles/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply",
+      "script": {
+        "hook": "Your Bitcoin could be at risk from future quantum computers, and here's what you need to know.",
+        "narration_lines": [
+          "Glassnode found 23% of Bitcoin's supply is vulnerable to quantum attacks due to old transaction patterns.",
+          "This means if quantum computers get powerful enough, they could potentially steal exposed coins.",
+          "Think of it like leaving your house key under the mat—it's safe now, but not from future thieves.",
+          "To protect yourself, use newer wallet formats like Hierarchical Deterministic (HD) wallets.",
+          "Also, keep your wallet software updated to stay ahead of security threats.",
+          "The Bitcoin community is already working on quantum-resistant solutions, so stay informed."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "558ae91673d9d22f",
+      "scriptText": "Your Bitcoin could be at risk from future quantum computers, and here's what you need to know. Glassnode found 23% of Bitcoin's supply is vulnerable to quantum attacks due to old transaction patterns. This means if quantum computers get powerful enough, they could potentially steal exposed coins. Think of it like leaving your house key under the mat—it's safe now, but not from future thieves. To protect yourself, use newer wallet formats like Hierarchical Deterministic (HD) wallets. Also, keep your wallet software updated to stay ahead of security threats. The Bitcoin community is already working on quantum-resistant solutions, so stay informed. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "fcWvSoeOpxM",
+      "youtubeUrl": "https://youtube.com/watch?v=fcWvSoeOpxM",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-19T17:37:21.768572+00:00",
+      "uploadedAt": "2026-05-19T17:44:22.926331+00:00",
+      "audioLineDurations": [
+        4.8213333333333335,
+        7.488,
+        5.653333333333333,
+        5.568,
+        6.4,
+        4.288,
+        5.461333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-glassnode-insights-measuring-bitcoins-quantum-exposed-supply_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve",
+      "title": "White House Prepares to Announce U.S. Strategic Bitcoin Reserve",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "whitehouse",
+        "reserve",
+        "announcement",
+        "strategy"
+      ],
+      "articleSummary": "The White House is close to announcing a U.S. Strategic Bitcoin Reserve, with a key legal hurdle already cleared. This marks a significant step in the government's approach to Bitcoin. The announcement is expected to highlight a breakthrough in the administration's strategy.",
+      "articleBody": "The White House is nearing a formal announcement on the creation of a U.S. Strategic Bitcoin Reserve. Patrick Witt, a senior administration official, stated that the administration has already cleared a significant legal hurdle, paving the way for the announcement. This development is seen as a major step in the government's evolving stance on Bitcoin.\n\nThe announcement is expected to outline the strategic importance of Bitcoin in the U.S. financial system. While specific details are still under wraps, the reserve is likely to serve as a national asset, similar to the U.S. Strategic Petroleum Reserve. This move could signal a shift in the government's approach to digital assets, potentially influencing global markets and regulatory frameworks.\n\nFor everyday people, this announcement could mean increased legitimacy and stability for Bitcoin as an asset class. It may also lead to greater adoption and investment in Bitcoin, as the government's endorsement could boost confidence among retail and institutional investors. The reserve could serve as a hedge against economic uncertainties, similar to traditional reserves of gold or oil.\n\nInvestors and cryptocurrency enthusiasts should watch for the official announcement, which is expected to provide more details on the reserve's structure and purpose. The timing and specifics of the announcement could have immediate impacts on Bitcoin'",
+      "imageUrl": "/images/articles/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve",
+      "script": {
+        "hook": "Your Bitcoin could soon get a big boost from the U.S. government.",
+        "narration_lines": [
+          "The White House is creating a Bitcoin Reserve, much like its oil reserve, and this could make Bitcoin more stable.",
+          "For regular people, this means Bitcoin might become a safer investment, backed by the government.",
+          "Imagine your Bitcoin being as reliable as gold, that's the potential impact of this move.",
+          "The reserve could help protect against economic ups and downs, giving you more confidence in investing.",
+          "Keep an eye out for the official announcement, as it could shake up the Bitcoin market overnight."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "e789d4f38e644c63",
+      "scriptText": "Your Bitcoin could soon get a big boost from the U.S. government. The White House is creating a Bitcoin Reserve, much like its oil reserve, and this could make Bitcoin more stable. For regular people, this means Bitcoin might become a safer investment, backed by the government. Imagine your Bitcoin being as reliable as gold, that's the potential impact of this move. The reserve could help protect against economic ups and downs, giving you more confidence in investing. Keep an eye out for the official announcement, as it could shake up the Bitcoin market overnight. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "r1XaaJaaDm4",
+      "youtubeUrl": "https://youtube.com/watch?v=r1XaaJaaDm4",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-19T17:37:25.494598+00:00",
+      "uploadedAt": "2026-05-19T17:44:25.369282+00:00",
+      "audioLineDurations": [
+        3.968,
+        6.72,
+        5.482666666666667,
+        5.354666666666667,
+        5.781333333333333,
+        5.1626666666666665,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_3.jpg"
+      ]
     }
   ]
 }
