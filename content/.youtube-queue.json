@@ -2609,6 +2609,116 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-18-white-house-prepares-to-announce-us-strategic-bitcoin-reserve_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow",
+      "title": "Bitcoin Drops to $76,700 as ETF Outflows and Rate Hike Fears Grow",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "etf",
+        "rate-hike",
+        "market-analysis",
+        "crypto-volatility"
+      ],
+      "articleSummary": "Bitcoin fell to $76,700 due to record ETF outflows and rising rate-hike probabilities. Analysts warn of structural weaknesses in the recent rally.",
+      "articleBody": "Bitcoin's price dropped to $76,700 on Tuesday, marking a significant decline from recent highs. This drop comes amid the largest spot ETF outflows since January, thin trading volumes, and increasing bets on a 60% probability of a rate hike.\n\nThe outflows from Bitcoin ETFs have been particularly notable, with analysts pointing to this as a key factor in the price decline. Thin spot volume has also exacerbated the drop, as lower liquidity makes the market more susceptible to sharp movements. Rising rate-hike probabilities have further dampened investor sentiment, as higher interest rates typically make riskier assets like Bitcoin less attractive.\n\nFor everyday investors, this price drop serves as a reminder of the volatility inherent in cryptocurrency markets. While Bitcoin has seen significant gains in recent months, such corrections are not uncommon and can be driven by a variety of factors, including macroeconomic conditions and shifts in investor behavior. It's a good time to reassess your investment strategy and consider the potential risks.\n\nLooking ahead, investors should watch for further developments in the Federal Reserve's monetary policy, as any changes in interest rates could significantly impact Bitcoin's price. Additionally, monitoring ETF flows and market liquidity can provide insights into future price movements. Stay informed and be prepared for continued volati",
+      "imageUrl": "/images/articles/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow",
+      "script": {
+        "hook": "Your Bitcoin just lost over 5% of its value overnight—here's why and what you can do.",
+        "narration_lines": [
+          "Bitcoin fell to $76,700 as investors pulled $600 million from ETFs in one day.",
+          "Higher interest rates from the Federal Reserve are making risky assets like Bitcoin less appealing.",
+          "Think of it like a stock market sell-off—when big investors leave, prices drop fast.",
+          "If you're holding Bitcoin, now's the time to check your strategy and maybe buy the dip.",
+          "Watch for Fed announcements—if rates rise, Bitcoin could fall further."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "496b603f2d332a81",
+      "scriptText": "Your Bitcoin just lost over 5% of its value overnight—here's why and what you can do. Bitcoin fell to $76,700 as investors pulled $600 million from ETFs in one day. Higher interest rates from the Federal Reserve are making risky assets like Bitcoin less appealing. Think of it like a stock market sell-off—when big investors leave, prices drop fast. If you're holding Bitcoin, now's the time to check your strategy and maybe buy the dip. Watch for Fed announcements—if rates rise, Bitcoin could fall further. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "FjLa6M252to",
+      "youtubeUrl": "https://youtube.com/watch?v=FjLa6M252to",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-20T17:53:28.052223+00:00",
+      "uploadedAt": "2026-05-20T17:59:22.787834+00:00",
+      "audioLineDurations": [
+        5.674666666666667,
+        7.616,
+        5.632,
+        5.184,
+        4.778666666666667,
+        4.2026666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-drops-to-76700-as-etf-outflows-and-rate-hike-fears-grow_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b",
+      "title": "Bitcoin Dips Below $77,000 as ETF Outflows Hit $1B",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "etf",
+        "price-drop",
+        "investing",
+        "cryptocurrency"
+      ],
+      "articleSummary": "Bitcoin's price has dropped below $77,000 due to significant outflows from Bitcoin ETFs and large-scale liquidations. This marks a notable shift after a period of strong performance. \n\nThe outflows exceeded $1 billion, indicating a loss of investor confidence in the short term.",
+      "articleBody": "Bitcoin's price has fallen below $77,000, marking a significant drop from recent highs. This decline is attributed to heavy outflows from Bitcoin ETFs, which have surpassed $1 billion. Additionally, large-scale liquidations and weakening capital inflows have contributed to the downward pressure on the price.\n\nAccording to Bitcoin Magazine, the outflows from Bitcoin ETFs have been particularly severe, with over $1 billion exiting these funds in recent days. This exodus suggests a shift in investor sentiment, potentially due to market uncertainty or profit-taking after a prolonged bull run. The liquidations of leveraged positions have further exacerbated the price decline, as automated sell-offs trigger cascading effects.\n\nFor everyday investors, this price drop could present a buying opportunity, as Bitcoin often rebounds after significant corrections. However, it also highlights the volatility inherent in cryptocurrency markets, emphasizing the importance of risk management and diversification. Investors should monitor market trends and consider their long-term strategy before making any decisions.\n\nMoving forward, investors should watch for signs of stabilization in ETF inflows and outflows, as well as any significant changes in market sentiment. A rebound in capital inflows could signal a recovery, while continued outflows may indicate further downward pressure. Keeping an ey",
+      "imageUrl": "/images/articles/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b",
+      "script": {
+        "hook": "Bitcoin just dropped below $77,000, and here's what it means for your money.",
+        "narration_lines": [
+          "Over $1 billion just left Bitcoin ETFs, showing investors are pulling out fast.",
+          "This price drop is a wake-up call about cryptocurrency's wild swings.",
+          "Imagine buying Bitcoin like a bargain stock after a big sale.",
+          "But remember, this could just be a short-term dip or the start of a bigger trend.",
+          "Keep an eye on ETF flows—they're your crystal ball for Bitcoin's next move.",
+          "For more crypto news made simple, visit cryptocatalyst dot news."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "596bc5a92f7929d8",
+      "scriptText": "Bitcoin just dropped below $77,000, and here's what it means for your money. Over $1 billion just left Bitcoin ETFs, showing investors are pulling out fast. This price drop is a wake-up call about cryptocurrency's wild swings. Imagine buying Bitcoin like a bargain stock after a big sale. But remember, this could just be a short-term dip or the start of a bigger trend. Keep an eye on ETF flows—they're your crystal ball for Bitcoin's next move. For more crypto news made simple, visit cryptocatalyst dot news. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "0YabEjz1LwI",
+      "youtubeUrl": "https://youtube.com/watch?v=0YabEjz1LwI",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-20T17:53:33.655066+00:00",
+      "uploadedAt": "2026-05-20T17:59:24.578023+00:00",
+      "audioLineDurations": [
+        6.08,
+        5.568,
+        4.245333333333333,
+        3.904,
+        4.565333333333333,
+        4.8853333333333335,
+        4.032,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_3.jpg"
+      ]
     }
   ]
 }
