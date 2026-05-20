@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-20-glassnode-10-of-bitcoin-supply-at-risk-from-quantum-computing",
+  "title": "Glassnode: 10% of Bitcoin Supply at Risk from Quantum Computing",
+  "summary": "Analytics firm Glassnode warns that nearly 10% of Bitcoin's supply could be compromised by a quantum computing breakthrough. The firm recommends implementing quantum-resistant solutions like BIP-360 to mitigate this risk.",
+  "body": "Glassnode, a leading blockchain analytics provider, has identified that approximately 10% of the Bitcoin supply is potentially vulnerable to a future quantum computing breakthrough. This revelation underscores the urgent need for the Bitcoin community to adopt quantum-resistant cryptographic solutions.\n\nThe analysis highlights that certain Bitcoin addresses and transactions could be at risk if a powerful enough quantum computer is developed. Glassnode specifically points to BIP-360, a proposed Bitcoin Improvement Proposal, as a potential solution to enhance the network's resilience against quantum threats.\n\nFor everyday Bitcoin users, this news serves as a reminder of the evolving nature of cryptographic security. While a quantum computing breakthrough capable of threatening Bitcoin is not imminent, the community is encouraged to stay informed about developments in quantum-resistant technologies. This ensures that their holdings remain secure in the long term.\n\nMoving forward, Bitcoin developers and users should monitor discussions around BIP-360 and other quantum-resistant proposals. Keeping an eye on advancements in quantum computing and cryptographic research will be crucial for maintaining the security of the Bitcoin network.",
+  "sourceUrl": "https://cointelegraph.com/news/nearly-10-bitcoin-supply-structurally-unsafe-quantum-breakthrough-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "glassnode",
+    "bip-360"
+  ],
+  "publishedAt": "2026-05-20T21:56:29.524560+00:00",
+  "imageUrl": "/images/articles/2026-05-20-glassnode-10-of-bitcoin-supply-at-risk-from-quantum-computing.jpg",
+  "twitterThread": [
+    "Nearly 10% of Bitcoin's supply could be at risk from a future quantum computing breakthrough, according to Glassnode.",
+    "Glassnode's analysis shows that certain Bitcoin addresses and transactions may be vulnerable. BIP-360 is proposed as a solution to mitigate this risk.",
+    "Bitcoin users should stay informed about quantum-resistant technologies. Monitor developments around BIP-360 to keep your holdings secure. Read more → https://cryptocatalyst.news/articles/2026-05-20-glassnode-10-of-bitcoin-supply-at-risk-from-quantum-computing"
+  ],
+  "standaloneTweet": "Glassnode warns that 10% of Bitcoin's supply could be at risk from quantum computing. Stay informed about quantum-resistant solutions like BIP-360 to protect your holdings."
+}
