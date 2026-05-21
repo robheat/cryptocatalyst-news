@@ -2719,6 +2719,116 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-19-bitcoin-dips-below-77000-as-etf-outflows-hit-1b_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms",
+      "title": "SpaceX Holds $1.45 Billion in Bitcoin as IPO Looms",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "elon-musk",
+        "spacex",
+        "ipo",
+        "crypto-investments"
+      ],
+      "articleSummary": "Elon Musk's SpaceX owns 18,000 bitcoins, making it one of the largest corporate holders. The company is reportedly preparing for an initial public offering (IPO).",
+      "articleBody": "Elon Musk's SpaceX has accumulated a significant Bitcoin stash, holding over 18,000 bitcoins valued at approximately $1.45 billion. This positions SpaceX as the seventh-largest Bitcoin holder globally, surpassing major players like Coinbase.\n\nAccording to reports, SpaceX's Bitcoin holdings have been quietly amassed over time, reflecting Musk's long-standing interest in cryptocurrencies. The company is reportedly preparing for an initial public offering (IPO), which could further solidify its position in the crypto and space industries.\n\nThis substantial Bitcoin investment could have significant implications for SpaceX's financial strategy and public perception. For everyday investors, this move highlights the growing mainstream acceptance of Bitcoin as a legitimate asset class. It also underscores the potential for increased volatility and interest in the crypto market as more high-profile companies disclose their Bitcoin holdings.\n\nAs SpaceX moves closer to its IPO, investors and crypto enthusiasts should watch for any updates on the company's Bitcoin strategy. The timing and details of the IPO, as well as any regulatory developments, will be crucial factors to monitor. Stay tuned for more developments as the story unfolds.",
+      "imageUrl": "/images/articles/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms",
+      "script": {
+        "hook": "Elon Musk’s SpaceX just revealed it’s sitting on a $1.45 billion Bitcoin fortune, and it could shake up the crypto world.",
+        "narration_lines": [
+          "SpaceX owns 18,000 bitcoins, making it one of the top Bitcoin holders globally.",
+          "This massive investment shows big companies are taking cryptocurrency seriously as a long-term asset.",
+          "Imagine your favorite tech giant suddenly holding billions in Bitcoin—it could boost confidence in crypto overall.",
+          "If you're curious, now might be a good time to look into how Bitcoin fits into your own investment strategy.",
+          "With SpaceX possibly going public soon, keep an eye on how this move affects its stock and the crypto market."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "de8c9974462a86a3",
+      "scriptText": "Elon Musk’s SpaceX just revealed it’s sitting on a $1.45 billion Bitcoin fortune, and it could shake up the crypto world. SpaceX owns 18,000 bitcoins, making it one of the top Bitcoin holders globally. This massive investment shows big companies are taking cryptocurrency seriously as a long-term asset. Imagine your favorite tech giant suddenly holding billions in Bitcoin—it could boost confidence in crypto overall. If you're curious, now might be a good time to look into how Bitcoin fits into your own investment strategy. With SpaceX possibly going public soon, keep an eye on how this move affects its stock and the crypto market. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "eGIn80rKgBQ",
+      "youtubeUrl": "https://youtube.com/watch?v=eGIn80rKgBQ",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-21T17:30:50.627726+00:00",
+      "uploadedAt": "2026-05-21T17:37:09.482778+00:00",
+      "audioLineDurations": [
+        8.768,
+        6.826666666666667,
+        6.592,
+        7.125333333333334,
+        5.8453333333333335,
+        6.677333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-21-spacex-holds-145-billion-in-bitcoin-as-ipo-looms_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools",
+      "title": "Bitcoin Rally Faces Resistance as Momentum Cools",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "market-analysis",
+        "etf",
+        "investing",
+        "cryptocurrency"
+      ],
+      "articleSummary": "Bitcoin's price remains strong, but signs of slowing demand and crowded long positions suggest the rally may be losing steam. Weakening ETF inflows and spot market demand are key indicators to watch.",
+      "articleBody": "Bitcoin's recent rally is showing signs of slowing down, according to Glassnode Insights. While the cryptocurrency remains structurally resilient, several underlying factors suggest that upside momentum is cooling. These include weakening spot demand, slowing ETF inflows, and increasingly crowded long positioning.\n\nKey details from Glassnode's analysis highlight that spot market demand has been declining, which is a crucial indicator of investor sentiment. Additionally, ETF inflows, which have been a significant driver of Bitcoin's price, are also slowing down. This combination of factors points to a potential cooling of the rally, despite Bitcoin's overall resilience.\n\nFor everyday investors, this means it's important to be cautious. A cooling rally doesn't necessarily mean a price drop is imminent, but it does suggest that the market may be entering a period of consolidation. This could be a good time to reassess investment strategies and consider diversifying portfolios.\n\nMoving forward, investors should keep an eye on spot market demand and ETF inflows. These indicators will provide valuable insights into the direction of Bitcoin's price. If these trends continue to weaken, it could signal a more significant shift in the market. Stay informed and adjust your strategies accordingly.",
+      "imageUrl": "/images/articles/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools",
+      "script": {
+        "hook": "Bitcoin’s price is cooling down, and here’s what it means for your wallet.",
+        "narration_lines": [
+          "Bitcoin’s recent rally is slowing, with weaker demand and crowded long positions.",
+          "Spot market demand and ETF inflows are key indicators to watch.",
+          "For everyday investors, this could mean a period of consolidation ahead.",
+          "Think of it like a rollercoaster hitting its peak—time to buckle up and reassess.",
+          "If these trends continue, Bitcoin’s price could see a more significant shift.",
+          "Stay informed and consider diversifying your portfolio to stay safe."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 80
+      },
+      "scriptHash": "ddb3363664a9639a",
+      "scriptText": "Bitcoin’s price is cooling down, and here’s what it means for your wallet. Bitcoin’s recent rally is slowing, with weaker demand and crowded long positions. Spot market demand and ETF inflows are key indicators to watch. For everyday investors, this could mean a period of consolidation ahead. Think of it like a rollercoaster hitting its peak—time to buckle up and reassess. If these trends continue, Bitcoin’s price could see a more significant shift. Stay informed and consider diversifying your portfolio to stay safe. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "IWYF3l7urFM",
+      "youtubeUrl": "https://youtube.com/watch?v=IWYF3l7urFM",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-21T17:30:57.831259+00:00",
+      "uploadedAt": "2026-05-21T17:37:11.969082+00:00",
+      "audioLineDurations": [
+        3.9466666666666668,
+        5.077333333333334,
+        4.608,
+        4.330666666666667,
+        4.672,
+        4.309333333333333,
+        4.266666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-20-bitcoin-rally-faces-resistance-as-momentum-cools_bg_3.jpg"
+      ]
     }
   ]
 }
