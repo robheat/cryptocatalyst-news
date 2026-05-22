@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-22-bitcoins-2010-inflation-bug-how-a-single-line-of-code-almost-caused-chaos",
+  "title": "Bitcoin's 2010 Inflation Bug: How a Single Line of Code Almost Caused Chaos",
+  "summary": "A critical bug in Bitcoin's early code could have allowed unlimited coin creation. Developers fixed it within hours, but the incident highlights the risks of open-source software. The bug was discovered in 2010 and could have led to the creation of an infinite number of bitcoins.",
+  "body": "In 2010, a critical bug in Bitcoin's code, known as the \"inflation bug,\" was discovered. This bug allowed users to create an unlimited number of bitcoins, potentially destabilizing the entire network. The issue was found by a developer who noticed that a transaction was creating more bitcoins than it should have.\n\nThe bug was a result of a simple coding error in the Bitcoin client. It allowed users to bypass the 21 million bitcoin limit, which is a fundamental aspect of Bitcoin's design. Fortunately, the bug was fixed within hours of its discovery, and no additional bitcoins were created as a result.\n\nThis incident underscores the importance of vigilance in open-source software. While Bitcoin's transparency allows for community oversight, it also means that any flaws in the code are visible to everyone. For everyday users, this highlights the need for trust in the development community and the robustness of the network.\n\nThe quick response to the bug demonstrates the effectiveness of Bitcoin's decentralized development model. However, it also serves as a reminder that even the most secure systems can have vulnerabilities. Users should stay informed about such incidents and trust that the community will address any issues promptly.",
+  "sourceUrl": "https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bug",
+    "inflation",
+    "security",
+    "open-source",
+    "postmortem"
+  ],
+  "publishedAt": "2026-05-22T13:38:21.508902+00:00",
+  "imageUrl": "/images/articles/2026-05-22-bitcoins-2010-inflation-bug-how-a-single-line-of-code-almost-caused-chaos.jpg",
+  "twitterThread": [
+    "A single line of code could have broken Bitcoin forever. Here's how developers fixed it in hours.",
+    "In 2010, a bug allowed unlimited bitcoin creation. The fix came quickly, but it shows the risks of open-source software.",
+    "Trust in Bitcoin's development community is key. Stay informed and know that issues are addressed promptly. Read more → https://cryptocatalyst.news/articles/2026-05-22-bitcoins-2010-inflation-bug-how-a-single-line-of-code-almost-caused-chaos"
+  ],
+  "standaloneTweet": "A 2010 Bitcoin bug could have created infinite coins. The quick fix shows why trust in its open-source community matters."
+}

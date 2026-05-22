@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-22-verus-bridge-hacker-returns-85m-after-bounty-offer",
+  "title": "Verus bridge hacker returns $8.5M after bounty offer",
+  "summary": "A hacker who exploited the Verus bridge returned 75% of the stolen funds, totaling $8.5 million, after the protocol offered a bounty. This recovery deal highlights how some hackers negotiate with projects to return stolen assets.",
+  "body": "The hacker responsible for exploiting the Verus bridge returned $8.5 million in stolen funds, which represents 75% of the total amount taken. This return was part of a recovery deal negotiated with the Verus protocol just days after the incident.\n\nThe Verus bridge was compromised, leading to a significant theft, but the protocol quickly offered a bounty to incentivize the return of the funds. The hacker agreed to return the majority of the stolen assets in exchange for the bounty, demonstrating a growing trend of negotiated settlements in crypto hacks.\n\nThis incident shows that even in cases of major exploits, there is often a path to recovery. For everyday users, it underscores the importance of using protocols that have robust security measures and contingency plans for such incidents.\n\nMoving forward, users should keep an eye on how the Verus protocol implements additional security measures to prevent future exploits. The success of this recovery deal may encourage other projects to adopt similar bounty programs to mitigate losses from hacks.",
+  "sourceUrl": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "hack",
+    "recovery",
+    "bounty",
+    "verus",
+    "bridge",
+    "crypto"
+  ],
+  "publishedAt": "2026-05-22T13:39:57.473461+00:00",
+  "imageUrl": "/images/articles/2026-05-22-verus-bridge-hacker-returns-85m-after-bounty-offer.jpg",
+  "twitterThread": [
+    "A hacker returned $8.5M to Verus after exploiting their bridge. Here's why this deal matters for crypto security.",
+    "The Verus protocol offered a bounty to recover 75% of the stolen funds. This negotiated settlement shows hackers sometimes return assets for the right incentive.",
+    "If you use crypto bridges, watch how Verus improves security after this hack. Bounty programs could become more common to recover stolen funds. Read more → https://cryptocatalyst.news/articles/2026-05-22-verus-bridge-hacker-returns-85m-after-bounty-offer"
+  ],
+  "standaloneTweet": "A hacker returned $8.5M to Verus after exploiting their bridge. This deal shows how bounties can help recover stolen crypto assets."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-22-near-protocol-to-automate-growth-with-dynamic-resharding-token-surges",
+  "title": "Near Protocol to Automate Growth with Dynamic Resharding, Token Surges",
+  "summary": "Near Protocol will introduce dynamic resharding in June, allowing its blockchain to automatically scale with demand. The NEAR token has surged 20% in the past week as investors anticipate the upgrade.",
+  "body": "Near Protocol, a blockchain platform, announced plans to implement dynamic resharding in June. This feature will enable the network to automatically add more shards—smaller, parallel blockchains—as demand grows, eliminating the need for manual intervention. The upgrade aims to improve scalability and performance, making the network more efficient.\n\nThe NEAR token has seen a significant price increase, rising 20% over the past week. This surge comes as investors anticipate the benefits of dynamic resharding, which could make the Near Protocol more competitive with other high-performance blockchains. The upgrade is expected to enhance transaction speeds and reduce congestion on the network.\n\nFor everyday users, this means faster and more reliable transactions on the Near Protocol. Developers building on the platform will benefit from a more scalable infrastructure, potentially attracting more projects and users. The automatic scaling feature could also lead to lower transaction fees over time.\n\nThe dynamic resharding upgrade is part of Near Protocol's ongoing efforts to improve its technology. The community is closely watching the implementation, as successful execution could further boost the NEAR token's price and adoption. Users and investors should keep an eye on the June rollout and monitor the network's performance post-upgrade.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "near",
+    "blockchain",
+    "scaling",
+    "token",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-05-22T13:39:03.707572+00:00",
+  "imageUrl": "/images/articles/2026-05-22-near-protocol-to-automate-growth-with-dynamic-resharding-token-surges.jpg",
+  "twitterThread": [
+    "Near Protocol's NEAR token is up 20% this week as it prepares to automate network scaling in June. Here's why it matters →",
+    "Dynamic resharding lets Near add new shards automatically as demand grows, improving speed and efficiency without manual intervention. A big step for scalability →",
+    "If successful, this could make Near more competitive and lower fees. Watch for the June rollout. Read more → https://cryptocatalyst.news/articles/2026-05-22-near-protocol-to-automate-growth-with-dynamic-resharding-token-surges"
+  ],
+  "standaloneTweet": "Near Protocol's upcoming dynamic resharding could make transactions faster and cheaper. The NEAR token is already up 20% this week."
+}
