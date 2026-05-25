@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-25-eth-rangers-program-25m-funded-for-ethereum-security-research",
+  "title": "ETH Rangers Program: $2.5M Funded for Ethereum Security Research",
+  "summary": "The Ethereum Foundation and partners allocated $2.5 million to support security researchers in 2025. The program funded 50 independent projects focused on improving Ethereum's security.",
+  "body": "In 2025, the Ethereum Foundation, along with Secureum, The Red Guild, and Security Alliance (SEAL), launched the ETH Rangers Program. This initiative provided stipends to individuals working on public goods security projects within the Ethereum ecosystem. The goal was to fund independent efforts that enhance the security of Ethereum.\n\nThe program allocated $2.5 million in total, supporting 50 projects. These projects ranged from smart contract audits to security tool development. The funding helped researchers dedicate more time to identifying and mitigating vulnerabilities in Ethereum's infrastructure.\n\nThis initiative is significant for everyday users because it directly improves the security of the Ethereum network. More secure smart contracts and infrastructure mean fewer hacks and vulnerabilities, which protects users' funds and data. By funding independent researchers, the program ensures a diverse range of security expertise is applied to the ecosystem.\n\nThe ETH Rangers Program has set a precedent for future security initiatives. Users should watch for similar programs that aim to enhance the security of blockchain networks. Keep an eye on announcements from the Ethereum Foundation and its partners for potential opportunities to contribute to or benefit from such initiatives.",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/04/16/eth-rangers-recap",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "security",
+    "funding",
+    "research",
+    "blockchain"
+  ],
+  "publishedAt": "2026-05-25T21:07:01.626521+00:00",
+  "imageUrl": "/images/articles/2026-05-25-eth-rangers-program-25m-funded-for-ethereum-security-research.jpg",
+  "twitterThread": [
+    "Ethereum just funded 50 security projects with $2.5M to keep the network safe. Here's how it impacts you →",
+    "The ETH Rangers Program supported independent researchers working on smart contract audits and security tools. This means fewer hacks and more secure transactions for everyone.",
+    "Want to stay safe on Ethereum? Follow updates from the Ethereum Foundation for future security initiatives. Read more → https://cryptocatalyst.news/articles/2026-05-25-eth-rangers-program-25m-funded-for-ethereum-security-research"
+  ],
+  "standaloneTweet": "Ethereum just funded 50 security projects with $2.5M to keep the network safe. This means fewer hacks and more secure transactions for everyone."
+}

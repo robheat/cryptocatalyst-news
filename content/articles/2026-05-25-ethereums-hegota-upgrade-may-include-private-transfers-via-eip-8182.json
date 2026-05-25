@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182",
+  "title": "Ethereum’s Hegota Upgrade May Include Private Transfers via EIP-8182",
+  "summary": "Facet co-founder Tom Lehman proposed EIP-8182 for Ethereum’s upcoming Hegota upgrade, which would enable native private transactions on the network. This could enhance privacy for users without requiring additional layers or protocols.",
+  "body": "Facet co-founder Tom Lehman has pitched EIP-8182 for inclusion in Ethereum’s upcoming Hegota upgrade. The proposal aims to introduce native private transfers directly on the Ethereum network, a feature that has been highly anticipated by privacy-focused users.\n\nEIP-8182, if accepted, would allow transactions to be conducted privately without the need for additional layers or protocols. This would be a significant step forward for Ethereum, as it currently lacks native privacy features. The Hegota upgrade is expected to bring several improvements to the network, and the inclusion of EIP-8182 could be a game-changer for users seeking enhanced privacy.\n\nFor everyday users, this means that future transactions on Ethereum could be more private by default. This would be particularly beneficial for those who handle sensitive financial information or prefer to keep their transaction history confidential. It could also make Ethereum more competitive with other privacy-focused blockchains.\n\nThe next step is for the Ethereum community to review and potentially approve EIP-8182 for inclusion in the Hegota upgrade. Users and developers interested in privacy features should keep an eye on the progress of this proposal and the timeline for the Hegota upgrade.",
+  "sourceUrl": "https://www.theblock.co/post/402464/facet-co-founder-pitches-eip-8182-private-transfers-for-inclusion-in-ethereums-hegota-upgrade?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "privacy",
+    "hegota",
+    "eip-8182",
+    "facet"
+  ],
+  "publishedAt": "2026-05-25T21:06:03.099802+00:00",
+  "imageUrl": "/images/articles/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182.jpg",
+  "twitterThread": [
+    "Ethereum’s Hegota upgrade could soon include private transfers via EIP-8182. Privacy just got a boost! 🔒",
+    "Facet’s Tom Lehman pitched EIP-8182 to bring native private transactions to Ethereum. No extra layers needed!",
+    "If approved, this could make Ethereum transactions more private by default. Watch this space! Read more → https://cryptocatalyst.news/articles/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182"
+  ],
+  "standaloneTweet": "Ethereum’s upcoming Hegota upgrade might finally bring native private transactions via EIP-8182. Privacy just got a big upgrade! 🔒"
+}
