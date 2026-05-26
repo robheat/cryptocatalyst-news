@@ -3276,6 +3276,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-24-us-lawmaker-proposes-bill-to-create-national-bitcoin-reserve_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-24-us-lawmaker-proposes-bill-to-create-national-bitcoin-reserve_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit",
+      "title": "Squid Distances Itself from $3.2M Third-Party Module Exploit",
+      "category": "defi",
+      "tags": [
+        "squid",
+        "defi",
+        "exploit",
+        "security",
+        "third-party",
+        "squidrouter"
+      ],
+      "articleSummary": "Squid's core protocol remains unaffected after a third-party module, SquidRouterModule, was exploited for $3.2 million. The company has no information about who deployed the vulnerable module.",
+      "articleBody": "Squid, a decentralized finance (DeFi) protocol, has stated that its core protocol was not impacted by a recent exploit. The incident involved a third-party module called SquidRouterModule, which was exploited for approximately $3.2 million. Squid has distanced itself from the module, stating that it does not know who deployed it.\n\nThe exploit targeted the SquidRouterModule, a separate component from Squid's main protocol. The company emphasized that its core protocol remains secure and unaffected. Squid has not provided further details about the exploit or the individuals behind it, but it has assured users that the main protocol is safe.\n\nFor everyday users, this incident highlights the risks associated with third-party modules in DeFi. While the core protocol remains secure, users should be cautious when interacting with additional modules or extensions. It's crucial to verify the security and legitimacy of any third-party components before use.\n\nMoving forward, users should keep an eye on official announcements from Squid and other DeFi protocols regarding security updates and best practices. Staying informed and vigilant can help mitigate risks in the DeFi space.",
+      "imageUrl": "/images/articles/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit",
+      "script": {
+        "hook": "Your cryptocurrency might be at risk from a sneaky third-party module.",
+        "narration_lines": [
+          "Squid, a popular DeFi protocol, just had a $3.2 million exploit in a third-party module.",
+          "The good news? Squid's core protocol is still safe and untouched.",
+          "This shows how risky third-party add-ons can be in cryptocurrency.",
+          "Always double-check any extra modules or extensions before using them.",
+          "Stay alert and follow official updates from Squid and other DeFi platforms.",
+          "Your money could depend on it."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "ff1694606dd81650",
+      "scriptText": "Your cryptocurrency might be at risk from a sneaky third-party module. Squid, a popular DeFi protocol, just had a $3.2 million exploit in a third-party module. The good news? Squid's core protocol is still safe and untouched. This shows how risky third-party add-ons can be in cryptocurrency. Always double-check any extra modules or extensions before using them. Stay alert and follow official updates from Squid and other DeFi platforms. Your money could depend on it. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-26T17:55:13.594763+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        4.2026666666666666,
+        6.72,
+        3.8186666666666667,
+        3.989333333333333,
+        4.458666666666667,
+        4.693333333333333,
+        1.6426666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-26-squid-distances-itself-from-32m-third-party-module-exploit_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182",
+      "title": "Ethereum’s Hegota Upgrade May Include Private Transfers via EIP-8182",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "privacy",
+        "hegota",
+        "eip-8182",
+        "facet"
+      ],
+      "articleSummary": "Facet co-founder Tom Lehman proposed EIP-8182 for Ethereum’s upcoming Hegota upgrade, which would enable native private transactions on the network. This could enhance privacy for users without requiring additional layers or protocols.",
+      "articleBody": "Facet co-founder Tom Lehman has pitched EIP-8182 for inclusion in Ethereum’s upcoming Hegota upgrade. The proposal aims to introduce native private transfers directly on the Ethereum network, a feature that has been highly anticipated by privacy-focused users.\n\nEIP-8182, if accepted, would allow transactions to be conducted privately without the need for additional layers or protocols. This would be a significant step forward for Ethereum, as it currently lacks native privacy features. The Hegota upgrade is expected to bring several improvements to the network, and the inclusion of EIP-8182 could be a game-changer for users seeking enhanced privacy.\n\nFor everyday users, this means that future transactions on Ethereum could be more private by default. This would be particularly beneficial for those who handle sensitive financial information or prefer to keep their transaction history confidential. It could also make Ethereum more competitive with other privacy-focused blockchains.\n\nThe next step is for the Ethereum community to review and potentially approve EIP-8182 for inclusion in the Hegota upgrade. Users and developers interested in privacy features should keep an eye on the progress of this proposal and the timeline for the Hegota upgrade.",
+      "imageUrl": "/images/articles/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182.jpg",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182",
+      "script": {
+        "hook": "Your Ethereum transactions could soon be completely private.",
+        "narration_lines": [
+          "Right now, anyone can see who you send cryptocurrency to and how much.",
+          "A new proposal called EIP-8182 could change that with the upcoming Hegota upgrade.",
+          "This would let you send money privately without extra tools or steps.",
+          "Imagine sending money like a sealed envelope instead of a postcard for everyone to read.",
+          "If approved, this could make Ethereum more attractive to privacy-conscious users.",
+          "Keep an eye on the Ethereum community's decision on this game-changing feature."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "d5c9301011cc5390",
+      "scriptText": "Your Ethereum transactions could soon be completely private. Right now, anyone can see who you send cryptocurrency to and how much. A new proposal called EIP-8182 could change that with the upcoming Hegota upgrade. This would let you send money privately without extra tools or steps. Imagine sending money like a sealed envelope instead of a postcard for everyone to read. If approved, this could make Ethereum more attractive to privacy-conscious users. Keep an eye on the Ethereum community's decision on this game-changing feature. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182.mp4",
+      "status": "rendered",
+      "youtubeVideoId": null,
+      "youtubeUrl": null,
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-26T17:55:16.570823+00:00",
+      "uploadedAt": null,
+      "audioLineDurations": [
+        3.6906666666666665,
+        4.309333333333333,
+        7.296,
+        4.053333333333334,
+        5.269333333333333,
+        4.757333333333333,
+        5.013333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-25-ethereums-hegota-upgrade-may-include-private-transfers-via-eip-8182_bg_3.jpg"
+      ]
     }
   ]
 }
