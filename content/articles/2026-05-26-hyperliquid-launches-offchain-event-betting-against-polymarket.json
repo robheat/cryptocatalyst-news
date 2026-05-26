@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-26-hyperliquid-launches-offchain-event-betting-against-polymarket",
+  "title": "Hyperliquid Launches Offchain Event Betting Against Polymarket",
+  "summary": "Hyperliquid has introduced HIP-4, a new product allowing traders to bet on macroeconomic events like inflation and interest rates. Unlike competitors, it uses validators instead of external dispute resolution for settlements.",
+  "body": "Hyperliquid, a decentralized exchange, has unveiled HIP-4, a product that enables traders to place bets on offchain macroeconomic events. These events include inflation rates, interest rate decisions, and other economic indicators. The platform uses validators to settle disputes, which is different from the UMA-style external dispute resolution used by competitors like Polymarket.\n\nThe new product allows users to trade contracts based on real-world events without relying on centralized oracles. This could make it easier and more transparent to bet on economic outcomes. Hyperliquid's approach leverages its existing validator network to ensure the accuracy of the event outcomes, potentially reducing the need for third-party dispute resolution.\n\nFor everyday traders, this means more opportunities to hedge or speculate on economic events directly from their crypto wallets. It could also lead to more liquidity and competition in the event-based trading market, potentially offering better odds and more diverse markets. The use of validators instead of external dispute resolution could also make the process faster and more efficient.\n\nHyperliquid's move could challenge Polymarket's dominance in the event-based betting space. Traders should watch for the adoption rate of HIP-4 and how it compares to existing platforms in terms of liquidity and user experience. If successful, it could set a new standard for decentralized event-based trading.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/26/hyperliquid-takes-aim-at-polymarket-with-launch-of-offchain-event-contracts",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "hyperliquid",
+    "polymarket",
+    "decentralized",
+    "event-betting",
+    "macroeconomics"
+  ],
+  "publishedAt": "2026-05-26T13:40:24.481687+00:00",
+  "imageUrl": "/images/articles/2026-05-26-hyperliquid-launches-offchain-event-betting-against-polymarket.jpg",
+  "twitterThread": [
+    "Hyperliquid just launched HIP-4, letting traders bet on inflation, interest rates, and more—all settled by validators, not external dispute resolution. 🎯",
+    "Unlike competitors, Hyperliquid uses its own validator network to settle bets on real-world events. This could make event-based trading faster and more transparent. 📊",
+    "Traders should watch how HIP-4 stacks up against Polymarket. More competition could mean better odds and more markets. Read more → https://cryptocatalyst.news/articles/2026-05-26-hyperliquid-launches-offchain-event-betting-against-polymarket"
+  ],
+  "standaloneTweet": "Hyperliquid's new HIP-4 lets you bet on inflation and interest rates using validators instead of external dispute resolution. More competition in event betting could mean better odds for traders. 📈"
+}

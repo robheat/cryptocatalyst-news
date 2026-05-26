@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-26-stablr-freezes-stablecoins-after-135m-attack",
+  "title": "StablR Freezes Stablecoins After $13.5M Attack",
+  "summary": "StablR has frozen its USDR and EURR stablecoins after an attacker exploited a security flaw to create $13.5 million in unbacked tokens, stealing $2.8 million. The breach was linked to a weakness in a 1-of-3 multisig wallet.",
+  "body": "StablR, a stablecoin issuer, has frozen its USDR and EURR stablecoins following a significant security breach. An attacker exploited a vulnerability in a 1-of-3 multisig wallet to mint $13.5 million in unbacked tokens, netting them $2.8 million in the process.\n\nThe attack was made possible due to a weakness in the multisig wallet setup, which allowed the attacker to compromise one of the keys. This breach highlights the risks associated with multisig wallets and the importance of robust security measures in the crypto space.\n\nFor everyday users, this incident underscores the importance of choosing stablecoins from reputable issuers with strong security protocols. It also serves as a reminder to keep an eye on the stability and backing of the stablecoins in your portfolio.\n\nStablR has not yet provided a timeline for when the frozen stablecoins will be unfrozen or how they plan to compensate affected users. Users holding USDR or EURR should monitor official announcements from StablR for updates.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/05/26/stablr-freezes-usdr-and-eurr-after-attacker-mints-usd13-5-million-in-unbacked-tokens",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "stablecoin",
+    "security",
+    "hack",
+    "stablr",
+    "multisig"
+  ],
+  "publishedAt": "2026-05-26T13:40:01.085689+00:00",
+  "imageUrl": "/images/articles/2026-05-26-stablr-freezes-stablecoins-after-135m-attack.jpg",
+  "twitterThread": [
+    "StablR just froze its USDR and EURR stablecoins after a $13.5M attack. Here's what happened →",
+    "An attacker exploited a flaw in a 1-of-3 multisig wallet to mint $13.5M in unbacked tokens, stealing $2.8M. StablR has frozen the affected stablecoins to prevent further damage.",
+    "If you hold USDR or EURR, keep an eye on StablR's official updates. No timeline yet for when the freeze will be lifted. Read more → https://cryptocatalyst.news/articles/2026-05-26-stablr-freezes-stablecoins-after-135m-attack"
+  ],
+  "standaloneTweet": "StablR froze its stablecoins after a $13.5M attack. If you hold USDR or EURR, watch for updates on when they'll be unfrozen."
+}
