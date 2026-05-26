@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-26-coinbases-base-introduces-ai-tool-for-crypto-wallet-and-defi-management",
+  "title": "Coinbase’s Base Introduces AI Tool for Crypto Wallet and DeFi Management",
+  "summary": "Coinbase’s Base has launched Base MCP, a tool that lets users connect their Base Account to AI clients like ChatGPT. This allows AI to manage crypto wallets and DeFi apps securely using the Model Context Protocol (MCP).",
+  "body": "Coinbase’s Base has introduced a new AI tool called Base MCP, which connects users’ Base Accounts to AI clients such as ChatGPT, Claude, and Cursor. This integration uses the Model Context Protocol (MCP), an emerging standard that enables AI systems to securely interact with external tools and applications.\n\nThe Base MCP tool allows users to manage their crypto wallets and DeFi apps through AI interfaces. This means users can perform transactions, check balances, and interact with decentralized finance applications directly through AI assistants, streamlining the crypto management process.\n\nThis development is significant for everyday users as it simplifies the often complex process of managing crypto assets. By leveraging AI, users can perform tasks more efficiently and securely, reducing the need for manual interactions with crypto wallets and DeFi platforms.\n\nFor those interested in trying out this new tool, Base MCP is now available for integration with popular AI clients. Users should ensure their Base Account is properly set up and follow the integration guidelines provided by Coinbase to start managing their crypto assets through AI.\n",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/26/coinbase-s-base-launches-ai-tool-for-chatgpt-to-manage-crypto-wallets-and-defi-apps",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "ai",
+    "crypto",
+    "defi",
+    "coinbase",
+    "base",
+    "chatgpt"
+  ],
+  "publishedAt": "2026-05-26T21:45:53.676778+00:00",
+  "imageUrl": "/images/articles/2026-05-26-coinbases-base-introduces-ai-tool-for-crypto-wallet-and-defi-management.jpg",
+  "twitterThread": [
+    "Now you can manage your crypto wallet and DeFi apps through AI like ChatGPT, thanks to Coinbase’s new Base MCP tool.",
+    "Base MCP uses the Model Context Protocol (MCP) to securely connect your Base Account to AI clients, making crypto management easier than ever.",
+    "Want to try it out? Base MCP is now available for integration with popular AI clients. Read more → https://cryptocatalyst.news/articles/2026-05-26-coinbases-base-introduces-ai-tool-for-crypto-wallet-and-defi-management"
+  ],
+  "standaloneTweet": "Manage your crypto wallet and DeFi apps with AI! Coinbase’s Base MCP lets you use ChatGPT and others to handle your crypto securely."
+}
