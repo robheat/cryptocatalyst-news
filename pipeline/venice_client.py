@@ -91,7 +91,7 @@ def json_chat(
 
 def generate_image(
     prompt: str,
-    model: str = "grok-imagine-image",
+    model: str = "chroma",
 ) -> bytes:
     """
     Call Venice AI image generation and return raw image bytes.
