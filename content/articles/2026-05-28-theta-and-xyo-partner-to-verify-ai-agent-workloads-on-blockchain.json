@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-28-theta-and-xyo-partner-to-verify-ai-agent-workloads-on-blockchain",
+  "title": "Theta and XYO Partner to Verify AI Agent Workloads on Blockchain",
+  "summary": "Theta and XYO have teamed up to create a blockchain-based system that verifies AI agent tasks. This partnership aims to ensure transparency and reliability in AI operations using cryptographic proofs.",
+  "body": "Theta, a decentralized video delivery network, and XYO, a decentralized data ecosystem, have announced a partnership to develop a blockchain-based verification layer for AI agents. This new infrastructure will use cryptographic proofs to independently verify the workloads of AI agents, ensuring that their tasks are completed accurately and transparently.\n\nThe collaboration focuses on creating a system that can track and validate AI agent activities, providing a trust layer for AI operations. By leveraging blockchain technology, the partnership aims to address concerns about the reliability and verifiability of AI-generated data and tasks. This initiative is part of the broader DePIN (Decentralized Physical Infrastructure Network) movement, which seeks to build decentralized solutions for various industries.\n\nFor everyday users, this partnership could lead to more trustworthy AI services. As AI agents become more integrated into daily life, having a verifiable record of their activities can enhance security and reliability. This system could be particularly useful in sectors like healthcare, finance, and supply chain management, where accuracy and transparency are critical.\n\nThe next steps for this partnership include developing the cryptographic proof infrastructure and integrating it with existing AI agent platforms. Users and developers should watch for updates on the implementation and adoption of this verification system, which could set a new standard for AI accountability. Read more → https://www.theblock.co/post/402855/theta-and-xyo-partner-on-blockchain-based-verification-layer-for-ai-agents?utm_source=rss&utm_medium=rss",
+  "sourceUrl": "https://www.theblock.co/post/402855/theta-and-xyo-partner-on-blockchain-based-verification-layer-for-ai-agents?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "ai",
+    "blockchain",
+    "verification",
+    "depin",
+    "theta",
+    "xyo"
+  ],
+  "publishedAt": "2026-05-28T13:15:28.838358+00:00",
+  "imageUrl": "/images/articles/2026-05-28-theta-and-xyo-partner-to-verify-ai-agent-workloads-on-blockchain.png",
+  "twitterThread": [
+    "Theta and XYO are teaming up to verify AI agent tasks on the blockchain. This could make AI services more trustworthy for everyday users.",
+    "The partnership aims to create a cryptographic proof system that independently verifies AI workloads, ensuring transparency and reliability in AI operations.",
+    "This initiative is part of the DePIN movement, focusing on decentralized solutions. Watch for updates on implementation and adoption. Read more → https://cryptocatalyst.news/articles/2026-05-28-theta-and-xyo-partner-to-verify-ai-agent-workloads-on-blockchain"
+  ],
+  "standaloneTweet": "Theta and XYO are building a blockchain-based system to verify AI agent tasks. This could make AI services more reliable and transparent for everyday users."
+}

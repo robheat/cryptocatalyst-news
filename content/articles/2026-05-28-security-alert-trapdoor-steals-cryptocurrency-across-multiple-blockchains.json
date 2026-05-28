@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-28-security-alert-trapdoor-steals-cryptocurrency-across-multiple-blockchains",
+  "title": "Security Alert: TrapDoor Steals Cryptocurrency Across Multiple Blockchains",
+  "summary": "A new malware campaign, TrapDoor, is stealing cryptocurrency from wallets across different blockchains. Users are advised to update their security measures and monitor their accounts for suspicious activity.",
+  "body": "A sophisticated malware campaign named TrapDoor is targeting cryptocurrency users across multiple blockchains. This cross-ecosystem stealer is designed to infiltrate wallets and drain funds, making it a significant threat to crypto holders.\n\nThe TrapDoor malware is particularly dangerous because it can operate across various blockchain networks, including Bitcoin, Ethereum, and others. According to the analysis, the malware exploits vulnerabilities in wallet software and phishing techniques to gain access to users' private keys. Once inside, it can transfer funds to the attackers' wallets without the user's knowledge.\n\nFor everyday cryptocurrency users, this news underscores the importance of robust security practices. Ensuring that wallet software is up-to-date, using hardware wallets for large holdings, and being cautious of phishing attempts are critical steps to protect against such threats. Users should also regularly monitor their accounts for any unauthorized transactions.\n\nTo stay safe, users should immediately update their wallet software and enable two-factor authentication where possible. Additionally, being vigilant about suspicious emails and messages can help prevent falling victim to phishing attacks. Keeping an eye on community forums and official announcements from wallet providers can provide timely updates on new threats and security patches.",
+  "sourceUrl": "https://haltingproblems.com/analysis/trapdoor-cross-ecosystem-crypto-stealer/",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "security",
+    "malware",
+    "cryptocurrency",
+    "blockchain",
+    "phishing",
+    "wallet"
+  ],
+  "publishedAt": "2026-05-28T13:13:08.447438+00:00",
+  "imageUrl": "/images/articles/2026-05-28-security-alert-trapdoor-steals-cryptocurrency-across-multiple-blockchains.png",
+  "twitterThread": [
+    "A new malware campaign, TrapDoor, is stealing crypto across multiple blockchains. Users must update security measures immediately.",
+    "TrapDoor exploits wallet vulnerabilities and phishing to drain funds. It targets Bitcoin, Ethereum, and other networks.",
+    "To protect yourself, update wallet software, use hardware wallets, and watch for phishing attempts. Stay vigilant → https://cryptocatalyst.news/articles/2026-05-28-security-alert-trapdoor-steals-cryptocurrency-across-multiple-blockchains"
+  ],
+  "standaloneTweet": "A new malware campaign, TrapDoor, is stealing crypto across multiple blockchains. Update your wallet software and enable 2FA to stay safe."
+}
