@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-28-ethereum-name-service-ens-adds-bitcoin-address-support",
+  "title": "Ethereum Name Service (ENS) Adds Bitcoin Address Support",
+  "summary": "The Ethereum Name Service (ENS) now supports Bitcoin addresses, allowing users to send and receive BTC using human-readable names. This integration bridges the gap between Ethereum and Bitcoin networks, making crypto transactions more user-friendly.",
+  "body": "The Ethereum Name Service (ENS) has announced support for Bitcoin addresses, enabling users to send and receive Bitcoin (BTC) using ENS names. Previously limited to Ethereum and other compatible networks, this update allows users to associate their Bitcoin wallet addresses with ENS names, simplifying transactions.\n\nFor example, a user can now send BTC to a name like 'alice.eth' instead of a long, complex Bitcoin address. This integration is part of a broader effort to make cryptocurrency transactions more accessible and less error-prone for everyday users.\n\nThis development is significant for both Ethereum and Bitcoin users. It reduces the complexity of managing multiple cryptocurrencies by unifying them under a single, recognizable name. This could encourage more people to use both networks, as it removes a significant barrier to entry.\n\nUsers interested in this feature can link their Bitcoin addresses to their ENS names through the ENS manager. This update is available immediately, and more integrations with other blockchain networks are expected in the future. Keep an eye on ENS announcements for further updates.",
+  "sourceUrl": "https://x.com/0xkioto/status/2059962394122600887",
+  "sourceName": "@0xkioto on X",
+  "category": "general",
+  "tags": [
+    "ens",
+    "bitcoin",
+    "ethereum",
+    "crypto",
+    "wallet"
+  ],
+  "publishedAt": "2026-05-28T17:36:08.919101+00:00",
+  "imageUrl": "/images/articles/2026-05-28-ethereum-name-service-ens-adds-bitcoin-address-support.png",
+  "twitterThread": [
+    "Now you can send Bitcoin (BTC) to a human-readable ENS name like 'alice.eth' instead of a long address. made easier!",
+    "Ethereum Name Service (ENS) now supports Bitcoin addresses, bridging the gap between ETH and BTC networks. Simplify your transactions today.",
+    "Link your Bitcoin wallet to your ENS name and start using it for BTC transactions. Read more → https://cryptocatalyst.news/articles/2026-05-28-ethereum-name-service-ens-adds-bitcoin-address-support"
+  ],
+  "standaloneTweet": "Send Bitcoin to a name instead of a long address with ENS's new Bitcoin support. Simplify your crypto transactions today!"
+}
