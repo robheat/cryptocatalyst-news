@@ -3607,6 +3607,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-24-ethereum-protocol-fellowship-opens-applications-for-7th-cohort_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-24-ethereum-protocol-fellowship-opens-applications-for-7th-cohort_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum",
+      "title": "Stake DAO Exploit: Attacker Mints 5.4 Trillion vsdCRV on Arbitrum",
+      "category": "defi",
+      "tags": [
+        "stakedao",
+        "exploit",
+        "vsdrv",
+        "arbitrum",
+        "defi",
+        "security"
+      ],
+      "articleSummary": "Security researchers have identified an ongoing exploit of Stake DAO, where an attacker minted 5.4 trillion vsdCRV tokens on Arbitrum and is swapping them for ether. This highlights the ongoing risks of smart contract vulnerabilities in decentralized finance.",
+      "articleBody": "Security researchers have flagged an ongoing exploit of Stake DAO, a decentralized finance (DeFi) platform. The attacker minted an astonishing 5.4 trillion vsdCRV tokens on the Arbitrum blockchain and is actively swapping these tokens for ether (ETH), the second-largest cryptocurrency by market capitalization.\n\nAccording to reports, the exploit was discovered as the attacker began converting the minted vsdCRV tokens into ether. The exact method of the exploit is still under investigation, but it underscores the persistent risks associated with smart contract vulnerabilities in the DeFi space. Stake DAO has not yet issued an official statement regarding the incident.\n\nThis exploit serves as a stark reminder of the risks involved in DeFi platforms, where smart contracts can be targeted by attackers exploiting code vulnerabilities. For everyday users, this incident highlights the importance of due diligence and caution when engaging with DeFi protocols, as exploits can lead to significant financial losses for both the platform and its users.\n\nUsers of Stake DAO and similar DeFi platforms should monitor official channels for updates on the exploit and any potential compensations or security measures being implemented. It is also advisable to avoid interacting with suspicious smart contracts and to keep funds in secure wallets until the situation is resolved.",
+      "imageUrl": "/images/articles/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum",
+      "script": {
+        "hook": "Someone just stole billions in cryptocurrency, and it could affect your crypto investments.",
+        "narration_lines": [
+          "A hacker exploited a flaw in Stake DAO, minting 5.4 trillion vsdCRV tokens on Arbitrum.",
+          "They're swapping these fake tokens for real ether, the second-biggest cryptocurrency.",
+          "This shows how smart contract risks can lead to massive losses in decentralized finance (DeFi).",
+          "If you're using DeFi platforms, check official updates and keep your funds secure.",
+          "Always research platforms carefully to avoid falling victim to similar exploits."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "417f5cf87577f09e",
+      "scriptText": "Someone just stole billions in cryptocurrency, and it could affect your crypto investments. A hacker exploited a flaw in Stake DAO, minting 5.4 trillion vsdCRV tokens on Arbitrum. They're swapping these fake tokens for real ether, the second-biggest cryptocurrency. This shows how smart contract risks can lead to massive losses in decentralized finance (DeFi). If you're using DeFi platforms, check official updates and keep your funds secure. Always research platforms carefully to avoid falling victim to similar exploits. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "oX2jvFZwBxA",
+      "youtubeUrl": "https://youtube.com/watch?v=oX2jvFZwBxA",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-28T18:09:02.363569+00:00",
+      "uploadedAt": "2026-05-28T18:16:44.144575+00:00",
+      "audioLineDurations": [
+        5.056,
+        7.573333333333333,
+        4.8213333333333335,
+        6.421333333333333,
+        4.608,
+        5.077333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-stake-dao-exploit-attacker-mints-54-trillion-vsdcrv-on-arbitrum_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica",
+      "title": "Banca Sella First Italian Bank Licensed for Bitcoin Under MiCA",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mica",
+        "banca-sella",
+        "crypto-regulation",
+        "european-union"
+      ],
+      "articleSummary": "Banca Sella is the first Italian bank to receive EU authorization for bitcoin and crypto services under the MiCA regulation. This milestone marks a significant step for crypto adoption in traditional banking.",
+      "articleBody": "Banca Sella has become the first Italian bank to receive authorization to offer bitcoin and other cryptocurrency services under the European Union's Markets in Crypto-Assets Regulation (MiCA). This regulatory approval allows the bank to provide crypto-related services to its customers, including trading and custody.\n\nThe license was granted following a rigorous application process that ensured compliance with the EU's stringent MiCA framework. This regulation aims to provide a harmonized set of rules for crypto assets across the European Union, enhancing consumer protection and market integrity. Banca Sella's approval is a notable achievement, as it is the first traditional bank in Italy to receive such authorization.\n\nThis development is significant for everyday people because it bridges the gap between traditional banking and the crypto world. Customers of Banca Sella can now access crypto services through a regulated and trusted financial institution, potentially making crypto investments more accessible and secure. It also sets a precedent for other Italian banks to follow suit, fostering greater crypto adoption in the region.\n\nMoving forward, other Italian banks may seek similar licenses under MiCA, which could lead to increased competition and innovation in the crypto banking sector. For now, Banca Sella customers can look forward to new crypto services, and the broader m",
+      "imageUrl": "/images/articles/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica",
+      "script": {
+        "hook": "Your bank account could soon hold bitcoin — legally and safely, thanks to a first in Europe.",
+        "narration_lines": [
+          "Banca Sella in Italy just got the first EU license to offer bitcoin services under MiCA rules.",
+          "This means your local bank might soon offer crypto trading and storage, just like stocks or savings.",
+          "Think of it as a crypto savings account, but with the same protections as your regular bank.",
+          "For example, you could buy bitcoin directly from your bank app, with insurance and fraud protection.",
+          "If other Italian banks follow, competition could drive better services and lower fees for you.",
+          "Right now, only Banca Sella customers can use this, but keep an eye out for more options soon."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "78da4283257e3d6a",
+      "scriptText": "Your bank account could soon hold bitcoin — legally and safely, thanks to a first in Europe. Banca Sella in Italy just got the first EU license to offer bitcoin services under MiCA rules. This means your local bank might soon offer crypto trading and storage, just like stocks or savings. Think of it as a crypto savings account, but with the same protections as your regular bank. For example, you could buy bitcoin directly from your bank app, with insurance and fraud protection. If other Italian banks follow, competition could drive better services and lower fees for you. Right now, only Banca Sella customers can use this, but keep an eye out for more options soon. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "6TlzBsnDCfg",
+      "youtubeUrl": "https://youtube.com/watch?v=6TlzBsnDCfg",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-28T18:09:10.005624+00:00",
+      "uploadedAt": "2026-05-28T18:16:45.744867+00:00",
+      "audioLineDurations": [
+        5.418666666666667,
+        6.592,
+        6.016,
+        5.354666666666667,
+        5.546666666666667,
+        5.738666666666667,
+        5.696,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-27-banca-sella-first-italian-bank-licensed-for-bitcoin-under-mica_bg_3.jpg"
+      ]
     }
   ]
 }
