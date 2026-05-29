@@ -186,12 +186,94 @@ def generate_article(story: dict) -> dict | None:
         "standaloneTweet": fixed_standalone,
     }
 
+    # Editor pass — deepseek-v4-flash reviews and corrects the draft
+    article = edit_article(article, story, correct_url)
+
     # Generate article image
     image_url = generate_article_image(article)
     if image_url:
         article["imageUrl"] = image_url
 
     return article
+
+
+EDITOR_MODEL = "deepseek-v4-flash"
+
+EDITOR_SYSTEM_PROMPT = """\
+You are a senior editor at CryptoCatalyst.news reviewing a draft article before publication.
+You will be given:
+  1. The original source story (title, description, and optionally full_content)
+  2. A draft article JSON written by a junior writer
+
+Your job:
+- Check that every key fact, figure, name, date, statistic, and claim present in the source is accurately reflected in the article.
+- Fix any inaccuracies, distortions, or missing key points in the title, summary, and body.
+- Ensure the body paragraphs flow logically and are factually grounded in the source.
+- Fix the twitterThread and standaloneTweet if they misrepresent or omit important facts.
+- Do NOT add speculation or details not found in the source.
+- Do NOT change the slug, sourceUrl, sourceName, publishedAt, imageUrl, or any other metadata fields.
+- Do NOT change the category or tags unless they are clearly wrong.
+- Keep the same JSON schema and field names exactly.
+
+If the draft is already accurate and complete, return it unchanged.
+Respond with ONLY valid JSON matching the exact same schema as the input draft.
+"""
+
+
+def edit_article(article: dict, story: dict, correct_url: str) -> dict:
+    """Run the editor agent (deepseek-v4-flash) over a generated article to fix inaccuracies."""
+    source_payload = {
+        "title": story.get("title", ""),
+        "description": story.get("description", ""),
+        "source_url": story.get("url", ""),
+    }
+    if story.get("full_content"):
+        source_payload["full_content"] = story["full_content"]
+
+    messages = [
+        {"role": "system", "content": EDITOR_SYSTEM_PROMPT},
+        {
+            "role": "user",
+            "content": json.dumps(
+                {"source": source_payload, "draft_article": article},
+                ensure_ascii=False,
+            ),
+        },
+    ]
+
+    try:
+        edited = json_chat(messages, model=EDITOR_MODEL, temperature=0.2, max_tokens=3500)
+    except Exception as exc:
+        print(f"  [EDITOR] Editor agent failed ({exc}), keeping original draft")
+        return article
+
+    if not isinstance(edited, dict) or "title" not in edited:
+        print("  [EDITOR] Editor returned invalid shape, keeping original draft")
+        return article
+
+    # Preserve immutable metadata fields from the original article
+    for key in ("slug", "sourceUrl", "sourceName", "publishedAt", "imageUrl"):
+        if key in article:
+            edited[key] = article[key]
+
+    # Re-run URL/hashtag cleanup on any edited text fields
+    def _fix_urls(text: str) -> str:
+        text = text.replace("ARTICLE_URL", correct_url)
+        text = re.sub(r"https?://cryptocatalyst\.news/articles/[\w.-]+", correct_url, text)
+        text = re.sub(r"https?://cryptocatalyst\.news(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
+        text = re.sub(r"https?://ainformed\.dev/articles/[\w.-]+", correct_url, text)
+        text = re.sub(r"https?://ainformed\.dev(?!/articles/)(?:\s|$)", correct_url + " ", text).rstrip()
+        return text
+
+    if "twitterThread" in edited:
+        edited["twitterThread"] = _normalize_thread(
+            [_fix_urls(t) for t in edited["twitterThread"]], correct_url
+        )
+    if "standaloneTweet" in edited:
+        edited["standaloneTweet"] = _clean_text(_fix_urls(edited["standaloneTweet"]))
+
+    print("  [EDITOR] Article reviewed and edited by deepseek-v4-flash")
+    return edited
 
 
 IMAGE_PROMPT_SYSTEM = """\
