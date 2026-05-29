@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-29-bases-azul-upgrade-advances-ethereum-l2-decentralization",
+  "title": "Base’s Azul Upgrade Advances Ethereum L2 Decentralization",
+  "summary": "Base, Coinbase’s Ethereum Layer 2 network, has launched the Azul upgrade, introducing multiproofs and a new client stack to enhance decentralization. This move brings Base closer to full decentralization, improving security and scalability for users.",
+  "body": "Base, the Ethereum Layer 2 network backed by Coinbase, has deployed its Azul upgrade on the mainnet. This upgrade includes multiproofs and a new client stack, which are designed to push the network toward full decentralization. These features aim to enhance the security and efficiency of the Base network.\n\nThe Azul upgrade introduces multiproofs, a mechanism that allows multiple proofs to be submitted simultaneously, improving the network's throughput and reducing congestion. Additionally, the new client stack is designed to make it easier for developers to run nodes, fostering a more decentralized ecosystem. This upgrade is a significant step toward Base’s goal of becoming a fully decentralized network.\n\nFor everyday users, this upgrade means better performance and security on the Base network. As the network becomes more decentralized, it becomes more resistant to censorship and single points of failure. This is particularly important for users who rely on Base for decentralized applications (dApps) and transactions.\n\nThe Azul upgrade also sets the stage for future developments on the Base network. With improved scalability and security, developers can build more complex and robust dApps. Users should watch for further updates and new features that leverage these enhancements. For now, the focus is on ensuring the smooth operation of the new multiproofs and client stack. Read more → https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization?utm_source=rss&utm_medium=rss",
+  "sourceUrl": "https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "ethereum",
+  "tags": [
+    "base",
+    "ethereum",
+    "layer2",
+    "decentralization",
+    "coinbase",
+    "azul"
+  ],
+  "publishedAt": "2026-05-29T13:05:27.819734+00:00",
+  "imageUrl": "/images/articles/2026-05-29-bases-azul-upgrade-advances-ethereum-l2-decentralization.png",
+  "twitterThread": [
+    "Base’s Azul upgrade is live on mainnet, bringing multiproofs and a new client stack to Coinbase’s Ethereum L2. This is a big step toward full decentralization.",
+    "The upgrade introduces multiproofs for better throughput and a new client stack to make running nodes easier. More decentralization means better security for everyone.",
+    "If you use Base for dApps or transactions, this upgrade means improved performance and security. Watch for more developments as the network evolves. Read more → https://cryptocatalyst.news/articles/2026-05-29-bases-azul-upgrade-advances-ethereum-l2-decentralization"
+  ],
+  "standaloneTweet": "Base’s Azul upgrade is live, making Coinbase’s Ethereum L2 more decentralized with multiproofs and a new client stack. Better security and performance for all users."
+}

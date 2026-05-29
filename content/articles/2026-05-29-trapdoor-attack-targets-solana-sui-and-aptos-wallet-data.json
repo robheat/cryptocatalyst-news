@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-29-trapdoor-attack-targets-solana-sui-and-aptos-wallet-data",
+  "title": "TrapDoor Attack Targets Solana, Sui, and Aptos Wallet Data",
+  "summary": "A new malware campaign is stealing crypto wallet data, developer credentials, and browser information from developers. The attack uses fake software packages to target users of Solana, Sui, and Aptos ecosystems. Developers are being urged to verify the authenticity of their tools to protect their assets.",
+  "body": "A sophisticated malware campaign called TrapDoor is targeting developers in the crypto, DeFi, AI, and security sectors. The attack uses fake software packages to steal sensitive data, including wallet information, SSH keys, GitHub tokens, cloud credentials, and browser data. Specifically, the campaign is focusing on developers working with Solana, Sui, and Aptos ecosystems.\n\nThe malware is distributed through malicious packages that appear legitimate, tricking developers into installing them. Once installed, the malware can extract sensitive information from the developer's environment, putting their crypto assets and personal data at risk. The attack highlights the growing sophistication of cyber threats targeting the blockchain and developer communities.\n\nThis attack underscores the importance of verifying the authenticity of software tools and packages before installation. Developers should be particularly cautious when downloading new tools, especially those related to crypto wallets and developer environments. Regularly updating security practices and using reputable sources for software downloads can help mitigate the risk of such attacks.\n\nFor those in the affected ecosystems, it is crucial to review and update security protocols. Developers should also consider using multi-factor authentication and regularly auditing their environments for suspicious activity. Staying informed about the latest security threats and best practices is essential for protecting valuable assets in the crypto space.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "cybersecurity",
+    "crypto",
+    "malware",
+    "developers",
+    "solana",
+    "sui"
+  ],
+  "publishedAt": "2026-05-29T13:04:11.922845+00:00",
+  "imageUrl": "/images/articles/2026-05-29-trapdoor-attack-targets-solana-sui-and-aptos-wallet-data.png",
+  "twitterThread": [
+    "Developers in and are being targeted by a new malware campaign called TrapDoor. Fake packages steal wallet data, SSH keys, and more.",
+    "The attack focuses on , , and ecosystems, tricking developers into installing malicious software. Verify your tools before installing!",
+    "If you're a developer, double-check the authenticity of your packages and update your security practices. Read more → https://cryptocatalyst.news/articles/2026-05-29-trapdoor-attack-targets-solana-sui-and-aptos-wallet-data"
+  ],
+  "standaloneTweet": "Developers, beware! A new malware campaign called TrapDoor is stealing crypto wallet data and developer credentials. Verify your tools before installing."
+}
