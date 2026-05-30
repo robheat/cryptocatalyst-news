@@ -3828,6 +3828,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-etfs-hit-100b-in-assets-under-management_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-etfs-hit-100b-in-assets-under-management_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access",
+      "title": "CFTC Cracks Open U.S. Market for Bitcoin and Crypto Perpetual Futures",
+      "category": "bitcoin",
+      "tags": [
+        "cftc",
+        "bitcoin",
+        "perpetual-futures",
+        "coinbase",
+        "crypto-derivatives",
+        "market-access"
+      ],
+      "articleSummary": "The CFTC has approved the first U.S.-listed bitcoin perpetual futures, allowing Coinbase to connect American traders to global crypto derivatives markets. This move significantly expands access to crypto trading options for U.S. investors.",
+      "articleBody": "The U.S. Commodity Futures Trading Commission (CFTC) has given the green light to the first U.S.-listed bitcoin perpetual futures. This approval opens the door for Coinbase to route American traders into global crypto derivatives markets, marking a significant milestone in the U.S. crypto market.\n\nThe CFTC's decision allows for the trading of perpetual futures, a type of derivative that does not have an expiration date, on U.S. exchanges. This move is expected to increase liquidity and provide more trading options for U.S. investors. Coinbase, one of the largest crypto exchanges, will now be able to offer these products to its users, potentially drawing more traditional investors into the crypto space.\n\nThis approval is a major step forward for the crypto market in the U.S., as it provides a regulated avenue for trading crypto derivatives. For everyday investors, this means greater access to sophisticated trading tools and strategies that were previously only available in unregulated or offshore markets. It also signals growing acceptance of crypto assets by U.S. regulators.\n\nThe CFTC's decision is part of a broader trend of increasing regulatory clarity for crypto assets in the U.S. As more traditional financial institutions enter the space, we can expect to see further innovation and growth in the crypto derivatives market. Investors should watch for additional regulatory dev",
+      "imageUrl": "/images/articles/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access",
+      "script": {
+        "hook": "American investors just gained access to a powerful new tool in cryptocurrency trading.",
+        "narration_lines": [
+          "The CFTC has approved the first U.S.-listed bitcoin perpetual futures, letting Coinbase connect traders to global markets.",
+          "Perpetual futures are derivatives without an expiration date, offering flexible trading options.",
+          "This means U.S. investors can now use advanced strategies once only available offshore or unregulated.",
+          "Coinbase, a major exchange, will offer these products, likely attracting more traditional investors.",
+          "Greater liquidity and more trading options could boost the U.S. crypto market significantly.",
+          "For investors, this opens doors to new opportunities in a growing and evolving market."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 101
+      },
+      "scriptHash": "ba7c8b7465e660f6",
+      "scriptText": "American investors just gained access to a powerful new tool in cryptocurrency trading. The CFTC has approved the first U.S.-listed bitcoin perpetual futures, letting Coinbase connect traders to global markets. Perpetual futures are derivatives without an expiration date, offering flexible trading options. This means U.S. investors can now use advanced strategies once only available offshore or unregulated. Coinbase, a major exchange, will offer these products, likely attracting more traditional investors. Greater liquidity and more trading options could boost the U.S. crypto market significantly. For investors, this opens doors to new opportunities in a growing and evolving market. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "XmbPCXdgjhc",
+      "youtubeUrl": "https://youtube.com/watch?v=XmbPCXdgjhc",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-30T16:03:10.588835+00:00",
+      "uploadedAt": "2026-05-30T16:13:25.094557+00:00",
+      "audioLineDurations": [
+        5.589333333333333,
+        8.426666666666666,
+        5.888,
+        7.744,
+        6.485333333333333,
+        5.674666666666667,
+        5.141333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-30-cftc-approves-first-us-bitcoin-perpetual-futures-expanding-crypto-market-access_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand",
+      "title": "CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "whales",
+        "market",
+        "demand",
+        "cryptoquant"
+      ],
+      "articleSummary": "CryptoQuant reports that bitcoin whale and dolphin accumulation has stalled, indicating weak demand and a deteriorating holding structure.",
+      "articleBody": "CryptoQuant, a blockchain analytics firm, has observed that bitcoin whale and dolphin accumulation has stalled, signaling weak demand. The firm noted that the bitcoin holding structure continues to deteriorate as balances of these large holders have not seen substantial growth.\n\nAccording to the report, whales (entities holding 1,000+ BTC) and dolphins (entities holding 100-1,000 BTC) have stopped accumulating, suggesting a lack of significant buying pressure. Historically, periods of low accumulation by these large holders have often preceded market downturns or prolonged consolidation.\n\nFor everyday bitcoin investors, this news could signal a cautious period ahead. A stall in accumulation by large holders often translates to less market momentum, which might lead to lower price volatility in the short term. However, it could also indicate a potential buying opportunity for those looking to enter the market at lower prices.\n\nInvestors should watch for any changes in accumulation patterns among these large holders, as a resurgence in buying activity could signal renewed confidence in bitcoin's market potential. Additionally, keeping an eye on broader economic indicators and regulatory developments will be crucial in understanding the broader context of this trend.",
+      "imageUrl": "/images/articles/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand",
+      "script": {
+        "hook": "Big bitcoin investors have suddenly stopped buying, and here's what that means for you.",
+        "narration_lines": [
+          "Whales and dolphins are the big players in cryptocurrency, holding hundreds or even thousands of bitcoins.",
+          "When they stop buying, it's a sign that demand is weak, and the market might be slowing down.",
+          "This could mean less price movement in the short term, but also potential opportunities to buy at lower prices.",
+          "CryptoQuant, a blockchain analytics firm, reported this stall in accumulation, which has historically preceded market downturns.",
+          "For everyday investors, it's a time to be cautious but also to watch for any signs of renewed buying activity.",
+          "Keep an eye on economic and regulatory news to understand the bigger picture."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "acb81584450cb241",
+      "scriptText": "Big bitcoin investors have suddenly stopped buying, and here's what that means for you. Whales and dolphins are the big players in cryptocurrency, holding hundreds or even thousands of bitcoins. When they stop buying, it's a sign that demand is weak, and the market might be slowing down. This could mean less price movement in the short term, but also potential opportunities to buy at lower prices. CryptoQuant, a blockchain analytics firm, reported this stall in accumulation, which has historically preceded market downturns. For everyday investors, it's a time to be cautious but also to watch for any signs of renewed buying activity. Keep an eye on economic and regulatory news to understand the bigger picture. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "_G49FY34Rj8",
+      "youtubeUrl": "https://youtube.com/watch?v=_G49FY34Rj8",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-30T16:03:15.370022+00:00",
+      "uploadedAt": "2026-05-30T16:13:27.204976+00:00",
+      "audioLineDurations": [
+        4.714666666666667,
+        6.698666666666667,
+        5.12,
+        6.592,
+        7.957333333333334,
+        6.848,
+        4.906666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_3.jpg"
+      ]
     }
   ]
 }
