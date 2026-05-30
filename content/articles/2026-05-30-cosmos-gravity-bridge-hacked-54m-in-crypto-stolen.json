@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-30-cosmos-gravity-bridge-hacked-54m-in-crypto-stolen",
+  "title": "Cosmos-based Gravity Bridge Drained of $5.4 Million in Suspected Key Compromise, Researchers Say",
+  "summary": "An attacker drained $5.4 million from the Cosmos-based Gravity Bridge, stealing USDC, ether, tether, and PAYG tokens. The funds were partially laundered through ChangeNow and Binance, according to researchers.",
+  "body": "The Gravity Bridge, a cross-chain bridge connected to the Cosmos ecosystem, was drained of approximately $5.4 million in a suspected key compromise attack, according to researchers. The attacker stole USDC, ether, tether, and PAYG tokens. A portion of the stolen funds was laundered through the crypto mixer ChangeNow and the Binance exchange.\n\nThe exact method of the key compromise remains under investigation, but the incident highlights the ongoing risks associated with cross-chain bridges. Gravity Bridge is designed to facilitate the transfer of assets between different blockchains, making it a prime target for attackers. The stolen funds were moved quickly, indicating a well-planned and executed attack.\n\nThis incident serves as a reminder of the vulnerabilities in cross-chain infrastructure. For everyday users, it underscores the importance of using reputable platforms and monitoring their assets closely. Cross-chain bridges, while useful, are often targeted by hackers due to their complex security mechanisms.\n\nUsers of the Gravity Bridge and similar platforms should remain vigilant and consider using additional security measures, such as multi-signature wallets, to protect their assets. Keeping an eye on official announcements from the Gravity Bridge team and security researchers will be crucial in the coming days.",
+  "sourceUrl": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "cosmos",
+    "hack",
+    "crypto",
+    "security",
+    "gravity-bridge"
+  ],
+  "publishedAt": "2026-05-30T20:58:06.586139+00:00",
+  "imageUrl": "/images/articles/2026-05-30-cosmos-gravity-bridge-hacked-54m-in-crypto-stolen.png",
+  "twitterThread": [
+    "A $5.4M hack just hit the Cosmos-based Gravity Bridge, draining USDC, ether, tether, and PAYG tokens. Attackers laundered part through ChangeNow and Binance.",
+    "The suspected key compromise highlights the risks of cross-chain bridges. Gravity Bridge helps move assets between blockchains, making it a prime target.",
+    "If you use cross-chain bridges, double-check security measures. Watch for updates from Gravity Bridge and researchers. Read more → https://cryptocatalyst.news/articles/2026-05-30-cosmos-gravity-bridge-hacked-54m-in-crypto-stolen"
+  ],
+  "standaloneTweet": "The Cosmos-based Gravity Bridge was drained of $5.4M in a suspected key compromise, with funds laundered through ChangeNow and Binance. A reminder to secure your crypto assets carefully."
+}
