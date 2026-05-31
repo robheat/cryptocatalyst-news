@@ -1,0 +1,25 @@
+{
+  "slug": "2026-05-31-stellar-chosen-by-dtcc-for-wall-streets-onchain-security-tokenization",
+  "title": "How Stellar Became Part of DTCC's Tokenization Push for Wall Street Securities Onchain",
+  "summary": "Wall Street's clearing giant, the Depository Trust & Clearing Corporation (DTCC), has selected the Stellar blockchain for tokenizing securities. Stellar was chosen for its compliance tools built specifically for regulated assets, according to Stellar Development Foundation CEO Denelle Dixon.",
+  "body": "The Depository Trust & Clearing Corporation (DTCC), a major player in Wall Street's clearing and settlement operations, has chosen the Stellar blockchain to tokenize traditional securities. This partnership underscores Stellar's growing role in bringing regulated financial assets onchain, with the DTCC leveraging Stellar's built-in compliance tools designed for regulated assets.\n\nStellar Development Foundation CEO Denelle Dixon emphasized that Stellar's compliance tools are what set it apart for institutional use. These tools help ensure that tokenized assets adhere to regulatory standards, which is critical for traditional financial institutions like the DTCC entering the blockchain space.\n\nFor everyday investors, this development could mean more secure and transparent ways to trade securities. Tokenization on a public blockchain like Stellar could reduce settlement times and increase accessibility, potentially lowering costs for investors.\n\nThis partnership is part of a broader trend where traditional financial institutions are exploring blockchain technology to enhance efficiency and transparency. As more securities are tokenized, investors may see new opportunities and innovations in the financial markets.\n\nWatch for further announcements from DTCC and Stellar on how this collaboration will roll out and what it means for the future of securities trading.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/05/31/how-stellar-became-part-of-dtcc-s-tokenization-push-for-wall-street-securities-onchain",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "stellar",
+    "dtcc",
+    "tokenization",
+    "wall-street",
+    "securities",
+    "blockchain"
+  ],
+  "publishedAt": "2026-05-31T20:59:28.958340+00:00",
+  "imageUrl": "/images/articles/2026-05-31-stellar-chosen-by-dtcc-for-wall-streets-onchain-security-tokenization.png",
+  "twitterThread": [
+    "Wall Street's DTCC is tokenizing securities on the Stellar blockchain. Why? Stellar has compliance tools built for regulated assets, according to SDF CEO Denelle Dixon. 🔗",
+    "Stellar's compliance features are what made it the choice for the DTCC. This is about bringing Wall Street securities onchain with regulatory guardrails in place.",
+    "For investors, this could mean faster settlement and greater transparency. The DTCC's move is a major signal for tokenization. Read more → https://cryptocatalyst.news/articles/2026-05-31-stellar-chosen-by-dtcc-for-wall-streets-onchain-security-tokenization"
+  ],
+  "standaloneTweet": "Wall Street's DTCC is using the Stellar blockchain to tokenize securities, citing Stellar's compliance tools designed for regulated assets. This could mean faster, more transparent trading. 🚀"
+}

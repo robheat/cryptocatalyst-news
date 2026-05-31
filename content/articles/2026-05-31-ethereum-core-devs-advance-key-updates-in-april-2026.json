@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-31-ethereum-core-devs-advance-key-updates-in-april-2026",
+  "title": "Ethereum Core Devs Advance Key Updates in April 2026",
+  "summary": "Ethereum's core developers have released Checkpoint #9, a periodic high-level summary of All Core Developer calls. The April 10, 2026 update highlights current developments in Ethereum core development, focusing on scalability, security, and other network improvements.",
+  "body": "Ethereum's core developers continue to advance the network's development, as outlined in Checkpoint #9, published on the Ethereum Foundation Blog on April 10, 2026. This installment provides a periodic high-level update on the latest discussions and progress from All Core Developer calls.\n\nKey developments include enhancements to scalability solutions, such as rollups and sharding, aimed at increasing transaction throughput and reducing costs. Security improvements are also a major focus, with developers working on protocols to better protect against potential vulnerabilities.\n\nThese updates are crucial for everyday users as they promise a more efficient and secure Ethereum network. Faster transactions and lower fees will make the platform more accessible, while improved security measures will protect users' assets. \n\nFor those interested in the technical details, the Ethereum Foundation Blog provides a comprehensive breakdown of the changes. Developers and enthusiasts are encouraged to refer to the full Checkpoint #9 post to stay informed about the direction of Ethereum core development.",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/04/10/checkpoint-9",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "core-devs",
+    "scalability",
+    "security",
+    "updates"
+  ],
+  "publishedAt": "2026-05-31T21:02:35.741723+00:00",
+  "imageUrl": "/images/articles/2026-05-31-ethereum-core-devs-advance-key-updates-in-april-2026.png",
+  "twitterThread": [
+    "Ethereum's core devs just released Checkpoint , a high-level summary of April 2026 All Core Developer calls. Focus on scalability and security. 🚀",
+    "Rollups and sharding are getting upgrades to boost transaction speeds and cut costs. Security protocols are also getting a major overhaul. 🔒",
+    "Keep up with Ethereum core development → https://cryptocatalyst.news/articles/2026-05-31-ethereum-core-devs-advance-key-updates-in-april-2026"
+  ],
+  "standaloneTweet": "Checkpoint is out! Ethereum core devs share the latest on scalability, security, and more from their April 2026 calls. Read the full update → https://blog.ethereum.org/en/2026/04/10/checkpoint-9"
+}
