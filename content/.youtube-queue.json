@@ -3941,6 +3941,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-29-bitcoin-whale-and-dolphin-accumulation-stalls-amid-weak-demand_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-31-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — May 31, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Sunday, May 31, 2026\n\n1. OVERNIGHT MOVES\n\nFlat across the watchlist for a second consecutive day. BTC $73,746 (+0.3%), ETH $2,020 (+0.3%), SOL $82.70 (+0.6%). BTC dominance eased another 0.1pp to 57.3% — marginal but directionally consistent with the past 48 hours. No volume spikes, no on-chain anomalies. Weekend torpor remains the dominant technical condition.\n\nThe significant movement is outside the watchlist. Optimism (OP) has entered the top slot on CoinGecko's 24h trending list — a material shift from yesterday's low-cap-heavy feed. OP was absent from yesterday's trending entirely. BONK and PENGU persist, LAB holds, and new entries KITE and ASTER suggest continued speculative scanning. The trending list composition has turned over substantially in 24 hours, which itself is a signal of fragmented attention.\n\n2. NARRATIVE PULSE\n\nTwo developments worth indexing:\nL2 scaling narrative re-entering the feed. OP trending at #1 is notable after weeks where L2s were absent from top trending positions. The market has been ignoring L2 infrastructure in favor of alt L1s and memes. This could be noise — a weekend volume blip — or the first observable data point of a rotation back toward L2s. Worth watching for OP's weekly close structure and whether ARB, STRK, or BASE ecosystem tokens follow.\nSpeculative weekend hunting continues, but the prey has changed. Yesterday's fe",
+      "imageUrl": "/images/articles/2026-05-31-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-31-crypto-research-morning-brief",
+      "script": {
+        "hook": "Your cryptocurrency investments just got a quiet weekend update that could mean big things.",
+        "narration_lines": [
+          "Bitcoin and Ethereum barely moved overnight, staying flat for the second day in a row.",
+          "But here's what's interesting: Optimism, a layer 2 scaling solution, is suddenly trending big.",
+          "This could signal a shift back to layer 2 projects after weeks of focus on meme coins.",
+          "If you're invested in layer 2 tokens like Arbitrum or Starknet, keep an eye on this.",
+          "Weekend trading is usually slow, but this could be the start of a new trend.",
+          "Check your portfolio and see if you're positioned for this potential move."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "a71333495ede1269",
+      "scriptText": "Your cryptocurrency investments just got a quiet weekend update that could mean big things. Bitcoin and Ethereum barely moved overnight, staying flat for the second day in a row. But here's what's interesting: Optimism, a layer 2 scaling solution, is suddenly trending big. This could signal a shift back to layer 2 projects after weeks of focus on meme coins. If you're invested in layer 2 tokens like Arbitrum or Starknet, keep an eye on this. Weekend trading is usually slow, but this could be the start of a new trend. Check your portfolio and see if you're positioned for this potential move. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "YEPW220eBsk",
+      "youtubeUrl": "https://youtube.com/watch?v=YEPW220eBsk",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-31T16:05:01.587726+00:00",
+      "uploadedAt": "2026-05-31T16:12:45.510948+00:00",
+      "audioLineDurations": [
+        5.312,
+        5.077333333333334,
+        6.037333333333334,
+        5.461333333333333,
+        5.141333333333334,
+        4.501333333333333,
+        3.904,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens",
+      "title": "Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "hash-rate",
+        "ai",
+        "energy",
+        "fidelity"
+      ],
+      "articleSummary": "Bitcoin miners are under pressure as the network's hash rate growth slows and flattens, while AI demand for energy could further squeeze their operations. Fidelity Digital Assets says 2026's crypto slump masks a deeper 'structural retooling,' as institutional adoption, tokenization, and Bitcoin's evolving infrastructure quietly advance despite weaker prices.",
+      "articleBody": "Bitcoin miners are facing new challenges as the network's hash rate, a measure of mining activity, has flattened. This slowdown comes at a time when artificial intelligence (AI) data centers are also competing for energy resources, potentially squeezing miners' access to affordable power.\n\nFidelity Digital Assets says 2026's crypto slump masks a deeper 'structural retooling,' as institutional adoption, tokenization, and Bitcoin's evolving infrastructure quietly advance despite weaker prices. The hash rate's stagnation suggests a maturing market, where efficiency and cost management are becoming more critical than ever as the network enters a new security phase.\n\nFor everyday users, this shift could mean more stable but less dramatic changes in Bitcoin's network security. As miners adapt, the network may become more resilient, but the energy competition from AI could lead to higher operational costs. This could, in turn, affect Bitcoin's decentralization if smaller miners are pushed out by larger, more efficient operations.\n\nLooking ahead, miners will need to focus on energy efficiency and cost management to stay competitive. Users should watch for any significant shifts in hash rate trends, as they could indicate changes in the network's security and decentralization. The interplay between Bitcoin mining and AI's energy demands will be a key factor to monitor in the coming mont",
+      "imageUrl": "/images/articles/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens",
+      "script": {
+        "hook": "Bitcoin miners are in trouble, and it could make your cryptocurrency transactions more expensive.",
+        "narration_lines": [
+          "Bitcoin's mining activity has stalled, and AI data centers are grabbing the cheap energy miners rely on.",
+          "Fidelity says this is part of a bigger shift, where Bitcoin's network is getting more stable but less flashy.",
+          "Imagine your favorite local miner getting squeezed out by bigger players with better tech and cheaper power deals.",
+          "This could make Bitcoin's network more secure but also more centralized, affecting its core decentralized promise.",
+          "Keep an eye on hash rate trends—they're your early warning for changes in Bitcoin's security and costs."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "6673bac6a90235ef",
+      "scriptText": "Bitcoin miners are in trouble, and it could make your cryptocurrency transactions more expensive. Bitcoin's mining activity has stalled, and AI data centers are grabbing the cheap energy miners rely on. Fidelity says this is part of a bigger shift, where Bitcoin's network is getting more stable but less flashy. Imagine your favorite local miner getting squeezed out by bigger players with better tech and cheaper power deals. This could make Bitcoin's network more secure but also more centralized, affecting its core decentralized promise. Keep an eye on hash rate trends—they're your early warning for changes in Bitcoin's security and costs. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "9brpU_kcwlY",
+      "youtubeUrl": "https://youtube.com/watch?v=9brpU_kcwlY",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-05-31T16:05:05.993999+00:00",
+      "uploadedAt": "2026-05-31T16:12:47.782428+00:00",
+      "audioLineDurations": [
+        5.653333333333333,
+        6.976,
+        6.314666666666667,
+        6.741333333333333,
+        7.189333333333333,
+        6.144,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_3.jpg"
+      ]
     }
   ]
 }
