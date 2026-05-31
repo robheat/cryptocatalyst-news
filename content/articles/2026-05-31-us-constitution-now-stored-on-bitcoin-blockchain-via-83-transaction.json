@@ -1,0 +1,24 @@
+{
+  "slug": "2026-05-31-us-constitution-now-stored-on-bitcoin-blockchain-via-83-transaction",
+  "title": "US Constitution Now Stored on Bitcoin Blockchain via $83 Transaction",
+  "summary": "The entire US Constitution has been inscribed on the Bitcoin blockchain. Someone paid an $83 transaction fee to permanently store the document in a Bitcoin block.",
+  "body": "The US Constitution is now permanently inscribed on the Bitcoin blockchain, thanks to a transaction that paid an $83 fee to include the full text of the document. As described by Decrypt, a pseudonymous user paid the fee to have the historic text added to a Bitcoin block.\n\nThe Constitution was added to the blockchain through a process called 'ordinal inscription', which allows data to be embedded in individual satoshis, the smallest unit of Bitcoin. This method has become increasingly popular for storing important documents and digital artifacts on the Bitcoin network.\n\nFor everyday people, this means that one of the most important legal and historical documents in US history is now preserved in a decentralized, tamper-proof format. The Bitcoin blockchain is known for its security and immutability, making it an ideal place to store such significant texts.\n\nThis isn't the first time important documents have been stored on the Bitcoin blockchain. In the past, other historical texts and even memes have been inscribed. The growing trend highlights the blockchain's potential as a permanent archive for digital information. If you're interested in exploring this further, you can look into how ordinal inscriptions work and what other data has been stored on the Bitcoin blockchain.",
+  "sourceUrl": "https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "blockchain",
+    "us-constitution",
+    "ordinal-inscriptions",
+    "crypto-news"
+  ],
+  "publishedAt": "2026-05-31T13:44:20.407404+00:00",
+  "imageUrl": "/images/articles/2026-05-31-us-constitution-now-stored-on-bitcoin-blockchain-via-83-transaction.png",
+  "twitterThread": [
+    "The US Constitution is now permanently inscribed on the Bitcoin blockchain. Someone paid an $83 transaction fee to make it happen.",
+    "Using an 'ordinal inscription', the full text of the Constitution was embedded in a Bitcoin transaction. This method stores data in individual satoshis, the smallest unit of Bitcoin.",
+    "This isn't the first important document stored on-chain. Ordinal inscriptions are growing in popularity for preserving texts permanently. Read more → Read more → https://cryptocatalyst.news/articles/2026-05-31-us-constitution-now-stored-on-bitcoin-blockchain-via-83-transaction"
+  ],
+  "standaloneTweet": "The US Constitution is now permanently inscribed on the Bitcoin blockchain. Someone paid an $83 transaction fee to make it happen."
+}
