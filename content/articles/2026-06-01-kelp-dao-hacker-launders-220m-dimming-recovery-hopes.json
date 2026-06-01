@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-01-kelp-dao-hacker-launders-220m-dimming-recovery-hopes",
+  "title": "Kelp DAO hacker launders $220M, dimming recovery hopes",
+  "summary": "The Kelp DAO hacker has laundered nearly all of the remaining stolen funds, making recovery unlikely. Only $71 million, frozen by Arbitrum’s Security Council, remains from the original $293 million exploit.",
+  "body": "The hacker behind the Kelp DAO exploit has laundered approximately $220 million of the stolen funds, significantly reducing the chances of recovery. This move comes after the initial $293 million hack, leaving only $71 million frozen by Arbitrum’s Security Council.\n\nThe laundered funds were likely processed through various crypto mixers and privacy-focused protocols to obscure their origins. This tactic makes it extremely difficult for authorities or blockchain analysts to trace and recover the assets. The $71 million frozen by Arbitrum’s Security Council represents the only remaining hope for partial recovery.\n\nFor everyday crypto users, this incident highlights the risks associated with decentralized finance (DeFi) platforms. It underscores the importance of due diligence and the potential vulnerabilities in smart contracts and DAO governance. The loss of such a significant amount of funds also raises questions about the effectiveness of current security measures in the crypto space.\n\nMoving forward, users should remain vigilant and consider the security practices of the platforms they engage with. Monitoring updates from Arbitrum’s Security Council and other security-focused initiatives could provide insights into potential recovery efforts or future safeguards. Stay informed and prioritize security to mitigate risks in the DeFi ecosystem.",
+  "sourceUrl": "https://cointelegraph.com/news/kelp-dao-recovery-hacker-launders-most-funds-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "hack",
+    "laundering",
+    "defi",
+    "security",
+    "arbitrum"
+  ],
+  "publishedAt": "2026-06-01T22:38:52.708434+00:00",
+  "imageUrl": "/images/articles/2026-06-01-kelp-dao-hacker-launders-220m-dimming-recovery-hopes.png",
+  "twitterThread": [
+    "The Kelp DAO hacker just laundered $220M of stolen funds, leaving only $71M frozen by Arbitrum. Recovery hopes are fading fast.",
+    "The hacker used crypto mixers and privacy protocols to make the funds untraceable. Only $71M remains frozen by Arbitrum’s Security Council.",
+    "This highlights the risks in DeFi. Stay vigilant and prioritize security. Read more → https://cryptocatalyst.news/articles/2026-06-01-kelp-dao-hacker-launders-220m-dimming-recovery-hopes"
+  ],
+  "standaloneTweet": "The Kelp DAO hacker laundered $220M of stolen funds, leaving only $71M frozen. This underscores the risks in DeFi and the need for robust security measures."
+}
