@@ -4055,6 +4055,116 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-bitcoin-miners-face-ai-squeeze-as-hash-rate-flattens_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum",
+      "title": "Libp2p Funding Crisis Highlights Critical Infrastructure Gap in Ethereum",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "libp2p",
+        "open-source",
+        "infrastructure",
+        "project-odin"
+      ],
+      "articleSummary": "Libp2p, a core infrastructure stack used by multiple Ethereum clients, is facing a funding crisis. The Ethereum Foundation has launched Project Odin to address this and other critical infrastructure needs. The project aims to secure funding for essential open-source tools that keep the network running smoothly.",
+      "articleBody": "Libp2p, a crucial infrastructure stack powering multiple Ethereum clients, is in a funding crisis. This open-source project, vital for the network's operation, is struggling to secure the necessary resources to continue its work. The Ethereum Foundation has stepped in with Project Odin, a new initiative to provide funding and support for critical infrastructure like Libp2p. \n\nProject Odin is part of a broader effort to ensure the sustainability of essential open-source projects. The initiative will focus on securing funding for projects that are integral to the Ethereum ecosystem but often lack the financial backing they need. Libp2p is just one of several projects that will benefit from this new support. \n\nFor everyday users, this means that the Ethereum network can continue to operate smoothly. Without projects like Libp2p, the network would face significant disruptions. The funding crisis highlights the importance of supporting open-source developers who maintain the infrastructure that underpins the entire ecosystem. \n\nThe Ethereum Foundation's intervention is a positive step, but it also underscores the need for a more sustainable funding model. Users and developers alike should watch for updates on Project Odin and consider supporting open-source projects that are critical to the health of the network. Read more → https://blog.ethereum.org/en/2026/02/27/project-odin",
+      "imageUrl": "/images/articles/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum",
+      "script": {
+        "hook": "Your Ethereum transactions could slow down or fail if this funding crisis isn't solved.",
+        "narration_lines": [
+          "Libp2p is a critical but underfunded tool that keeps Ethereum running smoothly.",
+          "The Ethereum Foundation launched Project Odin to save it and other vital open-source projects.",
+          "Without Libp2p, the network could face disruptions, affecting users and developers alike.",
+          "You can support open-source projects by staying informed and contributing if possible.",
+          "Project Odin aims to create a sustainable funding model for these essential tools."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "0b75965f9090d36c",
+      "scriptText": "Your Ethereum transactions could slow down or fail if this funding crisis isn't solved. Libp2p is a critical but underfunded tool that keeps Ethereum running smoothly. The Ethereum Foundation launched Project Odin to save it and other vital open-source projects. Without Libp2p, the network could face disruptions, affecting users and developers alike. You can support open-source projects by staying informed and contributing if possible. Project Odin aims to create a sustainable funding model for these essential tools. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "CkYtpIdGEXU",
+      "youtubeUrl": "https://youtube.com/watch?v=CkYtpIdGEXU",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-01T19:55:01.090930+00:00",
+      "uploadedAt": "2026-06-01T20:03:14.591143+00:00",
+      "audioLineDurations": [
+        5.76,
+        5.568,
+        6.208,
+        5.930666666666666,
+        5.290666666666667,
+        5.376,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-libp2p-funding-crisis-highlights-critical-infrastructure-gap-in-ethereum_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis",
+      "title": "Glassnode Launches Suite of Global Multi-Asset Crypto Indices for Aggregate Market Analysis",
+      "category": "bitcoin",
+      "tags": [
+        "crypto",
+        "indices",
+        "market",
+        "analysis",
+        "glassnode"
+      ],
+      "articleSummary": "Glassnode has launched a suite of continuous, rebalanced multi-asset indices for aggregate crypto market analysis, going beyond price tracking to offer a more comprehensive view of market health and trends. The indices are continuously updated and rebalanced to reflect the latest data.",
+      "articleBody": "Glassnode, a leading blockchain analytics firm, has launched a new suite of global metrics designed to offer a more nuanced view of the cryptocurrency market. These indices go beyond traditional price tracking, providing insights into various aspects of market behavior and health. The suite includes multiple indices that are continuously updated and rebalanced to ensure they reflect the most current market conditions.\n\nThe new indices cover a range of metrics, including market capitalization, trading volume, and other key indicators across different cryptocurrencies. This approach allows for a more holistic analysis of the market, helping investors and analysts understand trends and patterns that might not be visible through price data alone. Glassnode's rebalancing process ensures that the indices remain accurate and relevant as market conditions change.\n\nFor everyday users, this development means better tools for understanding the broader crypto market. Instead of relying solely on price movements, investors can now access a more comprehensive set of data points to make informed decisions. This can be particularly useful for those looking to diversify their portfolios or gain a deeper understanding of market dynamics.\n\nOne of the key features of these indices is their continuous updating, which means users can always access the latest data. This real-time information can be c",
+      "imageUrl": "/images/articles/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis",
+      "script": {
+        "hook": "Your cryptocurrency portfolio just got a powerful new tool to track market health beyond just prices.",
+        "narration_lines": [
+          "Glassnode launched global multi-asset indices offering a fuller picture of the crypto market.",
+          "These indices track market cap, trading volume, and other key metrics across different cryptocurrencies.",
+          "Think of it like a health check-up for the entire market, not just a temperature reading.",
+          "For investors, this means better insights to make informed decisions without relying solely on price swings.",
+          "The indices are continuously updated and rebalanced, so you always have the latest market data.",
+          "This can help you diversify your portfolio and understand broader market trends more effectively."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "151223ae70b1fb6a",
+      "scriptText": "Your cryptocurrency portfolio just got a powerful new tool to track market health beyond just prices. Glassnode launched global multi-asset indices offering a fuller picture of the crypto market. These indices track market cap, trading volume, and other key metrics across different cryptocurrencies. Think of it like a health check-up for the entire market, not just a temperature reading. For investors, this means better insights to make informed decisions without relying solely on price swings. The indices are continuously updated and rebalanced, so you always have the latest market data. This can help you diversify your portfolio and understand broader market trends more effectively. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "TDtxhJbSUQU",
+      "youtubeUrl": "https://youtube.com/watch?v=TDtxhJbSUQU",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-01T19:55:06.833287+00:00",
+      "uploadedAt": "2026-06-01T20:03:17.521951+00:00",
+      "audioLineDurations": [
+        6.421333333333333,
+        5.653333333333333,
+        6.272,
+        4.586666666666667,
+        6.677333333333333,
+        5.866666666666666,
+        5.9093333333333335,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-05-31-glassnode-launches-global-crypto-market-indices-for-broader-analysis_bg_3.jpg"
+      ]
     }
   ]
 }
