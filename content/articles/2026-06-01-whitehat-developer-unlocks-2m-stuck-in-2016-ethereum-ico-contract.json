@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-01-whitehat-developer-unlocks-2m-stuck-in-2016-ethereum-ico-contract",
+  "title": "Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years",
+  "summary": "A security researcher found an integer-overflow flaw in the HongCoin token sale contract, unlocking $2 million for 48 original investors. This is the second such recovery he has publicized in eight days.",
+  "body": "A whitehat developer known as 0xflorent has unlocked $2 million that had been stuck in a 2016 Ethereum ICO contract for nine years. The funds were originally locked in the HongCoin token sale contract due to an integer-overflow flaw, which 0xflorent discovered and exploited to return the money to the original investors.\n\nThis is the second such recovery 0xflorent has publicized in eight days. The developer has become known for identifying vulnerabilities in old smart contracts and returning funds to their rightful owners. The $2 million will be distributed among 48 original investors who participated in the HongCoin ICO.\n\nFor everyday users, this news highlights the importance of security in smart contracts and the potential for whitehat developers to recover lost funds. It also serves as a reminder of the long-term risks associated with early blockchain projects, where vulnerabilities could remain undiscovered for years. The recovery process demonstrates that even old, seemingly lost funds can sometimes be reclaimed through diligent security research.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/01/whitehat-developer-unlocks-usd2-million-stuck-in-a-2016-ethereum-ico-contract-for-nine-years",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "ico",
+    "whitehat",
+    "security",
+    "recovery",
+    "smart-contracts"
+  ],
+  "publishedAt": "2026-06-01T14:02:01.194839+00:00",
+  "imageUrl": "/images/articles/2026-06-01-whitehat-developer-unlocks-2m-stuck-in-2016-ethereum-ico-contract.png",
+  "twitterThread": [
+    "A whitehat developer just unlocked $2M stuck in a 2016 Ethereum ICO contract for 9 years. The funds are going back to 48 original investors.",
+    "The flaw was an integer overflow in the HongCoin token sale contract. This is the second such recovery publicized in 8 days by the same developer, 0xflorent.",
+    "If you invested in old ICOs, keep an eye out for similar recoveries. Follow whitehat developers like 0xflorent for updates. Read more → https://cryptocatalyst.news/articles/2026-06-01-whitehat-developer-unlocks-2m-stuck-in-2016-ethereum-ico-contract"
+  ],
+  "standaloneTweet": "A whitehat developer just unlocked $2M stuck in a 2016 Ethereum ICO for 9 years. If you invested in old ICOs, check for recoveries like this one."
+}

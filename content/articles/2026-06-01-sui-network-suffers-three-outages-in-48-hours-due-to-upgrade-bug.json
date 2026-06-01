@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-01-sui-network-suffers-three-outages-in-48-hours-due-to-upgrade-bug",
+  "title": "Sui Network Suffers Three Outages in 48 Hours Due to Upgrade Bug",
+  "summary": "The Sui blockchain experienced three halts in two days due to a bug in its latest upgrade. The issue stemmed from interactions between a new address-balance feature and the network's existing gas and consensus logic, according to the Sui Foundation's post-mortem.",
+  "body": "The Sui blockchain network faced three separate outages within a 48-hour period, all traced back to a bug in its latest software upgrade. The Sui Foundation's post-mortem report, published Sunday, identified the root cause as interactions between a new address-balance feature introduced in the v1.72 release and the network's existing gas and consensus logic. These interactions led to unexpected failures, disrupting the network's operations.\n\nThe v1.72 upgrade was intended to improve the efficiency and reliability of the Sui network. However, the new address-balance feature inadvertently conflicted with the network's gas and consensus mechanisms, causing the system to halt. The Sui Foundation has acknowledged the issue and is working on a fix to prevent similar incidents in the future.\n\nFor everyday users, these outages highlight the importance of thorough testing in blockchain upgrades. While the Sui network has generally been reliable, this incident serves as a reminder that even minor changes can have significant impacts. Users should stay informed about network updates and be prepared for potential disruptions during upgrade periods.\n\nMoving forward, the Sui Foundation is likely to implement more rigorous testing protocols to catch such issues before they affect the mainnet. Users should watch for official announcements regarding the rollout of the fix and any additional measures to enhance network stability. Stay tuned for updates from the Sui Foundation on their progress in resolving this issue.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "sui",
+    "blockchain",
+    "outage",
+    "upgrade",
+    "bug",
+    "post-mortem"
+  ],
+  "publishedAt": "2026-06-01T14:03:49.332691+00:00",
+  "imageUrl": "/images/articles/2026-06-01-sui-network-suffers-three-outages-in-48-hours-due-to-upgrade-bug.png",
+  "twitterThread": [
+    "The Sui blockchain just had 3 outages in 48 hours—all due to a bug in their latest upgrade. A new address-balance feature clashed with the network's existing systems, causing the halts.",
+    "The issue was traced to interactions between the new feature in v1.72 and the network's gas and consensus logic. The Sui Foundation is working on a fix to prevent future disruptions.",
+    "If you're a Sui user, stay informed about network updates and be prepared for potential disruptions. Watch for official announcements on the fix. Read more → https://cryptocatalyst.news/articles/2026-06-01-sui-network-suffers-three-outages-in-48-hours-due-to-upgrade-bug"
+  ],
+  "standaloneTweet": "The Sui blockchain had 3 outages in 48 hours due to a bug in their latest upgrade. A new address-balance feature clashed with the network's existing systems, causing the halts. Stay informed about updates and be prepared for disruptions."
+}
