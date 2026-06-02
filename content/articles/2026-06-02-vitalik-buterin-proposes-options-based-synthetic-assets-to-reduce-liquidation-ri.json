@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-02-vitalik-buterin-proposes-options-based-synthetic-assets-to-reduce-liquidation-ri",
+  "title": "Vitalik Buterin Proposes Options-Based Synthetic Assets to Avoid Liquidations and Reduce Reliance on Real-Time Oracles",
+  "summary": "Ethereum co-founder Vitalik Buterin has proposed a new model for synthetic assets that avoids liquidation risks and relies on slower, more reliable oracles. This could make decentralized finance (DeFi) platforms more stable and less dependent on real-time price feeds.",
+  "body": "Ethereum co-founder Vitalik Buterin has suggested a new approach to synthetic assets that aims to eliminate liquidation risks and reduce reliance on real-time oracles. In a recent proposal, Buterin outlined a system where synthetic assets are backed by options contracts, which are financial instruments that give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price.\n\nThe key innovation in Buterin's proposal is the use of slow oracles, which provide price data less frequently but are more secure and less prone to manipulation. This approach contrasts with current systems that rely on real-time oracles, which can be vulnerable to flash crashes and other market disruptions. By using options-based synthetic assets, users would not face sudden liquidations due to volatile price swings.\n\nThis proposal could have significant implications for decentralized finance (DeFi) platforms, which often struggle with liquidation risks and oracle vulnerabilities. By adopting this model, DeFi platforms could offer more stable and secure synthetic assets, attracting a broader range of users. This could also reduce the complexity and cost associated with maintaining real-time oracles, making DeFi more accessible and efficient.\n\nFor everyday users, this development could mean a more reliable and less risky way to engage with synthetic assets. If implemented, this system could provide a safer environment for trading and investing in DeFi, potentially leading to greater adoption and trust in the ecosystem. Users should watch for any updates or implementations of this proposal by major DeFi platforms, as it could signal a shift towards more stable and secure financial instruments in the crypto space.\n\nRead more → https://www.theblock.co/post/403311/vitalik-buterin-proposes-options-based-synthetic-assets-to-avoid-liquidations-and-reduce-reliance-on-real-time-oracles?utm_source=rss&utm_medium=rss",
+  "sourceUrl": "https://www.theblock.co/post/403311/vitalik-buterin-proposes-options-based-synthetic-assets-to-avoid-liquidations-and-reduce-reliance-on-real-time-oracles?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "defi",
+  "tags": [
+    "vitalik-buterin",
+    "synthetic-assets",
+    "defi",
+    "oracles",
+    "liquidation",
+    "ethereum"
+  ],
+  "publishedAt": "2026-06-02T13:04:58.978230+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "Vitalik Buterin proposes options-based synthetic assets to avoid liquidations and reduce reliance on real-time oracles. No more flash crash risks!",
+    "Buterin's idea uses slow oracles and options contracts to back synthetic assets, making them more stable and less reliant on real-time price feeds.",
+    "This could make DeFi safer and more accessible. Watch for updates from major platforms—could be a game-changer. Read more → https://cryptocatalyst.news/articles/2026-06-02-vitalik-buterin-proposes-options-based-synthetic-assets-to-reduce-liquidation-ri"
+  ],
+  "standaloneTweet": "Vitalik Buterin's new proposal for options-based synthetic assets could eliminate liquidation risks and reduce reliance on real-time oracles in DeFi. A safer way to trade?"
+}
