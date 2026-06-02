@@ -311,10 +311,13 @@ def generate_article_image(article: dict) -> str | None:
         )
         # Strip any residual thinking blocks and quotes
         image_prompt = re.sub(r"<think>.*?</think>", "", image_prompt, flags=re.DOTALL).strip().strip('"')
+        # Reinforce no-text rule directly in the prompt so the image model respects it
+        image_prompt = image_prompt.rstrip(", ") + ", no text, no words, no letters, no typography, no captions, no watermarks"
         print(f"  [IMG] Prompt: {image_prompt[:80]}...")
 
         # Generate image via Venice AI
-        image_bytes = generate_image(image_prompt)
+        negative = "text, words, letters, typography, captions, watermarks, labels, signs, logos, numbers, writing, fonts"
+        image_bytes = generate_image(image_prompt, negative_prompt=negative)
 
         # Save to public/images/articles/ — detect format from magic bytes
         ext = "png"

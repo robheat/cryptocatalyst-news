@@ -92,17 +92,19 @@ def json_chat(
 def generate_image(
     prompt: str,
     model: str = "chroma",
+    negative_prompt: str = "",
 ) -> bytes:
     """
     Call Venice AI image generation and return raw image bytes.
     Raises RuntimeError on non-200 responses.
     """
-    payload = json.dumps(
-        {
-            "model": model,
-            "prompt": prompt,
-        }
-    ).encode("utf-8")
+    body: dict = {
+        "model": model,
+        "prompt": prompt,
+    }
+    if negative_prompt:
+        body["negative_prompt"] = negative_prompt
+    payload = json.dumps(body).encode("utf-8")
 
     conn = http.client.HTTPSConnection(VENICE_HOST)
     conn.request(
