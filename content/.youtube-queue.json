@@ -4279,6 +4279,118 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-vedas-kraken-defi-vault-stack-now-available-to-privy-developers_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-vedas-kraken-defi-vault-stack-now-available-to-privy-developers_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance",
+      "title": "Coinbase Invests in Ethena via Open Market Purchase of ENA, Flags New Partnership",
+      "category": "defi",
+      "tags": [
+        "coinbase",
+        "ethena",
+        "defi",
+        "investment",
+        "partnership",
+        "onchain finance"
+      ],
+      "articleSummary": "Coinbase has invested in Ethena through an open market purchase of ENA tokens, and the two companies are partnering to grow onchain finance and savings products. This collaboration aims to expand blockchain-based financial services.",
+      "articleBody": "Coinbase has made a strategic investment in Ethena by purchasing ENA tokens on the open market, according to an announcement by Ethena. The two companies have also entered into a partnership focused on expanding onchain finance and savings products, leveraging blockchain technology to offer more accessible financial services.\n\nAccording to the announcement, Coinbase's investment in Ethena is part of a broader strategy to integrate more decentralized finance solutions into its platform. Ethena, known for its USDe stablecoin and savings products like sUSDe, will collaborate with Coinbase to develop new financial tools that cater to both retail and institutional investors. This partnership is expected to enhance the usability and adoption of onchain financial products.\n\nFor everyday users, this partnership could mean easier access to stablecoins and other DeFi products through Coinbase's user-friendly interface. As more traditional financial services migrate to the blockchain, users may benefit from lower fees, greater transparency, and innovative savings options. The collaboration between Coinbase and Ethena could set a precedent for other exchanges and DeFi projects to work together, fostering a more integrated financial ecosystem.\n\nUsers should watch for new product announcements from Coinbase and Ethena, as this partnership is likely to introduce new financial tools and servic",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance",
+      "script": {
+        "hook": "Your savings account just got a blockchain upgrade.",
+        "narration_lines": [
+          "Coinbase just invested in Ethena, a company behind the USDe stablecoin and savings products like sUSDe.",
+          "This partnership means easier access to stablecoins and decentralized finance (DeFi) products for everyday users.",
+          "Think of it like getting a high-yield savings account, but powered by blockchain technology.",
+          "Users may soon see new financial tools on Coinbase, offering lower fees and greater transparency.",
+          "Stablecoins like USDe could become more mainstream, making onchain finance more accessible."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "f411903a65a918fa",
+      "scriptText": "Your savings account just got a blockchain upgrade. Coinbase just invested in Ethena, a company behind the USDe stablecoin and savings products like sUSDe. This partnership means easier access to stablecoins and decentralized finance (DeFi) products for everyday users. Think of it like getting a high-yield savings account, but powered by blockchain technology. Users may soon see new financial tools on Coinbase, offering lower fees and greater transparency. Stablecoins like USDe could become more mainstream, making onchain finance more accessible. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "aWiJAudlZ_4",
+      "youtubeUrl": "https://youtube.com/watch?v=aWiJAudlZ_4",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-03T18:43:50.695596+00:00",
+      "uploadedAt": "2026-06-03T18:51:02.931344+00:00",
+      "audioLineDurations": [
+        2.8586666666666667,
+        7.168,
+        7.786666666666667,
+        5.141333333333334,
+        6.485333333333333,
+        5.546666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-02-coinbase-invests-in-ethena-partners-to-expand-onchain-finance_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts",
+      "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
+      "category": "bitcoin",
+      "tags": [
+        "cme",
+        "futures",
+        "options",
+        "bitcoin",
+        "volatility",
+        "trading"
+      ],
+      "articleSummary": "CME Group now offers round-the-clock crypto futures and options trading on CME Globex, including new Bitcoin volatility contracts that track the CME CF Bitcoin Reference Rate. This move expands access to crypto derivatives for institutional investors.",
+      "articleBody": "CME Group, one of the world's largest derivatives marketplaces, has launched 24/7 crypto futures and options trading on its CME Globex platform. The new offering includes Bitcoin volatility contracts, allowing investors to hedge against or speculate on Bitcoin's price swings.\n\nThe launch marks a significant step in the institutional adoption of crypto derivatives. CME Group already offers Bitcoin and Ether futures, but the 24/7 trading schedule and new volatility contracts cater to the always-on nature of crypto markets. The volatility contracts are based on the CME CF Bitcoin Reference Rate and will be settled in cash.\n\nThis development is crucial for institutional investors who previously had to navigate fragmented trading hours. With 24/7 access, they can better manage risk and capitalize on market movements at any time. Retail investors may also benefit indirectly as the increased liquidity and hedging options could stabilize crypto markets.\n\nFor those interested in trading these new products, the volatility contracts could provide a new way to hedge against Bitcoin's price swings. Keep an eye on the market reaction and adoption rates in the coming weeks to gauge the impact of these new offerings.",
+      "imageUrl": "/images/articles/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts",
+      "script": {
+        "hook": "Your Bitcoin investments just got a new safety net for all hours of the day.",
+        "narration_lines": [
+          "CME Group, a major derivatives marketplace, now offers 24/7 cryptocurrency futures and options trading.",
+          "This includes new Bitcoin volatility contracts, which let investors bet on or protect against Bitcoin's price swings.",
+          "These contracts are based on the CME CF Bitcoin Reference Rate and are settled in cash.",
+          "For institutional investors, this means better risk management and the ability to trade at any time.",
+          "Retail investors may also benefit from increased market stability and liquidity.",
+          "If you're interested, keep an eye on how these new offerings impact the market in the coming weeks."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 114
+      },
+      "scriptHash": "3e4d790f98cbc212",
+      "scriptText": "Your Bitcoin investments just got a new safety net for all hours of the day. CME Group, a major derivatives marketplace, now offers 24/7 cryptocurrency futures and options trading. This includes new Bitcoin volatility contracts, which let investors bet on or protect against Bitcoin's price swings. These contracts are based on the CME CF Bitcoin Reference Rate and are settled in cash. For institutional investors, this means better risk management and the ability to trade at any time. Retail investors may also benefit from increased market stability and liquidity. If you're interested, keep an eye on how these new offerings impact the market in the coming weeks. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "6c8TzNfJhb0",
+      "youtubeUrl": "https://youtube.com/watch?v=6c8TzNfJhb0",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-03T18:44:01.712923+00:00",
+      "uploadedAt": "2026-06-03T18:51:05.161619+00:00",
+      "audioLineDurations": [
+        4.736,
+        8.533333333333333,
+        7.338666666666667,
+        5.418666666666667,
+        6.1226666666666665,
+        5.1626666666666665,
+        5.333333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_3.jpg"
+      ]
     }
   ]
 }
