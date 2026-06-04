@@ -4391,6 +4391,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-01-cme-group-launches-247-crypto-futures-and-bitcoin-volatility-contracts_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil",
+      "title": "Tether-Backed Adecoagro to Launch Sugarcane-Powered Bitcoin Mining in Brazil",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "renewable-energy",
+        "tether",
+        "sustainability",
+        "adecoagro"
+      ],
+      "articleSummary": "Adecoagro, backed by Tether, will start Bitcoin mining using electricity generated from sugarcane waste. The project aims to launch on July 1, combining renewable energy with crypto mining.",
+      "articleBody": "Adecoagro, a company supported by Tether, is preparing to launch Bitcoin mining operations in Brazil. The electricity for these operations will be generated from sugarcane waste, a renewable energy source. The project is set to begin on July 1, marking a significant step in sustainable crypto mining.\n\nThe initiative leverages Brazil's abundant sugarcane resources to produce electricity, which will power Bitcoin mining rigs. This approach not only utilizes waste products but also reduces the carbon footprint of mining operations. Adecoagro's partnership with Tether highlights the growing trend of integrating renewable energy into the cryptocurrency ecosystem.\n\nFor everyday people, this means that Bitcoin mining can become more environmentally friendly. By using renewable energy sources like sugarcane waste, the industry can reduce its reliance on fossil fuels and lower its overall environmental impact. This could make Bitcoin mining more acceptable to environmental advocates and regulators.\n\nThis project also sets a precedent for other companies to explore similar sustainable practices. As more entities adopt renewable energy for crypto mining, the industry could see a shift towards greener and more sustainable operations. Watch for updates on the launch date and the impact of this initiative on the broader crypto mining landscape.",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil",
+      "script": {
+        "hook": "Your Bitcoin could soon be mined using sugarcane waste, thanks to a new project backed by Tether.",
+        "narration_lines": [
+          "Adecoagro in Brazil is launching Bitcoin mining powered by sugarcane waste starting July 1.",
+          "This means Bitcoin mining could become more eco-friendly, using renewable energy instead of fossil fuels.",
+          "Imagine sugarcane waste turning into electricity that mines Bitcoin, reducing carbon emissions.",
+          "For investors, this could make Bitcoin mining more acceptable to regulators and environmental groups.",
+          "If successful, other companies might follow, making the entire industry greener.",
+          "Keep an eye on this project as it could change how Bitcoin is mined in the future."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "64ef1c3d6ac01120",
+      "scriptText": "Your Bitcoin could soon be mined using sugarcane waste, thanks to a new project backed by Tether. Adecoagro in Brazil is launching Bitcoin mining powered by sugarcane waste starting July 1. This means Bitcoin mining could become more eco-friendly, using renewable energy instead of fossil fuels. Imagine sugarcane waste turning into electricity that mines Bitcoin, reducing carbon emissions. For investors, this could make Bitcoin mining more acceptable to regulators and environmental groups. If successful, other companies might follow, making the entire industry greener. Keep an eye on this project as it could change how Bitcoin is mined in the future. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "zU1eUhDsD-k",
+      "youtubeUrl": "https://youtube.com/watch?v=zU1eUhDsD-k",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-04T17:44:25.911907+00:00",
+      "uploadedAt": "2026-06-04T17:51:16.860397+00:00",
+      "audioLineDurations": [
+        5.76,
+        6.208,
+        6.613333333333333,
+        6.1866666666666665,
+        6.1226666666666665,
+        4.736,
+        4.970666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-tether-backed-adecoagro-to-launch-sustainable-bitcoin-mining-in-brazil_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us",
+      "title": "Kalshi Goes Live With America’s First Regulated Bitcoin Perpetual Futures",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "futures",
+        "regulated",
+        "kalshi",
+        "trading"
+      ],
+      "articleSummary": "Kalshi has launched the first regulated Bitcoin perpetual futures in the U.S., offering investors a new way to trade Bitcoin with leverage. This marks a significant milestone for regulated crypto derivatives in America.",
+      "articleBody": "Kalshi, a regulated prediction market platform, has announced on X that Bitcoin perpetual futures are now live on its platform, offering U.S. investors rare access to regulated perps domestically. These contracts allow investors to trade Bitcoin with leverage without an expiration date, a feature previously unavailable in the regulated U.S. market.\n\nThe platform, known for its innovative approach to financial markets, has received regulatory approval to offer these products. Kalshi's Bitcoin perpetual futures are designed to provide traders with the flexibility of leveraged trading while adhering to U.S. financial regulations.\n\nThis development is significant for U.S. investors who have had limited access to regulated leveraged Bitcoin products. By offering perpetual futures, Kalshi enables traders to speculate on Bitcoin's price movements with the potential for higher returns, all within a compliant framework.\n\nInvestors interested in trading these new products should visit Kalshi's platform to understand the terms and conditions. As the market evolves, it will be important to monitor how these products perform and their impact on the broader crypto derivatives market.",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us",
+      "script": {
+        "hook": "For the first time, Americans can trade Bitcoin with leverage in a fully regulated way.",
+        "narration_lines": [
+          "Kalshi just launched Bitcoin perpetual futures, letting you trade with leverage without an expiration date.",
+          "This is a big deal because it's the first regulated product of its kind in the U.S.",
+          "Think of it like a turbocharged way to bet on Bitcoin's price, but with government oversight.",
+          "Before, you had to use unregulated platforms, which came with risks. Now, you can trade safely.",
+          "If you're new to this, perpetual futures let you control more Bitcoin than you own, amplifying gains or losses.",
+          "Check out Kalshi's platform to see how you can get started with this new opportunity."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "e2711accb2f8251d",
+      "scriptText": "For the first time, Americans can trade Bitcoin with leverage in a fully regulated way. Kalshi just launched Bitcoin perpetual futures, letting you trade with leverage without an expiration date. This is a big deal because it's the first regulated product of its kind in the U.S. Think of it like a turbocharged way to bet on Bitcoin's price, but with government oversight. Before, you had to use unregulated platforms, which came with risks. Now, you can trade safely. If you're new to this, perpetual futures let you control more Bitcoin than you own, amplifying gains or losses. Check out Kalshi's platform to see how you can get started with this new opportunity. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "FAbRbo2QcSY",
+      "youtubeUrl": "https://youtube.com/watch?v=FAbRbo2QcSY",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-04T17:44:30.008597+00:00",
+      "uploadedAt": "2026-06-04T17:51:18.636415+00:00",
+      "audioLineDurations": [
+        5.205333333333333,
+        6.016,
+        5.504,
+        5.184,
+        6.016,
+        6.954666666666666,
+        4.544,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_3.jpg"
+      ]
     }
   ]
 }
