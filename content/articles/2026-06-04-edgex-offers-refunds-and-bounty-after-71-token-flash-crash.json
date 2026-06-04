@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash",
+  "title": "EdgeX Offers Refunds and Bounty After 71% Token Flash Crash",
+  "summary": "EdgeX is refunding users and offering a 200,000 USDC bounty after a 71% flash crash of its EDGE token. The crash was caused by a flood of sell orders during low liquidity on PancakeSwap.",
+  "body": "EdgeX, a decentralized finance (DeFi) platform, has announced it will refund affected users and launch a 200,000 USDC bounty following a 71% flash crash of its EDGE token. The crash occurred when 174 addresses flooded a PancakeSwap liquidity pool with sell orders during a period of low liquidity.\n\nThe incident highlights the risks of low liquidity in DeFi trading. EdgeX has identified the problematic addresses and is working to compensate those who lost funds. The bounty aims to incentivize information leading to the identification of the perpetrators behind the sell-off.\n\nThis move by EdgeX is significant as it demonstrates a commitment to user protection and trust in the DeFi space. For everyday users, it underscores the importance of understanding liquidity risks when trading tokens on decentralized exchanges. It also sets a precedent for how DeFi projects might handle similar incidents in the future.\n\nUsers affected by the crash should monitor EdgeX's official channels for updates on the refund process. The bounty offers a potential lead for investigators or whistleblowers to come forward with information. Keep an eye on EdgeX's announcements for further details on both the refunds and the bounty.",
+  "sourceUrl": "https://www.theblock.co/post/403567/edgex-offers-refunds-200000-usdc-bounty-71-token-flash-crash?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "defi",
+  "tags": [
+    "edgex",
+    "flash-crash",
+    "pancakeswap",
+    "defi",
+    "liquidity",
+    "bounty"
+  ],
+  "publishedAt": "2026-06-04T13:36:37.045748+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "EdgeX is refunding users and offering a 200,000 USDC bounty after a 71% flash crash of its EDGE token. The crash was caused by a flood of sell orders during low liquidity on PancakeSwap.",
+    "The incident involved 174 addresses flooding a liquidity pool with sell orders, highlighting the risks of low liquidity in DeFi trading. EdgeX is now working to compensate affected users and identify the perpetrators.",
+    "If you were affected, monitor EdgeX's official channels for refund updates. The bounty offers a potential lead for investigators. Read more → https://cryptocatalyst.news/articles/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash"
+  ],
+  "standaloneTweet": "EdgeX is refunding users and offering a 200,000 USDC bounty after a 71% flash crash of its EDGE token. The crash was caused by a flood of sell orders during low liquidity on PancakeSwap."
+}
