@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-05-zec-plummets-38-after-zcash-finds-critical-counterfeit-bug",
+  "title": "ZEC Crashes 38% as Zcash Discloses 'Critical Counterfeiting Vulnerability'",
+  "summary": "Zcash disclosed a flaw that allowed undetectable counterfeiting of its privacy coin, ZEC, causing its price to drop 38%. The vulnerability has sparked renewed debate about the risks of privacy-focused cryptocurrencies.",
+  "body": "Zcash, a privacy-focused cryptocurrency, revealed a critical vulnerability in its Orchard protocol that allowed users to create undetectable counterfeit ZEC tokens in its shielded pool. The bug, which was patched in a recent update, caused the price of ZEC to crash by 38% in a single day.\n\nThe vulnerability, described as a 'critical counterfeiting flaw,' could have been exploited to create an unlimited amount of ZEC without detection. Zcash's development team quickly released a fix, but the damage to investor confidence was already done. The incident has reignited a broader debate about the security and risks associated with privacy coins.\n\nFor everyday users, this event highlights the potential risks of holding privacy coins. While privacy features are a key selling point, they can also make it harder to detect and prevent fraud. The ZEC crash serves as a reminder that even well-established cryptocurrencies can have critical vulnerabilities.\n\nMoving forward, users of Zcash and other privacy coins should stay informed about updates and security patches. It's also a good idea to diversify holdings and be cautious about storing large amounts in any single cryptocurrency, especially those with known vulnerabilities.",
+  "sourceUrl": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "zcash",
+    "zec",
+    "privacy-coins",
+    "vulnerability",
+    "counterfeit",
+    "crypto-crash"
+  ],
+  "publishedAt": "2026-06-05T13:39:53.540377+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "ZEC just crashed 38% after Zcash disclosed a critical counterfeit bug. Privacy coins under fire again.",
+    "The flaw in Zcash's Orchard protocol allowed undetectable counterfeiting of ZEC. A fix was released, but the damage was done.",
+    "If you hold ZEC or other privacy coins, stay updated on security patches. Diversify your holdings to mitigate risks. Read more → https://cryptocatalyst.news/articles/2026-06-05-zec-plummets-38-after-zcash-finds-critical-counterfeit-bug"
+  ],
+  "standaloneTweet": "ZEC dropped 38% after a critical bug allowed undetectable counterfeiting. Privacy coins come with unique risks—stay informed and diversify your holdings."
+}
