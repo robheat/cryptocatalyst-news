@@ -4504,6 +4504,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-kalshi-launches-first-regulated-bitcoin-perpetual-futures-in-the-us_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-05-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — June 05, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "institutional",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Friday, June 05, 2026\n\n1. OVERNIGHT MOVES\n\nA broad and aggressive selloff has swept the watchlist. BTC printed $61,902 (-2.9%), losing the $62k handle intraday. ETH collapsed to $1,653 (-7.0%) — its largest single-day drop in weeks — and SOL followed at $65.59 (-6.4%). Volume was elevated across all three relative to the weekend stupor of recent days; this is not drift. BTC dominance eased 1.3pp from yesterday to 56.0%, but that decline is deceptive — ETH and SOL are being sold proportionally harder, not rotated into. The 24h trending list is an anomaly: Zcash (ZEC) leads, joined by Babylon (BABY), Worldcoin (WLD), NEAR, SOL, Hyperliquid (HYPE), and BTC. ZEC appearing at #1 on a red day suggests either a privacy-narrative catalyst or a low-cap squeeze, not organic conviction. The market is pricing in a macro risk event or a sudden liquidity vacuum.\n\n2. NARRATIVE PULSE\n\nThree movements that traders should index, even as the tape bleeds:\nPrivacy / fungibility narrative testing the tape. ZEC trending at #1 is the most striking signal today. The last time ZEC held a top trending slot during a broad selloff, it preceded a regulatory announcement. Whether this is early positioning on a regulatory pivot or a reflexive bid into a beaten-down name, it is the only positive narrative vector on the board.\nBitcoin staking infrastructure (Babylon) entering the trending feed. ",
+      "imageUrl": "/images/articles/2026-06-05-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-05-crypto-research-morning-brief",
+      "script": {
+        "hook": "Your cryptocurrency investments just took a big hit overnight.",
+        "narration_lines": [
+          "Bitcoin dropped nearly 3% to $61,902, and Ethereum fell 7% to $1,653 — its biggest drop in weeks.",
+          "This isn't just a small dip; it's a broad selloff across the market, driven by macroeconomic fears.",
+          "Zcash, a privacy-focused coin, is the only one trending up, suggesting people might be betting on privacy regulations changing.",
+          "If you're holding cryptocurrency, this could be a good time to review your portfolio and consider your risk tolerance.",
+          "Remember, market downturns are normal, but they can be stressful — stay informed and don't panic sell."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "3c60abe357a8b892",
+      "scriptText": "Your cryptocurrency investments just took a big hit overnight. Bitcoin dropped nearly 3% to $61,902, and Ethereum fell 7% to $1,653 — its biggest drop in weeks. This isn't just a small dip; it's a broad selloff across the market, driven by macroeconomic fears. Zcash, a privacy-focused coin, is the only one trending up, suggesting people might be betting on privacy regulations changing. If you're holding cryptocurrency, this could be a good time to review your portfolio and consider your risk tolerance. Remember, market downturns are normal, but they can be stressful — stay informed and don't panic sell. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "607tP3yjfGs",
+      "youtubeUrl": "https://youtube.com/watch?v=607tP3yjfGs",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-05T17:14:20.541225+00:00",
+      "uploadedAt": "2026-06-05T17:22:16.578278+00:00",
+      "audioLineDurations": [
+        3.3706666666666667,
+        10.816,
+        6.272,
+        8.256,
+        6.570666666666667,
+        5.8453333333333335,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model",
+      "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street’s Fee Machine, Not Its Technology",
+      "category": "bitcoin",
+      "tags": [
+        "blockchain",
+        "finance",
+        "tokenization",
+        "bitcoin",
+        "wall-street",
+        "defi"
+      ],
+      "articleSummary": "Jenny Johnson, CEO of Franklin Templeton, says traditional finance resists public blockchains because they cut into fee-based revenue. The firm is expanding into tokenization, bitcoin products, and on-chain finance.",
+      "articleBody": "Franklin Templeton CEO Jenny Johnson has publicly stated that Wall Street’s resistance to public blockchains stems from their threat to the fee-based revenue model, not the technology itself. Johnson made these remarks as her firm aggressively expands into tokenization, bitcoin products, and on-chain finance. She believes that traditional finance institutions are hesitant to adopt blockchain technology because it could disrupt their existing fee-based revenue streams.\n\nJohnson’s comments highlight a growing divide between traditional finance and the decentralized finance (DeFi) sector. Franklin Templeton is actively investing in tokenization, which involves converting real-world assets into digital tokens on a blockchain. This move is part of a broader strategy to integrate blockchain technology into mainstream financial services. The firm is also exploring bitcoin-related products and on-chain financial solutions, demonstrating a commitment to the evolving crypto landscape.\n\nFor everyday investors, this shift could mean more accessible and transparent financial products. Tokenization, for example, could make it easier to invest in assets that were previously out of reach, such as real estate or fine art. Additionally, the integration of blockchain technology could reduce fees and increase efficiency in financial transactions. However, it also signals a potential power shift aw",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model",
+      "script": {
+        "hook": "Wall Street is fighting cryptocurrency, but not for the reason you think.",
+        "narration_lines": [
+          "The CEO of Franklin Templeton says big banks fear blockchains because they cut their fees, not because of the technology.",
+          "This means your investments could soon cost less and be more transparent.",
+          "Imagine buying a piece of a building or a famous painting with just a few clicks.",
+          "Franklin Templeton is already turning real assets into digital tokens, making them easier to trade.",
+          "If Wall Street adopts this, you might see lower fees and faster transactions.",
+          "Keep an eye on tokenization—it could change how you invest forever."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "2e77aea08bccf6d7",
+      "scriptText": "Wall Street is fighting cryptocurrency, but not for the reason you think. The CEO of Franklin Templeton says big banks fear blockchains because they cut their fees, not because of the technology. This means your investments could soon cost less and be more transparent. Imagine buying a piece of a building or a famous painting with just a few clicks. Franklin Templeton is already turning real assets into digital tokens, making them easier to trade. If Wall Street adopts this, you might see lower fees and faster transactions. Keep an eye on tokenization—it could change how you invest forever. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "wLcZYKaCnHo",
+      "youtubeUrl": "https://youtube.com/watch?v=wLcZYKaCnHo",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-05T17:14:24.155960+00:00",
+      "uploadedAt": "2026-06-05T17:22:18.648311+00:00",
+      "audioLineDurations": [
+        4.1386666666666665,
+        7.850666666666666,
+        4.053333333333334,
+        4.842666666666666,
+        6.293333333333333,
+        4.693333333333333,
+        4.224,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_3.jpg"
+      ]
     }
   ]
 }
