@@ -4618,6 +4618,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-franklin-templeton-ceo-blockchains-threaten-wall-streets-fee-model_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale",
+      "title": "Grayscale Says Bitcoin Needs Other Buyers to Find a 'Sustainable Bottom' Amid Strategy BTC Sale",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "grayscale",
+        "investment",
+        "market",
+        "strategy"
+      ],
+      "articleSummary": "Grayscale warns that bitcoin's price may struggle without new buyers stepping in, as Strategy's ability to accumulate more bitcoin is limited at current STRC and MSTR share prices.",
+      "articleBody": "Grayscale, the world's largest digital currency asset manager, has issued a cautionary note about bitcoin's price stability. The firm stated that Strategy's ability to accumulate more bitcoin is limited at the current share prices of STRC and MSTR. According to Grayscale, these constraints could hinder Strategy's ability to support bitcoin's price.\n\nThe firm emphasized that for bitcoin to find a 'sustainable bottom,' other buyers need to enter the market. This comes as Strategy has been actively selling bitcoin to manage its holdings. Grayscale's comments highlight the delicate balance between institutional investment strategies and market dynamics.\n\nFor everyday investors, this news underscores the importance of market sentiment and institutional involvement in cryptocurrency prices. As Strategy adjusts its holdings, the broader market may experience volatility. Investors should be aware of these shifts and consider how they might impact their portfolios.\n\nMoving forward, investors should watch for any announcements from Strategy regarding changes in its investment strategies. Additionally, monitoring the performance of STRC and MSTR shares could provide insights into potential market movements. Staying informed about these factors can help investors make more educated decisions in the volatile crypto market.",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale",
+      "script": {
+        "hook": "Bitcoin's price could drop if big investors don't step in soon.",
+        "narration_lines": [
+          "Grayscale, a major cryptocurrency firm, warns that bitcoin needs new buyers to stabilize its price.",
+          "Strategy, a key player, is selling bitcoin and can't buy more at current share prices of STRC and MSTR.",
+          "This could lead to more price swings, affecting everyday investors like you.",
+          "For example, if you own bitcoin, keep an eye on STRC and MSTR shares for clues.",
+          "Grayscale's message: bitcoin's future depends on more buyers entering the market."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 80
+      },
+      "scriptHash": "dbccd6ca8be382c5",
+      "scriptText": "Bitcoin's price could drop if big investors don't step in soon. Grayscale, a major cryptocurrency firm, warns that bitcoin needs new buyers to stabilize its price. Strategy, a key player, is selling bitcoin and can't buy more at current share prices of STRC and MSTR. This could lead to more price swings, affecting everyday investors like you. For example, if you own bitcoin, keep an eye on STRC and MSTR shares for clues. Grayscale's message: bitcoin's future depends on more buyers entering the market. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "C7a4Keu_ltc",
+      "youtubeUrl": "https://youtube.com/watch?v=C7a4Keu_ltc",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-06T16:05:17.067496+00:00",
+      "uploadedAt": "2026-06-06T16:11:21.358644+00:00",
+      "audioLineDurations": [
+        3.648,
+        6.272,
+        7.466666666666667,
+        4.394666666666667,
+        5.952,
+        4.992,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-05-grayscale-bitcoin-needs-new-buyers-to-stabilize-after-strategy-btc-sale_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash",
+      "title": "EdgeX Offers Refunds and Bounty After 71% Token Flash Crash",
+      "category": "defi",
+      "tags": [
+        "edgex",
+        "flash-crash",
+        "pancakeswap",
+        "defi",
+        "liquidity",
+        "bounty"
+      ],
+      "articleSummary": "EdgeX is refunding users and offering a 200,000 USDC bounty after a 71% flash crash of its EDGE token. The crash was caused by a flood of sell orders during low liquidity on PancakeSwap.",
+      "articleBody": "EdgeX, a decentralized finance (DeFi) platform, has announced it will refund affected users and launch a 200,000 USDC bounty following a 71% flash crash of its EDGE token. The crash occurred when 174 addresses flooded a PancakeSwap liquidity pool with sell orders during a period of low liquidity.\n\nThe incident highlights the risks of low liquidity in DeFi trading. EdgeX has identified the problematic addresses and is working to compensate those who lost funds. The bounty aims to incentivize information leading to the identification of the perpetrators behind the sell-off.\n\nThis move by EdgeX is significant as it demonstrates a commitment to user protection and trust in the DeFi space. For everyday users, it underscores the importance of understanding liquidity risks when trading tokens on decentralized exchanges. It also sets a precedent for how DeFi projects might handle similar incidents in the future.\n\nUsers affected by the crash should monitor EdgeX's official channels for updates on the refund process. The bounty offers a potential lead for investigators or whistleblowers to come forward with information. Keep an eye on EdgeX's announcements for further details on both the refunds and the bounty.",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash",
+      "script": {
+        "hook": "Your cryptocurrency holdings could vanish in seconds if you're not careful.",
+        "narration_lines": [
+          "EdgeX's token just crashed 71% in minutes, wiping out user funds.",
+          "They're refunding victims and offering a $200,000 reward to catch the culprits.",
+          "This happened on PancakeSwap when too many sell orders flooded a low-liquidity pool.",
+          "It's a stark reminder: always check liquidity before trading on decentralized exchanges.",
+          "If you traded EDGE, watch EdgeX's updates for refund details.",
+          "For more crypto news made simple, visit cryptocatalyst dot news."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 88
+      },
+      "scriptHash": "02ab2c95f92eb3a8",
+      "scriptText": "Your cryptocurrency holdings could vanish in seconds if you're not careful. EdgeX's token just crashed 71% in minutes, wiping out user funds. They're refunding victims and offering a $200,000 reward to catch the culprits. This happened on PancakeSwap when too many sell orders flooded a low-liquidity pool. It's a stark reminder: always check liquidity before trading on decentralized exchanges. If you traded EDGE, watch EdgeX's updates for refund details. For more crypto news made simple, visit cryptocatalyst dot news. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "9yLb_IRDOXs",
+      "youtubeUrl": "https://youtube.com/watch?v=9yLb_IRDOXs",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-06T16:05:19.920586+00:00",
+      "uploadedAt": "2026-06-06T16:11:23.242756+00:00",
+      "audioLineDurations": [
+        4.309333333333333,
+        4.906666666666666,
+        6.528,
+        4.608,
+        5.632,
+        4.117333333333334,
+        4.032,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-04-edgex-offers-refunds-and-bounty-after-71-token-flash-crash_bg_3.jpg"
+      ]
     }
   ]
 }
