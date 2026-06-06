@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-06-zcash-developers-propose-new-shielded-pool-after-orchard-bug",
+  "title": "Zcash Weighs New Shielded Pool After Orchard Counterfeiting Bug",
+  "summary": "Zcash developers are considering a new shielded pool and turnstile accounting to address a recent bug that allowed counterfeit transactions. This follows concerns about the supply verification process in the Orchard protocol.",
+  "body": "Zcash developers are exploring a new shielded pool and turnstile accounting mechanisms to bolster the privacy-focused cryptocurrency's security. This move comes after a bug in the Orchard protocol allowed counterfeit transactions, raising questions about the integrity of Zcash's supply verification process.\n\nThe Orchard bug, discovered recently, permitted the creation of counterfeit Zcash tokens, potentially undermining trust in the network. Developers are now weighing the implementation of a new shielded pool to separate legitimate transactions from those that could be affected by the bug. Additionally, turnstile accounting is being considered to ensure that only verified transactions are included in the supply.\n\nFor everyday users, this development highlights the importance of security in privacy-focused cryptocurrencies. The proposed changes aim to restore confidence in Zcash's supply verification process, ensuring that users can trust the integrity of their transactions. The community is closely watching these developments as they could significantly impact the future of Zcash.\n\nUsers should keep an eye on official announcements from the Zcash team regarding the implementation of these changes. The timeline for these updates is not yet clear, but any developments will be crucial for maintaining trust in the network. Stay informed through official Zcash channels and community updates.",
+  "sourceUrl": "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "zcash",
+    "privacy",
+    "blockchain",
+    "security",
+    "bug",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-06-06T13:10:21.177694+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "Zcash devs are weighing a new shielded pool to fix a bug that allowed counterfeit transactions. Trust in the network is at stake.",
+    "The Orchard bug let fake Zcash tokens be created, raising concerns about supply verification. A new shielded pool and turnstile accounting could be the solution.",
+    "If you use Zcash, watch for official updates on these changes. The future of the network depends on fixing this issue. Read more → https://cryptocatalyst.news/articles/2026-06-06-zcash-developers-propose-new-shielded-pool-after-orchard-bug"
+  ],
+  "standaloneTweet": "Zcash is weighing a new shielded pool to fix a bug that let counterfeit transactions happen. If you use Zcash, stay tuned for updates."
+}

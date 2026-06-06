@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-06-zcash-bug-finder-turns-ai-to-monero-after-38-price-drop",
+  "title": "Researcher Who Found Zcash's Bug with AI Adds Monero to His Audit Queue",
+  "summary": "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.",
+  "body": "Taylor Hornby, the researcher who discovered a significant bug in Zcash's Orchard protocol using AI, has added Monero to his list of cryptocurrencies to audit. The flaw he found in Zcash's privacy features caused the coin's value to drop by 38%, underscoring the critical role of security in cryptocurrency.\n\nHornby, who is known for his work in cryptocurrency security, used AI tools to identify the vulnerability in Zcash. This success has prompted him to apply similar methods to other privacy-focused coins, starting with Monero. His approach involves using machine learning to scan code for potential weaknesses, a method that has proven effective in uncovering hidden flaws.\n\nFor everyday users, this development highlights the importance of security in the cryptocurrency space. Privacy coins like Zcash and Monero are designed to offer enhanced anonymity, but they are not immune to bugs and vulnerabilities. Regular audits and security checks are essential to maintaining trust and stability in these coins.\n\nHornby's move to audit Monero could lead to similar discoveries, potentially impacting its price and user confidence. Investors and users of Monero should keep an eye on any findings from Hornby's research, as they could reveal critical information about the coin's security.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "privacy",
+    "security",
+    "ai",
+    "audit",
+    "zcash",
+    "monero"
+  ],
+  "publishedAt": "2026-06-06T13:10:53.480445+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.",
+    "Hornby used AI to find the Zcash bug and is now applying the same methods to audit Monero.",
+    "If you use Monero, keep an eye on Hornby's findings—they could reveal critical security info. Read more → https://cryptocatalyst.news/articles/2026-06-06-zcash-bug-finder-turns-ai-to-monero-after-38-price-drop"
+  ],
+  "standaloneTweet": "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too. Now he's adding Monero to his audit queue."
+}
