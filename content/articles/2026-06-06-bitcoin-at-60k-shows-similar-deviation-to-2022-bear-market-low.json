@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-06-bitcoin-at-60k-shows-similar-deviation-to-2022-bear-market-low",
+  "title": "Bitcoin at $60k Shows Deviation Close to 2022 Bear Market Low",
+  "summary": "Bitcoin's price at $60,000 shows a -54.1% deviation from its power law trend, close to the -56.6% deviation seen on November 21, 2022, the worst day of the last bear market. The Z-score is -1.13σ versus -1.21σ, indicating Bitcoin is already in bear market territory, according to analyst Adam Livingston.",
+  "body": "Bitcoin's current price of $60,000 is showing a significant deviation from its long-term power law trend, according to a tweet by analyst Adam Livingston. Specifically, the price is at a -54.1% deviation, which is close to the -56.6% deviation observed on November 21, 2022, during the worst day of the last bear market.\n\nThe deviation is measured by a Z-score of -1.13σ, a statistical indicator of how far the current price is from the expected trend. The worst day of the previous bear market had a Z-score of -1.21σ, suggesting that Bitcoin is already in a bear market phase at the current price level.\n\nThis analysis provides historical context for Bitcoin's current price movements, helping investors understand the severity of the current drawdown relative to past cycles. Monitoring further deviations from the power law trend could offer additional insights into potential future price action.",
+  "sourceUrl": "https://x.com/AdamBLiv/status/2062997897629642940",
+  "sourceName": "@AdamBLiv on X",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bear-market",
+    "price-analysis",
+    "trend",
+    "investing"
+  ],
+  "publishedAt": "2026-06-06T15:20:38.366188+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "Bitcoin at $60k is showing a -54.1% deviation from its power law trend, close to the -56.6% deviation on Nov 21, 2022 (worst day of last bear market). The Z-score is -1.13σ vs -1.21σ. This suggests Bitcoin is already in bear market territory.",
+    "The deviation from trend is a key metric for understanding how far Bitcoin is from its long-term trajectory. At -54.1%, it's nearly as extreme as the 2022 low. Investors should watch for further deviations to gauge market depth.",
+    "For more details, read the full article: https://cryptocatalyst.news/articles/2026-06-06-bitcoin-at-60k-shows-similar-deviation-to-2022-bear-market-low"
+  ],
+  "standaloneTweet": "Bitcoin at $60k shows a -54.1% deviation from its power law trend (Z-score -1.13σ), nearly matching the -56.6% deviation on Nov 21, 2022 (Z-score -1.21σ). This indicates Bitcoin is already in bear market territory, per analyst @AdamBLiv."
+}
