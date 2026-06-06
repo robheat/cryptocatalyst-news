@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-06-14-year-old-satoshi-era-bitcoin-moves-amid-285b-lawsuit",
+  "title": "Satoshi-Era Bitcoin at Center of $285 Billion Lawsuit Moves After 14 Years",
+  "summary": "A dormant Bitcoin address holding early-mined coins worth billions moved for the first time in 14 years after receiving a legal notice. The move comes as part of a $285 billion lawsuit demanding proof of ownership by November 5, 2025.",
+  "body": "A Bitcoin address known as 1LwWt, which contains some of the earliest mined Bitcoin, has finally moved after 14 years of inactivity. This address, often linked to Satoshi Nakamoto, the pseudonymous creator of Bitcoin, received a legal notice in July 2025 from Salomon Brothers demanding the owner prove ownership by November 5, 2025. The notice was sent via Bitcoin's OP_RETURN field, a feature that allows small amounts of data to be embedded in transactions. This is part of a larger $285 billion lawsuit that could have far-reaching implications for the Bitcoin community. For everyday Bitcoin users, this case highlights the importance of securing private keys and understanding the legal complexities surrounding early-mined Bitcoin. The outcome of this lawsuit could set precedents for future disputes over ownership and the handling of dormant addresses. As of now, the next critical date to watch is November 5, 2025, when the owner of the 1LwWt address must respond to the legal notice. This deadline is crucial for determining the future of these early-mined coins and the broader implications for Bitcoin's legal landscape.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "satoshi",
+    "lawsuit",
+    "dormant",
+    "legal"
+  ],
+  "publishedAt": "2026-06-06T21:09:32.864274+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "A 14-year-old Bitcoin address linked to Satoshi-era coins just moved for the first time, worth billions. Here's why it matters.",
+    "The 1LwWt address received a legal notice via OP_RETURN in July 2025 demanding proof of ownership by November 5, 2025, as part of a $285B lawsuit. This is a huge moment for Bitcoin's legal history.",
+    "If you're holding Bitcoin, this case is a reminder to secure your private keys and stay informed on legal developments. Read more → https://cryptocatalyst.news/articles/2026-06-06-14-year-old-satoshi-era-bitcoin-moves-amid-285b-lawsuit"
+  ],
+  "standaloneTweet": "A 14-year-old Bitcoin address linked to Satoshi-era coins just moved for the first time, worth billions. This is part of a $285B lawsuit demanding proof of ownership by November 5, 2025. If you hold Bitcoin, secure your keys and watch this case closely."
+}
