@@ -109,7 +109,7 @@ def generate_image(
     conn = http.client.HTTPSConnection(VENICE_HOST)
     conn.request(
         "POST",
-        f"{VENICE_BASE_PATH}/images/generations",
+        f"{VENICE_BASE_PATH}/image/generate",
         body=payload,
         headers={
             "Authorization": f"Bearer {VENICE_API_KEY}",
@@ -127,6 +127,6 @@ def generate_image(
         )
 
     data = json.loads(body.decode("utf-8"))
-    # Venice returns {"data": [{"b64_json": "..."}]}
-    b64 = data["data"][0]["b64_json"]
+    # Venice native API returns {"images": ["<b64string>", ...]}
+    b64 = data["images"][0]
     return base64.b64decode(b64)
