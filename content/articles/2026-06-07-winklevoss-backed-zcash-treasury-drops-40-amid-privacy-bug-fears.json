@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-07-winklevoss-backed-zcash-treasury-drops-40-amid-privacy-bug-fears",
+  "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
+  "summary": "Shares of Cypherpunk Technologies, the company behind Zcash, fell sharply due to concerns over a privacy bug in the ZEC cryptocurrency. The bug could potentially expose transaction details, raising worries among investors.",
+  "body": "Shares of Cypherpunk Technologies, the company that develops the privacy-focused cryptocurrency Zcash, have plummeted nearly 40% to their lowest point since March. The drop follows concerns over a newly discovered privacy bug in the ZEC cryptocurrency, which could compromise the anonymity of transactions.\n\nThe bug, which has not yet been fully disclosed, has sparked jitters among investors and users alike. Cypherpunk Technologies, backed by the Winklevoss twins, has not yet released a detailed statement on the bug's severity or the timeline for a fix. However, the potential for transaction details to be exposed has led to a significant sell-off in the company's shares.\n\nFor everyday users, this news highlights the risks associated with privacy-focused cryptocurrencies. While Zcash is designed to provide anonymity, bugs like this can undermine user trust and the overall security of the network. Investors are also concerned about the long-term impact on the value of ZEC and the company's stock.\n\nMoving forward, users and investors should keep an eye on official announcements from Cypherpunk Technologies regarding the bug's resolution. The company's response and the speed at which they address the issue will be crucial in restoring confidence in Zcash. For now, caution is advised when dealing with ZEC transactions until more information is available.",
+  "sourceUrl": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "zcash",
+    "privacy",
+    "bug",
+    "cypherpunk",
+    "winklevoss",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-06-07T13:05:09.509774+00:00",
+  "imageUrl": "/images/articles/2026-06-07-winklevoss-backed-zcash-treasury-drops-40-amid-privacy-bug-fears.webp",
+  "twitterThread": [
+    "Zcash's privacy bug sends Cypherpunk Technologies shares down nearly 40%. Could your transactions be at risk?",
+    "A newly discovered bug in Zcash (ZEC) has investors worried. The privacy-focused crypto may be exposing transaction details, and shares of its parent company have dropped sharply.",
+    "If you use ZEC, stay alert for official updates on the bug fix. Confidence in Zcash's privacy could be on the line. Read more → https://cryptocatalyst.news/articles/2026-06-07-winklevoss-backed-zcash-treasury-drops-40-amid-privacy-bug-fears"
+  ],
+  "standaloneTweet": "Zcash's privacy bug causes a nearly 40% drop in Cypherpunk Technologies shares. If you use ZEC, watch for updates on the fix. Your transaction details could be at risk."
+}
