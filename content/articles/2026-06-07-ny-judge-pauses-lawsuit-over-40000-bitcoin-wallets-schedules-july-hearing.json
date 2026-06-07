@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-07-ny-judge-pauses-lawsuit-over-40000-bitcoin-wallets-schedules-july-hearing",
+  "title": "NY Judge Stays Lawsuit Seeking Ownership of Nearly 40,000 Bitcoin Wallets, Sets July Hearing on Proposed Amicus Brief",
+  "summary": "A New York judge has temporarily halted a lawsuit seeking ownership of nearly 40,000 bitcoin wallets. The case hinges on whether New York's lost-and-found statute applies to assets controlled by private keys. The judge will hear arguments on a proposed amicus brief in July.",
+  "body": "A New York judge has stayed a lawsuit that seeks to claim ownership of nearly 40,000 bitcoin wallets. The lawsuit argues that these wallets, which have been inactive for years, should be considered lost property under New York's lost-and-found statute. The judge has scheduled a hearing for July to consider a proposed amicus brief filed by attorney Ian R. Cohen, which argues that New York's lost-and-found statute cannot be used to claim assets controlled by private keys.\n\nThe case centers on the interpretation of New York's lost-and-found laws in the context of cryptocurrency. The plaintiff claims that the inactive wallets should be treated as abandoned property, which the state could then claim and potentially sell. However, the amicus brief argues that assets secured by private keys are fundamentally different from traditional lost property, as they are controlled by their owners through cryptographic means.\n\nThis case has significant implications for cryptocurrency ownership and legal precedent. If the court rules that inactive wallets can be claimed under lost-and-found laws, it could set a precedent for similar cases in the future. This could potentially affect millions of dollars in untouched cryptocurrency assets. For everyday users, this case highlights the importance of securing and managing private keys, as well as understanding the legal landscape surrounding cryptocurrency ownership.\n\nThe July hearing will be crucial in determining the future of this lawsuit. Users and legal experts alike should watch for the court's decision, as it could have far-reaching implications for cryptocurrency ownership and legal rights. Stay informed and be prepared to adapt your strategies based on the outcome.",
+  "sourceUrl": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "law",
+    "new-york",
+    "cryptocurrency",
+    "private-keys",
+    "legal"
+  ],
+  "publishedAt": "2026-06-07T21:13:58.364292+00:00",
+  "imageUrl": "/images/articles/2026-06-07-ny-judge-pauses-lawsuit-over-40000-bitcoin-wallets-schedules-july-hearing.webp",
+  "twitterThread": [
+    "A NY judge has stayed a lawsuit seeking ownership of nearly 40,000 inactive bitcoin wallets. The case could set a major precedent for crypto ownership.",
+    "The lawsuit argues these wallets should be treated as lost property under NY's laws, but a proposed amicus brief by attorney Ian R. Cohen argues the lost-and-found statute cannot be used to claim assets controlled by private keys.",
+    "The hearing on the amicus brief is set for July. If the court rules against crypto owners, it could impact millions in untouched assets. Read more → https://cryptocatalyst.news/articles/2026-06-07-ny-judge-pauses-lawsuit-over-40000-bitcoin-wallets-schedules-july-hearing"
+  ],
+  "standaloneTweet": "A NY judge is considering whether inactive bitcoin wallets can be claimed as lost property. The outcome could affect millions in untouched crypto assets."
+}
