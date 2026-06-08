@@ -59,7 +59,7 @@ def build_metadata(item: dict) -> dict:
         "description": description[:5000],
         "tags": tags[:500],
         "categoryId": YOUTUBE_CATEGORY_TECH,
-        "privacyStatus": item.get("privacy", "unlisted"),
+        "privacyStatus": item.get("privacy", "public"),
     }
 
 
