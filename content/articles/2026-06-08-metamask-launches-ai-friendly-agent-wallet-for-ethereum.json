@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum",
+  "title": "MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum",
+  "summary": "Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.",
+  "body": "MetaMask, the popular Ethereum wallet backed by Consensys, is rolling out a new product called Agent Wallet. This wallet is specifically designed for AI agents, giving them the ability to hold and manage their own Ethereum funds without relying on a centralized custodian. The feature is set to become generally available this summer.\n\nThe Agent Wallet is a non-custodial solution, meaning that the AI agents will have full control over their private keys and, consequently, their funds. This is a significant step towards integrating AI more deeply into the decentralized finance (DeFi) ecosystem. MetaMask aims to enable AI agents to participate in various blockchain activities, such as trading, lending, and smart contract interactions, autonomously.\n\nFor everyday users, this development could lead to more innovative and automated financial services. Imagine AI assistants that can manage your investments, pay bills, or even trade on your behalf, all while maintaining full control over their own funds. This could make blockchain technology more accessible and user-friendly, potentially attracting a wider audience to the Ethereum network.\n\nAs we move towards a more AI-driven future, the ability for AI agents to interact with blockchain technology in a secure and autonomous manner is crucial. MetaMask's Agent Wallet could set a new standard for how AI and blockchain technologies integrate, paving the way for more advanced and secure financial services. Keep an eye out for the general availability of this feature later this summer.",
+  "sourceUrl": "https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "ethereum",
+  "tags": [
+    "metamask",
+    "ai",
+    "ethereum",
+    "decentralized-finance",
+    "agent-wallet",
+    "blockchain"
+  ],
+  "publishedAt": "2026-06-08T13:18:34.354789+00:00",
+  "imageUrl": "/images/articles/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum.webp",
+  "twitterThread": [
+    "MetaMask is debuting Agent Wallet, a non-custodial wallet that gives AI bots self-custody access to Ethereum. This could revolutionize automated financial services.",
+    "The Agent Wallet is non-custodial, meaning AI agents will control their own private keys. This is a big step for AI in DeFi, allowing autonomous trading and smart contract interactions.",
+    "This could lead to AI assistants managing investments and payments on your behalf. Watch for the general release this summer. Read more → https://cryptocatalyst.news/articles/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum"
+  ],
+  "standaloneTweet": "MetaMask debuts Agent Wallet, giving AI bots self-custody access to Ethereum. Imagine AI assistants managing your investments autonomously."
+}

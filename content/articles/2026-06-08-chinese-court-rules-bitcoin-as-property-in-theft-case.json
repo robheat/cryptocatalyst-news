@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-08-chinese-court-rules-bitcoin-as-property-in-theft-case",
+  "title": "Chinese Court Treats Bitcoin as Property in 107 BTC Memory Theft Case",
+  "summary": "A Chinese court sentenced a man to 10 years and nine months in prison for stealing 107 Bitcoin using a memorized seed phrase, treating Bitcoin as property. The case highlights legal recognition of cryptocurrency as valuable digital assets.",
+  "body": "A man in eastern China has been sentenced to 10 years and nine months in prison for stealing 107 Bitcoin (BTC) by memorizing and using the victim's wallet seed phrase. The court's decision underscores the legal recognition of Bitcoin as property, setting a precedent in China's cryptocurrency landscape.\n\nThe defendant, identified only by his surname, Liu, was found guilty of theft. He gained access to the victim's wallet by memorizing the 12-word mnemonic phrase, which he then used to transfer the Bitcoin to his own accounts. The court's ruling highlights the importance of securing digital assets and the legal consequences of their theft.\n\nThis case is significant as it demonstrates that Chinese courts are treating Bitcoin as a form of property, similar to traditional assets. For everyday users, this means that cryptocurrency holdings are protected under the law, and theft or fraud involving digital assets will be prosecuted accordingly. It also serves as a reminder to always secure seed phrases and use hardware wallets to protect against such incidents.\n\nFor those involved in the crypto space, this ruling is a clear indication that legal frameworks are evolving to address digital asset theft. Users should ensure they follow best practices for securing their wallets and be aware of the legal protections available in their jurisdictions. This case may also influence future legislation and court decisions regarding cryptocurrency in China and beyond.",
+  "sourceUrl": "https://cointelegraph.com/news/man-who-memorized-wallet-mnemonic-jailed-in-china-for-107-btc-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "china",
+    "legal",
+    "theft",
+    "property",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-06-08T13:20:41.314339+00:00",
+  "imageUrl": "/images/articles/2026-06-08-chinese-court-rules-bitcoin-as-property-in-theft-case.webp",
+  "twitterThread": [
+    "A Chinese man gets 10 years and 9 months in prison for stealing 107 Bitcoin via a memorized seed phrase. Courts now treat crypto as property.",
+    "The defendant memorized a 12-word mnemonic phrase to access and steal the Bitcoin, highlighting the importance of securing digital assets.",
+    "This ruling shows that crypto is legally recognized as property in China. Always secure your seed phrases and use hardware wallets. Read more → https://cryptocatalyst.news/articles/2026-06-08-chinese-court-rules-bitcoin-as-property-in-theft-case"
+  ],
+  "standaloneTweet": "Chinese court sentences a man to 10 years and 9 months for stealing 107 Bitcoin, treating crypto as property. Secure your seed phrases!"
+}

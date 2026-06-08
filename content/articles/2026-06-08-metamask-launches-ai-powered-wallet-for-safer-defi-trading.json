@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-08-metamask-launches-ai-powered-wallet-for-safer-defi-trading",
+  "title": "MetaMask Launches AI Agent Wallet With Built-In Security Controls",
+  "summary": "MetaMask has introduced a new self-custodial wallet designed for AI agents to trade across DeFi while keeping users in full control of their funds and approvals. This innovation aims to make decentralized finance more accessible and secure.",
+  "body": "MetaMask, one of the most popular cryptocurrency wallets, has launched a new self-custodial wallet specifically designed for AI agents. This wallet allows AI agents to trade across decentralized finance (DeFi) platforms while ensuring that users retain full control over their funds and approvals. The new feature is part of MetaMask's ongoing efforts to integrate AI into blockchain technology in a secure and user-friendly manner.\n\nThe AI agent wallet includes built-in security controls that allow users to set limits and permissions for their AI agents. This means users can specify how much their AI agent can spend, which platforms it can interact with, and under what conditions it can execute trades. The wallet is designed to be fully self-custodial, meaning users hold their private keys and have ultimate control over their assets. This approach aims to balance the convenience of AI-driven trading with the security and transparency of decentralized finance.\n\nThis development is significant for everyday crypto users because it opens up new possibilities for automated trading without compromising security. Users who may not have the time or expertise to actively manage their DeFi investments can now leverage AI agents to handle trades on their behalf. The built-in security controls ensure that users can set boundaries and monitor the activities of their AI agents, providing a layer of protection against potential risks.\n\nFor those interested in trying out this new feature, MetaMask has announced that the AI agent wallet will be available to all users starting June 8, 2026. Users can enable the feature through the MetaMask settings menu and start setting up their AI agents with custom permissions. This launch marks a significant step forward in the integration of AI and blockchain technology, making DeFi more accessible and user-friendly.",
+  "sourceUrl": "https://decrypt.co/370239/metamask-launches-ai-agent-wallet-security-controls",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "metamask",
+    "ai",
+    "defi",
+    "security",
+    "crypto",
+    "wallet"
+  ],
+  "publishedAt": "2026-06-08T13:16:44.254577+00:00",
+  "imageUrl": "/images/articles/2026-06-08-metamask-launches-ai-powered-wallet-for-safer-defi-trading.webp",
+  "twitterThread": [
+    "MetaMask's new AI agent wallet lets AI agents trade in DeFi while keeping users in full control of their funds and approvals. 🔒",
+    "The wallet includes built-in security controls, allowing users to set spending limits and permissions for their AI agents. Users retain full custody of their assets.",
+    "Try it out starting today! Enable the feature in MetaMask settings and set up your AI agent with custom permissions. Read more → https://cryptocatalyst.news/articles/2026-06-08-metamask-launches-ai-powered-wallet-for-safer-defi-trading"
+  ],
+  "standaloneTweet": "MetaMask's new AI agent wallet lets AI agents trade in DeFi while keeping users in full control of their funds and approvals. Set spending limits and permissions for your AI agent. 🚀"
+}
