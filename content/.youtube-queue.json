@@ -4839,6 +4839,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-07-michael-saylor-bitcoin-drop-due-to-ai-investment-shift_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-07-michael-saylor-bitcoin-drop-due-to-ai-investment-shift_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million",
+      "title": "Strategy (MSTR) Restarts Bitcoin Purchases After Selling, Buys 1,550 BTC for $101 Million",
+      "category": "bitcoin",
+      "tags": [
+        "strategy",
+        "bitcoin",
+        "investment",
+        "cryptocurrency",
+        "market"
+      ],
+      "articleSummary": "Strategy (MSTR) has resumed its Bitcoin accumulation, purchasing 1,550 BTC worth $101 million. This brings its total holdings to 845,256 BTC, signaling renewed confidence in Bitcoin after a rare sell-off.",
+      "articleBody": "Strategy (MSTR) has restarted its Bitcoin buying spree, acquiring 1,550 BTC for approximately $101 million. This move comes after the company's first Bitcoin sale in years, which had raised concerns among investors about its long-term strategy.\n\nThe purchase brings Strategy's total Bitcoin holdings to 845,256 BTC, reinforcing its position as one of the largest corporate holders of Bitcoin. The company's decision to resume buying indicates a renewed confidence in Bitcoin's long-term value, despite recent market volatility.\n\nFor everyday investors, this move by Strategy could signal a positive shift in market sentiment. Large institutional purchases often precede broader market trends, and Strategy's renewed accumulation may encourage other investors to reconsider their Bitcoin holdings. It also highlights the growing acceptance of Bitcoin as a legitimate asset class.\n\nInvestors should watch for further institutional activity in the Bitcoin market, as similar moves by other large players could indicate a bullish trend. Additionally, keeping an eye on Strategy's future announcements could provide insights into the company's long-term strategy and its impact on the Bitcoin market.",
+      "imageUrl": "/images/articles/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million",
+      "script": {
+        "hook": "Big companies are buying Bitcoin again, and here's why it matters to your wallet.",
+        "narration_lines": [
+          "Strategy just spent $101 million on 1,550 Bitcoins, adding to their massive stash of 845,256 Bitcoins.",
+          "This is a big deal because it shows confidence in Bitcoin, even after recent price swings.",
+          "Think of it like a major retailer suddenly stocking up on a product—they expect its value to rise.",
+          "For regular investors, this could mean it's a good time to look at Bitcoin again.",
+          "Keep an eye on other big companies—if they follow Strategy's lead, Bitcoin's price could climb further."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "5c4a9f16c1edfd39",
+      "scriptText": "Big companies are buying Bitcoin again, and here's why it matters to your wallet. Strategy just spent $101 million on 1,550 Bitcoins, adding to their massive stash of 845,256 Bitcoins. This is a big deal because it shows confidence in Bitcoin, even after recent price swings. Think of it like a major retailer suddenly stocking up on a product—they expect its value to rise. For regular investors, this could mean it's a good time to look at Bitcoin again. Keep an eye on other big companies—if they follow Strategy's lead, Bitcoin's price could climb further. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "IQTjkELlLbU",
+      "youtubeUrl": "https://youtube.com/watch?v=IQTjkELlLbU",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-08T17:51:30.705554+00:00",
+      "uploadedAt": "2026-06-08T17:58:52.631121+00:00",
+      "audioLineDurations": [
+        4.330666666666667,
+        11.008,
+        5.482666666666667,
+        6.144,
+        4.416,
+        6.165333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-strategy-resumes-bitcoin-buying-adds-1550-btc-for-101-million_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum",
+      "title": "MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum",
+      "category": "ethereum",
+      "tags": [
+        "metamask",
+        "ai",
+        "ethereum",
+        "decentralized-finance",
+        "agent-wallet",
+        "blockchain"
+      ],
+      "articleSummary": "Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.",
+      "articleBody": "MetaMask, the popular Ethereum wallet backed by Consensys, is rolling out a new product called Agent Wallet. This wallet is specifically designed for AI agents, giving them the ability to hold and manage their own Ethereum funds without relying on a centralized custodian. The feature is set to become generally available this summer.\n\nThe Agent Wallet is a non-custodial solution, meaning that the AI agents will have full control over their private keys and, consequently, their funds. This is a significant step towards integrating AI more deeply into the decentralized finance (DeFi) ecosystem. MetaMask aims to enable AI agents to participate in various blockchain activities, such as trading, lending, and smart contract interactions, autonomously.\n\nFor everyday users, this development could lead to more innovative and automated financial services. Imagine AI assistants that can manage your investments, pay bills, or even trade on your behalf, all while maintaining full control over their own funds. This could make blockchain technology more accessible and user-friendly, potentially attracting a wider audience to the Ethereum network.\n\nAs we move towards a more AI-driven future, the ability for AI agents to interact with blockchain technology in a secure and autonomous manner is crucial. MetaMask's Agent Wallet could set a new standard for how AI and blockchain technologies integra",
+      "imageUrl": "/images/articles/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum",
+      "script": {
+        "hook": "Your AI assistant could soon manage its own cryptocurrency money, and here's why that matters to you.",
+        "narration_lines": [
+          "MetaMask, the popular Ethereum wallet, just launched Agent Wallet for AI bots, giving them full control over their own funds.",
+          "This means AI agents can now trade, lend, and interact with smart contracts without a middleman.",
+          "For you, this could mean an AI assistant that handles your investments or pays bills automatically.",
+          "The wallet is non-custodial, so the AI controls its own private keys, just like you do with your wallet.",
+          "MetaMask plans to roll this out this summer, making blockchain technology more accessible for everyone.",
+          "If you're curious, keep an eye on MetaMask for updates on how to integrate this with your digital assistant."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "5cef06d5464ea57d",
+      "scriptText": "Your AI assistant could soon manage its own cryptocurrency money, and here's why that matters to you. MetaMask, the popular Ethereum wallet, just launched Agent Wallet for AI bots, giving them full control over their own funds. This means AI agents can now trade, lend, and interact with smart contracts without a middleman. For you, this could mean an AI assistant that handles your investments or pays bills automatically. The wallet is non-custodial, so the AI controls its own private keys, just like you do with your wallet. MetaMask plans to roll this out this summer, making blockchain technology more accessible for everyone. If you're curious, keep an eye on MetaMask for updates on how to integrate this with your digital assistant. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "dqX0p0cV1qI",
+      "youtubeUrl": "https://youtube.com/watch?v=dqX0p0cV1qI",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-08T17:51:38.202171+00:00",
+      "uploadedAt": "2026-06-08T17:58:54.722248+00:00",
+      "audioLineDurations": [
+        5.952,
+        8.362666666666666,
+        6.208,
+        6.1866666666666665,
+        6.442666666666667,
+        6.229333333333333,
+        6.4,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_3.jpg"
+      ]
     }
   ]
 }
