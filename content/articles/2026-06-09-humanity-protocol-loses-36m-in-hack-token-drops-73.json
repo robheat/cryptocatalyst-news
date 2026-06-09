@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-09-humanity-protocol-loses-36m-in-hack-token-drops-73",
+  "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
+  "summary": "Humanity Protocol suffered a $36 million hack after an employee's laptop was compromised, allowing attackers to seize control of bridges and mint tokens at will. The protocol's token (HMT) crashed 73% following the breach.",
+  "body": "Humanity Protocol, a decentralized identity platform, announced a significant security breach that resulted in a $36 million loss. The attackers gained access to private keys after an employee's laptop was compromised, enabling them to seize control of the protocol's bridges and mint tokens at will.\n\nThe hack led to a dramatic 73% drop in the value of Humanity Protocol's native token, HMT. The protocol has not yet provided details on how the employee's laptop was compromised or the specific measures being taken to recover the lost funds or secure the network.\n\nThis incident highlights the risks associated with centralized points of failure in decentralized systems. For users, it serves as a reminder to exercise caution when dealing with protocols that rely on centralized management of critical assets. The breach may also lead to increased scrutiny of security practices within the decentralized identity space.\n\nMoving forward, users should monitor official channels for updates on the protocol's recovery efforts and any potential compensation for affected token holders. The protocol's response and transparency in handling this crisis will be crucial in restoring trust among its community.",
+  "sourceUrl": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "hack",
+    "security",
+    "decentralized-identity",
+    "token-crash",
+    "humanity-protocol"
+  ],
+  "publishedAt": "2026-06-09T13:29:02.381417+00:00",
+  "imageUrl": "/images/articles/2026-06-09-humanity-protocol-loses-36m-in-hack-token-drops-73.webp",
+  "twitterThread": [
+    "A compromised employee laptop led to a $36M hack of Humanity Protocol, causing its token (HMT) to crash 73%.",
+    "Attackers seized control of the protocol's bridges and minted tokens at will. The incident highlights risks in centralized management of decentralized systems.",
+    "Users should watch for official updates on recovery efforts. The protocol's response will be key to restoring trust. Read more → https://cryptocatalyst.news/articles/2026-06-09-humanity-protocol-loses-36m-in-hack-token-drops-73"
+  ],
+  "standaloneTweet": "Humanity Protocol lost $36M in a hack after an employee's laptop was compromised, causing its token (HMT) to crash 73%. A stark reminder of risks in decentralized systems."
+}
