@@ -4950,6 +4950,118 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-metamask-launches-ai-friendly-agent-wallet-for-ethereum_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street",
+      "title": "Morpho Raises $175M to Build Open Credit Network for DeFi and Wall Street",
+      "category": "defi",
+      "tags": [
+        "morpho",
+        "defi",
+        "credit",
+        "blockchain",
+        "funding",
+        "finance"
+      ],
+      "articleSummary": "Morpho has secured $175 million in funding to create a blockchain-based credit network. This network aims to connect decentralized finance (DeFi), traditional financial institutions, and global markets, potentially revolutionizing how credit is managed and accessed.",
+      "articleBody": "Morpho, a blockchain-based financial infrastructure provider, has raised $175 million in a funding round co-led by Paradigm, a16z crypto, and Ribbit Capital. The company plans to use these funds to build an open credit network that bridges the gap between decentralized finance (DeFi), Wall Street, and global markets. This network is designed to enable seamless credit transactions across different financial ecosystems, leveraging blockchain technology for transparency and efficiency.\n\nThe funding round highlights the growing interest in integrating traditional finance with decentralized systems. Key investors include Paradigm, a prominent crypto investment firm, a16z crypto, known for its investments in leading crypto projects, and Ribbit Capital, which has a strong track record in fintech investments. Morpho's vision is to create a more inclusive and interconnected financial system where credit can flow freely between decentralized and centralized entities.\n\nThis development is significant for everyday people because it could make credit more accessible and affordable. By connecting DeFi platforms with traditional financial institutions, Morpho's network could offer lower interest rates, better loan terms, and more flexible credit options. This could be particularly beneficial for individuals and small businesses that have traditionally been underserved by conventional banking ",
+      "imageUrl": "/images/articles/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street",
+      "script": {
+        "hook": "Your credit card or loan could soon be powered by cryptocurrency, thanks to a $175 million boost.",
+        "narration_lines": [
+          "Morpho, a blockchain startup, just raised $175 million to build a credit network linking DeFi and Wall Street.",
+          "This could mean lower interest rates and better loan terms for you, by connecting traditional banks with decentralized finance.",
+          "Imagine getting a loan with fairer rates, thanks to blockchain's transparency and efficiency.",
+          "Big investors like Paradigm and a16z crypto are backing this, showing serious belief in the future of open credit.",
+          "If you're looking for affordable credit, keep an eye on Morpho's progress—they might change how you borrow money."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "f41a58127406519d",
+      "scriptText": "Your credit card or loan could soon be powered by cryptocurrency, thanks to a $175 million boost. Morpho, a blockchain startup, just raised $175 million to build a credit network linking DeFi and Wall Street. This could mean lower interest rates and better loan terms for you, by connecting traditional banks with decentralized finance. Imagine getting a loan with fairer rates, thanks to blockchain's transparency and efficiency. Big investors like Paradigm and a16z crypto are backing this, showing serious belief in the future of open credit. If you're looking for affordable credit, keep an eye on Morpho's progress—they might change how you borrow money. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "9xuK9x-LEHo",
+      "youtubeUrl": "https://youtube.com/watch?v=9xuK9x-LEHo",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-09T17:23:36.301595+00:00",
+      "uploadedAt": "2026-06-09T17:30:53.567644+00:00",
+      "audioLineDurations": [
+        7.8933333333333335,
+        8.192,
+        7.296,
+        5.354666666666667,
+        7.914666666666666,
+        6.378666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-morpho-raises-175m-to-build-open-credit-network-for-defi-and-wall-street_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill",
+      "title": "Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "reserve",
+        "bill",
+        "lock-up",
+        "proof-of-reserve",
+        "policy"
+      ],
+      "articleSummary": "The full text of H.R. 8957, officially published by Bitcoin Magazine, reveals a proposed 20-year lock-up on federally held bitcoin and proof-of-reserve mandates for entities participating in the Strategic Bitcoin Reserve.",
+      "articleBody": "The full text of H.R. 8957, the Strategic Bitcoin Reserve bill, has been officially published, revealing significant details about its provisions. The bill proposes a 20-year lock-up period for any bitcoin held by the federal government, ensuring long-term holding strategies. Additionally, it mandates proof-of-reserve requirements for any entities participating in the reserve, aiming to enhance transparency and trust. \n\nThe bill, written by Micah Zimmerman and published by Bitcoin Magazine, outlines the framework for the Strategic Bitcoin Reserve. The 20-year lock-up is designed to stabilize the market by preventing short-term sales and ensuring the reserve's stability over time.",
+      "imageUrl": null,
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill",
+      "script": {
+        "hook": "Your bitcoin investments just got a 20-year safety net, thanks to a new bill.",
+        "narration_lines": [
+          "The US government wants to hold bitcoin for two decades, stabilizing the market long-term.",
+          "This means less volatility for everyday investors like you, reducing sudden price swings.",
+          "Imagine your savings locked away safely for 20 years—this bill does that for bitcoin.",
+          "Entities handling these reserves must prove they have the bitcoin they claim, adding trust.",
+          "If passed, this could make bitcoin a more reliable investment for everyday people.",
+          "Check if your local representatives support this bill—it could shape your financial future."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "5a5f51ffe636bac0",
+      "scriptText": "Your bitcoin investments just got a 20-year safety net, thanks to a new bill. The US government wants to hold bitcoin for two decades, stabilizing the market long-term. This means less volatility for everyday investors like you, reducing sudden price swings. Imagine your savings locked away safely for 20 years—this bill does that for bitcoin. Entities handling these reserves must prove they have the bitcoin they claim, adding trust. If passed, this could make bitcoin a more reliable investment for everyday people. Check if your local representatives support this bill—it could shape your financial future. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "NIZF6_ta0AM",
+      "youtubeUrl": "https://youtube.com/watch?v=NIZF6_ta0AM",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-09T17:23:43.673783+00:00",
+      "uploadedAt": "2026-06-09T17:30:55.335755+00:00",
+      "audioLineDurations": [
+        4.629333333333333,
+        5.461333333333333,
+        5.568,
+        5.461333333333333,
+        5.056,
+        4.949333333333334,
+        5.12,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_3.jpg"
+      ]
     }
   ]
 }
