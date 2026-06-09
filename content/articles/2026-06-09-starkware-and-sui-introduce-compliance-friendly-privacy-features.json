@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-09-starkware-and-sui-introduce-compliance-friendly-privacy-features",
+  "title": "StarkWare and Sui Introduce Compliance-Friendly Privacy Features",
+  "summary": "StarkWare and Sui are launching confidential transfer systems that comply with regulations, while Zama is enhancing its compliance efforts. This move comes as a bug in Zcash’s Orchard highlights the risks of unregulated privacy models.",
+  "body": "StarkWare and Sui have announced the rollout of new confidential transfer systems designed to meet regulatory standards. These systems allow users to conduct private transactions while ensuring compliance with financial regulations. The move is part of a broader trend in the crypto industry to balance privacy with regulatory requirements.\n\nStarkWare’s solution leverages zero-knowledge proofs to enable private transactions on Ethereum, while Sui’s system is integrated into its Layer 1 blockchain. Zama, another privacy-focused company, is also boosting its compliance efforts to ensure its products meet regulatory standards. This development comes amidst concerns raised by a recent bug in Zcash’s Orchard protocol, which highlighted the risks associated with unregulated privacy models.\n\nFor everyday users, this means they can enjoy greater privacy in their transactions while still adhering to legal requirements. This is particularly important for users in regulated markets who need to comply with anti-money laundering (AML) and know your customer (KYC) rules. The new systems aim to provide a middle ground between complete anonymity and full transparency.\n\nLooking ahead, users should watch for further developments in privacy-focused technologies that prioritize compliance. As regulatory frameworks evolve, these systems will likely become more sophisticated, offering users more options for private and compliant transactions. Keep an eye on updates from StarkWare, Sui, and Zama as they continue to refine their offerings.",
+  "sourceUrl": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "privacy",
+    "compliance",
+    "starkware",
+    "sui",
+    "zama",
+    "zcash"
+  ],
+  "publishedAt": "2026-06-09T21:48:43.126865+00:00",
+  "imageUrl": "/images/articles/2026-06-09-starkware-and-sui-introduce-compliance-friendly-privacy-features.webp",
+  "twitterThread": [
+    "StarkWare and Sui are rolling out confidential transfer systems that comply with regulations. Privacy meets compliance in crypto.",
+    "These systems use zero-knowledge proofs to enable private transactions while adhering to financial regulations. A big step for regulated markets.",
+    "Watch for updates from StarkWare, Sui, and Zama as they refine their compliance-friendly privacy solutions. Read more → https://cryptocatalyst.news/articles/2026-06-09-starkware-and-sui-introduce-compliance-friendly-privacy-features"
+  ],
+  "standaloneTweet": "StarkWare and Sui are launching confidential transfer systems that comply with regulations, making private transactions possible in regulated markets."
+}
