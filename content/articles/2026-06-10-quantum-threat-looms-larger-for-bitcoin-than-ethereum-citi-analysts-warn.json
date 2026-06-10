@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-10-quantum-threat-looms-larger-for-bitcoin-than-ethereum-citi-analysts-warn",
+  "title": "Quantum Threat Looms Larger for Bitcoin Than Ethereum, Citi Analysts Warn",
+  "summary": "Citi analysts warn that Bitcoin's security could be at greater risk from quantum computing than Ethereum's. The concern stems from Bitcoin's reliance on elliptic curve cryptography, which may be more vulnerable to quantum attacks.",
+  "body": "A recent research note from Citi analysts highlights a growing concern about the security of Bitcoin in the face of advancing quantum computing technology. The note suggests that Bitcoin's use of elliptic curve cryptography (ECC) makes it more susceptible to quantum attacks compared to Ethereum, which has already begun exploring quantum-resistant solutions.\n\nThe analysts point out that while both Bitcoin and Ethereum rely on cryptographic algorithms, Bitcoin's ECC could be broken by quantum computers much sooner than Ethereum's more flexible infrastructure. This vulnerability could potentially allow quantum computers to crack Bitcoin's private keys, compromising the security of Bitcoin holdings. The note also mentions that Ethereum's ongoing upgrades and research into post-quantum cryptography could give it a significant advantage in the long run.\n\nFor everyday users, this means that the security of Bitcoin investments could be at risk in the not-too-distant future if quantum computing advances as expected. While Ethereum is also at risk, its proactive approach to addressing quantum threats may provide a safer haven for investors concerned about this emerging technology.\n\nInvestors should keep an eye on developments in quantum computing and the cryptographic solutions being explored by both Bitcoin and Ethereum. For now, those holding significant amounts of Bitcoin may want to consider diversifying their holdings or exploring quantum-resistant assets to mitigate potential risks.",
+  "sourceUrl": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "ethereum",
+    "quantum",
+    "security",
+    "citi"
+  ],
+  "publishedAt": "2026-06-10T22:05:17.689433+00:00",
+  "imageUrl": "/images/articles/2026-06-10-quantum-threat-looms-larger-for-bitcoin-than-ethereum-citi-analysts-warn.webp",
+  "twitterThread": [
+    "Quantum computing could crack Bitcoin's security sooner than Ethereum's, warns Citi. Here's why Bitcoin holders should be concerned.",
+    "Bitcoin relies on elliptic curve cryptography, which may be vulnerable to quantum attacks. Ethereum is already working on quantum-resistant solutions.",
+    "If you hold Bitcoin, consider diversifying or exploring quantum-resistant assets. The quantum clock is ticking. Read more → https://cryptocatalyst.news/articles/2026-06-10-quantum-threat-looms-larger-for-bitcoin-than-ethereum-citi-analysts-warn"
+  ],
+  "standaloneTweet": "Quantum computing poses a bigger threat to Bitcoin than Ethereum. Citi analysts warn that Bitcoin's security could be compromised sooner. What's your move?"
+}
