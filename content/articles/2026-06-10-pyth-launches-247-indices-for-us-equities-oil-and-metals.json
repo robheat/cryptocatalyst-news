@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-10-pyth-launches-247-indices-for-us-equities-oil-and-metals",
+  "title": "Pyth Launches 24/7 Proprietary Indices for US Equities, Oil, and Metals",
+  "summary": "Pyth is now offering continuous price data for major stocks, oil, and metals by combining onchain and offchain sources. This provides real-time market insights for traders and investors in the crypto and traditional finance spaces.",
+  "body": "Pyth, a decentralized oracle network, has launched 24/7 proprietary indices for US equities, oil, and metals. These indices aggregate data from both onchain and offchain sources, providing continuous price discovery for major financial instruments. The service aims to bridge the gap between traditional finance and the blockchain ecosystem by offering real-time market data.\n\nThe indices cover a range of assets, including major US equities, oil, and metals, with continuous updates. Pyth's technology ensures that the data is accurate and up-to-date, leveraging its network of data providers and validators. This initiative is part of Pyth's broader mission to provide reliable, real-time financial data to the crypto and traditional finance markets.\n\nFor traders and investors, this development means access to more comprehensive and timely market data. Real-time price discovery can enhance trading strategies and risk management, making it easier to navigate both crypto and traditional markets. The integration of offchain data with onchain sources also highlights the growing interoperability between traditional finance and blockchain technology.\n\nPyth's new indices are expected to attract a wider range of users, from institutional investors to retail traders. The continuous availability of data ensures that users can make informed decisions at any time, day or night. As the financial markets become increasingly interconnected, services like Pyth's will play a crucial role in providing the data infrastructure needed for a more integrated and efficient market.\n\nFor those interested in leveraging these indices, the next step is to explore how Pyth's data can be integrated into existing trading platforms and strategies. Traders should watch for updates on the specific assets covered and the frequency of data updates as Pyth continues to expand its offerings.",
+  "sourceUrl": "https://www.theblock.co/post/404238/pyth-launches-24-7-proprietary-indices-for-us-equities-oil-and-metals?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "pyth",
+    "indices",
+    "equities",
+    "commodities",
+    "oracle",
+    "finance"
+  ],
+  "publishedAt": "2026-06-10T13:43:36.003025+00:00",
+  "imageUrl": "/images/articles/2026-06-10-pyth-launches-247-indices-for-us-equities-oil-and-metals.webp",
+  "twitterThread": [
+    "Pyth just launched 24/7 proprietary indices for US equities, oil, and metals. Real-time price data, onchain and offchain. 🚀",
+    "By combining onchain and offchain sources, Pyth offers continuous price discovery. Covering major stocks, oil, and metals. 📊",
+    "Traders, take note: this could enhance your strategies with real-time data. Read more → https://cryptocatalyst.news/articles/2026-06-10-pyth-launches-247-indices-for-us-equities-oil-and-metals"
+  ],
+  "standaloneTweet": "Pyth's new 24/7 proprietary indices for US equities, oil, and metals bring real-time price data to traders. A game-changer for crypto and traditional finance. 📈"
+}

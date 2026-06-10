@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant",
+  "title": "Curve Launches Llamalend v2 First on Optimism, Supported by 250,000 OP Token Grant",
+  "summary": "Curve Finance has launched Llamalend v2 on the Optimism network, backed by a 250,000 OP token grant. The new version supports markets for multiple collateral and borrow assets beyond crvUSD and introduces LlamaRisk as a market curator.",
+  "body": "Curve Finance has launched Llamalend v2 on the Optimism network, marking a significant expansion of its lending protocol. The new version supports markets for multiple collateral and borrow assets, moving beyond the initial focus on crvUSD. This update also introduces LlamaRisk, a new feature designed to act as a market curator.\n\nThe launch is supported by a 250,000 OP token grant from the Optimism Foundation. This grant aims to foster the growth and adoption of decentralized finance (DeFi) on the Optimism network. Llamalend v2 is expected to offer users more flexibility and security in their lending and borrowing activities.\n\nFor everyday users, this means more options for collateral and borrowing, potentially leading to better interest rates and more secure transactions. The introduction of LlamaRisk is particularly notable, as it aims to reduce risk and improve the overall stability of the lending markets. This could make Llamalend v2 a more attractive option for both new and experienced DeFi users.\n\nOne of the key features of Llamalend v2 is its ability to support multiple assets, which could attract a broader range of users. The 250,000 OP token grant also signals strong support from the Optimism community, which could lead to further integrations and improvements in the future. Users should keep an eye on the rollout of new markets and the performance of LlamaRisk in curating these markets.",
+  "sourceUrl": "https://www.theblock.co/post/404144/curve-launches-llamalend-v2-first-optimism-supported-250000-op-token-grant?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "defi",
+  "tags": [
+    "curve",
+    "llamalend",
+    "optimism",
+    "defi",
+    "lending",
+    "optokens"
+  ],
+  "publishedAt": "2026-06-10T13:43:05.193556+00:00",
+  "imageUrl": "/images/articles/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant.webp",
+  "twitterThread": [
+    "Curve's Llamalend v2 is now live on Optimism, backed by a 250,000 OP token grant. More collateral options beyond crvUSD!",
+    "The new version introduces LlamaRisk as a market curator and supports multiple collateral and borrow assets. A big step for DeFi on Optimism.",
+    "This could mean better rates and more secure lending for users. Watch for new markets and LlamaRisk's performance. Read more → https://cryptocatalyst.news/articles/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant"
+  ],
+  "standaloneTweet": "Curve's Llamalend v2 is live on Optimism with 250,000 OP support. More collateral and borrow options and LlamaRisk for safer lending. What's your play?"
+}
