@@ -5062,6 +5062,122 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-08-us-proposes-20-year-bitcoin-lock-up-in-strategic-reserve-bill_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant",
+      "title": "Curve Launches Llamalend v2 First on Optimism, Supported by 250,000 OP Token Grant",
+      "category": "defi",
+      "tags": [
+        "curve",
+        "llamalend",
+        "optimism",
+        "defi",
+        "lending",
+        "optokens"
+      ],
+      "articleSummary": "Curve Finance has launched Llamalend v2 on the Optimism network, backed by a 250,000 OP token grant. The new version supports markets for multiple collateral and borrow assets beyond crvUSD and introduces LlamaRisk as a market curator.",
+      "articleBody": "Curve Finance has launched Llamalend v2 on the Optimism network, marking a significant expansion of its lending protocol. The new version supports markets for multiple collateral and borrow assets, moving beyond the initial focus on crvUSD. This update also introduces LlamaRisk, a new feature designed to act as a market curator.\n\nThe launch is supported by a 250,000 OP token grant from the Optimism Foundation. This grant aims to foster the growth and adoption of decentralized finance (DeFi) on the Optimism network. Llamalend v2 is expected to offer users more flexibility and security in their lending and borrowing activities.\n\nFor everyday users, this means more options for collateral and borrowing, potentially leading to better interest rates and more secure transactions. The introduction of LlamaRisk is particularly notable, as it aims to reduce risk and improve the overall stability of the lending markets. This could make Llamalend v2 a more attractive option for both new and experienced DeFi users.\n\nOne of the key features of Llamalend v2 is its ability to support multiple assets, which could attract a broader range of users. The 250,000 OP token grant also signals strong support from the Optimism community, which could lead to further integrations and improvements in the future. Users should keep an eye on the rollout of new markets and the performance of LlamaRisk in cura",
+      "imageUrl": "/images/articles/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant",
+      "script": {
+        "hook": "Your cryptocurrency lending options just got a major upgrade on Optimism.",
+        "narration_lines": [
+          "Curve Finance launched Llamalend v2, a lending protocol that now supports multiple assets beyond just crvUSD.",
+          "This means you can use more types of cryptocurrency as collateral, potentially getting better interest rates.",
+          "Imagine using different cryptocurrencies to borrow against, making your DeFi experience more flexible and secure.",
+          "The project is backed by a 250,000 OP token grant from the Optimism Foundation, showing strong community support.",
+          "LlamaRisk, a new feature, acts as a market curator to reduce risk and improve stability.",
+          "If you're into DeFi, this could be a game-changer for your lending and borrowing strategies."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "03dad7332096a018",
+      "scriptText": "Your cryptocurrency lending options just got a major upgrade on Optimism. Curve Finance launched Llamalend v2, a lending protocol that now supports multiple assets beyond just crvUSD. This means you can use more types of cryptocurrency as collateral, potentially getting better interest rates. Imagine using different cryptocurrencies to borrow against, making your DeFi experience more flexible and secure. The project is backed by a 250,000 OP token grant from the Optimism Foundation, showing strong community support. LlamaRisk, a new feature, acts as a market curator to reduce risk and improve stability. If you're into DeFi, this could be a game-changer for your lending and borrowing strategies. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "djdS2IgtsZQ",
+      "youtubeUrl": "https://youtube.com/watch?v=djdS2IgtsZQ",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-10T17:56:05.834048+00:00",
+      "uploadedAt": "2026-06-10T18:03:39.959984+00:00",
+      "audioLineDurations": [
+        4.8853333333333335,
+        8.576,
+        6.101333333333334,
+        7.018666666666666,
+        9.557333333333334,
+        5.866666666666666,
+        5.077333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-curves-llamalend-v2-launches-on-optimism-with-250k-op-grant_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-10-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — June 10, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "institutional",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Wednesday, June 10, 2026\n\n1. OVERNIGHT MOVES\n\nThe relief bounce from the June 5‑6 flush has fully faded. BTC printed $61,195 (−2.3%), ETH $1,619.59 (−2.9%), SOL $63.48 (−4.0%). All three have given back the gains from the June 7‑9 recovery and are now trading at or below the June 6 lows. Volume data is absent from the feed, but the price action is unambiguous: the bounce was a dead‑cat, not a reversal. BTC dominance held flat at 56.0% — capital is not rotating into alts; it is exiting altogether. The CoinGecko trending board shows BTC, Audiera (BEAT), Hyperliquid (HYPE), Humanity (H), Venice Token (VVV), Ondo (ONDO), and Pudgy Penguins (PENGU). Notable entry: Ondo — the first appearance since the founder death event in late May. The previous privacy‑narrative leaders (ZEC) are absent; the memecoin circuit (PENGU) persists but at the bottom of the list. This is a low‑conviction, fragmented tape.\n\n2. NARRATIVE PULSE\n\nThree signals buried beneath the broad sell‑off:\nPerpetuals DEX infrastructure (HYPE) continues to print through the drawdown. Hyperliquid has appeared in the top seven trending names consistently across the June 5, 6, 8, and now June 10 briefs. No other non‑mega‑cap name has matched this durability. The on‑chain derivatives narrative, flagged repeatedly in the May 29‑31 briefs, is accumulating mindshare even as the broader market de‑risks. This is a ",
+      "imageUrl": "/images/articles/2026-06-10-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-10-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just dropped to its lowest price in a month, and it's not alone.",
+        "narration_lines": [
+          "Bitcoin, Ethereum, and Solana are all down, wiping out last week's recovery gains.",
+          "This isn't just a small dip—Bitcoin is now at or below its lowest point since June 6th.",
+          "The market isn't rotating to smaller cryptocurrencies; investors are pulling out altogether.",
+          "One bright spot: Hyperliquid, a decentralized exchange for derivatives, is trending despite the downturn.",
+          "If you're interested in cryptocurrency, now might be a time to watch and wait rather than panic sell or buy.",
+          "For more crypto news made simple, visit cryptocatalyst dot news."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "a024f6d19b969238",
+      "scriptText": "Bitcoin just dropped to its lowest price in a month, and it's not alone. Bitcoin, Ethereum, and Solana are all down, wiping out last week's recovery gains. This isn't just a small dip—Bitcoin is now at or below its lowest point since June 6th. The market isn't rotating to smaller cryptocurrencies; investors are pulling out altogether. One bright spot: Hyperliquid, a decentralized exchange for derivatives, is trending despite the downturn. If you're interested in cryptocurrency, now might be a time to watch and wait rather than panic sell or buy. For more crypto news made simple, visit cryptocatalyst dot news. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "j7RqPwD9vnk",
+      "youtubeUrl": "https://youtube.com/watch?v=j7RqPwD9vnk",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-10T17:56:11.063870+00:00",
+      "uploadedAt": "2026-06-10T18:03:41.753793+00:00",
+      "audioLineDurations": [
+        3.904,
+        5.525333333333333,
+        5.568,
+        5.525333333333333,
+        6.997333333333334,
+        6.1866666666666665,
+        4.032,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_3.jpg"
+      ]
     }
   ]
 }
