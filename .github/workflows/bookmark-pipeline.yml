@@ -27,6 +27,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Restore OAuth token cache
+        id: restore-oauth-token-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: pipeline/cache/.twitter_oauth2_token.json
+          key: twitter-oauth2-token-${{ github.run_id }}
+          restore-keys: |
+            twitter-oauth2-token-
+
       - name: Fetch bookmarks from X
         working-directory: pipeline
         env:
@@ -35,18 +44,12 @@ jobs:
           TWITTER_REFRESH_TOKEN: ${{ secrets.TWITTER_REFRESH_TOKEN }}
         run: python fetch_bookmarks.py
 
-      - name: Update rotated refresh token
-        if: always()
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
-        working-directory: pipeline
-        run: |
-          if [ -f cache/.twitter_oauth2_token.json ]; then
-            NEW_TOKEN=$(python -c "import json; print(json.load(open('cache/.twitter_oauth2_token.json'))['refresh_token'])")
-            gh secret set TWITTER_REFRESH_TOKEN --body "$NEW_TOKEN" --repo ${{ github.repository }}
-            echo "✓ Refresh token updated"
-          fi
+      - name: Save OAuth token cache
+        if: always() && hashFiles('pipeline/cache/.twitter_oauth2_token.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: pipeline/cache/.twitter_oauth2_token.json
+          key: twitter-oauth2-token-${{ github.run_id }}
 
       - name: Generate articles from bookmarks (Venice AI)
         working-directory: pipeline
