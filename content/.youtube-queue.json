@@ -5178,6 +5178,116 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-crypto-research-morning-brief_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin",
+      "title": "Ethereum Could Become Fully Zero-Knowledge Proof-Based in 3-5 Years, Joe Lubin Says",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "zero-knowledge-proofs",
+        "scalability",
+        "layer-2",
+        "joe-lubin"
+      ],
+      "articleSummary": "Ethereum co-founder Joe Lubin believes the network could become fully based on zero-knowledge proofs (ZKPs) within 3-5 years. He argues this is necessary to meet the infinite demands of Ethereum as a 'World Computer,' making Layer 2 solutions essential.",
+      "articleBody": "Ethereum co-founder Joe Lubin has predicted that the Ethereum network could transition to a fully zero-knowledge proof-based protocol within 3 to 5 years. Speaking at a recent industry event, Lubin emphasized the need for Ethereum to achieve 'infinite capacity' to meet the infinite demands of its vision as a 'World Computer,' which makes Layer 2 (L2) solutions necessary.\n\nLubin highlighted the critical role of Layer 2 solutions in achieving this goal. These solutions, which operate on top of the main Ethereum network, use zero-knowledge proofs to process transactions more efficiently and at lower costs. By fully integrating ZKPs, Ethereum could significantly enhance its scalability and security.\n\nThis shift would be a game-changer for everyday users, potentially leading to faster and cheaper transactions. It could also make decentralized applications (dApps) more accessible and functional, as they would no longer be bogged down by high fees and slow processing times. For developers, a ZKP-based Ethereum would offer new tools and opportunities to build more complex and efficient applications.\n\nTo stay ahead of these developments, users and developers should keep an eye on announcements from Ethereum's core developers and major L2 projects. The transition to a fully ZKP-based protocol will likely involve several phases, with incremental improvements and updates. Watch for updates",
+      "imageUrl": "/images/articles/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin",
+      "script": {
+        "hook": "Your Ethereum transactions could soon cost pennies and take seconds, not dollars and hours.",
+        "narration_lines": [
+          "Ethereum co-founder Joe Lubin says the network could go fully zero-knowledge proof-based in 3-5 years.",
+          "This means faster, cheaper transactions for everyday users like you. Imagine sending crypto like texting.",
+          "Layer 2 solutions, like zkSync, use these proofs to process transactions off the main network, cutting costs and speeding things up.",
+          "For developers, this opens up new ways to build apps that were too expensive or slow before.",
+          "Keep an eye on updates from Ethereum's core team to stay ahead of these changes."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "8b7e03d327cc864f",
+      "scriptText": "Your Ethereum transactions could soon cost pennies and take seconds, not dollars and hours. Ethereum co-founder Joe Lubin says the network could go fully zero-knowledge proof-based in 3-5 years. This means faster, cheaper transactions for everyday users like you. Imagine sending crypto like texting. Layer 2 solutions, like zkSync, use these proofs to process transactions off the main network, cutting costs and speeding things up. For developers, this opens up new ways to build apps that were too expensive or slow before. Keep an eye on updates from Ethereum's core team to stay ahead of these changes. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "0MsDYj8FGN4",
+      "youtubeUrl": "https://youtube.com/watch?v=0MsDYj8FGN4",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-11T18:10:47.678189+00:00",
+      "uploadedAt": "2026-06-11T18:18:38.072293+00:00",
+      "audioLineDurations": [
+        5.781333333333333,
+        7.36,
+        6.826666666666667,
+        8.618666666666666,
+        5.589333333333333,
+        4.906666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-10-ethereum-may-fully-adopt-zero-knowledge-proofs-in-3-5-years-says-joe-lubin_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know",
+      "title": "Zcash's Ironwood Upgrade Set for July: What You Need to Know",
+      "category": "bitcoin",
+      "tags": [
+        "zcash",
+        "ironwood",
+        "upgrade",
+        "privacy",
+        "zec"
+      ],
+      "articleSummary": "Zcash has finalized its Ironwood upgrade, which will introduce a new shielded pool and ensure the supply of ZEC remains bounded. The upgrade is scheduled to activate in July 2026.",
+      "articleBody": "Zcash has confirmed the details of its upcoming Ironwood upgrade, which is set to go live in July 2026. This upgrade includes a new shielded pool, designed to enhance privacy for Zcash users. Additionally, it ensures that the circulating supply of ZEC (Zcash's native cryptocurrency) will remain bounded, addressing concerns about potential inflation.\n\nThe Ironwood upgrade is part of Zcash's ongoing efforts to improve its privacy features and maintain a stable supply. The new shielded pool will allow users to transact with greater anonymity, a key feature for those prioritizing financial privacy. This upgrade follows a thorough review and testing process to ensure its security and functionality.\n\nFor everyday users, this upgrade means better privacy protections and a more stable economic model for ZEC. The bounded supply ensures that the value of ZEC is not diluted over time, which could be beneficial for long-term holders. The new shielded pool will also make it easier for users to keep their transactions private, which is particularly important in an increasingly surveillance-heavy financial landscape.\n\nThe Zcash community and developers have been working diligently to prepare for this upgrade. Users are advised to stay informed about the activation date and any preparatory steps they may need to take. Keep an eye on official Zcash channels for updates and instructions on how t",
+      "imageUrl": "/images/articles/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know",
+      "script": {
+        "hook": "Your cryptocurrency transactions could soon be more private than ever.",
+        "narration_lines": [
+          "Zcash's Ironwood upgrade in July 2026 adds a new shielded pool for better privacy.",
+          "This means your ZEC transactions will be harder to track, protecting your financial details.",
+          "Think of it like a secure vault for your money, keeping prying eyes out.",
+          "The upgrade also ensures ZEC's supply stays limited, helping its long-term value.",
+          "If you hold or use ZEC, this could mean better security and stability for your investments.",
+          "Check official Zcash channels for updates and steps to prepare."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "cded59419df229a4",
+      "scriptText": "Your cryptocurrency transactions could soon be more private than ever. Zcash's Ironwood upgrade in July 2026 adds a new shielded pool for better privacy. This means your ZEC transactions will be harder to track, protecting your financial details. Think of it like a secure vault for your money, keeping prying eyes out. The upgrade also ensures ZEC's supply stays limited, helping its long-term value. If you hold or use ZEC, this could mean better security and stability for your investments. Check official Zcash channels for updates and steps to prepare. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "Fhs4-qG48v4",
+      "youtubeUrl": "https://youtube.com/watch?v=Fhs4-qG48v4",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-11T18:10:50.286668+00:00",
+      "uploadedAt": "2026-06-11T18:18:39.499709+00:00",
+      "audioLineDurations": [
+        3.8826666666666667,
+        6.933333333333334,
+        5.930666666666666,
+        3.84,
+        5.589333333333333,
+        5.653333333333333,
+        3.776,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_3.jpg"
+      ]
     }
   ]
 }
