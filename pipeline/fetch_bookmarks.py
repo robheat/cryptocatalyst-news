@@ -74,14 +74,36 @@ def refresh_access_token(refresh_token: str) -> dict:
 
 def get_access_token() -> str:
     """Get a valid access token, refreshing if necessary."""
-    # Use the persisted refresh token if available (it rotates)
-    current_refresh = REFRESH_TOKEN
-    if TOKEN_CACHE.exists():
-        cached = json.loads(TOKEN_CACHE.read_text())
-        current_refresh = cached.get("refresh_token", REFRESH_TOKEN)
+    # Prefer cached token, but fall back to secret if cache has gone stale.
+    candidates: list[str] = []
 
-    tokens = refresh_access_token(current_refresh)
-    return tokens["access_token"]
+    if TOKEN_CACHE.exists():
+        try:
+            cached = json.loads(TOKEN_CACHE.read_text())
+            cached_refresh = cached.get("refresh_token", "")
+            if cached_refresh:
+                candidates.append(cached_refresh)
+        except Exception:
+            pass
+
+    if REFRESH_TOKEN and REFRESH_TOKEN not in candidates:
+        candidates.append(REFRESH_TOKEN)
+
+    if not candidates:
+        print("ERROR: No refresh token available")
+        sys.exit(1)
+
+    for idx, candidate in enumerate(candidates):
+        try:
+            tokens = refresh_access_token(candidate)
+            return tokens["access_token"]
+        except SystemExit:
+            if idx == len(candidates) - 1:
+                raise
+            print("Warning: Cached refresh token failed, retrying with fallback token...")
+
+    print("ERROR: Unable to refresh access token")
+    sys.exit(1)
 
 
 def get_user_id(access_token: str) -> str:

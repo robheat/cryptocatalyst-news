@@ -85,14 +85,32 @@ def main() -> int:
         except Exception:
             current_refresh = REFRESH_TOKEN
 
-    try:
-        tokens = refresh_access_token(current_refresh)
-    except urllib.error.HTTPError as exc:
-        body = exc.read().decode()
-        print(f"ERROR refreshing token: {exc.code} {body}")
-        return 1
-    except Exception as exc:
-        print(f"ERROR refreshing token: {exc}")
+    candidates: list[str] = []
+    if current_refresh:
+        candidates.append(current_refresh)
+    if REFRESH_TOKEN and REFRESH_TOKEN not in candidates:
+        candidates.append(REFRESH_TOKEN)
+
+    tokens = None
+    last_error = ""
+    for idx, candidate in enumerate(candidates):
+        try:
+            tokens = refresh_access_token(candidate)
+            break
+        except urllib.error.HTTPError as exc:
+            body = exc.read().decode()
+            last_error = f"{exc.code} {body}"
+            if idx < len(candidates) - 1:
+                print("Warning: Cached refresh token failed, retrying with fallback token...")
+                continue
+        except Exception as exc:
+            last_error = str(exc)
+            if idx < len(candidates) - 1:
+                print("Warning: Cached refresh token failed, retrying with fallback token...")
+                continue
+
+    if tokens is None:
+        print(f"ERROR refreshing token: {last_error}")
         return 1
 
     if "refresh_token" not in tokens or "access_token" not in tokens:
