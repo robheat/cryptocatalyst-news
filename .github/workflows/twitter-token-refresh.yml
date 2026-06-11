@@ -1,0 +1,49 @@
+name: Twitter OAuth2 Token Refresh
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  refresh-token:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore OAuth token cache
+        uses: actions/cache/restore@v4
+        with:
+          path: pipeline/cache/.twitter_oauth2_token.json
+          key: twitter-oauth2-token-${{ github.run_id }}
+          restore-keys: |
+            twitter-oauth2-token-
+
+      - name: Refresh OAuth token
+        working-directory: pipeline
+        env:
+          TWITTER_CLIENT_ID: ${{ secrets.TWITTER_CLIENT_ID }}
+          TWITTER_CLIENT_SECRET: ${{ secrets.TWITTER_CLIENT_SECRET }}
+          TWITTER_REFRESH_TOKEN: ${{ secrets.TWITTER_REFRESH_TOKEN }}
+        run: python refresh_twitter_token.py
+
+      - name: Save OAuth token cache
+        if: always() && hashFiles('pipeline/cache/.twitter_oauth2_token.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: pipeline/cache/.twitter_oauth2_token.json
+          key: twitter-oauth2-token-${{ github.run_id }}
