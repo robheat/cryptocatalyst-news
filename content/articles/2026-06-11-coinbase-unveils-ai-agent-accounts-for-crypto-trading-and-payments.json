@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-11-coinbase-unveils-ai-agent-accounts-for-crypto-trading-and-payments",
+  "title": "Coinbase Launches AI Agent Accounts That Can Trade and Spend on Your Behalf",
+  "summary": "Coinbase's new platform, Coinbase for Agents, allows AI assistants like ChatGPT and Claude to trade crypto and make payments on your behalf. The service is currently in beta and will expand to more users in the coming months.",
+  "body": "Coinbase has launched a new feature called \"Coinbase for Agents,\" which enables AI assistants like ChatGPT and Claude to connect to users' Coinbase accounts. These AI agents can trade cryptocurrencies, access account data, and eventually make payments and purchases autonomously.\n\nThe platform is currently in beta and is being rolled out to a limited number of users. Coinbase plans to expand access to more users in the coming months. This feature aims to simplify crypto management by allowing AI assistants to handle transactions based on user preferences and instructions.\n\nFor everyday users, this means that AI assistants could potentially manage their crypto portfolios, make trades, and even pay bills automatically. This could be particularly useful for those who want to automate their financial management but need to ensure they set clear guidelines and limits for their AI agents.\n\nCoinbase emphasizes that security is a top priority. Users will need to grant explicit permissions to their AI agents and can revoke access at any time. The company is also working on adding more features, such as the ability for AI agents to make purchases using crypto directly.\n\nIf you're interested in trying out this feature, keep an eye on Coinbase's announcements for when the beta expands. Users will need to opt-in and set up their AI agent accounts carefully to ensure secure and efficient crypto management.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "coinbase",
+    "ai",
+    "crypto",
+    "trading",
+    "payments",
+    "automation"
+  ],
+  "publishedAt": "2026-06-11T22:04:16.914665+00:00",
+  "imageUrl": "/images/articles/2026-06-11-coinbase-unveils-ai-agent-accounts-for-crypto-trading-and-payments.webp",
+  "twitterThread": [
+    "Your AI assistant could soon trade crypto and pay bills for you. Coinbase's new platform lets ChatGPT and Claude manage your account.",
+    "Coinbase for Agents allows AI assistants to trade crypto and make payments on your behalf. Currently in beta, it's coming to more users soon.",
+    "Want to automate your crypto management? Keep an eye on Coinbase's beta expansion. Read more → https://cryptocatalyst.news/articles/2026-06-11-coinbase-unveils-ai-agent-accounts-for-crypto-trading-and-payments"
+  ],
+  "standaloneTweet": "Coinbase's new AI agent accounts let ChatGPT and Claude trade crypto and make payments for you. Beta starts now, expanding soon."
+}
