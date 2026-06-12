@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-12-253-of-bitcoin-exposed-to-quantum-computing-risks",
+  "title": "25.3% of Bitcoin Sits at Addresses with an Exposed Public Key",
+  "summary": "A new analysis from ChainQuery reveals that 25.3% of all Bitcoin is stored at addresses where the public key has been exposed, making those funds potentially vulnerable to future quantum computing attacks. The risk is not immediate but highlights a significant security consideration for long-term holders.",
+  "body": "A recent report from ChainQuery has uncovered that 25.3% of all Bitcoin is held at addresses where the public key has been exposed. This exposure makes these bitcoins potentially vulnerable to quantum computing attacks, which could theoretically derive private keys from exposed public keys and allow attackers to steal the funds.\n\nThe report emphasizes that quantum computers capable of breaking Bitcoin's cryptography do not yet exist, so the risk is not immediate. However, for long-term holders planning to keep their assets for decades, the threat is real and growing as quantum computing technology advances.\n\nAddresses that have never been used in transactions do not expose the public key and are therefore not subject to this risk. The report advises Bitcoin holders to be aware of this exposure and consider using fresh addresses for long-term storage. Some developers are already working on post-quantum cryptographic algorithms that could be integrated into the Bitcoin protocol to mitigate this risk in the future.\n\nFor now, the best advice is to stay informed about developments in quantum computing and post-quantum cryptography, and to take proactive steps to secure long-term holdings by using addresses that have never been spent from.",
+  "sourceUrl": "https://chainquery.com/reports/quantum-exposure",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "cryptography",
+    "risk",
+    "future"
+  ],
+  "publishedAt": "2026-06-12T13:07:40.935516+00:00",
+  "imageUrl": "/images/articles/2026-06-12-253-of-bitcoin-exposed-to-quantum-computing-risks.webp",
+  "twitterThread": [
+    "25.3% of all Bitcoin sits at addresses with an exposed public key, making it potentially vulnerable to future quantum computing attacks.",
+    "Quantum computers that could break Bitcoin's cryptography don't exist yet, so the risk is not immediate. But long-term holders should take note.",
+    "Addresses that have never been used in transactions do not expose the public key and are not at risk. Stay informed on quantum-resistant solutions. Read more → https://cryptocatalyst.news/articles/2026-06-12-253-of-bitcoin-exposed-to-quantum-computing-risks"
+  ],
+  "standaloneTweet": "25.3% of Bitcoin sits at addresses with an exposed public key, potentially vulnerable to future quantum attacks. The risk isn't immediate, but long-term holders should consider using fresh addresses."
+}

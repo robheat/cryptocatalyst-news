@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-12-coinbase-warns-bitcoin-must-prepare-for-quantum-computing-threats",
+  "title": "Coinbase Warns: Bitcoin Must Prepare for Quantum Computing Threats",
+  "summary": "Coinbase's quantum advisory council urges immediate action to protect Bitcoin from future quantum computing threats. Developers must start migrating to post-quantum cryptography now to avoid potential vulnerabilities. The biggest challenge will be addressing abandoned and vulnerable coins.",
+  "body": "Coinbase's quantum advisory council has issued a stark warning: Bitcoin and other cryptocurrencies must begin preparing for the quantum computing threat immediately. The council emphasizes that developers should start migrating to post-quantum cryptography to safeguard the network against future attacks. \n\nThe council highlights that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles. Quantum computers, once powerful enough, could potentially break the cryptographic algorithms that secure Bitcoin transactions, making the network vulnerable to attacks. \n\nFor everyday users, this means that the security of their Bitcoin holdings could be at risk if the necessary upgrades are not implemented in time. The migration to post-quantum cryptography is crucial to ensure that Bitcoin remains secure against emerging technologies. \n\nDevelopers and the broader crypto community must act now to address these potential vulnerabilities. Users should stay informed about the progress of post-quantum cryptography implementations and support initiatives that aim to secure the Bitcoin network against future threats. Read more → https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+  "sourceUrl": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "coinbase",
+    "cryptography",
+    "threat"
+  ],
+  "publishedAt": "2026-06-12T13:04:40.199146+00:00",
+  "imageUrl": "/images/articles/2026-06-12-coinbase-warns-bitcoin-must-prepare-for-quantum-computing-threats.webp",
+  "twitterThread": [
+    "Quantum computers could break Bitcoin's security. Coinbase's quantum advisory council says developers must act now to migrate to post-quantum cryptography.",
+    "The biggest challenge? Abandoned and vulnerable coins. Quantum threats could exploit these weaknesses, putting Bitcoin at risk. Developers need to start planning today.",
+    "Users should stay informed and support efforts to secure Bitcoin. The migration to post-quantum cryptography is crucial. Read more → https://cryptocatalyst.news/articles/2026-06-12-coinbase-warns-bitcoin-must-prepare-for-quantum-computing-threats"
+  ],
+  "standaloneTweet": "Bitcoin's security could be at risk from quantum computers. Coinbase warns developers must start migrating to post-quantum cryptography now to protect the network."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield",
+  "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
+  "summary": "BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails.",
+  "body": "BitGo, a leading institutional crypto custodian, has launched Lightning Earn, a service that enables large Bitcoin holders to earn yield by supplying liquidity to the Lightning Network. The Lightning Network is a layer-2 solution that facilitates faster and cheaper Bitcoin transactions. \n\nLightning Earn integrates with Amboss Rails, a platform that simplifies the process of managing Lightning Network channels. This integration allows institutions to earn BTC-denominated fees by providing liquidity, making it easier for them to participate in the Lightning Network's growth. \n\nThis development is significant for institutional investors looking to put their Bitcoin holdings to work. By earning yield through the Lightning Network, institutions can generate additional income without selling their Bitcoin. This could attract more large-scale investors to the Lightning Network, further enhancing its liquidity and usability. \n\nFor everyday users, this means increased adoption and potentially more efficient Bitcoin transactions. As more institutions participate in the Lightning Network, the network's capacity and speed are likely to improve, benefiting all users. Watch for more institutions to adopt this strategy as the Lightning Network continues to grow. \n\nIf you're an institutional investor, keep an eye on BitGo's Lightning Earn and similar products. They represent a new way to generate yield from Bitcoin holdings without taking on excessive risk. Read more → https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
+  "sourceUrl": "https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "lightning-network",
+    "institutional-investors",
+    "yield",
+    "bitgo",
+    "amboss-rails"
+  ],
+  "publishedAt": "2026-06-12T13:07:08.733432+00:00",
+  "imageUrl": "/images/articles/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield.webp",
+  "twitterThread": [
+    "BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails.",
+    "This new product lets institutions put their Bitcoin to work on the Lightning Network, earning yield without selling their holdings.",
+    "If you're an institutional investor, explore BitGo's Lightning Earn to generate yield from your Bitcoin holdings. Read more → https://cryptocatalyst.news/articles/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield"
+  ],
+  "standaloneTweet": "BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails."
+}

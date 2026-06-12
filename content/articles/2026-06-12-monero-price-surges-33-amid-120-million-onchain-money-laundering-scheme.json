@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-12-monero-price-surges-33-amid-120-million-onchain-money-laundering-scheme",
+  "title": "Monero Price Rockets 33% to $438 Amid $120 Million Onchain Laundering Maze",
+  "summary": "Onchain sleuth ZachXBT traced $120 million in suspicious funds across exchanges, instant swap services, and other blockchains. Tether later froze $72 million in USDT linked to the activity, as Monero's price jumped to $438.",
+  "body": "Monero (XMR) saw a dramatic 33% price increase to $438 following the discovery of a $120 million money laundering operation traced by onchain investigator ZachXBT. The funds moved across various exchanges, instant swap services, and other blockchains, showcasing Monero's privacy features.\n\nZachXBT's investigation revealed the complex web of transactions, prompting Tether to freeze $72 million in USDT linked to the activity. This action underscores the growing scrutiny on privacy coins and their role in financial anonymity.\n\nThe price surge highlights Monero's appeal for users seeking privacy in their transactions. While this can be beneficial for legitimate uses, it also attracts illicit activities, as seen in this case. The event serves as a reminder of the dual nature of privacy-focused cryptocurrencies.\n\nFor investors and users, this incident underscores the importance of due diligence when dealing with privacy coins. Monitor regulatory developments and exchange policies, as they can significantly impact the market and usage of Monero and similar assets.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "monero",
+    "privacy",
+    "money-laundering",
+    "tether",
+    "onchain-analysis"
+  ],
+  "publishedAt": "2026-06-12T13:05:26.331208+00:00",
+  "imageUrl": "/images/articles/2026-06-12-monero-price-surges-33-amid-120-million-onchain-money-laundering-scheme.webp",
+  "twitterThread": [
+    "Monero's price just spiked 33% to $438 after a $120M money laundering scheme was traced onchain. Tether froze $72M in USDT linked to the activity.",
+    "Onchain investigator ZachXBT tracked the funds across exchanges, swap services, and other blockchains. Monero's privacy features made it a tool for this illicit activity.",
+    "This event highlights the dual nature of privacy coins. While useful for legitimate privacy, they can also attract illegal uses. Stay informed on regulatory changes → https://cryptocatalyst.news/articles/2026-06-12-monero-price-surges-33-amid-120-million-onchain-money-laundering-scheme"
+  ],
+  "standaloneTweet": "Monero's price surged 33% to $438 after a $120M money laundering scheme was traced onchain. Tether froze $72M in USDT linked to the activity. Privacy coins offer anonymity, but also attract illicit activities."
+}
