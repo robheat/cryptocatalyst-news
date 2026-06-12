@@ -5288,6 +5288,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-09-zcashs-ironwood-upgrade-set-for-july-what-you-need-to-know_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes",
+      "title": "El Salvador Becomes Top Tax Haven with 0% Bitcoin and Foreign Income Taxes",
+      "category": "bitcoin",
+      "tags": [
+        "tax",
+        "crypto",
+        "el-salvador",
+        "bitcoin",
+        "investment",
+        "reform"
+      ],
+      "articleSummary": "El Salvador has eliminated capital gains tax on Bitcoin and all taxes on foreign income, positioning itself as a tax haven for crypto investors and entrepreneurs. The reforms include no wealth or inheritance taxes, plus incentives for tech businesses.",
+      "articleBody": "El Salvador has taken a bold step to attract crypto investors and entrepreneurs by implementing sweeping tax reforms. The country now imposes no capital gains tax on Bitcoin, no taxes on foreign income, and eliminates wealth and inheritance taxes. These changes are part of a broader strategy to establish El Salvador as a Bitcoin-friendly jurisdiction.\n\nThe reforms include competitive incentives for tech businesses, making it an attractive destination for digital nomads and investors. President Nayib Bukele's administration aims to leverage Bitcoin adoption, which began in 2021, to boost economic growth and attract global talent. The lack of capital gains tax on Bitcoin is particularly noteworthy, as it allows investors to benefit from their crypto gains without significant tax burdens.\n\nFor everyday people, this means greater financial freedom and potential tax savings. Crypto investors can now hold and trade Bitcoin without worrying about capital gains taxes, while entrepreneurs and remote workers can benefit from the absence of taxes on foreign income. This could make El Salvador an appealing option for those looking to optimize their tax strategies while enjoying the benefits of a Bitcoin-friendly environment.\n\nTo take advantage of these reforms, individuals and businesses should consider the legal and logistical aspects of relocating or operating in El Salvador. The country",
+      "imageUrl": "/images/articles/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes",
+      "script": {
+        "hook": "Your Bitcoin investments just got a major tax break in El Salvador!",
+        "narration_lines": [
+          "El Salvador now has zero capital gains tax on Bitcoin and no taxes on foreign income.",
+          "This makes it a tax haven for cryptocurrency investors and entrepreneurs.",
+          "For example, if you sell Bitcoin for a profit, you keep all of it—no taxes cut into your gains.",
+          "Tech businesses also get special incentives, making it a hotspot for digital nomads.",
+          "President Nayib Bukele's plan is to attract global talent and boost the economy.",
+          "If you're a crypto investor or remote worker, this could be a game-changer for your finances."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "7d3509dd80c2ff6b",
+      "scriptText": "Your Bitcoin investments just got a major tax break in El Salvador! El Salvador now has zero capital gains tax on Bitcoin and no taxes on foreign income. This makes it a tax haven for cryptocurrency investors and entrepreneurs. For example, if you sell Bitcoin for a profit, you keep all of it—no taxes cut into your gains. Tech businesses also get special incentives, making it a hotspot for digital nomads. President Nayib Bukele's plan is to attract global talent and boost the economy. If you're a crypto investor or remote worker, this could be a game-changer for your finances. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ngxAIv9EAIk",
+      "youtubeUrl": "https://youtube.com/watch?v=ngxAIv9EAIk",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-12T17:36:03.802788+00:00",
+      "uploadedAt": "2026-06-12T17:42:32.608359+00:00",
+      "audioLineDurations": [
+        4.074666666666666,
+        6.165333333333334,
+        4.330666666666667,
+        5.994666666666666,
+        4.970666666666666,
+        5.12,
+        5.504,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-el-salvador-becomes-top-tax-haven-with-0-bitcoin-and-foreign-income-taxes_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield",
+      "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "lightning-network",
+        "institutional-investors",
+        "yield",
+        "bitgo",
+        "amboss-rails"
+      ],
+      "articleSummary": "BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails.",
+      "articleBody": "BitGo, a leading institutional crypto custodian, has launched Lightning Earn, a service that enables large Bitcoin holders to earn yield by supplying liquidity to the Lightning Network. The Lightning Network is a layer-2 solution that facilitates faster and cheaper Bitcoin transactions. \n\nLightning Earn integrates with Amboss Rails, a platform that simplifies the process of managing Lightning Network channels. This integration allows institutions to earn BTC-denominated fees by providing liquidity, making it easier for them to participate in the Lightning Network's growth. \n\nThis development is significant for institutional investors looking to put their Bitcoin holdings to work. By earning yield through the Lightning Network, institutions can generate additional income without selling their Bitcoin. This could attract more large-scale investors to the Lightning Network, further enhancing its liquidity and usability. \n\nFor everyday users, this means increased adoption and potentially more efficient Bitcoin transactions. As more institutions participate in the Lightning Network, the network's capacity and speed are likely to improve, benefiting all users. Watch for more institutions to adopt this strategy as the Lightning Network continues to grow. \n\nIf you're an institutional investor, keep an eye on BitGo's Lightning Earn and similar products. They represent a new way to gener",
+      "imageUrl": "/images/articles/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield",
+      "script": {
+        "hook": "Big banks are now earning Bitcoin by parking their cash on the Lightning Network.",
+        "narration_lines": [
+          "BitGo just launched 'Lightning Earn', letting institutions earn Bitcoin by adding liquidity to the Lightning Network.",
+          "This means faster, cheaper Bitcoin transactions for everyone, thanks to more big players joining in.",
+          "Imagine your bank earning interest just by holding Bitcoin, without selling a single coin.",
+          "BitGo teamed up with Amboss Rails to make this easy for institutions to use.",
+          "For regular users, this could mean quicker and cheaper Bitcoin payments soon.",
+          "If you're an investor, watch for more institutions to jump on this trend."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "24fee23d3301ad38",
+      "scriptText": "Big banks are now earning Bitcoin by parking their cash on the Lightning Network. BitGo just launched 'Lightning Earn', letting institutions earn Bitcoin by adding liquidity to the Lightning Network. This means faster, cheaper Bitcoin transactions for everyone, thanks to more big players joining in. Imagine your bank earning interest just by holding Bitcoin, without selling a single coin. BitGo teamed up with Amboss Rails to make this easy for institutions to use. For regular users, this could mean quicker and cheaper Bitcoin payments soon. If you're an investor, watch for more institutions to jump on this trend. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "h5braKdE3PU",
+      "youtubeUrl": "https://youtube.com/watch?v=h5braKdE3PU",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-12T17:36:06.357269+00:00",
+      "uploadedAt": "2026-06-12T17:42:34.620635+00:00",
+      "audioLineDurations": [
+        4.586666666666667,
+        6.656,
+        6.208,
+        5.269333333333333,
+        4.778666666666667,
+        4.1386666666666665,
+        4.096,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_3.jpg"
+      ]
     }
   ]
 }
