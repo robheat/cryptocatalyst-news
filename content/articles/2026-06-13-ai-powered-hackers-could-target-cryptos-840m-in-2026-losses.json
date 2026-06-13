@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-13-ai-powered-hackers-could-target-cryptos-840m-in-2026-losses",
+  "title": "Crypto’s Next Billion-Dollar Hacker May Move at Superhuman Speed",
+  "summary": "Anthropic’s new Claude Fable 5 AI model puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.",
+  "body": "Anthropic has released Claude Fable 5, an advanced AI model that puts powerful cyber tools behind safety filters. While the model includes safety filters, failures in these filters could have severe consequences for industries like decentralized finance (DeFi), which has already suffered more than $840 million in hacks in 2026.\n\nClaude Fable 5 is designed to assist with complex tasks, including coding and cybersecurity. However, its capabilities could be exploited by malicious actors to identify and exploit vulnerabilities in DeFi platforms more quickly than human hackers. This poses a significant risk, as DeFi’s open and permissionless nature makes it particularly vulnerable to such attacks.\n\nFor everyday crypto users, this development highlights the importance of security measures. Users should ensure they are using reputable platforms and enabling two-factor authentication. The potential for AI-driven attacks underscores the need for continuous vigilance in the crypto space.\n\nAs AI models like Claude Fable 5 become more advanced, the crypto community must stay informed about potential threats. Users should keep an eye on security advisories from their preferred platforms and consider using hardware wallets for added protection. The next major hack could be just around the corner, and preparedness is key.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "ai",
+    "hacking",
+    "defi",
+    "cybersecurity",
+    "claudefable5",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-06-13T21:17:46.348097+00:00",
+  "imageUrl": "/images/articles/2026-06-13-ai-powered-hackers-could-target-cryptos-840m-in-2026-losses.webp",
+  "twitterThread": [
+    "Anthropic’s new Claude Fable 5 AI puts powerful cyber tools behind safety filters. If those filters fail, DeFi—already hit by $840M+ in hacks this year—could face superhuman-speed attacks.",
+    "Claude Fable 5 is designed for complex coding and cybersecurity tasks, but its capabilities could be exploited to find and exploit DeFi vulnerabilities faster than any human hacker.",
+    "To stay safe, use reputable platforms, enable two-factor authentication, and consider hardware wallets. The next big hack could be AI-driven. Read more → https://cryptocatalyst.news/articles/2026-06-13-ai-powered-hackers-could-target-cryptos-840m-in-2026-losses"
+  ],
+  "standaloneTweet": "Anthropic’s Claude Fable 5 AI could supercharge crypto hackers. DeFi lost $840M+ in 2026 alone. Time to double-check your security settings."
+}
