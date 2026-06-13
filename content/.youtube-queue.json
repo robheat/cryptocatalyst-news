@@ -5402,6 +5402,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-bitgo-launches-lightning-earn-for-institutional-bitcoin-yield_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level",
+      "title": "Bitwise Analyst Warns of Up to 20% More Bitcoin Downside, Sets $48K as 'Max Pain' Level",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "market",
+        "analysis",
+        "investment",
+        "volatility"
+      ],
+      "articleSummary": "Bitwise's Jeff Dragosch predicts up to 20% further decline for bitcoin, with long-term holders' cost basis at $48,000 as the worst-case scenario. This reflects ongoing market volatility and investor uncertainty.",
+      "articleBody": "Bitwise Asset Management's Jeff Dragosch has cautioned that bitcoin could face up to 20% more downside from current levels. He identified $48,000 as the \"max pain\" scenario, representing the long-term holder cost basis. This prediction comes amid continued market volatility and uncertainty among investors.\n\nDragosch's analysis highlights that the current market conditions are challenging for both short-term traders and long-term holders. The $48,000 level is significant as it marks the point where many long-term investors initially purchased their bitcoin, making it a critical support level. If bitcoin were to drop to this level, it could indicate a broader market correction.\n\nFor everyday investors, this forecast underscores the importance of risk management and diversification. Bitcoin's price volatility can present both opportunities and risks, and understanding these dynamics is crucial for making informed investment decisions. Long-term holders may need to prepare for potential further declines, while short-term traders should remain vigilant.\n\nInvestors should watch for key market indicators and economic data that could influence bitcoin's price movement. Keeping an eye on regulatory developments and macroeconomic trends will be essential in navigating the current market environment. Read more → https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm",
+      "imageUrl": "/images/articles/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level",
+      "script": {
+        "hook": "Bitcoin could drop another 20% — here's why you should care.",
+        "narration_lines": [
+          "Bitwise's analyst warns bitcoin might fall to $48,000 — that's the 'max pain' level for long-term holders.",
+          "This means if you bought bitcoin years ago, you could see big losses if it drops that far.",
+          "Think of it like a stock market correction, but with cryptocurrency's extra volatility.",
+          "If you're holding bitcoin, now's the time to check your risk tolerance and diversify.",
+          "Keep an eye on market trends and regulatory news to stay ahead of the game.",
+          "Remember, even experts can't predict the market perfectly, so stay informed and cautious."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "6e5655f5eaa5b888",
+      "scriptText": "Bitcoin could drop another 20% — here's why you should care. Bitwise's analyst warns bitcoin might fall to $48,000 — that's the 'max pain' level for long-term holders. This means if you bought bitcoin years ago, you could see big losses if it drops that far. Think of it like a stock market correction, but with cryptocurrency's extra volatility. If you're holding bitcoin, now's the time to check your risk tolerance and diversify. Keep an eye on market trends and regulatory news to stay ahead of the game. Remember, even experts can't predict the market perfectly, so stay informed and cautious. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "qNzlViNNd5w",
+      "youtubeUrl": "https://youtube.com/watch?v=qNzlViNNd5w",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-13T16:12:46.446748+00:00",
+      "uploadedAt": "2026-06-13T16:22:28.357699+00:00",
+      "audioLineDurations": [
+        3.7333333333333334,
+        8.448,
+        5.12,
+        5.056,
+        4.928,
+        4.672,
+        5.546666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-13-bitwise-analyst-warns-of-20-more-bitcoin-downside-sets-48k-as-max-pain-level_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web",
+      "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "money-laundering",
+        "dark-web",
+        "crypto-crime",
+        "audi6",
+        "federal-charges"
+      ],
+      "articleSummary": "Federal prosecutors charged two Eastern European nationals with operating AudiA6, a cryptocurrency mixing service and cybercrime platform that allegedly laundered nearly $400 million in bitcoin.",
+      "articleBody": "Federal prosecutors have charged two Eastern European nationals with operating a cryptocurrency mixing service called AudiA6, which allegedly laundered nearly $389 million in bitcoin. The service is accused of facilitating cybercrime by mixing illicit funds with legitimate transactions to obscure their origins.\n\nThe defendants are accused of running AudiA6, a platform that allowed users to mix their cryptocurrency transactions to make them harder to trace. Prosecutors claim the service laundered funds tied to dark web marketplaces, ransomware attacks, and other illegal activities. The charges highlight the ongoing efforts by law enforcement to crack down on crypto-related money laundering.\n\nThis case underscores the risks associated with using unregulated crypto mixing services. Such platforms are often used to launder money from illegal activities, making it difficult for authorities to track the flow of funds. For everyday users, this highlights the importance of using reputable and transparent services when dealing with cryptocurrencies.\n\nThe case is still ongoing, and the defendants have not yet entered a plea. Authorities continue to investigate the full extent of the laundering scheme and its connections to other criminal activities. Users should remain vigilant and avoid using services that promise anonymity at the expense of legality. Read more → https://bitcoinmagazine",
+      "imageUrl": "/images/articles/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web",
+      "script": {
+        "hook": "Your bitcoin could be funding cybercrime. Here's how to stay safe.",
+        "narration_lines": [
+          "Two men are charged with laundering $389 million in bitcoin through a service called AudiA6.",
+          "This service mixed illegal funds with legal ones, hiding their dark web origins.",
+          "Imagine your crypto transaction getting tangled with ransomware or illegal market payments.",
+          "Stick to trusted, transparent services to avoid accidentally supporting crime.",
+          "Authorities are cracking down, but users must stay vigilant to protect their investments.",
+          "Always choose reputable platforms for your cryptocurrency transactions."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "39ad7106c22c383b",
+      "scriptText": "Your bitcoin could be funding cybercrime. Here's how to stay safe. Two men are charged with laundering $389 million in bitcoin through a service called AudiA6. This service mixed illegal funds with legal ones, hiding their dark web origins. Imagine your crypto transaction getting tangled with ransomware or illegal market payments. Stick to trusted, transparent services to avoid accidentally supporting crime. Authorities are cracking down, but users must stay vigilant to protect their investments. Always choose reputable platforms for your cryptocurrency transactions. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "2HKcLjiU86g",
+      "youtubeUrl": "https://youtube.com/watch?v=2HKcLjiU86g",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-13T16:12:54.887659+00:00",
+      "uploadedAt": "2026-06-13T16:22:31.189075+00:00",
+      "audioLineDurations": [
+        3.776,
+        7.381333333333333,
+        4.928,
+        5.696,
+        4.8853333333333335,
+        5.141333333333334,
+        4.224,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_3.jpg"
+      ]
     }
   ]
 }
