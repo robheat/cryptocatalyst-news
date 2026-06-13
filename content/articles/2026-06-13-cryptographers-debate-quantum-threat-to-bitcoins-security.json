@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-13-cryptographers-debate-quantum-threat-to-bitcoins-security",
+  "title": "Top Cryptographers Can't Agree on Bitcoin's Biggest Quantum Question",
+  "summary": "A Coinbase-convened panel of top cryptographers agrees Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.",
+  "body": "A group of leading cryptographers convened by Coinbase has concluded that Bitcoin should start preparing for potential quantum computing attacks now. However, the panel declined to take a position on whether millions of vulnerable coins, including many linked to Bitcoin's creator Satoshi Nakamoto, should eventually be frozen to prevent theft.\n\nThe discussion underscored the urgency of addressing quantum threats, as quantum computers could potentially break the cryptographic algorithms that secure Bitcoin transactions. The panel emphasized the need for proactive measures but stopped short of recommending specific actions like freezing vulnerable wallets.\n\nThis debate matters because quantum computing could render current security measures obsolete, putting users' funds at risk. The uncertainty around how to handle vulnerable coins, especially those tied to early Bitcoin addresses, adds another layer of complexity. The crypto community will need to stay informed as this issue evolves.\n\nFor now, the best course of action for individual users is to keep an eye on developments in quantum-resistant cryptography and follow updates from major exchanges and wallets. The next major step will likely come from the Bitcoin community or developers proposing concrete solutions to mitigate quantum risks. Read more → https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "satoshi",
+    "cryptography",
+    "coins"
+  ],
+  "publishedAt": "2026-06-13T13:21:34.569296+00:00",
+  "imageUrl": "/images/articles/2026-06-13-cryptographers-debate-quantum-threat-to-bitcoins-security.webp",
+  "twitterThread": [
+    "Quantum computers could break Bitcoin's security. A Coinbase-convened panel of top cryptographers agrees preparation is needed now but declines to take a position on freezing vulnerable coins, including many linked to Satoshi.",
+    "The debate highlights the urgent need for quantum-resistant strategies in crypto. Millions of coins, including early Bitcoin addresses, could be at risk if quantum attacks become a reality.",
+    "For now, stay informed on quantum-resistant developments. The next step will likely come from the Bitcoin community proposing solutions. Read more → https://cryptocatalyst.news/articles/2026-06-13-cryptographers-debate-quantum-threat-to-bitcoins-security"
+  ],
+  "standaloneTweet": "Quantum computers could break Bitcoin's security, putting millions of coins at risk, including many linked to Satoshi. A Coinbase-convened panel says prepare now but won't take a position on freezing vulnerable coins."
+}
