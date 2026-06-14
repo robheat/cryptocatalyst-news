@@ -5515,6 +5515,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-12-us-charges-two-in-389m-bitcoin-money-laundering-scheme-linked-to-dark-web_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-14-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — June 14, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Sunday, June 14, 2026\n\n1. OVERNIGHT MOVES\n\nThe tape continues its low-volatility drift from yesterday. BTC $64,448 (+1.1%), ETH $1,673.58 (flat), SOL $68.22 (+1.3%). None of the three have reclaimed a structural level — BTC remains $10,552 below the former $75k floor, ETH is still beneath $1,700, SOL is below $70. BTC dominance ticked up to 56.6% from 56.4% on Saturday — the third consecutive small increase during flat price action. Capital is not rotating; it is parked. The trending board: Humanity (H) leads, followed by Siren (SIREN), Pudgy Penguins (PENGU), Bittensor (TAO), Backpack (BP), Velvet (VELVET), and Solana (SOL). SIREN and BP are new entries — no vault research exists on either. The composition is a mix of persistent names (H, PENGU, TAO, VELVET) and fresh speculative scans. This is not accumulation; it is churn on a stale tape.\n\n2. NARRATIVE PULSE\n\nTwo shifts beneath the surface:\nAI infrastructure is reclaiming mindshare as the highest-conviction bounce vector. Bittensor (TAO) re-enters the top trending after a two-day absence — its appearance alongside Solana (SOL) marks the first time a non-meme infrastructure name has sat in the same trending tier as a large-cap L1 since the June 7-9 bounce window. The AI compute / private inference sub-narrative (TAO, VVV — VVV was last observed on June 11) is the only thematic sector showing repeat durability ",
+      "imageUrl": "/images/articles/2026-06-14-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-14-crypto-research-morning-brief",
+      "script": {
+        "hook": "Your cryptocurrency investments just got a little safer, but only if you're watching the right signals.",
+        "narration_lines": [
+          "Bitcoin and Ethereum are barely moving, stuck below key levels at 64,448 and 1,673 dollars respectively.",
+          "This means the market is in a holding pattern, not a full-blown crash or rally.",
+          "AI-related cryptocurrencies like Bittensor are gaining attention again, showing some stability in a shaky market.",
+          "If you're holding Bitcoin, its dominance is ticking up, meaning it's still the safest bet right now.",
+          "For those looking to diversify, keep an eye on AI infrastructure projects like Bittensor and Solana."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "7e8ec45841f868ca",
+      "scriptText": "Your cryptocurrency investments just got a little safer, but only if you're watching the right signals. Bitcoin and Ethereum are barely moving, stuck below key levels at 64,448 and 1,673 dollars respectively. This means the market is in a holding pattern, not a full-blown crash or rally. AI-related cryptocurrencies like Bittensor are gaining attention again, showing some stability in a shaky market. If you're holding Bitcoin, its dominance is ticking up, meaning it's still the safest bet right now. For those looking to diversify, keep an eye on AI infrastructure projects like Bittensor and Solana. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "B3bRg_L3BXg",
+      "youtubeUrl": "https://youtube.com/watch?v=B3bRg_L3BXg",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-14T16:20:06.959967+00:00",
+      "uploadedAt": "2026-06-14T16:27:25.033624+00:00",
+      "audioLineDurations": [
+        5.653333333333333,
+        9.962666666666667,
+        4.629333333333333,
+        7.1466666666666665,
+        5.610666666666667,
+        6.336,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse",
+      "title": "Coinbase Quantum Report Flags Exchange Cold Wallets Among Millions of Bitcoin Exposed by Address Reuse",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "quantum",
+        "security",
+        "coinbase",
+        "cold-wallets",
+        "address-reuse"
+      ],
+      "articleSummary": "A Coinbase report warns that millions of Bitcoin are vulnerable to quantum attacks due to address reuse, including exchange cold wallets. The report suggests freezing exposed coins and setting migration deadlines to mitigate the risk.",
+      "articleBody": "A recent report by Coinbase highlights that millions of Bitcoin are at risk due to the reuse of addresses, making them vulnerable to future quantum computing attacks. The report identifies exchange cold wallets, including those managed by Coinbase, among the exposed assets. This issue arises because address reuse can make transactions traceable and susceptible to decryption by quantum computers.\n\nThe report proposes several solutions to address this problem. One key suggestion is to set a deadline for users to migrate their vulnerable coins to new, secure addresses. After the deadline, the exposed coins could be frozen to prevent potential theft. This approach aims to protect users' assets while encouraging them to adopt better security practices.\n\nFor everyday Bitcoin users, this report serves as a reminder of the importance of using unique addresses for each transaction. While quantum computing is still in its early stages, taking proactive steps now can help safeguard assets against future threats. Users should consider using wallets that automatically generate new addresses for each transaction to minimize risk.\n\nCoinbase's report also underscores the need for exchanges and wallet providers to implement more robust security measures. By setting deadlines for migration and freezing vulnerable coins, exchanges can help protect their users' assets from potential quantum threat",
+      "imageUrl": "/images/articles/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse",
+      "script": {
+        "hook": "Your Bitcoin could be at risk from future quantum computers, and it's happening sooner than you think.",
+        "narration_lines": [
+          "A Coinbase report reveals millions of Bitcoin, including those in exchange cold wallets, are vulnerable due to address reuse.",
+          "Quantum computers could decrypt these transactions, putting your coins at risk if you reuse addresses.",
+          "Coinbase suggests freezing exposed coins and setting migration deadlines to protect your assets.",
+          "For example, if you've reused addresses, consider moving your Bitcoin to a new, secure wallet immediately.",
+          "This isn't just a tech issue—it's a real threat. Users should use wallets that generate new addresses for each transaction.",
+          "Exchanges and wallet providers need to step up security measures to safeguard your investments."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "34c72164ebd56205",
+      "scriptText": "Your Bitcoin could be at risk from future quantum computers, and it's happening sooner than you think. A Coinbase report reveals millions of Bitcoin, including those in exchange cold wallets, are vulnerable due to address reuse. Quantum computers could decrypt these transactions, putting your coins at risk if you reuse addresses. Coinbase suggests freezing exposed coins and setting migration deadlines to protect your assets. For example, if you've reused addresses, consider moving your Bitcoin to a new, secure wallet immediately. This isn't just a tech issue—it's a real threat. Users should use wallets that generate new addresses for each transaction. Exchanges and wallet providers need to step up security measures to safeguard your investments. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "sKATnNR6JK8",
+      "youtubeUrl": "https://youtube.com/watch?v=sKATnNR6JK8",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-14T16:20:09.928816+00:00",
+      "uploadedAt": "2026-06-14T16:27:26.979880+00:00",
+      "audioLineDurations": [
+        5.376,
+        8.256,
+        5.802666666666667,
+        6.08,
+        6.485333333333333,
+        7.552,
+        6.058666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_3.jpg"
+      ]
     }
   ]
 }
