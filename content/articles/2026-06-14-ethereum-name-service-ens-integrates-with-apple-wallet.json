@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-14-ethereum-name-service-ens-integrates-with-apple-wallet",
+  "title": "Ethereum Name Service (ENS) Integrates with Apple Wallet",
+  "summary": "Apple Wallet now supports Ethereum Name Service (ENS) usernames, making it easier to send and receive crypto. This integration simplifies crypto transactions by replacing long wallet addresses with human-readable names like 'alice.eth'.",
+  "body": "Apple Wallet has added support for Ethereum Name Service (ENS) usernames, a significant step toward making crypto transactions more user-friendly. ENS allows users to replace complex wallet addresses with simple, memorable names like 'alice.eth'.\n\nThis integration means users can now send and receive cryptocurrencies using ENS names directly within the Apple Wallet app. The feature is currently available on iOS 18 and requires users to add their ENS name to the wallet. Apple has emphasized that this move is part of its broader effort to support Web3 technologies.\n\nFor everyday users, this change simplifies the process of sending and receiving crypto. No longer will users need to copy and paste long, error-prone wallet addresses. Instead, they can use their ENS names, making transactions as easy as sending a message.\n\nTo use this feature, users need to ensure they have an ENS name and the latest version of iOS 18. While this is a step forward, it's important to note that not all crypto wallets and exchanges support ENS names yet. Users should verify compatibility before attempting to use this feature.",
+  "sourceUrl": "https://x.com/MurrLincoln/status/2065843470808277417",
+  "sourceName": "@MurrLincoln on X",
+  "category": "general",
+  "tags": [
+    "apple",
+    "ens",
+    "crypto",
+    "wallet",
+    "web3"
+  ],
+  "publishedAt": "2026-06-14T15:50:46.345580+00:00",
+  "imageUrl": "/images/articles/2026-06-14-ethereum-name-service-ens-integrates-with-apple-wallet.webp",
+  "twitterThread": [
+    "Apple Wallet now supports ENS names, making crypto transactions as easy as sending a message. No more copying long wallet addresses! 📱💸",
+    "ENS (Ethereum Name Service) lets you use simple names like 'alice.eth' instead of complex wallet addresses. Now, you can add your ENS name to Apple Wallet and use it for crypto transactions. 🌐🔑",
+    "To get started, make sure you have an ENS name and update to iOS 18. While this is a big step, not all wallets support ENS yet. Check compatibility before you start sending crypto with your ENS name. Read more → https://cryptocatalyst.news/articles/2026-06-14-ethereum-name-service-ens-integrates-with-apple-wallet"
+  ],
+  "standaloneTweet": "Apple Wallet now supports ENS names, so you can send crypto using simple names like 'alice.eth' instead of long wallet addresses. Update to iOS 18 and try it out!"
+}
