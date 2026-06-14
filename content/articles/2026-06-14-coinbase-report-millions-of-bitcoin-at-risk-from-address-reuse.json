@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse",
+  "title": "Coinbase Quantum Report Flags Exchange Cold Wallets Among Millions of Bitcoin Exposed by Address Reuse",
+  "summary": "A Coinbase report warns that millions of Bitcoin are vulnerable to quantum attacks due to address reuse, including exchange cold wallets. The report suggests freezing exposed coins and setting migration deadlines to mitigate the risk.",
+  "body": "A recent report by Coinbase highlights that millions of Bitcoin are at risk due to the reuse of addresses, making them vulnerable to future quantum computing attacks. The report identifies exchange cold wallets, including those managed by Coinbase, among the exposed assets. This issue arises because address reuse can make transactions traceable and susceptible to decryption by quantum computers.\n\nThe report proposes several solutions to address this problem. One key suggestion is to set a deadline for users to migrate their vulnerable coins to new, secure addresses. After the deadline, the exposed coins could be frozen to prevent potential theft. This approach aims to protect users' assets while encouraging them to adopt better security practices.\n\nFor everyday Bitcoin users, this report serves as a reminder of the importance of using unique addresses for each transaction. While quantum computing is still in its early stages, taking proactive steps now can help safeguard assets against future threats. Users should consider using wallets that automatically generate new addresses for each transaction to minimize risk.\n\nCoinbase's report also underscores the need for exchanges and wallet providers to implement more robust security measures. By setting deadlines for migration and freezing vulnerable coins, exchanges can help protect their users' assets from potential quantum threats. Users should stay informed about these developments and take action to secure their holdings.",
+  "sourceUrl": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "coinbase",
+    "cold-wallets",
+    "address-reuse"
+  ],
+  "publishedAt": "2026-06-14T14:01:01.885175+00:00",
+  "imageUrl": "/images/articles/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse.webp",
+  "twitterThread": [
+    "A @Coinbase quantum report flags exchange cold wallets among millions of Bitcoin exposed by address reuse, making them vulnerable to future quantum attacks.",
+    "The report suggests freezing exposed coins and setting migration deadlines to protect users' assets. Exchanges and wallets must step up security measures.",
+    "To safeguard your Bitcoin, use unique addresses for each transaction. Stay informed and take action now. Read more → https://cryptocatalyst.news/articles/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse"
+  ],
+  "standaloneTweet": "A @Coinbase quantum report flags exchange cold wallets among millions of Bitcoin exposed by address reuse. The report suggests freezing exposed coins and setting migration deadlines to protect assets. Use unique addresses to stay safe."
+}

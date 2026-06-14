@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-14-humanity-protocol-hack-linked-to-north-korean-actors-36m-stolen",
+  "title": "Humanity Protocol's $36M hack tied to suspected North Korean hackers: Quantstamp",
+  "summary": "A $36 million hack on Humanity Protocol may involve North Korean hackers, according to security firm Quantstamp. The attack used a fake Bithumb email to execute the theft.",
+  "body": "Security researchers at Quantstamp have linked a $36 million hack on Humanity Protocol to suspected North Korean threat actors. The hackers used a fake email impersonating the South Korean cryptocurrency exchange Bithumb to carry out the attack.\n\nThe attack involved a phishing email that tricked a Humanity Protocol employee into transferring funds. Quantstamp identified similarities in the tactics used in this hack to previous attacks attributed to North Korean hacking groups, such as the Lazarus Group.\n\nThis incident highlights the growing threat of state-sponsored cyberattacks in the cryptocurrency space. It serves as a reminder for crypto projects to implement robust security measures and employee training to prevent such attacks.\n\nFor crypto users, this news underscores the importance of verifying the authenticity of communications, especially those involving financial transactions. Always double-check the sender's email address and consider using multi-factor authentication for added security.",
+  "sourceUrl": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "hack",
+    "north-korea",
+    "security",
+    "humanity-protocol",
+    "crypto-theft"
+  ],
+  "publishedAt": "2026-06-14T13:59:42.959298+00:00",
+  "imageUrl": "/images/articles/2026-06-14-humanity-protocol-hack-linked-to-north-korean-actors-36m-stolen.webp",
+  "twitterThread": [
+    "A $36M crypto hack may be tied to North Korean actors, according to Quantstamp. The attack used a fake Bithumb email to trick a Humanity Protocol employee.",
+    "Security firm Quantstamp linked the tactics used in this hack to previous attacks by North Korean groups like the Lazarus Group. The hack involved phishing and impersonation.",
+    "This incident highlights the growing threat of state-sponsored cyberattacks in crypto. Always verify emails and use multi-factor authentication for added security. Read more → https://cryptocatalyst.news/articles/2026-06-14-humanity-protocol-hack-linked-to-north-korean-actors-36m-stolen"
+  ],
+  "standaloneTweet": "A $36M crypto hack may be linked to North Korean actors. Always verify emails and use multi-factor authentication to protect your funds."
+}
