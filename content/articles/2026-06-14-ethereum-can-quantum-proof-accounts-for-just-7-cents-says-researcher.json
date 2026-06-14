@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-14-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-researcher",
+  "title": "Ethereum Can Quantum-Proof Accounts for Just 7 Cents, Says Ethereum's Kohaku Lead",
+  "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+  "body": "Ethereum researchers are working on a way to make accounts resistant to quantum computing attacks for just 7 cents. The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification, providing a temporary shield against future quantum threats.\n\nThe current method for quantum-resistant signatures on Ethereum is expensive, but the new proposal could make it significantly cheaper. Lead developer Kohaku highlighted that this approach is a stopgap measure until a more permanent solution is implemented. The cost reduction is crucial for widespread adoption and security.\n\nFor everyday users, this means their Ethereum accounts could be protected from advanced quantum computing threats without a significant financial burden. This is particularly important as quantum computing technology continues to advance, posing potential risks to cryptographic security.\n\nThe proposal is part of ongoing efforts to future-proof Ethereum against emerging technologies. While the SPHINCS- method offers a temporary solution, developers are also working on long-term strategies to ensure the network's security. Users should stay informed about these developments as they unfold.\n\nWatch for updates from Ethereum developers on the implementation of quantum-resistant signatures and how they might affect transaction costs and security.",
+  "sourceUrl": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "quantum",
+    "security",
+    "post-quantum",
+    "cryptography",
+    "blockchain"
+  ],
+  "publishedAt": "2026-06-14T21:12:23.887933+00:00",
+  "imageUrl": "/images/articles/2026-06-14-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-researcher.webp",
+  "twitterThread": [
+    "Ethereum accounts could soon be quantum-proofed for just 7 cents thanks to the SPHINCS- proposal from Ethereum's Kohaku lead. This is a big step in securing the network against future threats.",
+    "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum, making it affordable for all users. It's a temporary fix while a longer-term solution is developed.",
+    "For now, keep an eye on updates from Ethereum developers. This could change how we secure our accounts in the future. Read more → https://cryptocatalyst.news/articles/2026-06-14-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-researcher"
+  ],
+  "standaloneTweet": "Ethereum accounts could soon be quantum-proofed for just 7 cents. The SPHINCS- proposal aims to make post-quantum signatures affordable for all users, says Ethereum's Kohaku lead."
+}
