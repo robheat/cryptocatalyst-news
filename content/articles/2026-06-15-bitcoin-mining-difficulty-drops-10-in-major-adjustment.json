@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-15-bitcoin-mining-difficulty-drops-10-in-major-adjustment",
+  "title": "Bitcoin Mining Difficulty Drops 10% in 11th Largest Downward Adjustment",
+  "summary": "Bitcoin's mining difficulty has dropped by 10%, the 11th largest downward adjustment ever. This makes it easier for miners to earn rewards, potentially attracting more participants to the network.",
+  "body": "Bitcoin's mining difficulty has undergone a significant 10% drop, marking the 11th largest downward adjustment in its history. This follows February's 11% shift, which was the second-largest downward adjustment this year. The difficulty adjustment occurs roughly every two weeks to ensure blocks are mined every 10 minutes, regardless of the total mining power on the network.\n\nThe drop in difficulty means that miners now have a better chance of successfully mining a block and earning the associated rewards. This adjustment can be particularly beneficial for smaller mining operations, as it lowers the barrier to entry and potentially increases profitability.\n\nFor everyday users, this adjustment can lead to a more decentralized network. More miners joining the network can enhance security and reduce the risk of centralization. However, it may also lead to increased competition among miners, which could affect long-term profitability.\n\nThis adjustment comes at a time when the Bitcoin network is experiencing fluctuating mining activity. The next difficulty adjustment is expected in mid-July, and miners will be watching closely to see how the network responds to this change. For those interested in mining, now might be a good time to assess the potential benefits and risks.",
+  "sourceUrl": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "difficulty",
+    "blockchain",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-06-15T13:57:24.264460+00:00",
+  "imageUrl": "/images/articles/2026-06-15-bitcoin-mining-difficulty-drops-10-in-major-adjustment.webp",
+  "twitterThread": [
+    "Bitcoin mining just got 10% easier, the 11th largest drop ever. This follows February's 11% downward adjustment, the second-largest this year. What does this mean for miners and the network?",
+    "The difficulty adjustment happens every 2 weeks to keep block times steady. A lower difficulty means more mining rewards for everyone, especially smaller operators.",
+    "If you're thinking about mining, now might be a good time to check it out. But keep an eye on the next adjustment in July. Read more → https://cryptocatalyst.news/articles/2026-06-15-bitcoin-mining-difficulty-drops-10-in-major-adjustment"
+  ],
+  "standaloneTweet": "Bitcoin mining difficulty just dropped 10%, the 11th largest downward adjustment ever. Could this mean more decentralization for the network?"
+}
