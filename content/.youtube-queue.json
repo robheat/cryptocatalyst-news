@@ -5628,6 +5628,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-coinbase-report-millions-of-bitcoin-at-risk-from-address-reuse_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc",
+      "title": "Strive (ASST) Acquires 73 Bitcoin for $4.7 Million, Pushes Treasury to 19,105 BTC",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "investment",
+        "strive",
+        "treasury",
+        "accumulation",
+        "market"
+      ],
+      "articleSummary": "Strive (ASST) purchased 73 bitcoin for $4.7 million last week, increasing its treasury to 19,105 BTC as the company continues its steady accumulation strategy amid bitcoin's broader market rebound.",
+      "articleBody": "Strive (ASST), a company known for its significant Bitcoin holdings, has added 73 more bitcoin to its treasury. The purchase, made last week for $4.7 million, increases Strive's total Bitcoin holdings to 19,105 BTC. This move is part of the company's ongoing strategy to accumulate more bitcoin, especially as the market shows signs of recovery.\n\nThe acquisition underscores Strive's commitment to Bitcoin as a long-term asset. The company has been steadily increasing its holdings over time, and this latest purchase is a clear indication of its confidence in the cryptocurrency's value. With bitcoin's price showing positive momentum, Strive's decision to add to its treasury aligns with a broader market trend of accumulation.\n\nFor everyday investors, this news highlights the growing institutional interest in Bitcoin. As companies like Strive continue to invest heavily in bitcoin, it signals a level of confidence that could influence individual investors' decisions. This accumulation could also contribute to a more stable and robust market, benefiting all participants.\n\nInvestors and crypto enthusiasts should watch for further announcements from Strive and other major players in the Bitcoin space. The company's consistent accumulation strategy suggests a long-term bullish outlook, which could be a positive indicator for the market as a whole. Keep an eye on Strive's future moves and m",
+      "imageUrl": "/images/articles/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc",
+      "script": {
+        "hook": "Big companies are buying Bitcoin again — and it could mean big things for your investments.",
+        "narration_lines": [
+          "Strive just spent $4.7 million on 73 Bitcoin, adding to their massive 19,105 BTC stash.",
+          "This isn't just a one-time thing — they're steadily buying more as Bitcoin's price rebounds.",
+          "Think of it like a smart investor slowly building a stock portfolio, but with Bitcoin.",
+          "For you, this means big players are confident in Bitcoin's long-term value.",
+          "If you're holding Bitcoin, this could be a good sign for its future price.",
+          "If you're new to it, now might be a good time to learn more."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "0db2dbb14c3a6229",
+      "scriptText": "Big companies are buying Bitcoin again — and it could mean big things for your investments. Strive just spent $4.7 million on 73 Bitcoin, adding to their massive 19,105 BTC stash. This isn't just a one-time thing — they're steadily buying more as Bitcoin's price rebounds. Think of it like a smart investor slowly building a stock portfolio, but with Bitcoin. For you, this means big players are confident in Bitcoin's long-term value. If you're holding Bitcoin, this could be a good sign for its future price. If you're new to it, now might be a good time to learn more. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "eGI3wi1RzRU",
+      "youtubeUrl": "https://youtube.com/watch?v=eGI3wi1RzRU",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-15T19:02:55.298527+00:00",
+      "uploadedAt": "2026-06-15T19:10:01.126803+00:00",
+      "audioLineDurations": [
+        4.970666666666666,
+        8.96,
+        5.034666666666666,
+        5.077333333333334,
+        4.629333333333333,
+        3.8613333333333335,
+        3.136,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-strive-adds-73-bitcoin-to-its-treasury-now-holds-19105-btc_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows",
+      "title": "US Spot Bitcoin ETFs Set to Hit $2 Trillion Cumulative Trading Volume Milestone Amid Mounting Outflows",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "etf",
+        "trading",
+        "investing",
+        "blackrock",
+        "market"
+      ],
+      "articleSummary": "US spot Bitcoin ETFs are approaching $2 trillion in cumulative trading volume, led by BlackRock's IBIT with a 73.7% market share. Despite this milestone, the funds are experiencing significant outflows, raising concerns about investor sentiment.",
+      "articleBody": "US spot Bitcoin ETFs are on the verge of hitting a massive milestone: $2 trillion in cumulative trading volume. This surge in trading activity highlights the growing mainstream acceptance of Bitcoin as an investment asset. However, the sector is also facing challenges, with notable outflows from some of these funds.\n\nBlackRock's IBIT ETF is the clear leader in this space, commanding a dominant 73.7% market share in trading volume. This dominance underscores BlackRock's influence in the ETF market and its ability to attract investors. Despite the impressive trading volume, recent data shows that some spot Bitcoin ETFs are experiencing outflows, indicating that some investors may be taking profits or shifting their strategies.\n\nFor everyday investors, this milestone is a testament to the growing legitimacy of Bitcoin as an asset class. The high trading volume suggests that Bitcoin ETFs are becoming a popular choice for both institutional and retail investors. However, the outflows serve as a reminder that the market can be volatile, and investors should remain vigilant.\n\nLooking ahead, investors should watch for any significant changes in trading volume or outflows, as these could indicate shifts in market sentiment. The performance of BlackRock's IBIT ETF will be particularly important to monitor, given its dominant market share. As always, staying informed and diversifying inve",
+      "imageUrl": "/images/articles/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows",
+      "script": {
+        "hook": "Your Bitcoin investments just got a major vote of confidence, but there's a catch.",
+        "narration_lines": [
+          "US spot Bitcoin ETFs are about to hit $2 trillion in trading volume, led by BlackRock's IBIT fund.",
+          "This shows Bitcoin is going mainstream, with big players like BlackRock making it easier to invest.",
+          "But here's the twist: some investors are pulling out money, taking profits or shifting strategies.",
+          "For you, this means Bitcoin ETFs are now a regular investment option, but the market can still be unpredictable.",
+          "BlackRock's IBIT alone handles 73.7% of the trading, so keep an eye on its performance.",
+          "Stay informed and consider diversifying to manage the ups and downs."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "8c453c31585142ab",
+      "scriptText": "Your Bitcoin investments just got a major vote of confidence, but there's a catch. US spot Bitcoin ETFs are about to hit $2 trillion in trading volume, led by BlackRock's IBIT fund. This shows Bitcoin is going mainstream, with big players like BlackRock making it easier to invest. But here's the twist: some investors are pulling out money, taking profits or shifting strategies. For you, this means Bitcoin ETFs are now a regular investment option, but the market can still be unpredictable. BlackRock's IBIT alone handles 73.7% of the trading, so keep an eye on its performance. Stay informed and consider diversifying to manage the ups and downs. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "qXuCXeAqPfc",
+      "youtubeUrl": "https://youtube.com/watch?v=qXuCXeAqPfc",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-15T19:03:01.269155+00:00",
+      "uploadedAt": "2026-06-15T19:10:03.065344+00:00",
+      "audioLineDurations": [
+        4.608,
+        7.552,
+        6.016,
+        6.037333333333334,
+        7.296,
+        6.741333333333333,
+        4.416,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-14-us-spot-bitcoin-etfs-near-2-trillion-trading-volume-despite-outflows_bg_3.jpg"
+      ]
     }
   ]
 }
