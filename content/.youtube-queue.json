@@ -5855,6 +5855,122 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-bitgo-enters-fortune-500-with-162b-revenue-boosting-bitcoin-infrastructure_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-15-bitgo-enters-fortune-500-with-162b-revenue-boosting-bitcoin-infrastructure_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu",
+      "title": "Zama, Morpho, and Steakhouse Launch First Confidential DeFi Yield Vault on Ethereum",
+      "category": "defi",
+      "tags": [
+        "defi",
+        "ethereum",
+        "privacy",
+        "yield",
+        "zama",
+        "morpho"
+      ],
+      "articleSummary": "Zama, Morpho, and Steakhouse have launched the first confidential DeFi yield vault on Ethereum, allowing firms to earn yield without exposing their balances. This innovation enhances privacy for institutional and high-net-worth investors in the DeFi space.",
+      "articleBody": "Zama, Morpho, and Steakhouse have introduced the first confidential DeFi yield vault on Ethereum. This new product enables firms to earn yield on their crypto assets without revealing their balances, a significant step forward for privacy in decentralized finance.\n\nThe vault leverages advanced cryptographic techniques to ensure that asset balances remain confidential while still allowing users to earn interest. This is particularly beneficial for institutional investors and high-net-worth individuals who prioritize privacy in their financial transactions.\n\nFor everyday users, this development means that DeFi platforms are becoming more secure and private. It opens up opportunities for larger players to participate in DeFi without the usual transparency concerns, potentially leading to more liquidity and better yields for all users.\n\nThe collaboration between Zama, Morpho, and Steakhouse brings together expertise in privacy, lending, and yield optimization. This vault is expected to set a new standard for confidential transactions in the DeFi ecosystem, making it a notable milestone in the evolution of blockchain technology.",
+      "imageUrl": "/images/articles/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu",
+      "script": {
+        "hook": "Your crypto investments just got a privacy upgrade, and it could mean bigger returns for everyone.",
+        "narration_lines": [
+          "Three companies just launched the first private yield vault on Ethereum.",
+          "Now, big investors can earn interest without showing how much they have.",
+          "Think of it like a secret savings account that still earns you money.",
+          "This could bring more money into DeFi, making yields better for all users.",
+          "Zama, Morpho, and Steakhouse made this happen using advanced cryptography.",
+          "If you're in crypto, this means more security and potentially higher returns."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "6fe724f96bb436ec",
+      "scriptText": "Your crypto investments just got a privacy upgrade, and it could mean bigger returns for everyone. Three companies just launched the first private yield vault on Ethereum. Now, big investors can earn interest without showing how much they have. Think of it like a secret savings account that still earns you money. This could bring more money into DeFi, making yields better for all users. Zama, Morpho, and Steakhouse made this happen using advanced cryptography. If you're in crypto, this means more security and potentially higher returns. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "lxtEgrNp8Tw",
+      "youtubeUrl": "https://youtube.com/watch?v=lxtEgrNp8Tw",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-17T17:48:55.212312+00:00",
+      "uploadedAt": "2026-06-17T17:55:19.240666+00:00",
+      "audioLineDurations": [
+        5.632,
+        4.074666666666666,
+        4.010666666666666,
+        3.648,
+        4.1386666666666665,
+        4.757333333333333,
+        4.501333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereu_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-17-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — June 17, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain",
+        "policy"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Wednesday, June 17, 2026\n\n1. OVERNIGHT MOVES\n\nThe tape reverses yesterday’s green session with a broad, volume-backed selloff. BTC $64,727 (–2.7%), losing the $65k handle intraday. ETH $1,766.81 (–1.7%), SOL $72.13 (–3.4%). SOL leads the downside — a sharp reversal after leading the recovery on Monday. BTC dominance ticked down to 56.1% from 56.4% on Tuesday — the first decline of more than 0.2pp since the June 10–14 drift. This is not capital rotation into alts; it is proportional selling, with SOL hit hardest.\n\nThe trending board has rotated decisively: Uniswap (UNI) claims the top spot for the second consecutive day — the first time a DEX token has led the feed in this data set. SIREN persists from yesterday. SPCXB (SpaceX bStocks) enters as a tokenized-equity variant, distinct from the SPCXX seen last week. Hyperliquid (HYPE) holds its unbroken streak. Worldcoin (WLD) re-enters after an eleven-day absence (last seen June 6). Bio Protocol (BIO) and Aerodrome Finance (AERO) are new low-cap entries with no vault research. Notable absentees: no BTC, ETH, SOL, or any meme token in the top seven. The composition is infrastructure, tokenized equity, and speculative scanning — memes are zeroed out.\n\n2. NARRATIVE PULSE\n\nThree structural shifts buried beneath the red tape:\nTokenized equities are forming a durable vector. SPCXB re-appears after SPCXX trended on June 13",
+      "imageUrl": "/images/articles/2026-06-17-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-17-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just took a big tumble, and it could mean trouble for your investments.",
+        "narration_lines": [
+          "Last night, Bitcoin dropped below $65,000, losing nearly 3% of its value.",
+          "Ethereum and Solana also fell, but Solana was hit the hardest with a 3.4% drop.",
+          "This isn't just a small dip—it's a broad selloff affecting the whole market.",
+          "What's surprising is that Bitcoin's dominance dropped, but it's not because people are moving to other cryptocurrencies.",
+          "Instead, it's proportional selling, meaning everyone is selling a bit of everything.",
+          "If you're holding cryptocurrency, now might be a good time to review your portfolio."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "6da48f29b0cba4b6",
+      "scriptText": "Bitcoin just took a big tumble, and it could mean trouble for your investments. Last night, Bitcoin dropped below $65,000, losing nearly 3% of its value. Ethereum and Solana also fell, but Solana was hit the hardest with a 3.4% drop. This isn't just a small dip—it's a broad selloff affecting the whole market. What's surprising is that Bitcoin's dominance dropped, but it's not because people are moving to other cryptocurrencies. Instead, it's proportional selling, meaning everyone is selling a bit of everything. If you're holding cryptocurrency, now might be a good time to review your portfolio. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "y26B6Sgol3Q",
+      "youtubeUrl": "https://youtube.com/watch?v=y26B6Sgol3Q",
+      "privacy": "unlisted",
+      "error": null,
+      "createdAt": "2026-06-17T17:49:04.955791+00:00",
+      "uploadedAt": "2026-06-17T17:55:20.921095+00:00",
+      "audioLineDurations": [
+        4.096,
+        6.976,
+        6.272,
+        4.352,
+        6.677333333333333,
+        4.693333333333333,
+        4.650666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-17-crypto-research-morning-brief_bg_3.jpg"
+      ]
     }
   ]
 }
