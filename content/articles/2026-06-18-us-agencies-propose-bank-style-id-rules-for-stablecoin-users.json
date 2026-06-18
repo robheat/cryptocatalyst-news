@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-18-us-agencies-propose-bank-style-id-rules-for-stablecoin-users",
+  "title": "U.S. Agencies Propose Bank-Style ID Rules for Stablecoin Users",
+  "summary": "The Federal Reserve and other U.S. agencies want stablecoin providers to collect customer identification similar to banks. The proposed rule is now open for public comments, with a 60-day window to submit feedback.",
+  "body": "The Federal Reserve, Treasury, and other U.S. regulators have proposed a new rule that would require stablecoin providers to implement customer identification standards akin to those used by traditional banks. This move is part of the broader GENIUS Act, which aims to bring more regulatory oversight to the crypto industry. The proposed rule is now open for public comments, with a 60-day window for feedback.\n\nThe proposed rule would mandate that stablecoin issuers verify the identity of their customers, similar to the Know Your Customer (KYC) requirements that banks and other financial institutions must follow. This would apply to all stablecoin transactions, including those conducted on decentralized platforms. The rule is part of the GENIUS Act, which was signed into law earlier this year to enhance the regulatory framework for digital assets.\n\nFor everyday users, this could mean more stringent verification processes when using stablecoins. While this may add an extra layer of security, it could also make transactions less private and potentially more cumbersome. The rule aims to prevent illicit activities such as money laundering and terrorism financing, but it may also impact the usability of stablecoins for those who value anonymity.\n\nThe public has 60 days to submit comments on the proposed rule. This feedback period is crucial as it allows stakeholders, including stablecoin users and providers, to voice their concerns and suggestions. The final rule will be shaped based on the feedback received, so it's important for those affected to participate in the process. Watch for updates on the final rule, which could be implemented later this year.\n",
+  "sourceUrl": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "stablecoins",
+    "regulation",
+    "kyc",
+    "genius-act",
+    "federal-reserve"
+  ],
+  "publishedAt": "2026-06-18T22:07:04.255400+00:00",
+  "imageUrl": "/images/articles/2026-06-18-us-agencies-propose-bank-style-id-rules-for-stablecoin-users.webp",
+  "twitterThread": [
+    "U.S. regulators want stablecoin providers to collect customer IDs like banks. Public comments open for 60 days.",
+    "The proposed rule would require stablecoin issuers to verify customer identities, similar to KYC rules for banks. This is part of the GENIUS Act.",
+    "If you use stablecoins, this could mean more verification steps. Submit your comments now. Read more → https://cryptocatalyst.news/articles/2026-06-18-us-agencies-propose-bank-style-id-rules-for-stablecoin-users"
+  ],
+  "standaloneTweet": "U.S. regulators propose bank-style ID rules for stablecoin users. Could mean more verification steps for you. Public comments open for 60 days."
+}
