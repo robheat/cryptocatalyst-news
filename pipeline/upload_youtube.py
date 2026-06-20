@@ -54,12 +54,17 @@ def build_metadata(item: dict) -> dict:
         "Shorts",
     ]
 
+    requested_privacy = str(item.get("privacy", "public")).strip().lower()
+    if requested_privacy != "public":
+        # Enforce public visibility for Shorts uploads, even for older queue rows.
+        print(f"  [INFO] Overriding queue privacy '{requested_privacy}' -> 'public'.")
+
     return {
         "title": yt_title[:MAX_TITLE_LEN],
         "description": description[:5000],
         "tags": tags[:500],
         "categoryId": YOUTUBE_CATEGORY_TECH,
-        "privacyStatus": item.get("privacy", "public"),
+        "privacyStatus": "public",
     }
 
 
@@ -167,6 +172,7 @@ def main() -> None:
             if video_id:
                 item["youtubeVideoId"] = video_id
                 item["youtubeUrl"] = f"https://youtube.com/watch?v={video_id}"
+                item["privacy"] = "public"
                 item["status"] = "uploaded"
                 item["uploadedAt"] = datetime.now(timezone.utc).isoformat()
                 done += 1
