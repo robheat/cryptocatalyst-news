@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-21-chainstack-self-hosted-simplifies-running-your-own-blockchain-nodes",
+  "title": "Chainstack Self-Hosted Simplifies Running Your Own Blockchain Nodes",
+  "summary": "Chainstack has launched a free tool to make running blockchain nodes easier. The software supports Ethereum and plans to add more chains by the end of the year.",
+  "body": "Chainstack, a company with over 8 years of experience in blockchain infrastructure, has introduced Chainstack Self-Hosted. This new tool aims to simplify the process of running your own blockchain nodes. The software is free to install, and you only pay for the infrastructure you use. It is designed to make blockchain infrastructure 'boring to operate,' meaning it handles the complexities so users don't have to.\n\nThe current release supports Ethereum Mainnet, Sepolia, and Hoodi with Reth + Prysm full nodes. Chainstack plans to add more EVM chains in the coming weeks and expects Self-Hosted to support all major blockchain protocols by the end of the year. The quickest way to get started is through the Vultr Marketplace or other providers listed in the documentation. The tool is designed to address common pain points such as initial setup, sync times, storage management, monitoring, upgrades, and failover.\n\nThis tool is significant for everyday users who want to run their own nodes but find the process too complex or time-consuming. By simplifying the infrastructure, Chainstack Self-Hosted makes it more accessible for individuals and small businesses to participate in the blockchain ecosystem. This can lead to greater decentralization and security in the network.\n\nChainstack is actively seeking feedback from users who run their own nodes. They want to know what parts of the process are still the most painful, such as initial setup, sync times, storage management, monitoring, upgrades, or failover. This feedback will help them improve the tool and make it even more user-friendly. If you are interested in running your own nodes, now is a great time to try out Chainstack Self-Hosted and provide your input.",
+  "sourceUrl": "https://docs.chainstack.com/docs/self-hosted/introduction",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "blockchain",
+    "nodes",
+    "ethereum",
+    "infrastructure",
+    "decentralization",
+    "self-hosted"
+  ],
+  "publishedAt": "2026-06-21T13:45:05.606309+00:00",
+  "imageUrl": "/images/articles/2026-06-21-chainstack-self-hosted-simplifies-running-your-own-blockchain-nodes.webp",
+  "twitterThread": [
+    "Running your own blockchain node just got easier with Chainstack Self-Hosted. Free to install, pay only for the infrastructure you use.",
+    "Chainstack's new tool supports Ethereum Mainnet, Sepolia, and Hoodi, with more chains coming soon. Simplifies setup, sync times, and monitoring.",
+    "Try Chainstack Self-Hosted today and share your feedback. Help make blockchain infrastructure more accessible. Read more → https://cryptocatalyst.news/articles/2026-06-21-chainstack-self-hosted-simplifies-running-your-own-blockchain-nodes"
+  ],
+  "standaloneTweet": "Want to run your own blockchain node but find it too complex? Chainstack Self-Hosted simplifies the process. Free to install, pay only for the infrastructure you use."
+}

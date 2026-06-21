@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-21-ethereums-top-sandwich-bot-hacked-for-75m-in-ironic-twist",
+  "title": "Ethereum's biggest 'sandwich' bot drained of $7.5M in ironic exploit",
+  "summary": "The largest 'sandwich' bot on Ethereum, which itself front-runs trades to profit, was ironically exploited and drained of $7.5 million. The incident underscores the risks in DeFi, even for sophisticated automated tools.",
+  "body": "The largest 'sandwich' bot on Ethereum, a type of trading bot that front-runs and back-runs other users' transactions to extract profit, was itself exploited and drained of $7.5 million in an ironic twist. The bot, which carries out so-called 'sandwich attacks' on unsuspecting traders, was compromised due to a vulnerability in its code.\n\nThe exploit was discovered on June 20, 2026, and the funds were siphoned off within hours. The exact nature of the vulnerability has not been disclosed publicly, but the incident serves as a stark reminder of the risks inherent in even the most advanced automated trading tools in decentralized finance (DeFi).\n\nThe irony of a bot that profits from exploiting others being exploited itself has drawn attention to the security challenges within the Ethereum ecosystem. For everyday users, this highlights the need for caution when trading in environments populated by such bots, as well as the importance of thorough security audits for DeFi tools.\n\nMoving forward, users should watch for updates from the bot's operators on how they plan to secure the system and whether any funds can be recovered. The incident also underscores the broader need for transparency and rigorous security practices in DeFi to prevent similar exploits in the future.",
+  "sourceUrl": "https://www.techsentiments.com/article/2026/06/21/ethereums-biggest-sandwich-bot-drained-of-75-million-in-ironic-exploit-d65f",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "defi",
+    "exploit",
+    "sandwich-attack",
+    "security"
+  ],
+  "publishedAt": "2026-06-21T13:43:38.526062+00:00",
+  "imageUrl": "/images/articles/2026-06-21-ethereums-top-sandwich-bot-hacked-for-75m-in-ironic-twist.webp",
+  "twitterThread": [
+    "Ethereum's biggest sandwich bot—a bot that profits by front-running and back-running trades—was itself exploited and drained of $7.5 million in an ironic twist. Even sophisticated DeFi tools can be vulnerable.",
+    "The bot was compromised on June 20 due to a code vulnerability. Sandwich attacks manipulate trades to extract profit, but this time the exploiter became the exploited.",
+    "This highlights the risks in DeFi. Users should be cautious and watch for updates from the bot's operators on potential recovery. Read more → https://cryptocatalyst.news/articles/2026-06-21-ethereums-top-sandwich-bot-hacked-for-75m-in-ironic-twist"
+  ],
+  "standaloneTweet": "Ethereum's biggest sandwich bot—a bot that profits from sandwich attacks on traders—was itself exploited and drained of $7.5M. A reminder that even aggressive trading tools can fail. Stay cautious in DeFi."
+}
