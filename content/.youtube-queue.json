@@ -6524,6 +6524,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-kevin-warshs-fed-move-highlights-bitcoins-automatic-advantage_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-kevin-warshs-fed-move-highlights-bitcoins-automatic-advantage_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification",
+      "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+      "category": "bitcoin",
+      "tags": [
+        "cme",
+        "cftc",
+        "regulation",
+        "bitcoin",
+        "derivatives",
+        "dodd-frank"
+      ],
+      "articleSummary": "CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps—not futures—under the Dodd-Frank Act. This legal battle could reshape how crypto derivatives are regulated in the U.S.",
+      "articleBody": "CME Group, one of the world's largest derivatives marketplaces, has announced it plans to sue the Commodity Futures Trading Commission (CFTC) over its approval of bitcoin perpetual futures. The exchange argues that these contracts should be classified as swaps, not futures, under the Dodd-Frank Act.\n\nThe dispute centers on the legal classification of perpetual futures—derivative contracts that have no expiration date. CME Group contends these products meet the definition of swaps, which would subject them to different regulatory requirements than futures. The CFTC, however, approved them as futures, prompting the planned lawsuit.\n\nThis lawsuit has significant implications for the crypto derivatives market. If CME Group prevails, it could force the CFTC to reclassify perpetual futures as swaps, potentially increasing regulatory scrutiny and compliance costs for exchanges offering such products. For everyday investors, this could mean fewer options or higher fees when trading crypto derivatives.\n\nThe outcome of this case will be closely watched by the crypto industry. Investors and traders should stay informed about the legal proceedings, as the decision could impact the availability and regulation of bitcoin perpetual futures in the U.S. market. Read more → https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+      "imageUrl": "/images/articles/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification",
+      "script": {
+        "hook": "Your crypto trading options just got tangled in a legal fight.",
+        "narration_lines": [
+          "CME Group is suing the CFTC over bitcoin perpetual futures, arguing they should be called swaps, not futures.",
+          "This matters because swaps have stricter rules, which could mean higher costs or fewer choices for traders.",
+          "Imagine a contract that never expires—perpetual futures let traders bet on bitcoin without a deadline.",
+          "If CME wins, the CFTC might reclassify these contracts, shaking up the crypto derivatives market.",
+          "For you, this could mean paying more fees or having fewer trading options in the future.",
+          "Keep an eye on this case—it could reshape how you trade crypto."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "667d50bc97e42ecc",
+      "scriptText": "Your crypto trading options just got tangled in a legal fight. CME Group is suing the CFTC over bitcoin perpetual futures, arguing they should be called swaps, not futures. This matters because swaps have stricter rules, which could mean higher costs or fewer choices for traders. Imagine a contract that never expires—perpetual futures let traders bet on bitcoin without a deadline. If CME wins, the CFTC might reclassify these contracts, shaking up the crypto derivatives market. For you, this could mean paying more fees or having fewer trading options in the future. Keep an eye on this case—it could reshape how you trade crypto. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ulrzeyWCmNQ",
+      "youtubeUrl": "https://youtube.com/watch?v=ulrzeyWCmNQ",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-06-23T17:15:43.093969+00:00",
+      "uploadedAt": "2026-06-23T17:22:38.925772+00:00",
+      "audioLineDurations": [
+        3.648,
+        7.8293333333333335,
+        6.229333333333333,
+        6.784,
+        7.018666666666666,
+        4.906666666666666,
+        3.541333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-20-cme-group-sues-cftc-over-bitcoin-perpetual-futures-classification_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost",
+      "title": "JPMorgan: Bitcoin Mining Costs Have 'Worsened' as BTC Trades Below Production Cost",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "jpmorgan",
+        "production-cost",
+        "market-analysis"
+      ],
+      "articleSummary": "Bitcoin is trading about 19% below its estimated $78,000 production cost, making mining unprofitable for roughly 20% of the industry and forcing public miners into record coin sales.",
+      "articleBody": "JPMorgan reports that Bitcoin mining economics have worsened, with BTC trading about 19% below its estimated production cost of $78,000. The bank says Bitcoin mining costs have 'worsened' as the current price renders roughly 20% of the industry unprofitable and forces public miners into record coin sales to stay afloat.\n\nThe analysis highlights that the production cost remains around $78,000, while Bitcoin trades well below that level, creating significant financial strain for miners. Public miners, in particular, are selling record amounts of Bitcoin to manage their financial obligations, which could increase market supply.\n\nFor everyday Bitcoin users, this situation could lead to increased selling pressure, potentially pushing prices lower in the short term. It also underscores the volatility and financial risks associated with Bitcoin mining, especially for smaller operations.\n\nLooking ahead, miners may need to adapt by reducing costs, improving efficiency, or consolidating operations. Investors should watch for further sell-offs by public miners and monitor Bitcoin's price movements closely to gauge the industry's health.",
+      "imageUrl": "/images/articles/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost",
+      "script": {
+        "hook": "Bitcoin miners are selling their coins at record rates—here's what that means for you.",
+        "narration_lines": [
+          "Bitcoin is trading 19% below its production cost of $78,000, making mining unprofitable for 20% of the industry.",
+          "Public miners are selling record amounts of Bitcoin to stay afloat, which could push prices even lower.",
+          "This means more Bitcoin could flood the market, increasing selling pressure and volatility.",
+          "For everyday users, this could mean lower prices in the short term but higher risks for miners.",
+          "Miners may need to cut costs or consolidate to survive, so keep an eye on market trends."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "9afdd18b44cb3316",
+      "scriptText": "Bitcoin miners are selling their coins at record rates—here's what that means for you. Bitcoin is trading 19% below its production cost of $78,000, making mining unprofitable for 20% of the industry. Public miners are selling record amounts of Bitcoin to stay afloat, which could push prices even lower. This means more Bitcoin could flood the market, increasing selling pressure and volatility. For everyday users, this could mean lower prices in the short term but higher risks for miners. Miners may need to cut costs or consolidate to survive, so keep an eye on market trends. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "vkLEhybN-AI",
+      "youtubeUrl": "https://youtube.com/watch?v=vkLEhybN-AI",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-06-23T17:15:46.890939+00:00",
+      "uploadedAt": "2026-06-23T17:22:41.235660+00:00",
+      "audioLineDurations": [
+        4.778666666666667,
+        10.389333333333333,
+        6.272,
+        5.226666666666667,
+        5.461333333333333,
+        5.802666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-19-jpmorgan-bitcoin-mining-struggles-as-btc-drops-below-production-cost_bg_3.jpg"
+      ]
     }
   ]
 }
