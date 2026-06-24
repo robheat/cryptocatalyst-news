@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-24-trumps-quantum-security-push-could-strengthen-bitcoins-future",
+  "title": "Trump Directing 'Government Dollars and Time' to Quantum Security Could Be a Boon for Bitcoin",
+  "summary": "The Trump administration is allocating significant resources to quantum security, which could help protect Bitcoin from future quantum computing threats. Millions of bitcoins with exposed public addresses are potentially at risk from quantum attacks.",
+  "body": "The Trump administration is directing substantial government funding and resources toward advancing quantum security, a move that could have significant implications for Bitcoin. Quantum computers, which are still in early development, pose a theoretical risk to Bitcoin's cryptographic security. If realized, they could potentially compromise private keys associated with exposed public addresses, putting millions of bitcoins at risk.\n\nAccording to Project Eleven, a research initiative focused on quantum computing and cryptocurrency, millions of bitcoins stored in wallets with publicly known addresses could be vulnerable to quantum attacks. The administration's focus on quantum security aims to develop countermeasures that could protect not only government systems but also critical infrastructure, including financial systems like Bitcoin.\n\nFor everyday Bitcoin users, this development is a double-edged sword. On one hand, it highlights the potential future risks to Bitcoin's security. On the other hand, it signals that significant efforts are being made to mitigate these risks, which could ultimately strengthen the cryptocurrency's long-term viability. The Trump administration's initiative could lead to the development of new technologies that enhance the security of Bitcoin and other cryptocurrencies.\n\nBitcoin users should keep an eye on advancements in quantum computing and the government's response to these threats. While the risk is currently theoretical, staying informed about developments in quantum security could help users make better decisions about protecting their assets. The next few years will be crucial in determining how these technologies evolve and what measures are put in place to safeguard digital currencies.",
+  "sourceUrl": "https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "trump",
+    "crypto",
+    "technology"
+  ],
+  "publishedAt": "2026-06-24T13:15:30.546402+00:00",
+  "imageUrl": "/images/articles/2026-06-24-trumps-quantum-security-push-could-strengthen-bitcoins-future.webp",
+  "twitterThread": [
+    "Trump is directing 'government dollars and time' to quantum security, which could be a boon for Bitcoin. Millions of bitcoins with exposed public addresses may be at risk to quantum computers, per Project Eleven.",
+    "Quantum computers could compromise Bitcoin's security by cracking private keys linked to public addresses. The government's quantum security efforts aim to develop countermeasures to protect financial systems like Bitcoin.",
+    "While the risk is theoretical, staying informed about quantum advancements is key. Read more → https://cryptocatalyst.news/articles/2026-06-24-trumps-quantum-security-push-could-strengthen-bitcoins-future"
+  ],
+  "standaloneTweet": "Trump is directing 'government dollars and time' to quantum security, which could be a boon for Bitcoin. Millions of bitcoins with exposed public addresses may be at risk to quantum computers, per Project Eleven. Stay informed!"
+}

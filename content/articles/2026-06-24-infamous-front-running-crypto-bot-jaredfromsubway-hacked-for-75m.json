@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-24-infamous-front-running-crypto-bot-jaredfromsubway-hacked-for-75m",
+  "title": "Infamous Front-Running Crypto Bot 'JaredFromSubway' Gets Tricked and Drained for $7.5M",
+  "summary": "A notorious crypto trading bot known for front-running was tricked and drained of $7.5 million. The bot, named 'JaredFromSubway,' was exploited by an unknown attacker who manipulated the bot's trading logic. This incident highlights the vulnerabilities in automated trading systems and the importance of security in crypto transactions.",
+  "body": "An infamous crypto trading bot, known as 'JaredFromSubway,' was recently tricked and drained of $7.5 million. The bot, which was notorious for front-running other traders, fell victim to a sophisticated attack that exploited its automated trading logic. The attacker tricked the bot into executing a series of trades that ultimately transferred the funds to their own wallet. This incident highlights the risks associated with automated trading systems, which can be vulnerable to manipulation and exploitation. For everyday crypto users, this event serves as a reminder of the importance of security in crypto transactions. Automated trading systems, while efficient, can be targeted by hackers looking to exploit weaknesses in the code. Users should ensure that their trading bots and wallets are secure and regularly updated to prevent such incidents. As the crypto space continues to evolve, incidents like this will likely become more common. Users should stay informed about the latest security practices and be cautious when using automated trading systems. Keep an eye on updates from the crypto community and consider using multi-signature wallets for added security.",
+  "sourceUrl": "https://gizmodo.com/infamous-front-running-crypto-bot-jaredfromsubway-gets-tricked-and-drained-for-7-5m-2000774984",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "hack",
+    "trading",
+    "security",
+    "front-running"
+  ],
+  "publishedAt": "2026-06-24T13:12:44.140705+00:00",
+  "imageUrl": "/images/articles/2026-06-24-infamous-front-running-crypto-bot-jaredfromsubway-hacked-for-75m.webp",
+  "twitterThread": [
+    "A notorious crypto trading bot just got tricked and drained for $7.5M. The bot, 'JaredFromSubway,' was known for front-running other traders. This is a big deal for automated trading systems.",
+    "The attacker tricked the bot into executing a series of trades that drained its funds. This highlights the risks of automated trading and the need for better security measures.",
+    "If you use trading bots, make sure they're secure and up-to-date. This incident shows how vulnerable these systems can be. Read more → https://cryptocatalyst.news/articles/2026-06-24-infamous-front-running-crypto-bot-jaredfromsubway-hacked-for-75m"
+  ],
+  "standaloneTweet": "A notorious crypto trading bot, 'JaredFromSubway,' was tricked and drained for $7.5M. This shows the risks of automated trading and why security matters. Stay vigilant!"
+}
