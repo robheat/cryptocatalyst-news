@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2",
+  "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
+  "summary": "DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.",
+  "body": "DMND mining pool, in collaboration with GoMining, has mined the first known Bitcoin block using Stratum V2's Job Declaration feature. This advancement allows a miner—not the pool—to select transactions and construct its own block template, a significant step towards decentralizing transaction control within the Bitcoin network.\n\nThe use of Stratum V2's Job Declaration feature marks a departure from traditional mining pools where the pool operator typically controls the transaction selection process. By enabling miners to build their own block templates, this innovation promotes greater autonomy and decentralization in Bitcoin mining.\n\nThis development is crucial for everyday Bitcoin users as it enhances the network's decentralization, potentially leading to more secure and censorship-resistant transactions. As miners gain more control over transaction selection, the network becomes less susceptible to centralized points of failure.\n\nMoving forward, the adoption of Stratum V2 could accelerate as more mining pools and individual miners recognize the benefits of decentralized transaction control. Users should watch for increased adoption of this technology and its impact on the overall security and decentralization of the Bitcoin network.",
+  "sourceUrl": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "stratum-v2",
+    "decentralization",
+    "blockchain",
+    "dmnd"
+  ],
+  "publishedAt": "2026-06-25T21:45:28.502033+00:00",
+  "imageUrl": "/images/articles/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2.webp",
+  "twitterThread": [
+    "DMND mining pool and GoMining just mined the first known Bitcoin block using Stratum V2's Job Declaration feature. This lets a miner—not the pool—select transactions and build its own block template. A big step for decentralization!",
+    "Stratum V2's Job Declaration allows miners to build their own block templates, giving them more control over transaction selection. This reduces reliance on centralized mining pools.",
+    "More decentralization in Bitcoin mining means more secure, censorship-resistant transactions. Watch for wider adoption of Stratum V2. Read more → https://cryptocatalyst.news/articles/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2"
+  ],
+  "standaloneTweet": "DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2, letting a miner—not the pool—choose transactions and build its own template. This boosts decentralization and security for everyone."
+}
