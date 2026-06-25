@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-25-bitcoin-miners-struggle-as-profits-drop-below-costs",
+  "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+  "summary": "An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.",
+  "body": "Bitcoin miners are facing a significant financial challenge as their revenue dips below production costs. An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too. The decline in profitability is primarily due to a combination of lower Bitcoin prices and rising operational costs. Miners are competing fiercely for block rewards, and those with older, less efficient equipment are finding it increasingly difficult to stay afloat. The Block reports that the network's hash rate, a measure of mining activity, has shown signs of instability, indicating that some miners are shutting down operations. For everyday Bitcoin users, this situation could lead to potential network security risks. If a large number of miners go offline, the network could become more vulnerable to attacks. Additionally, the reduced mining activity might slow down transaction processing times and increase fees. Investors and enthusiasts should keep an eye on the hash rate and the number of active miners. If the trend continues, it could lead to further consolidation in the mining industry, with only the most efficient operations surviving. This could reshape the landscape of Bitcoin mining in the coming months.",
+  "sourceUrl": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "profitability",
+    "network",
+    "security"
+  ],
+  "publishedAt": "2026-06-25T13:07:20.799123+00:00",
+  "imageUrl": "/images/articles/2026-06-25-bitcoin-miners-struggle-as-profits-drop-below-costs.webp",
+  "twitterThread": [
+    "An estimated 20% of Bitcoin miners are now unprofitable as revenue falls below production costs. The stress shows up at the network level, too.",
+    "Lower Bitcoin prices and rising operational costs are squeezing miner profits. Older, less efficient rigs are struggling to compete.",
+    "Watch the hash rate and miner activity closely. If more miners shut down, network security could be compromised. Read more → https://cryptocatalyst.news/articles/2026-06-25-bitcoin-miners-struggle-as-profits-drop-below-costs"
+  ],
+  "standaloneTweet": "Bitcoin miners are in trouble: an estimated 20% are now operating at a loss as revenue falls below production costs. This could impact network security and transaction speeds. Stay tuned."
+}
