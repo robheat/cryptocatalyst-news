@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-26-coinbases-base-blockchain-resumes-after-two-hour-outage",
+  "title": "Coinbase's Base Blockchain Resumes After Two-Hour Outage Disrupted Network",
+  "summary": "Coinbase's Base blockchain, one of Ethereum's largest layer-2 networks, experienced a two-hour outage that halted transaction processing. The network is now back online, and the cause remains under investigation.",
+  "body": "Coinbase's Base blockchain, one of Ethereum's largest layer-2 networks, resumed operations after a two-hour outage that disrupted transaction processing. The incident, which began on June 25, 2026, temporarily halted transaction processing on the network. The cause of the outage is still under investigation, and Coinbase has not provided further details.\n\nThe outage affected users who rely on Base for faster and cheaper transactions compared to Ethereum's mainnet. Layer-2 networks like Base are designed to improve scalability and reduce costs by processing transactions off the main Ethereum blockchain. This disruption highlights the potential risks associated with relying on layer-2 solutions for critical transactions.\n\nFor everyday users, this outage serves as a reminder of the importance of monitoring the status of the blockchain networks they use. While layer-2 solutions offer significant advantages in terms of speed and cost, they can still be subject to unexpected disruptions. Users should consider the potential risks and have contingency plans in place for when these networks experience issues.\n\nAs the investigation into the cause of the outage continues, users should stay informed about any updates from Coinbase. Keeping an eye on official announcements and community discussions can help users stay ahead of any potential future disruptions. For now, the network is back online, and transactions have resumed as normal.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "coinbase",
+    "base",
+    "ethereum",
+    "layer-2",
+    "outage",
+    "blockchain"
+  ],
+  "publishedAt": "2026-06-26T13:57:02.450458+00:00",
+  "imageUrl": "/images/articles/2026-06-26-coinbases-base-blockchain-resumes-after-two-hour-outage.webp",
+  "twitterThread": [
+    "Coinbase's Base blockchain just experienced a two-hour outage, disrupting transaction processing for users. The network is back online now, but the cause is still unknown.",
+    "Base is one of Ethereum's largest layer-2 networks, designed for faster and cheaper transactions. This outage highlights the risks of relying on these solutions.",
+    "If you use Base for transactions, stay informed about network status and have a backup plan. Read more → https://cryptocatalyst.news/articles/2026-06-26-coinbases-base-blockchain-resumes-after-two-hour-outage"
+  ],
+  "standaloneTweet": "Coinbase's Base blockchain just went down for two hours, disrupting transaction processing. A reminder that even layer-2 networks can have outages—stay informed and have a backup plan."
+}
