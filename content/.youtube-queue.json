@@ -6856,6 +6856,118 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-24-standard-chartered-predicts-50x-upside-for-aave-by-2030_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-24-standard-chartered-predicts-50x-upside-for-aave-by-2030_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit",
+      "title": "Ethereum OG Wallets Finally Sell After 8 Years, Locking in Estimated $27M Profit After $150M Unrealized Peak",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "crypto",
+        "investing",
+        "wallets",
+        "profits",
+        "onchain"
+      ],
+      "articleSummary": "Four Ethereum wallets that held 37,602 ETH since 2018 finally sold, netting an estimated $27M profit. At their peak, these holdings were worth $150M unrealized.",
+      "articleBody": "Four Ethereum wallets, often referred to as 'OG' (original gangster) wallets, have finally sold their holdings after eight years. These wallets held 37,602 ETH since 2018, locking in an estimated $27M profit from the sale.\n\nAt the height of the crypto market, these holdings were valued at $150M unrealized, but the value had significantly decreased by the time of the sale. Onchain analysts noted that the sellers likely waited for a more favorable market condition before cashing out.\n\nThis move highlights the patience and strategy of long-term holders in the crypto space. For everyday investors, it serves as a reminder of the potential rewards and risks of holding cryptocurrencies over extended periods. The sale also underscores the volatility of the crypto market, where significant gains can be made, but timing is crucial.\n\nFor those interested in similar long-term holding strategies, it's essential to watch market trends and consider the potential for both gains and losses. Keep an eye on the movements of other OG wallets, as their actions can often signal broader market trends.",
+      "imageUrl": "/images/articles/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit",
+      "script": {
+        "hook": "Four lucky cryptocurrency investors just cashed in on an 8-year gamble, banking $27 million in profit.",
+        "narration_lines": [
+          "These early Ethereum holders, called 'OG' wallets, waited through market ups and downs to sell.",
+          "At their peak, their 37,602 ETH was worth $150 million, but they held on for better prices.",
+          "This shows how patience can pay off in crypto, but also how volatile it can be.",
+          "For everyday investors, it's a reminder to watch market trends and consider long-term strategies.",
+          "Keep an eye on other early investors' moves—they often signal bigger market shifts."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "bfc2f92f10364d6c",
+      "scriptText": "Four lucky cryptocurrency investors just cashed in on an 8-year gamble, banking $27 million in profit. These early Ethereum holders, called 'OG' wallets, waited through market ups and downs to sell. At their peak, their 37,602 ETH was worth $150 million, but they held on for better prices. This shows how patience can pay off in crypto, but also how volatile it can be. For everyday investors, it's a reminder to watch market trends and consider long-term strategies. Keep an eye on other early investors' moves—they often signal bigger market shifts. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "pVwdTv03COE",
+      "youtubeUrl": "https://youtube.com/watch?v=pVwdTv03COE",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-06-26T16:59:13.632529+00:00",
+      "uploadedAt": "2026-06-26T17:05:51.561642+00:00",
+      "audioLineDurations": [
+        7.552,
+        5.9093333333333335,
+        8.213333333333333,
+        4.842666666666666,
+        6.08,
+        5.0986666666666665,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-26-ethereum-og-wallets-sell-after-8-years-locking-in-27m-profit_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2",
+      "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "stratum-v2",
+        "decentralization",
+        "blockchain",
+        "dmnd"
+      ],
+      "articleSummary": "DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.",
+      "articleBody": "DMND mining pool, in collaboration with GoMining, has mined the first known Bitcoin block using Stratum V2's Job Declaration feature. This advancement allows a miner—not the pool—to select transactions and construct its own block template, a significant step towards decentralizing transaction control within the Bitcoin network.\n\nThe use of Stratum V2's Job Declaration feature marks a departure from traditional mining pools where the pool operator typically controls the transaction selection process. By enabling miners to build their own block templates, this innovation promotes greater autonomy and decentralization in Bitcoin mining.\n\nThis development is crucial for everyday Bitcoin users as it enhances the network's decentralization, potentially leading to more secure and censorship-resistant transactions. As miners gain more control over transaction selection, the network becomes less susceptible to centralized points of failure.\n\nMoving forward, the adoption of Stratum V2 could accelerate as more mining pools and individual miners recognize the benefits of decentralized transaction control. Users should watch for increased adoption of this technology and its impact on the overall security and decentralization of the Bitcoin network.",
+      "imageUrl": "/images/articles/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2",
+      "script": {
+        "hook": "Your Bitcoin transactions just got more private and decentralized.",
+        "narration_lines": [
+          "For the first time, a Bitcoin mining pool called DMND used a new tech called Stratum V2 to let miners pick transactions themselves.",
+          "This means your transactions are less controlled by big pools, making Bitcoin more resistant to censorship.",
+          "Imagine a miner building their own block like a personal playlist instead of following a pool's rules.",
+          "GoMining just did this, showing how miners can take back control from pools.",
+          "More decentralization means more security for everyone using Bitcoin.",
+          "Keep an eye on Stratum V2—it's changing how Bitcoin works for the better."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "462b1a25e7dd0b89",
+      "scriptText": "Your Bitcoin transactions just got more private and decentralized. For the first time, a Bitcoin mining pool called DMND used a new tech called Stratum V2 to let miners pick transactions themselves. This means your transactions are less controlled by big pools, making Bitcoin more resistant to censorship. Imagine a miner building their own block like a personal playlist instead of following a pool's rules. GoMining just did this, showing how miners can take back control from pools. More decentralization means more security for everyone using Bitcoin. Keep an eye on Stratum V2—it's changing how Bitcoin works for the better. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "yPZWl0eaLu4",
+      "youtubeUrl": "https://youtube.com/watch?v=yPZWl0eaLu4",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-06-26T16:59:17.728358+00:00",
+      "uploadedAt": "2026-06-26T17:05:53.504240+00:00",
+      "audioLineDurations": [
+        3.84,
+        9.088,
+        6.250666666666667,
+        5.802666666666667,
+        4.650666666666667,
+        4.458666666666667,
+        4.544,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-25-dmnd-mining-pool-achieves-first-bitcoin-block-with-stratum-v2_bg_3.jpg"
+      ]
     }
   ]
 }
