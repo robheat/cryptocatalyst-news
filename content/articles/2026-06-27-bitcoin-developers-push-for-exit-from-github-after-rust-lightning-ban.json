@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-27-bitcoin-developers-push-for-exit-from-github-after-rust-lightning-ban",
+  "title": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
+  "summary": "Senior Bitcoin developer Matt Corallo is urging Bitcoin projects to leave GitHub following a ban on the Rust Lightning implementation. Citing broken merge scripts, hidden diffs, and unreliable tracking, developers recommend migrating to self-hosted Forgejo solutions, with Andrew Poelstra among those raising concerns.",
+  "body": "Senior Bitcoin developer Matt Corallo is urging Bitcoin projects to migrate away from GitHub, following the platform's ban on the Rust Lightning implementation. The call is supported by other prominent developers, including Andrew Poelstra, who highlighted issues such as broken merge scripts, hidden diffs, and unreliable change tracking on GitHub.\n\nCorallo and Poelstra argue that these technical problems pose significant risks to the security and integrity of Bitcoin projects, prompting a move toward self-hosted development environments. They recommend Forgejo as a suitable self-hosted alternative that offers better control and transparency over codebases.\n\nFor everyday users, this shift could lead to more decentralized and secure development processes for Bitcoin software. By moving to self-hosted solutions, developers can reduce the risk of unauthorized changes and ensure greater transparency, ultimately producing more reliable Bitcoin applications. Projects considering migration should evaluate self-hosted platforms like Forgejo and plan for a smooth transition with minimal disruption.",
+  "sourceUrl": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "github",
+    "rust",
+    "lightning",
+    "security",
+    "decentralization"
+  ],
+  "publishedAt": "2026-06-27T21:04:05.566024+00:00",
+  "imageUrl": "/images/articles/2026-06-27-bitcoin-developers-push-for-exit-from-github-after-rust-lightning-ban.webp",
+  "twitterThread": [
+    "Bitcoin dev Matt Corallo urges projects to leave GitHub after Rust Lightning ban due to broken merge scripts & hidden diffs. 🚨",
+    "Andrew Poelstra and others back the move, recommending self-hosted Forgejo for better control and transparency.",
+    "For Bitcoin users, this could mean more secure and decentralized development. Watch for migration announcements from major projects. Read more → https://cryptocatalyst.news/articles/2026-06-27-bitcoin-developers-push-for-exit-from-github-after-rust-lightning-ban"
+  ],
+  "standaloneTweet": "Matt Corallo urges Bitcoin projects to exit GitHub after Rust Lightning ban. Developers recommend self-hosted Forgejo for better control and transparency. 🚀"
+}
