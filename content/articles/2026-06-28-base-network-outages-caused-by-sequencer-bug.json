@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-28-base-network-outages-caused-by-sequencer-bug",
+  "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+  "summary": "Base, a popular Ethereum layer-2 network, experienced two consecutive outages due to a bug in its sequencer system. The issue was identified as a 'race condition' that occurred after a system reset, preventing the sequencers from catching up and causing significant disruptions.",
+  "body": "Base, an Ethereum layer-2 network, recently faced two consecutive outages due to a bug in its sequencer system. The problem was identified as a 'race condition' that occurred after the system was reset, which prevented the sequencers from properly catching up, causing the second outage. This bug caused significant disruptions in the network's operations.\n\nAccording to the post-mortem report, the race condition arose when the system was reset, leading to a cascade of issues that affected the sequencers' ability to process transactions efficiently. The report highlights the importance of robust error-handling mechanisms in blockchain infrastructure to prevent such incidents in the future.\n\nThese outages underscore the critical role of sequencers in maintaining the performance and reliability of layer-2 networks. For everyday users, this means that while layer-2 solutions offer faster and cheaper transactions, they are not immune to technical issues that can disrupt service. It's a reminder of the ongoing challenges in scaling blockchain technology.",
+  "sourceUrl": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "base",
+    "ethereum",
+    "sequencer",
+    "outage",
+    "blockchain"
+  ],
+  "publishedAt": "2026-06-28T21:04:35.744160+00:00",
+  "imageUrl": "/images/articles/2026-06-28-base-network-outages-caused-by-sequencer-bug.webp",
+  "twitterThread": [
+    "Base's recent back-to-back outages were caused by a bug in its sequencer system, highlighting the fragility of layer-2 networks.",
+    "A 'race condition' after a system reset prevented the sequencers from catching up, leading to the second outage. This shows the importance of robust error handling in blockchain infrastructure.",
+    "Users should watch for updates from Base on fixes and improvements to its sequencer system. Stay informed with official announcements. Read more → https://cryptocatalyst.news/articles/2026-06-28-base-network-outages-caused-by-sequencer-bug"
+  ],
+  "standaloneTweet": "Base's recent back-to-back outages were caused by a bug in its sequencer system, showing that even layer-2 networks can face technical disruptions. The second outage was due to a 'race condition' after a system reset. Stay informed with official announcements."
+}
