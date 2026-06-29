@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-29-40-of-crypto-hacks-blamed-on-private-key-vulnerabilities",
+  "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's what's being done.",
+  "summary": "Private key security flaws, not smart contracts, were responsible for 40% of crypto's $16 billion hack losses. The industry is working on solutions, but progress is uneven. Wish Wu, co-founder and CEO of Pharos, highlights the need for better key management.",
+  "body": "A new report reveals that private key vulnerabilities were the root cause of 40% of the $16 billion in crypto hack losses. Unlike smart contracts, which often take the blame, the issue lies in how users and platforms manage their private keys. These keys are essentially the passwords to crypto wallets, and if compromised, hackers can steal funds.\n\nWish Wu, co-founder and CEO of Pharos, a blockchain security firm, notes that the industry is taking steps to address this problem. However, these efforts are not evenly distributed. Some companies are investing heavily in better key management solutions, while others lag behind. The report underscores the need for standardized security practices across the board.\n\nFor everyday crypto users, this means being extra vigilant with private key storage. Using hardware wallets, multi-signature setups, and secure key management services can significantly reduce the risk of hacks. The uneven progress in the industry also highlights the importance of choosing platforms that prioritize security.\n\nLooking ahead, users should watch for advancements in key management technologies and adopt best practices recommended by security experts. As the industry evolves, staying informed about these developments will be crucial for protecting assets. Read more → https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "security",
+    "hacks",
+    "private",
+    "keys",
+    "management"
+  ],
+  "publishedAt": "2026-06-29T21:32:33.690935+00:00",
+  "imageUrl": "/images/articles/2026-06-29-40-of-crypto-hacks-blamed-on-private-key-vulnerabilities.webp",
+  "twitterThread": [
+    "40% of crypto's $16B hack losses came from private key vulnerabilities, not smart contracts. Here's what's being done to fix it.",
+    "Private keys are like passwords to your crypto wallet. If hackers get them, they can steal your funds. The industry is working on better key management, but progress is uneven.",
+    "To protect your assets, use hardware wallets and secure key management services. Watch for advancements in key security tech. Read more → https://cryptocatalyst.news/articles/2026-06-29-40-of-crypto-hacks-blamed-on-private-key-vulnerabilities"
+  ],
+  "standaloneTweet": "40% of crypto hacks came from private key vulnerabilities. Protect your assets with hardware wallets and secure key management. Stay informed about industry advancements."
+}
