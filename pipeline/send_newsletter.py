@@ -26,6 +26,10 @@ FROM_EMAIL = "CryptoCatalyst <digest@cryptocatalyst.news>"
 ARTICLES_DIR = Path(__file__).resolve().parent.parent / "content" / "articles"
 
 
+class PermanentSendError(Exception):
+    """Non-retryable send failure for a specific recipient."""
+
+
 def fetch_digest() -> dict:
     """Fetch rendered digest HTML + subject from the site API."""
     url = f"{SITE_URL}/api/newsletter/digest?secret={NEWSLETTER_SECRET}&days=7"
@@ -193,7 +197,14 @@ def send_email(to: str, subject: str, html: str, contact_id: str):
         },
         method="POST",
     )
-    resp = urllib.request.urlopen(req, timeout=30)
+    try:
+        resp = urllib.request.urlopen(req, timeout=30)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode(errors="replace")
+        message = f"Resend email API {e.code}: {body}"
+        if e.code in (400, 401, 403, 404, 409, 410, 422):
+            raise PermanentSendError(message) from e
+        raise RuntimeError(message) from e
     result = json.loads(resp.read().decode())
     return result.get("id")
 
@@ -233,6 +244,7 @@ def main():
 
     # 3. Send to each subscriber
     sent = 0
+    skipped = 0
     failed = 0
     for contact in contacts:
         email = contact["email"]
@@ -241,11 +253,14 @@ def main():
             email_id = send_email(email, digest["subject"], digest["html"], contact_id)
             print(f"  ✓ {email} → {email_id}")
             sent += 1
+        except PermanentSendError as e:
+            print(f"  ⚠ {email} → skipped ({e})")
+            skipped += 1
         except Exception as e:
             print(f"  ✗ {email} → {e}")
             failed += 1
 
-    print(f"\nDone: {sent} sent, {failed} failed out of {len(contacts)} subscribers.")
+    print(f"\nDone: {sent} sent, {skipped} skipped, {failed} failed out of {len(contacts)} subscribers.")
 
     if failed > 0:
         sys.exit(1)
