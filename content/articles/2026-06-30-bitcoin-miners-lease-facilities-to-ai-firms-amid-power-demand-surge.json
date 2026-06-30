@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-30-bitcoin-miners-lease-facilities-to-ai-firms-amid-power-demand-surge",
+  "title": "AI’s Power Crunch Turns Bitcoin Miners’ Grid Access Into an Asset",
+  "summary": "Bitcoin miners, who have secured long-term access to large amounts of power, are being courted by AI companies in desperate need of electricity. However, retrofitting mining campuses into high-performance data centers is a difficult and capital-intensive process facing technical and regulatory hurdles.",
+  "body": "As artificial intelligence companies scramble to secure reliable power sources for their energy-hungry operations, they are turning to an unexpected ally: Bitcoin miners. Miners have spent years securing long-term contracts and grid interconnections that give them access to vast amounts of electricity — often at favorable rates. This pre-existing power infrastructure has become a valuable asset in the eyes of cloud and AI hyperscalers.\n\nHowever, the pivot is far from straightforward. Bitcoin mining campuses are not built for data centers. They lack the cooling systems, fiber-optic backhaul, and network infrastructure required by cloud computing. Companies like Bitfarms and Crusoe Energy are attempting to retrofit their sites, but the cost and complexity are significant. Many miners also face zoning restrictions and lease terms that limit their ability to change land use.\n\nDespite these challenges, the potential rewards are enormous. AI data centers can command lease rates 10 to 20 times higher than typical mining operations. If successful, miners could lock in long-term, dollar-denominated revenue that decouples them from BTC price volatility. This could stabilize energy markets and turn stranded power assets into productive infrastructure for the broader economy.\n\nFor everyday people, this trend illustrates the evolving relationship between crypto and AI. It suggests that the energy infrastructure built for cryptocurrency could serve a wider purpose — but only if miners can successfully navigate the technical and regulatory hurdles involved.\n\nRead more → https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure",
+  "sourceUrl": "https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "ai",
+    "mining",
+    "energy",
+    "data-centers",
+    "crypto"
+  ],
+  "publishedAt": "2026-06-30T21:31:59.444614+00:00",
+  "imageUrl": "/images/articles/2026-06-30-bitcoin-miners-lease-facilities-to-ai-firms-amid-power-demand-surge.webp",
+  "twitterThread": [
+    "AI companies are desperate for reliable power — and Bitcoin miners have years of grid access locked in. Could the crypto industry help solve AI’s energy crisis?",
+    "But the pivot is hard. Mining campuses aren't built for data centers — no cooling, no fiber, no proper networking. Retrofitting is expensive and faces regulatory limits.",
+    "If miners succeed, they could lock in 10-20x higher lease rates and decouple from BTC price volatility. Watch for Bitfarms, Crusoe Energy, and similar players. Read more → https://cryptocatalyst.news/articles/2026-06-30-bitcoin-miners-lease-facilities-to-ai-firms-amid-power-demand-surge"
+  ],
+  "standaloneTweet": "AI companies need power — Bitcoin miners have it. But retrofitting mining campuses into data centers is a tough, capital-intensive process."
+}
