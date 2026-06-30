@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-30-nasdaq-brings-market-data-to-blockchain-via-pyth-network",
+  "title": "Nasdaq Brings Market Data to Blockchain via Pyth Network",
+  "summary": "Nasdaq is now offering its TotalView data feed through Pyth Network's marketplace. This move reflects growing demand for financial data on blockchain infrastructure. The partnership aims to enhance transparency and efficiency in decentralized finance (DeFi) applications.",
+  "body": "Nasdaq, one of the world's largest stock exchange operators, has announced that it will distribute its TotalView market data feed through Pyth Network's blockchain-based marketplace. This initiative is part of a broader trend where traditional financial institutions are increasingly integrating their services with blockchain technology to meet the needs of decentralized finance (DeFi) applications.\n\nThe TotalView data feed provides comprehensive market data, including real-time quotes, trade information, and market depth. By making this data available on the Pyth Network, Nasdaq aims to support the development of more sophisticated financial applications on blockchain platforms. This partnership is expected to enhance transparency and efficiency in the DeFi ecosystem, where accurate and timely market data is crucial.\n\nFor everyday users, this development means that DeFi applications can now access high-quality market data directly from a reputable source like Nasdaq. This could lead to more reliable and innovative financial products, such as decentralized trading platforms, lending protocols, and investment tools. The integration of traditional market data with blockchain infrastructure is a significant step towards bridging the gap between traditional finance and the decentralized world.\n\nAs financial firms continue to explore blockchain technology, partnerships like this one between Nasdaq and Pyth Network are likely to become more common. Users should watch for further integrations of traditional financial data into blockchain platforms, as this trend could unlock new opportunities for decentralized applications and services. The next step for developers and users alike is to explore how this data can be utilized to build more robust and transparent financial tools on the blockchain.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "nasdaq",
+    "blockchain",
+    "pyth",
+    "defi",
+    "market data",
+    "finance"
+  ],
+  "publishedAt": "2026-06-30T13:42:07.926711+00:00",
+  "imageUrl": "/images/articles/2026-06-30-nasdaq-brings-market-data-to-blockchain-via-pyth-network.webp",
+  "twitterThread": [
+    "Nasdaq is bringing its market data to the blockchain via Pyth Network. This could revolutionize DeFi applications with real-time, high-quality data.",
+    "The TotalView data feed, now available on Pyth, includes real-time quotes, trade info, and market depth. This move aims to boost transparency and efficiency in decentralized finance.",
+    "For users, this means more reliable DeFi tools are on the horizon. Watch for more traditional finance data flowing into blockchain platforms. Read more → https://cryptocatalyst.news/articles/2026-06-30-nasdaq-brings-market-data-to-blockchain-via-pyth-network"
+  ],
+  "standaloneTweet": "Nasdaq is now offering its TotalView market data feed on the Pyth Network. This could mean better, more reliable DeFi applications for users. Keep an eye on how this data gets used in decentralized finance."
+}

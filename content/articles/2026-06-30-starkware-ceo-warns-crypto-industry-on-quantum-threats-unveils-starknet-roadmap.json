@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-30-starkware-ceo-warns-crypto-industry-on-quantum-threats-unveils-starknet-roadmap",
+  "title": "StarkWare CEO warns crypto industry on quantum threats, unveils Starknet roadmap",
+  "summary": "StarkWare's CEO Eli Ben-Sasson criticized the crypto industry for ignoring quantum computing threats and announced a roadmap for Starknet to address these risks. The company aims to make the blockchain more resilient against future quantum attacks.",
+  "body": "StarkWare, a leading blockchain scaling solution provider, has unveiled a roadmap for Starknet to combat potential quantum computing threats. CEO Eli Ben-Sasson criticized the crypto industry for its complacency, stating that the industry should not wait for external warnings to act on quantum risks.\n\nBen-Sasson emphasized the need for proactive measures, saying, “The crypto industry shouldn’t need wake-up calls from the White House or anyone else.” StarkWare’s roadmap includes advancements in zero-knowledge proofs and other cryptographic techniques to enhance Starknet’s security against quantum attacks.\n\nThis initiative is crucial for everyday crypto users as it aims to protect their assets and data from future threats. Quantum computing could potentially break current cryptographic methods, making it essential for blockchain platforms to adapt and innovate.\n\nStarkWare’s announcement serves as a call to action for the entire crypto industry. Users and developers should watch for updates on Starknet’s progress and consider the implications of quantum-resistant technologies for their investments and security practices. Read more → https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceUrl": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "quantum",
+    "security",
+    "starknet",
+    "blockchain",
+    "cryptography",
+    "roadmap"
+  ],
+  "publishedAt": "2026-06-30T13:40:49.661844+00:00",
+  "imageUrl": "/images/articles/2026-06-30-starkware-ceo-warns-crypto-industry-on-quantum-threats-unveils-starknet-roadmap.webp",
+  "twitterThread": [
+    "StarkWare's CEO just called out the crypto industry for ignoring quantum threats. Their new Starknet roadmap aims to fix that.",
+    "Eli Ben-Sasson says the industry shouldn't wait for government warnings. StarkWare is working on quantum-resistant tech for Starknet.",
+    "Quantum computing could break current crypto security. Watch for Starknet's updates and consider quantum-resistant solutions. Read more → https://cryptocatalyst.news/articles/2026-06-30-starkware-ceo-warns-crypto-industry-on-quantum-threats-unveils-starknet-roadmap"
+  ],
+  "standaloneTweet": "StarkWare's CEO warns crypto isn't doing enough to prepare for quantum threats. Their new Starknet roadmap aims to make blockchain quantum-resistant."
+}
