@@ -7411,6 +7411,122 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-29-clarity-act-faces-crucial-two-week-deadline-before-senate-recess_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-29-clarity-act-faces-crucial-two-week-deadline-before-senate-recess_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure",
+      "title": "Symbiotic Officially Pivots to Collateral Markets with Core V2 Launch",
+      "category": "defi",
+      "tags": [
+        "defi",
+        "symbiotic",
+        "collateral",
+        "core-v2",
+        "real-world-assets",
+        "insurance"
+      ],
+      "articleSummary": "Symbiotic has officially launched Core V2, pivoting to shared collateral infrastructure that can support multiple DeFi use cases like insurance, credit, and real-world assets (RWAs). The platform aims to streamline collateral management across various financial applications.",
+      "articleBody": "Symbiotic, a DeFi infrastructure provider, has officially pivoted to collateral markets with the launch of Core V2. The new platform is designed to support a wide range of DeFi use cases, including insurance, credit, and real-world assets (RWAs), through shared collateral infrastructure. By enabling shared collateral, Symbiotic aims to make collateral management more efficient and accessible across different financial applications.\n\nCore V2 introduces shared collateral infrastructure that allows users to leverage the same collateral for various financial products, reducing the need for redundant collateralization. This can lead to lower costs and increased efficiency for users engaging in DeFi activities. The platform now powers shared collateral infrastructure that can support multiple DeFi use cases.\n\nFor everyday users, this development means more flexible and cost-effective options for participating in DeFi. By simplifying collateral management, Symbiotic's Core V2 could make it easier for users to access insurance, credit, and other financial services without the need for multiple, separate collateral deposits. This could democratize access to DeFi products, making them more accessible to a broader audience.\n\nLooking ahead, Symbiotic plans to expand its partnerships with other DeFi protocols to further integrate Core V2 into the broader ecosystem. Users should watch for an",
+      "imageUrl": "/images/articles/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure",
+      "script": {
+        "hook": "Your cryptocurrency assets could soon work harder for you.",
+        "narration_lines": [
+          "Symbiotic just launched Core V2, a new platform that lets you use the same collateral for multiple DeFi products.",
+          "This means you can get insurance, credit, or invest in real-world assets without locking up separate funds for each.",
+          "Think of it like using one security deposit for multiple rental properties instead of paying a deposit for each one.",
+          "For example, you could use the same Bitcoin collateral to secure a loan and buy insurance, saving you money and hassle.",
+          "This could make DeFi more accessible and affordable for everyday users.",
+          "Keep an eye out for more partnerships and integrations from Symbiotic in the coming months."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 111
+      },
+      "scriptHash": "d4365ab3542318d6",
+      "scriptText": "Your cryptocurrency assets could soon work harder for you. Symbiotic just launched Core V2, a new platform that lets you use the same collateral for multiple DeFi products. This means you can get insurance, credit, or invest in real-world assets without locking up separate funds for each. Think of it like using one security deposit for multiple rental properties instead of paying a deposit for each one. For example, you could use the same Bitcoin collateral to secure a loan and buy insurance, saving you money and hassle. This could make DeFi more accessible and affordable for everyday users. Keep an eye out for more partnerships and integrations from Symbiotic in the coming months. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "tbGb7IaI_hs",
+      "youtubeUrl": "https://youtube.com/watch?v=tbGb7IaI_hs",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-01T17:11:46.703344+00:00",
+      "uploadedAt": "2026-07-01T17:18:34.127924+00:00",
+      "audioLineDurations": [
+        3.1146666666666665,
+        7.573333333333333,
+        7.274666666666667,
+        6.954666666666666,
+        7.210666666666667,
+        4.373333333333333,
+        5.312,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-symbiotic-launches-core-v2-to-power-shared-collateral-infrastructure_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-01-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 01, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "nft",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Wednesday, July 01, 2026\n\n1. OVERNIGHT MOVES\n\nBTC printed $58,838 (–0.8%), closing below $59k for the first time since the June 26 breakdown and extending the sub‑$60k window into a second week. ETH $1,577.99 (–0.4%) remains anchored $423 below the $2k handle, showing no bid. SOL $75.12 (+2.0%) extends outperformance to a sixth consecutive session — the longest sustained lead of any watchlist asset since the June 7‑9 bounce window. BTC dominance slid to 55.4%, down from 55.5% yesterday, the lowest reading since June 5. The composition is unambiguous: SOL is capturing the marginal dollar; ETH is flat; BTC is losing relative share at an accelerating rate.\n\nThe trending board shows a notable compositional shift: Pudgy Penguins (PENGU) leads, followed by Bitcoin (BTC), Backpack (BP), The Black Bull (ANSEM), Based (BASED), Sui (SUI), and Bittensor (TAO). Hyperliquid (HYPE) is absent again after a single‑day return on June 30 — now appearing on only 3 of the last 12 sessions. PENGU persists as the sole memecoin survivor. BP returns after a multi‑day gap. TAO re‑enters after a two‑day absence. BASED is a fresh low‑cap entry with no vault research. No structural level reclaimed: BTC is $16,162 below the former $75k floor; ETH is $423 below $2k; SOL at $75.12 is $4.88 shy of $80.\n\n2. NARRATIVE PULSE\n\nTwo shifts beneath the tape that most traders have not yet indexed:\nSOL",
+      "imageUrl": "/images/articles/2026-07-01-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-01-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just fell below $59,000, and that's bad news for your crypto portfolio.",
+        "narration_lines": [
+          "Bitcoin dropped to $58,838 overnight, its lowest in weeks, dragging the whole market down.",
+          "Ethereum isn't doing much better, stuck below $2,000, while Solana keeps climbing.",
+          "Solana's up 2% today, outpacing Bitcoin and Ethereum for the sixth day in a row.",
+          "Bitcoin's dominance is shrinking, meaning other coins are gaining ground fast.",
+          "If you're holding Bitcoin, this could mean it's time to diversify.",
+          "Check out Solana or other trending coins like Pudgy Penguins or Backpack."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "205dfe3d27227781",
+      "scriptText": "Bitcoin just fell below $59,000, and that's bad news for your crypto portfolio. Bitcoin dropped to $58,838 overnight, its lowest in weeks, dragging the whole market down. Ethereum isn't doing much better, stuck below $2,000, while Solana keeps climbing. Solana's up 2% today, outpacing Bitcoin and Ethereum for the sixth day in a row. Bitcoin's dominance is shrinking, meaning other coins are gaining ground fast. If you're holding Bitcoin, this could mean it's time to diversify. Check out Solana or other trending coins like Pudgy Penguins or Backpack. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "uM27vcx4Ugo",
+      "youtubeUrl": "https://youtube.com/watch?v=uM27vcx4Ugo",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-01T17:11:50.102157+00:00",
+      "uploadedAt": "2026-07-01T17:18:35.428850+00:00",
+      "audioLineDurations": [
+        6.656,
+        7.168,
+        6.506666666666667,
+        5.589333333333333,
+        4.586666666666667,
+        3.541333333333333,
+        4.522666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-01-crypto-research-morning-brief_bg_3.jpg"
+      ]
     }
   ]
 }
