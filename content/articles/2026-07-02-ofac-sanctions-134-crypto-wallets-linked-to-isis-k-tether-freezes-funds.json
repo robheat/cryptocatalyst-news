@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-02-ofac-sanctions-134-crypto-wallets-linked-to-isis-k-tether-freezes-funds",
+  "title": "OFAC Sanctions 134 Crypto Wallets Linked to ISIS-K, Tether Freezes Funds",
+  "summary": "The U.S. Treasury's OFAC has added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, including 131 Tron addresses that received over $1.4 million. Tether has already frozen the funds in these wallets.",
+  "body": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has added 134 cryptocurrency wallet addresses linked to ISIS-K to its sanctions list. This move includes 131 Tron addresses that received over $1.4 million in crypto donations, according to blockchain analytics firm Chainalysis.\n\nTether, the issuer of the USDT stablecoin, has already frozen the funds in these wallets. The remaining three addresses are associated with Bitcoin and Ethereum, highlighting the diverse blockchain platforms used by the terrorist organization for fundraising.\n\nThis action underscores the growing use of cryptocurrencies for illicit activities and the increasing collaboration between regulatory bodies and crypto firms to combat such threats. For everyday users, this serves as a reminder of the importance of compliance and the potential risks associated with unauthorized transactions.\n\nMoving forward, users should be vigilant about the origins of funds they interact with and ensure they are not inadvertently supporting sanctioned entities. Regulatory bodies and crypto platforms are likely to continue enhancing their monitoring and compliance measures to prevent such activities.",
+  "sourceUrl": "https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "ofac",
+    "sanctions",
+    "isis-k",
+    "tether",
+    "crypto-wallets",
+    "chainalysis"
+  ],
+  "publishedAt": "2026-07-02T13:55:09.087906+00:00",
+  "imageUrl": "/images/articles/2026-07-02-ofac-sanctions-134-crypto-wallets-linked-to-isis-k-tether-freezes-funds.webp",
+  "twitterThread": [
+    "OFAC just sanctioned 134 crypto wallets tied to ISIS-K, including 131 Tron addresses that received over $1.4M in donations. Tether has already frozen the funds.",
+    "This move highlights the growing use of crypto for illicit activities and the increasing collaboration between regulators and crypto firms to combat terrorism financing.",
+    "For everyday users, this is a reminder to be vigilant about transaction origins and ensure compliance with sanctions. Stay informed and cautious. Read more → https://cryptocatalyst.news/articles/2026-07-02-ofac-sanctions-134-crypto-wallets-linked-to-isis-k-tether-freezes-funds"
+  ],
+  "standaloneTweet": "OFAC has sanctioned 134 crypto wallets linked to ISIS-K, with Tether freezing over $1.4M in funds. Stay vigilant about transaction origins to avoid supporting illicit activities."
+}

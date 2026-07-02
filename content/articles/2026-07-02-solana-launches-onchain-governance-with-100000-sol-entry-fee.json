@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-02-solana-launches-onchain-governance-with-100000-sol-entry-fee",
+  "title": "Solana Launches Onchain Governance with 100,000 SOL Entry Fee",
+  "summary": "Solana has introduced a new governance system allowing validators and stakers to propose and vote on network changes. To open a proposal, a validator must have 100,000 SOL staked, currently worth about $7.7 million.",
+  "body": "Solana has launched an onchain governance system called Solana Governance Proposals, enabling validators and stakers to formally influence the network's future. This system allows validators with at least 100,000 SOL staked to create proposals, while stakers can override their validator's vote if they choose.\n\nCurrently, 100,000 SOL is equivalent to approximately $7.7 million, a significant barrier to entry designed to ensure serious proposals. The system aims to decentralize decision-making by giving stakers a direct say in the network's development.\n\nThis development is crucial for everyday users because it means the Solana community can now collectively decide on upgrades, changes, and policies. It also increases transparency and accountability, as all proposals and votes will be recorded on the blockchain.\n\nThe high entry fee ensures that only committed participants can propose changes, reducing the risk of spam or frivolous proposals. Users should watch for the first major proposals and how the community engages with this new governance model. The success of this system could set a precedent for other blockchain networks.\n\nRead more → https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "solana",
+    "governance",
+    "blockchain",
+    "staking",
+    "decentralization",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-07-02T13:57:36.558126+00:00",
+  "imageUrl": "/images/articles/2026-07-02-solana-launches-onchain-governance-with-100000-sol-entry-fee.webp",
+  "twitterThread": [
+    "Solana just launched onchain governance with a $7.7M entry fee. Here's what it means for the network and its users.",
+    "Validators with 100,000 SOL staked can now propose changes, and stakers can override their votes. This decentralizes decision-making bigly.",
+    "Watch for the first major proposals and how the community engages. This could set a precedent for other blockchains. Read more → https://cryptocatalyst.news/articles/2026-07-02-solana-launches-onchain-governance-with-100000-sol-entry-fee"
+  ],
+  "standaloneTweet": "Solana's new onchain governance lets stakers and validators propose and vote on network changes. With a $7.7M entry fee, it's serious business."
+}
