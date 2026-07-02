@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support",
+  "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
+  "summary": "Wavespace, the Bitcoin-only neobank, has achieved MiCA compliance and launched its self-custodial wavecard® that uses Nostr Wallet Connect to automatically top up from users’ Lightning nodes, eliminating custodial preloading risks.",
+  "body": "Wavespace, a Bitcoin-only neobank, has achieved MiCA compliance and launched its self-custodial wavecard®. The card uses Nostr Wallet Connect to automatically top up from users' Lightning nodes, eliminating custodial preloading risks. This ensures users maintain full control over their funds.\n\nThe card eliminates the need for custodial preloading, a feature that enhances security and privacy. Wavespace achieved MiCA compliance, making it one of the first Bitcoin-focused financial services to meet these stringent European regulations. The card is designed to work seamlessly with Bitcoin's Lightning Network, providing fast and low-cost transactions.\n\nThis development is significant for Bitcoin users who value self-custody and regulatory compliance. The wavecard® allows users to spend Bitcoin directly from their Lightning nodes, reducing the risk of custodial hacks or freezes. It also provides a practical solution for everyday transactions, making Bitcoin more accessible for daily use.\n\nUsers interested in the wavecard® should watch for its availability in their region. Wavespace is expected to roll out the card in phases, starting with MiCA-compliant regions. Keep an eye on Wavespace's official announcements for updates on availability and features. Read more → https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
+  "sourceUrl": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "lightning",
+    "debit-card",
+    "self-custody",
+    "mica",
+    "wavespace"
+  ],
+  "publishedAt": "2026-07-02T21:10:03.222685+00:00",
+  "imageUrl": "/images/articles/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support.webp",
+  "twitterThread": [
+    "Wavespace just launched a Bitcoin debit card that lets you spend directly from your Lightning node—no custodian needed. MiCA-compliant too.",
+    "The wavecard® uses Nostr Wallet Connect to auto-top-up, so your funds stay in your control. No preloading, no risk of freezes.",
+    "If you want a self-custodial Bitcoin debit card, watch for Wavespace's rollout. First in MiCA regions—read more → https://cryptocatalyst.news/articles/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support"
+  ],
+  "standaloneTweet": "Wavespace's new Bitcoin debit card lets you spend from your Lightning node—no bank or exchange holding your funds. MiCA-compliant, too."
+}
