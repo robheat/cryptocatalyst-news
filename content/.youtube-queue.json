@@ -7641,6 +7641,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-30-visa-mastercard-and-140-firms-launch-open-usd-stablecoin_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-06-30-visa-mastercard-and-140-firms-launch-open-usd-stablecoin_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support",
+      "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "lightning",
+        "debit-card",
+        "self-custody",
+        "mica",
+        "wavespace"
+      ],
+      "articleSummary": "Wavespace, the Bitcoin-only neobank, has achieved MiCA compliance and launched its self-custodial wavecard® that uses Nostr Wallet Connect to automatically top up from users’ Lightning nodes, eliminating custodial preloading risks.",
+      "articleBody": "Wavespace, a Bitcoin-only neobank, has achieved MiCA compliance and launched its self-custodial wavecard®. The card uses Nostr Wallet Connect to automatically top up from users' Lightning nodes, eliminating custodial preloading risks. This ensures users maintain full control over their funds.\n\nThe card eliminates the need for custodial preloading, a feature that enhances security and privacy. Wavespace achieved MiCA compliance, making it one of the first Bitcoin-focused financial services to meet these stringent European regulations. The card is designed to work seamlessly with Bitcoin's Lightning Network, providing fast and low-cost transactions.\n\nThis development is significant for Bitcoin users who value self-custody and regulatory compliance. The wavecard® allows users to spend Bitcoin directly from their Lightning nodes, reducing the risk of custodial hacks or freezes. It also provides a practical solution for everyday transactions, making Bitcoin more accessible for daily use.\n\nUsers interested in the wavecard® should watch for its availability in their region. Wavespace is expected to roll out the card in phases, starting with MiCA-compliant regions. Keep an eye on Wavespace's official announcements for updates on availability and features. Read more → https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-ligh",
+      "imageUrl": "/images/articles/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support",
+      "script": {
+        "hook": "You can now spend Bitcoin without giving up control of your funds, thanks to a new debit card.",
+        "narration_lines": [
+          "Wavespace just launched a MiCA-compliant debit card that connects directly to your Lightning node.",
+          "This means you keep full control of your Bitcoin, unlike traditional cards that hold your funds.",
+          "Lightning Network ensures fast, cheap transactions—perfect for everyday spending.",
+          "The card automatically tops up from your node, so you never run out of spending power.",
+          "For Bitcoin users, this is a game-changer: secure, private, and compliant with European regulations.",
+          "Keep an eye out for availability in your region—Wavespace is rolling it out soon."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "1231ecc99f750f38",
+      "scriptText": "You can now spend Bitcoin without giving up control of your funds, thanks to a new debit card. Wavespace just launched a MiCA-compliant debit card that connects directly to your Lightning node. This means you keep full control of your Bitcoin, unlike traditional cards that hold your funds. Lightning Network ensures fast, cheap transactions—perfect for everyday spending. The card automatically tops up from your node, so you never run out of spending power. For Bitcoin users, this is a game-changer: secure, private, and compliant with European regulations. Keep an eye out for availability in your region—Wavespace is rolling it out soon. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "KVhNKXQUjJg",
+      "youtubeUrl": "https://youtube.com/watch?v=KVhNKXQUjJg",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-03T16:23:08.987101+00:00",
+      "uploadedAt": "2026-07-03T16:31:05.941792+00:00",
+      "audioLineDurations": [
+        5.354666666666667,
+        5.930666666666666,
+        5.461333333333333,
+        5.184,
+        4.48,
+        6.656,
+        5.056,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-wavespace-launches-mica-compliant-bitcoin-debit-card-with-lightning-support_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc",
+      "title": "Metaplanet Adds 2,823 Bitcoin in Q2, Total Holdings Now 43,000 BTC",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "investment",
+        "metaplanet",
+        "corporate",
+        "holdings"
+      ],
+      "articleSummary": "Metaplanet, a Japanese company, purchased 2,823 bitcoin in Q2 2026, spending $222 million. This brings their total bitcoin holdings to 43,000 BTC, the largest corporate stash outside of MicroStrategy.",
+      "articleBody": "Metaplanet, a Japanese company focused on bitcoin acquisition, has added 2,823 bitcoin to its holdings in the second quarter of 2026. The company spent $222 million on the purchase, averaging $78,608 per bitcoin. This acquisition brings Metaplanet's total bitcoin holdings to 43,000 BTC, making it one of the largest corporate holders of bitcoin, second only to MicroStrategy.\n\nThe purchase was made at an average price of $78,608 per bitcoin, reflecting the company's strategy of accumulating bitcoin regardless of short-term price fluctuations. Metaplanet has been steadily increasing its bitcoin holdings, demonstrating a long-term commitment to the asset. The company's total investment in bitcoin now stands at over $3.3 billion, based on the average purchase price.\n\nThis move is significant for everyday investors as it underscores the growing institutional confidence in bitcoin. Large-scale acquisitions by companies like Metaplanet can influence market sentiment and potentially drive up the price of bitcoin. For individual investors, this could mean increased interest and investment in bitcoin, as well as greater mainstream acceptance.\n\nMetaplanet's continued investment in bitcoin highlights the asset's growing role in corporate treasuries. As more companies follow suit, we may see a shift in how bitcoin is perceived and used in the financial world. Investors should watch for furth",
+      "imageUrl": "/images/articles/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc",
+      "script": {
+        "hook": "A Japanese company just spent $222 million on bitcoin, and it could mean big things for your wallet.",
+        "narration_lines": [
+          "Metaplanet added 2,823 bitcoin in the last quarter, bringing their total to 43,000 BTC.",
+          "That's the second-largest corporate stash of bitcoin in the world, right behind MicroStrategy.",
+          "They're betting big on bitcoin, spending over $3.3 billion so far, no matter the short-term price swings.",
+          "For you, this means more companies are taking bitcoin seriously, which could boost its value and mainstream use.",
+          "If big players keep investing, bitcoin might become a more common part of everyday finance.",
+          "Keep an eye on this trend—it could be a sign to explore bitcoin investments yourself."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "807ad6ebbd920b91",
+      "scriptText": "A Japanese company just spent $222 million on bitcoin, and it could mean big things for your wallet. Metaplanet added 2,823 bitcoin in the last quarter, bringing their total to 43,000 BTC. That's the second-largest corporate stash of bitcoin in the world, right behind MicroStrategy. They're betting big on bitcoin, spending over $3.3 billion so far, no matter the short-term price swings. For you, this means more companies are taking bitcoin seriously, which could boost its value and mainstream use. If big players keep investing, bitcoin might become a more common part of everyday finance. Keep an eye on this trend—it could be a sign to explore bitcoin investments yourself. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ofXr9-v0q80",
+      "youtubeUrl": "https://youtube.com/watch?v=ofXr9-v0q80",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-03T16:23:13.017426+00:00",
+      "uploadedAt": "2026-07-03T16:31:08.844502+00:00",
+      "audioLineDurations": [
+        7.168,
+        8.96,
+        5.568,
+        6.933333333333334,
+        6.72,
+        5.418666666666667,
+        5.013333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_3.jpg"
+      ]
     }
   ]
 }
