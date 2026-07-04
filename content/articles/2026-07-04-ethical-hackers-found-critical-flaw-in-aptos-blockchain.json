@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-04-ethical-hackers-found-critical-flaw-in-aptos-blockchain",
+  "title": "Ethical Hackers Found Critical Flaw in Aptos Blockchain That Could've Put $70 Billion in Crypto at Risk",
+  "summary": "Researchers discovered a flaw in the Aptos blockchain that could have put $70 billion in crypto at risk. They broke a core security guarantee with a near-90% success rate, using just a $3,000 server. The vulnerability has been patched.",
+  "body": "A group of ethical hackers recently uncovered a critical flaw in the Aptos blockchain that could have put $70 billion in crypto at risk. The flaw allowed them to break a core security guarantee with a near-90% success rate, using just a $3,000 server. The vulnerability has since been patched, but the incident underscores the potential risks in blockchain technology.\n\nThe researchers were able to exploit the flaw by leveraging a weakness in the blockchain's consensus mechanism. This allowed them to manipulate transactions and potentially steal funds. The attack cost was minimal, with the researchers spending just hundreds of dollars to execute the exploit. The flaw was discovered and reported to the Aptos team, who quickly patched it to prevent any real-world damage.\n\nThis incident highlights the importance of robust security measures in blockchain technology. While blockchains are designed to be secure, vulnerabilities can still exist and be exploited. For everyday users, this means it's crucial to use reputable platforms and stay informed about potential security risks. It also underscores the value of ethical hacking in identifying and fixing vulnerabilities before they can be exploited by malicious actors.\n\nFor those interested in blockchain security, this incident serves as a reminder to keep an eye on updates and patches from the platforms they use. It's also a good idea to support initiatives that promote ethical hacking and security research in the crypto space. By staying informed and vigilant, users can help ensure the safety of their investments in the ever-evolving world of cryptocurrency.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "blockchain",
+    "security",
+    "ethical hacking",
+    "aptos",
+    "crypto",
+    "risk"
+  ],
+  "publishedAt": "2026-07-04T20:56:16.957097+00:00",
+  "imageUrl": "/images/articles/2026-07-04-ethical-hackers-found-critical-flaw-in-aptos-blockchain.webp",
+  "twitterThread": [
+    "Ethical hackers found a flaw in the Aptos blockchain that could've put $70B in crypto at risk. They broke a core security guarantee with a near-90% success rate, using just a $3,000 server.",
+    "The attack cost was just hundreds of dollars. The flaw has been patched by the Aptos team, preventing any real-world damage.",
+    "This highlights the importance of blockchain security and ethical hacking. Stay updated on patches and use reputable platforms. Read more → https://cryptocatalyst.news/articles/2026-07-04-ethical-hackers-found-critical-flaw-in-aptos-blockchain"
+  ],
+  "standaloneTweet": "Ethical hackers found a flaw in the Aptos blockchain that could've put $70B in crypto at risk. They broke a core security guarantee with a near-90% success rate, using just a $3,000 server. The flaw has been patched."
+}
