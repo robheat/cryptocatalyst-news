@@ -7754,6 +7754,122 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-02-metaplanet-adds-2823-bitcoin-in-q2-total-holdings-now-43000-btc_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-04-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 04, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Saturday, July 04, 2026\n\n1. OVERNIGHT MOVES\n\nThe watchlist prints a third consecutive green session, marking the first three-day win streak since the June 7-9 bounce window. BTC $62,566 (+1.3%) – now $1,943 above where it sat on July 2, but still $12,434 below the former $75k floor. ETH $1,761 (+2.0%) – reclaims the $1,700 handle for a second consecutive day and is now $135 above the July 3 open, the strongest two-day run since June 7. SOL $82.53 (+1.7%) – closes decisively above $80 for the second day in a row, a level that had not been held for consecutive sessions since late May.\n\nBTC dominance slid to 55.6%, down from 55.7% yesterday and the lowest reading since June 5. The composition is unambiguous: capital is rotating into alts, and SOL is leading the rotation. SOL at $82.53 is now trading at levels last seen when BTC was above $65k, meaning SOL has captured roughly $3k of relative value from BTC over the past week.\n\nThe trending board rotated again. The Black Bull (ANSEM) leads for an eighth consecutive day – an unprecedented nanocap run with zero vault research. Pudgy Penguins (PENGU) holds at #2. Gram (GRAM) enters as a new name – the rebranded Toncoin, making its first appearance in this data set. Hamster Kombat (HMSTR) follows – a Telegram gaming token. Bittensor (TAO) re-enters after a one-day absence. Bitcoin (BTC) and Sui (SUI) round out the top s",
+      "imageUrl": "/images/articles/2026-07-04-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-04-crypto-research-morning-brief",
+      "script": {
+        "hook": "You could soon buy your next coffee with cryptocurrency instead of Bitcoin, and here's why.",
+        "narration_lines": [
+          "Bitcoin just had its best three-day run since June, but it's not the only cryptocurrency making waves.",
+          "Ethereum and Solana are surging, with Solana up nearly 2% in the last two days alone.",
+          "This is a classic sign of investors rotating their money into smaller cryptocurrencies, known as 'alts'.",
+          "For example, Solana is now trading at levels last seen when Bitcoin was above $65,000, a huge jump.",
+          "If you're holding Bitcoin, it might be time to check out these altcoins before they climb even higher.",
+          "And if you're new to crypto, this could be a great opportunity to diversify your portfolio."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "ad83c131a4e72c63",
+      "scriptText": "You could soon buy your next coffee with cryptocurrency instead of Bitcoin, and here's why. Bitcoin just had its best three-day run since June, but it's not the only cryptocurrency making waves. Ethereum and Solana are surging, with Solana up nearly 2% in the last two days alone. This is a classic sign of investors rotating their money into smaller cryptocurrencies, known as 'alts'. For example, Solana is now trading at levels last seen when Bitcoin was above $65,000, a huge jump. If you're holding Bitcoin, it might be time to check out these altcoins before they climb even higher. And if you're new to crypto, this could be a great opportunity to diversify your portfolio. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ceg7Hw5t0to",
+      "youtubeUrl": "https://youtube.com/watch?v=ceg7Hw5t0to",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-04T15:59:02.580391+00:00",
+      "uploadedAt": "2026-07-04T16:06:16.626168+00:00",
+      "audioLineDurations": [
+        5.0986666666666665,
+        6.144,
+        6.058666666666666,
+        6.464,
+        8.768,
+        5.717333333333333,
+        5.12,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-04-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats",
+      "title": "Moody’s Warns Bitcoin and Crypto Must Prepare for Quantum Computing Threats",
+      "category": "bitcoin",
+      "tags": [
+        "quantum",
+        "bitcoin",
+        "security",
+        "trump",
+        "crypto",
+        "moodys"
+      ],
+      "articleSummary": "Moody’s says President Trump’s new quantum computing executive orders highlight an urgent need for Bitcoin and the broader digital asset industry to adopt quantum-resistant cryptography.",
+      "articleBody": "Moody’s has issued a warning that President Trump’s new quantum computing executive orders accelerate the need for Bitcoin and the broader digital asset industry to adopt quantum-resistant cryptography. The ratings agency emphasizes that without such measures, the security of digital assets could be at risk.\n\nThe warning comes as the U.S. government accelerates its investment in quantum computing, which could potentially break the cryptographic algorithms currently used to secure Bitcoin and other digital assets. Moody’s suggests that the industry must proactively develop and implement quantum-resistant solutions to safeguard against future threats.\n\nFor everyday users, this means that the security of their digital assets could be compromised if quantum computing advances without corresponding advancements in cryptographic defenses. It also highlights the importance of staying informed about technological developments that could impact the safety of their investments.\n\nThe next steps for the crypto industry include researching and adopting quantum-resistant algorithms. Users should watch for updates from major crypto projects and exchanges on their plans to address this emerging threat. Read more → https://bitcoinmagazine.com/news/moodys-flags-quantum-threat-to-bitcoin",
+      "imageUrl": "/images/articles/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats",
+      "script": {
+        "hook": "Your Bitcoin could be at risk from a new computing threat, and it’s happening faster than you think.",
+        "narration_lines": [
+          "Moody’s warns that President Trump’s push for quantum computing could break Bitcoin’s security.",
+          "Quantum computers might crack the cryptographic codes protecting your digital assets.",
+          "Imagine a hacker stealing your Bitcoin because the math that secures it is no longer safe.",
+          "Major crypto projects and exchanges are now racing to adopt quantum-resistant solutions.",
+          "Users should stay updated on how their favorite platforms plan to protect their investments.",
+          "This isn’t a distant threat—it’s happening now, and you need to be prepared."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "5f0008fc784ff53d",
+      "scriptText": "Your Bitcoin could be at risk from a new computing threat, and it’s happening faster than you think. Moody’s warns that President Trump’s push for quantum computing could break Bitcoin’s security. Quantum computers might crack the cryptographic codes protecting your digital assets. Imagine a hacker stealing your Bitcoin because the math that secures it is no longer safe. Major crypto projects and exchanges are now racing to adopt quantum-resistant solutions. Users should stay updated on how their favorite platforms plan to protect their investments. This isn’t a distant threat—it’s happening now, and you need to be prepared. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "Vp14i3pdfUc",
+      "youtubeUrl": "https://youtube.com/watch?v=Vp14i3pdfUc",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-04T15:59:05.282990+00:00",
+      "uploadedAt": "2026-07-04T16:06:22.314840+00:00",
+      "audioLineDurations": [
+        4.992,
+        5.312,
+        4.970666666666666,
+        5.525333333333333,
+        5.738666666666667,
+        5.44,
+        4.053333333333334,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_3.jpg"
+      ]
     }
   ]
 }
