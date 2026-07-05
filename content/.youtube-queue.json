@@ -7870,6 +7870,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-03-moodys-warns-bitcoin-and-crypto-must-prepare-for-quantum-computing-threats_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-05-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 05, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain",
+        "research"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Sunday, July 05, 2026\n\n1. OVERNIGHT MOVES\n\nA split session. BTC $62,871 (+0.6%) and ETH $1,766.86 (+0.4%) printed marginal greens, extending the three-day win streak into a fourth session — the longest coordinated run since the June 7-9 bounce window. SOL $80.47 (-2.3%) broke the pattern, giving back roughly half of Friday's gain after closing decisively above $80 for three consecutive days. BTC dominance ticked up to 55.7% from 55.6% yesterday — the first increase in four sessions. The compositional signal is subtle but important: SOL is losing the marginal dollar for the first time since the decoupling began on June 26. No structural level reclaimed for BTC or ETH — BTC remains $12,129 below the former $75k floor; ETH is $233 off $2k. SOL at $80.47 is barely holding the level that took three weeks to reclaim.\n\nThe trending board rotated sharply. The Black Bull (ANSEM) leads for a ninth consecutive day — an unprecedented low-cap persistence run with zero vault research. Pudgy Penguins (PENGU) holds at #2. LAB (LAB) re-enters after a 34-day absence — last observed on June 1 during the weekend speculative hunting window. Hyperliquid (HYPE) returns after a two-day gap. Venice Token (VVV) returns — first appearance since July 2. Lighter (LIT) and Bitcoin (BTC) round out the top seven. Notable absentees: no Gram (GRAM) or Hamster Kombat (HMSTR) after Friday's Telegr",
+      "imageUrl": "/images/articles/2026-07-05-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-05-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just hit a new milestone, but not all cryptocurrencies are celebrating.",
+        "narration_lines": [
+          "Bitcoin and Ethereum are up slightly, continuing a three-day winning streak.",
+          "But Solana dropped 2.3%, losing ground for the first time in weeks.",
+          "This shift could mean Bitcoin is gaining dominance in the market.",
+          "For example, Bitcoin is still 12,000 dollars below its previous high.",
+          "If you're investing, watch these trends closely.",
+          "New tokens like Black Bull and Pudgy Penguins are also making moves."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 77
+      },
+      "scriptHash": "37542627c5ff2123",
+      "scriptText": "Bitcoin just hit a new milestone, but not all cryptocurrencies are celebrating. Bitcoin and Ethereum are up slightly, continuing a three-day winning streak. But Solana dropped 2.3%, losing ground for the first time in weeks. This shift could mean Bitcoin is gaining dominance in the market. For example, Bitcoin is still 12,000 dollars below its previous high. If you're investing, watch these trends closely. New tokens like Black Bull and Pudgy Penguins are also making moves. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "UfcZ3EIb40c",
+      "youtubeUrl": "https://youtube.com/watch?v=UfcZ3EIb40c",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-05T16:04:53.590890+00:00",
+      "uploadedAt": "2026-07-05T16:11:16.280618+00:00",
+      "audioLineDurations": [
+        4.8213333333333335,
+        4.437333333333333,
+        4.8,
+        3.264,
+        5.738666666666667,
+        2.6026666666666665,
+        4.266666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility",
+      "title": "CryptoQuant Says Bitcoin and Altcoin Exchange Deposits Have Spiked, Indicating Higher Volatility Ahead",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "exchange",
+        "volatility",
+        "altcoins",
+        "market",
+        "trading"
+      ],
+      "articleSummary": "Bitcoin deposits to exchanges have spiked to nearly 49,000 BTC, a rare extreme event that has only occurred four other times this year. This surge often precedes increased market volatility, according to CryptoQuant.",
+      "articleBody": "CryptoQuant, a leading blockchain data analytics firm, has reported a significant surge in Bitcoin and altcoin deposits to exchanges. The deposits have climbed to nearly 49,000 BTC, marking a rare extreme event that has only been observed four other times this year.\n\nThis spike in deposits is often interpreted as a sign of increased market activity and potential volatility. According to CryptoQuant, such extreme deposit levels can indicate that large holders are moving their assets to exchanges, possibly in preparation for significant price swings.\n\nFor everyday crypto users, this news suggests that the market may experience higher volatility in the near future. Increased volatility can present both opportunities and risks, depending on market conditions and individual strategies. Investors should be prepared for potential price swings and consider adjusting their portfolios accordingly.\n\nTo stay ahead of potential market shifts, users should monitor exchange deposit trends and keep an eye on major market indicators. Understanding these patterns can help in making more informed trading decisions and managing risk effectively.",
+      "imageUrl": "/images/articles/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility",
+      "script": {
+        "hook": "Your Bitcoin could be in for a wild ride soon, and here's why.",
+        "narration_lines": [
+          "Nearly 49,000 Bitcoin just flooded into exchanges, a rare event that's happened only four other times this year.",
+          "Experts say this usually means big price swings are coming, so buckle up.",
+          "Think of it like a storm warning for cryptocurrency. If you're holding Bitcoin, get ready for some turbulence.",
+          "This could mean big gains or big losses, so check your portfolio and decide if you want to ride it out or cash out.",
+          "Keep an eye on exchange deposits and other market signals to stay ahead of the game."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 102
+      },
+      "scriptHash": "043de250802b65a3",
+      "scriptText": "Your Bitcoin could be in for a wild ride soon, and here's why. Nearly 49,000 Bitcoin just flooded into exchanges, a rare event that's happened only four other times this year. Experts say this usually means big price swings are coming, so buckle up. Think of it like a storm warning for cryptocurrency. If you're holding Bitcoin, get ready for some turbulence. This could mean big gains or big losses, so check your portfolio and decide if you want to ride it out or cash out. Keep an eye on exchange deposits and other market signals to stay ahead of the game. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "FnZGFbJRptw",
+      "youtubeUrl": "https://youtube.com/watch?v=FnZGFbJRptw",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-05T16:05:00.311623+00:00",
+      "uploadedAt": "2026-07-05T16:11:17.680542+00:00",
+      "audioLineDurations": [
+        3.541333333333333,
+        8.682666666666666,
+        4.074666666666666,
+        6.229333333333333,
+        6.933333333333334,
+        4.970666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_3.jpg"
+      ]
     }
   ]
 }
