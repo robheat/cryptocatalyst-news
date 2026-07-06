@@ -7984,6 +7984,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-bitcoin-and-altcoin-exchange-deposits-surge-signaling-market-volatility_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-06-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 06, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Monday, July 06, 2026\n\n1. OVERNIGHT MOVES\n\nA fourth consecutive flat session across the watchlist, but the composition is shifting beneath the surface. BTC $62,919 (+0.5%), ETH $1,770.60 (+0.7%), SOL $80.49 (+0.4%). None moved more than $12 from the prior close. BTC dominance held at 55.7% — unchanged for a seventh consecutive day. No structural level reclaimed: BTC remains $12,081 below the former $75k floor, ETH is $229 off $2k, SOL is holding $80 by exactly $0.49 — a level it has clung to for three sessions after reclaiming it on July 4.\n\nThe trending board has rotated into a new configuration. The Black Bull (ANSEM) leads for a tenth consecutive day — an unprecedented low-cap persistence run with zero vault research that now exceeds any previous streak in this data set. Lighter (LIT) holds at #2 for a second day. Monad (MON) enters as a fresh L1 infrastructure name — first appearance in this data set. Vanar Chain (VANRY) re-enters after a multi-day absence. Pudgy Penguins (PENGU) holds its memecoin slot at #5. Solana (SOL) appears at #6 — its first return since exiting on July 5. Artificial Superintelligence Alliance (FET) enters — the first AI narrative name to appear since Bittensor (TAO) on July 4.\n\nNotable absentees: No Hyperliquid (HYPE) — absent for a fourth session in the last six. No Venice Token (VVV) after its July 5 return. No Bittensor (TAO). No ",
+      "imageUrl": "/images/articles/2026-07-06-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-06-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just hit $62,919, but here's what's really moving in cryptocurrency markets today.",
+        "narration_lines": [
+          "The top cryptocurrencies are barely moving, but smaller coins are shaking things up.",
+          "Black Bull, a tiny cryptocurrency, is on a winning streak - ten days in a row!",
+          "Monad, a new blockchain project, just burst onto the scene for the first time.",
+          "If you're curious, check out these small coins - they might be your next big opportunity.",
+          "But remember, small coins are risky - only invest what you can afford to lose."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "1ca803e9480fe9b1",
+      "scriptText": "Bitcoin just hit $62,919, but here's what's really moving in cryptocurrency markets today. The top cryptocurrencies are barely moving, but smaller coins are shaking things up. Black Bull, a tiny cryptocurrency, is on a winning streak - ten days in a row! Monad, a new blockchain project, just burst onto the scene for the first time. If you're curious, check out these small coins - they might be your next big opportunity. But remember, small coins are risky - only invest what you can afford to lose. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "fTZvBFsLt5Y",
+      "youtubeUrl": "https://youtube.com/watch?v=fTZvBFsLt5Y",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-06T17:40:53.697300+00:00",
+      "uploadedAt": "2026-07-06T17:47:16.494369+00:00",
+      "audioLineDurations": [
+        7.402666666666667,
+        4.906666666666666,
+        4.501333333333333,
+        4.608,
+        4.544,
+        4.565333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years",
+      "title": "Vitalik Buterin: Ethereum's Next Rebuild Will Rival the Merge, Take 3-4 Years",
+      "category": "ethereum",
+      "tags": [
+        "ethereum",
+        "vitalik-buterin",
+        "quantum-safety",
+        "merge",
+        "lean-rebuild",
+        "hegota"
+      ],
+      "articleSummary": "Ethereum co-founder Vitalik Buterin said the next major rebuild will rival the Merge in significance and take 3-4 years. He noted quantum safety has \"shifted up a LOT in priority\" and that the upcoming Hegota hard fork will likely be Ethereum's last \"pre-Lean\" hard fork.",
+      "articleBody": "Ethereum co-founder Vitalik Buterin has stated that the next major rebuild of the Ethereum network will rival the Merge in significance and take 3-4 years to complete. He emphasized that quantum safety has \"shifted up a LOT in priority\" in recent planning.\n\nThe upcoming Hegota hard fork, slated for later this year, is expected to be Ethereum's last \"pre-Lean\" hard fork. Buterin highlighted that this upgrade will focus on improving the network's resistance to potential quantum computing threats, a critical step for long-term security.\n\nFor everyday users, this means continued evolution of Ethereum's infrastructure, potentially leading to better security and scalability. However, such a long development timeline suggests that major improvements may not be visible for several years, though incremental updates will likely continue in the meantime.\n\nThis announcement comes as Ethereum continues to refine its roadmap, with the Lean rebuild representing a fundamental shift in how the network operates. Users and developers should watch for updates on quantum-resistant cryptography and the progress of the Lean rebuild, as these will shape the future of Ethereum's security and functionality.",
+      "imageUrl": "/images/articles/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years",
+      "script": {
+        "hook": "Ethereum's co-founder just warned its next big upgrade could take years, and here's what it means for you.",
+        "narration_lines": [
+          "Vitalik Buterin says the next Ethereum rebuild will be as huge as the Merge, taking 3-4 years.",
+          "This is because quantum safety has shot up in priority, protecting your crypto from future tech threats.",
+          "The upcoming Hegota hard fork later this year might be the last before a major overhaul called 'Lean'.",
+          "For you, this means better security and scalability, but major changes won't happen overnight.",
+          "Keep an eye on quantum-resistant updates, as they'll shape Ethereum's future.",
+          "If you're investing or building on Ethereum, plan for gradual improvements over the next few years."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "67f15eb4604e0c32",
+      "scriptText": "Ethereum's co-founder just warned its next big upgrade could take years, and here's what it means for you. Vitalik Buterin says the next Ethereum rebuild will be as huge as the Merge, taking 3-4 years. This is because quantum safety has shot up in priority, protecting your crypto from future tech threats. The upcoming Hegota hard fork later this year might be the last before a major overhaul called 'Lean'. For you, this means better security and scalability, but major changes won't happen overnight. Keep an eye on quantum-resistant updates, as they'll shape Ethereum's future. If you're investing or building on Ethereum, plan for gradual improvements over the next few years. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ObH3O9c4IFE",
+      "youtubeUrl": "https://youtube.com/watch?v=ObH3O9c4IFE",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-06T17:40:57.448931+00:00",
+      "uploadedAt": "2026-07-06T17:47:18.357796+00:00",
+      "audioLineDurations": [
+        6.058666666666666,
+        6.677333333333333,
+        6.144,
+        5.824,
+        5.8453333333333335,
+        4.608,
+        5.9093333333333335,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-05-vitalik-buterin-ethereums-next-big-upgrade-will-take-3-4-years_bg_3.jpg"
+      ]
     }
   ]
 }
