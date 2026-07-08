@@ -8209,6 +8209,118 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-usdt-returns-to-bitcoin-via-rgb-and-utexo-for-private-lightning-settlements_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-06-usdt-returns-to-bitcoin-via-rgb-and-utexo-for-private-lightning-settlements_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors",
+      "title": "SpaceX Nasdaq-100 Entry Brings Bitcoin Exposure to Passive Index Investors",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "investing",
+        "nasdaq-100",
+        "spacex",
+        "institutional",
+        "passive-investing"
+      ],
+      "articleSummary": "SpaceX joins the Nasdaq-100 today, triggering ~$4.3B in passive inflows to a company holding 18,712 BTC. This creates rules-based institutional demand for Bitcoin through corporate balance sheets.",
+      "articleBody": "SpaceX has officially joined the Nasdaq-100 index today, a milestone that triggers approximately $4.3 billion in passive inflows from index funds and other passive investment vehicles rebalancing their portfolios. This influx is tied to SpaceX's substantial Bitcoin holdings, totaling 18,712 BTC. The inclusion means that passive investors tracking the Nasdaq-100 will now indirectly gain exposure to Bitcoin through their investments in SpaceX.\n\nThe Nasdaq-100 is a major stock market index that includes the top 100 non-financial companies listed on the Nasdaq Stock Market. SpaceX's addition to this index highlights its growing influence and financial performance. The $4.3 billion in passive inflows is a direct result of rules-based index fund rebalancing.\n\nThis development is noteworthy for everyday investors because it represents a new avenue for Bitcoin exposure without directly purchasing the cryptocurrency. Passive investors who track the Nasdaq-100 will now have a stake in Bitcoin through SpaceX's holdings. This could potentially increase the overall demand for Bitcoin as more institutional investors indirectly enter the market.\n\nAdditionally, SpaceX's inclusion in the Nasdaq-100 sets a precedent for other Bitcoin-holding companies. As more corporations add Bitcoin to their balance sheets, they could similarly attract passive investments through major indices. This trend coul",
+      "imageUrl": "/images/articles/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors",
+      "script": {
+        "hook": "Your investment portfolio just got a Bitcoin boost without you lifting a finger.",
+        "narration_lines": [
+          "SpaceX just joined the Nasdaq-100, pulling in $4.3 billion for a company that holds 18,712 Bitcoins.",
+          "If you invest in Nasdaq-100 index funds, you now own a piece of Bitcoin too, even if you never bought any.",
+          "This is like getting free crypto exposure just by owning a slice of the stock market.",
+          "SpaceX's move could encourage other big companies to add Bitcoin to their balance sheets, increasing demand.",
+          "For everyday investors, this means more indirect ways to get into cryptocurrency without the hassle of buying it directly."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "67c40932a7e4a580",
+      "scriptText": "Your investment portfolio just got a Bitcoin boost without you lifting a finger. SpaceX just joined the Nasdaq-100, pulling in $4.3 billion for a company that holds 18,712 Bitcoins. If you invest in Nasdaq-100 index funds, you now own a piece of Bitcoin too, even if you never bought any. This is like getting free crypto exposure just by owning a slice of the stock market. SpaceX's move could encourage other big companies to add Bitcoin to their balance sheets, increasing demand. For everyday investors, this means more indirect ways to get into cryptocurrency without the hassle of buying it directly. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "l-1oueN7LZo",
+      "youtubeUrl": "https://youtube.com/watch?v=l-1oueN7LZo",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-08T16:28:44.309010+00:00",
+      "uploadedAt": "2026-07-08T16:35:41.240129+00:00",
+      "audioLineDurations": [
+        4.629333333333333,
+        9.301333333333334,
+        7.04,
+        5.12,
+        6.528,
+        7.381333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-spacex-joins-nasdaq-100-unlocking-bitcoin-exposure-for-investors_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network",
+      "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "lightning-network",
+        "defi",
+        "polymarket",
+        "self-custody",
+        "spark"
+      ],
+      "articleSummary": "Polymarket has enabled instant self-custodial Bitcoin deposits via the Lightning Network using Spark. This feature allows users to deposit Bitcoin directly from their self-custodial wallets without relying on centralized exchanges.",
+      "articleBody": "Polymarket has introduced a new feature that enables instant Bitcoin deposits through the Lightning Network. This development, powered by Spark, allows users to deposit Bitcoin directly from their self-custodial wallets without the need for traditional exchange processes.\n\nThe integration with Spark ensures that users can deposit Bitcoin quickly and securely. Spark's technology facilitates seamless transactions on the Lightning Network, which is known for its low fees and fast settlement times. This move is part of Polymarket's effort to enhance user experience and promote self-custody in the decentralized finance (DeFi) space.\n\nFor everyday users, this means greater control over their funds and faster access to prediction markets. Users no longer need to rely on centralized exchanges to deposit Bitcoin, reducing the risk of hacks or delays. This feature is particularly beneficial for those who prioritize financial sovereignty and quick access to DeFi services.\n\nTo take advantage of this new feature, users can connect their Lightning Network wallets to Polymarket and start depositing Bitcoin instantly. This development is a significant step towards making DeFi more accessible and user-friendly. Users should watch for further integrations and enhancements that could expand the utility of self-custodial Bitcoin in DeFi.",
+      "imageUrl": "/images/articles/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network",
+      "script": {
+        "hook": "Your Bitcoin can now move instantly into prediction markets without an exchange.",
+        "narration_lines": [
+          "Polymarket just enabled Bitcoin deposits via the Lightning Network using Spark.",
+          "This means you can deposit Bitcoin directly from your own wallet, no exchange needed.",
+          "Lightning Network transactions are fast and cheap, so your funds move in seconds.",
+          "For example, you can bet on sports or politics markets right away with your own Bitcoin.",
+          "No more waiting for exchanges or worrying about hacks—you stay in control.",
+          "Just connect your Lightning wallet to Polymarket and start using your Bitcoin instantly."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "de33d2331bbc76b7",
+      "scriptText": "Your Bitcoin can now move instantly into prediction markets without an exchange. Polymarket just enabled Bitcoin deposits via the Lightning Network using Spark. This means you can deposit Bitcoin directly from your own wallet, no exchange needed. Lightning Network transactions are fast and cheap, so your funds move in seconds. For example, you can bet on sports or politics markets right away with your own Bitcoin. No more waiting for exchanges or worrying about hacks—you stay in control. Just connect your Lightning wallet to Polymarket and start using your Bitcoin instantly. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "20eVNNyacLo",
+      "youtubeUrl": "https://youtube.com/watch?v=20eVNNyacLo",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-08T16:28:52.580151+00:00",
+      "uploadedAt": "2026-07-08T16:35:43.510038+00:00",
+      "audioLineDurations": [
+        4.48,
+        5.397333333333333,
+        5.077333333333334,
+        4.8853333333333335,
+        5.376,
+        4.672,
+        4.864,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_3.jpg"
+      ]
     }
   ]
 }
