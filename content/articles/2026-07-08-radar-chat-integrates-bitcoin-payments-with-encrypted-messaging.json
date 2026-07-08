@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-08-radar-chat-integrates-bitcoin-payments-with-encrypted-messaging",
+  "title": "Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text",
+  "summary": "Built on Signal’s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.",
+  "body": "Radar Chat has launched an app that merges encrypted messaging with Bitcoin payments, leveraging the Lightning Network for fast and low-cost transactions. Built on Signal’s open-source technology, the app aims to simplify Bitcoin payments, making them as straightforward as sending a text message.\n\nThe app allows users to send and receive Bitcoin directly within the chat interface, ensuring that transactions are both secure and private. Radar Chat emphasizes self-custody, meaning users have full control over their Bitcoin without relying on third-party intermediaries. The integration with the Lightning Network enables near-instant transactions with minimal fees, addressing common pain points associated with traditional Bitcoin transfers.\n\nFor everyday users, Radar Chat could make Bitcoin more accessible and practical for daily use. By combining the familiarity of messaging apps with the financial capabilities of Bitcoin, the app lowers the barrier to entry for those new to cryptocurrency. This could encourage more people to use Bitcoin for everyday transactions, such as paying friends or making small purchases.\n\nUsers interested in trying Radar Chat can download the app and start sending Bitcoin payments securely. The app is designed to be user-friendly, making it a good option for both beginners and experienced Bitcoin users. As the adoption of Bitcoin continues to grow, apps like Radar Chat could play a significant role in mainstreaming its use.",
+  "sourceUrl": "https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "lightning-network",
+    "encrypted-messaging",
+    "privacy",
+    "payments",
+    "radar-chat"
+  ],
+  "publishedAt": "2026-07-08T13:47:38.756186+00:00",
+  "imageUrl": "/images/articles/2026-07-08-radar-chat-integrates-bitcoin-payments-with-encrypted-messaging.webp",
+  "twitterThread": [
+    "Imagine sending Bitcoin as easily as sending a text. Radar Chat makes it possible with encrypted messaging and Lightning Network payments. 🚀",
+    "Built on Signal’s open-source tech, Radar Chat lets you send Bitcoin directly in chats. Self-custody + fast, cheap transactions. Privacy first. 🔒",
+    "Want to try? Download Radar Chat and start sending Bitcoin securely. No middlemen, just you and your friends. Read more → https://cryptocatalyst.news/articles/2026-07-08-radar-chat-integrates-bitcoin-payments-with-encrypted-messaging"
+  ],
+  "standaloneTweet": "Radar Chat lets you send Bitcoin as easily as a text message. Built on Signal’s tech, it combines encrypted messaging with Lightning Network payments. 🚀🔒"
+}

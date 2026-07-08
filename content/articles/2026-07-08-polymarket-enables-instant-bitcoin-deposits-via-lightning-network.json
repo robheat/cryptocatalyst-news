@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network",
+  "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
+  "summary": "Polymarket has enabled instant self-custodial Bitcoin deposits via the Lightning Network using Spark. This feature allows users to deposit Bitcoin directly from their self-custodial wallets without relying on centralized exchanges.",
+  "body": "Polymarket has introduced a new feature that enables instant Bitcoin deposits through the Lightning Network. This development, powered by Spark, allows users to deposit Bitcoin directly from their self-custodial wallets without the need for traditional exchange processes.\n\nThe integration with Spark ensures that users can deposit Bitcoin quickly and securely. Spark's technology facilitates seamless transactions on the Lightning Network, which is known for its low fees and fast settlement times. This move is part of Polymarket's effort to enhance user experience and promote self-custody in the decentralized finance (DeFi) space.\n\nFor everyday users, this means greater control over their funds and faster access to prediction markets. Users no longer need to rely on centralized exchanges to deposit Bitcoin, reducing the risk of hacks or delays. This feature is particularly beneficial for those who prioritize financial sovereignty and quick access to DeFi services.\n\nTo take advantage of this new feature, users can connect their Lightning Network wallets to Polymarket and start depositing Bitcoin instantly. This development is a significant step towards making DeFi more accessible and user-friendly. Users should watch for further integrations and enhancements that could expand the utility of self-custodial Bitcoin in DeFi.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/polymarket-turns-instant-bitcoin-deposits",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "lightning-network",
+    "defi",
+    "polymarket",
+    "self-custody",
+    "spark"
+  ],
+  "publishedAt": "2026-07-08T13:48:10.127406+00:00",
+  "imageUrl": "/images/articles/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network.webp",
+  "twitterThread": [
+    "Polymarket just turned on instant Bitcoin deposits via the Lightning Network, powered by Spark. No more waiting around for transactions to clear!",
+    "This feature lets you deposit Bitcoin directly from your self-custodial wallet. Fast, secure, and no middlemen.",
+    "Want in? Connect your Lightning wallet to Polymarket and start trading instantly. Read more → https://cryptocatalyst.news/articles/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network"
+  ],
+  "standaloneTweet": "Polymarket now lets you deposit Bitcoin in seconds via the Lightning Network, powered by Spark. No exchanges, no delays—just instant, self-custodial DeFi access."
+}
