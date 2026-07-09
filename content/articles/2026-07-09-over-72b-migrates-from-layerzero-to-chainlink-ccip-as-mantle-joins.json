@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-09-over-72b-migrates-from-layerzero-to-chainlink-ccip-as-mantle-joins",
+  "title": "Over $7.2B Migrates from LayerZero to Chainlink CCIP as Mantle Joins Exodus",
+  "summary": "Over $7.2 billion in assets have moved from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP), with Mantle being the latest to join. Major projects like Kelp and Lombard each brought over $1 billion, while Solv Protocol, Virtuals, Re, and Kraken's tokenized assets have also migrated.",
+  "body": "A significant shift is happening in the blockchain interoperability space as over $7.2 billion in assets have migrated from LayerZero to Chainlink's Cross-Chain Interoperability Protocol (CCIP). This exodus includes major players like Kelp and Lombard, each contributing over $1 billion in assets. Solv Protocol, Virtuals, Re, and Kraken's tokenized assets have also made the switch. Mantle, a prominent blockchain network, has recently joined this migration.\n\nThe migration highlights a growing preference for Chainlink's CCIP, which offers secure and reliable cross-chain communication. This move is seen as a vote of confidence in Chainlink's technology and its ability to provide robust interoperability solutions.\n\nFor everyday users, this shift could mean more secure and efficient cross-chain transactions. As more projects adopt CCIP, users may experience better integration and lower risks when moving assets between different blockchain networks. This could also lead to increased adoption of decentralized finance (DeFi) applications that rely on cross-chain functionality.\n\nLooking ahead, it will be important to watch how LayerZero responds to this exodus. Will they introduce new features or partnerships to retain users? Additionally, users should keep an eye on any announcements from Chainlink regarding further enhancements to CCIP, as this could drive even more migration in the future.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "cross-chain",
+    "interoperability",
+    "migration",
+    "chainlink",
+    "layerzero",
+    "mantle"
+  ],
+  "publishedAt": "2026-07-09T13:12:42.030357+00:00",
+  "imageUrl": "/images/articles/2026-07-09-over-72b-migrates-from-layerzero-to-chainlink-ccip-as-mantle-joins.webp",
+  "twitterThread": [
+    "Over $7.2B in assets have moved from LayerZero to Chainlink CCIP, with Mantle being the latest to join. What's driving this shift?",
+    "Major projects like Kelp and Lombard, each bringing over $1B, along with Solv Protocol, Virtuals, Re, and Kraken's tokenized assets, are switching to Chainlink's CCIP for secure cross-chain communication.",
+    "This could mean more secure and efficient transactions for users. Watch for LayerZero's response and further CCIP enhancements. Read more → https://cryptocatalyst.news/articles/2026-07-09-over-72b-migrates-from-layerzero-to-chainlink-ccip-as-mantle-joins"
+  ],
+  "standaloneTweet": "Over $7.2B in crypto assets are moving from LayerZero to Chainlink's CCIP, with Mantle joining the exodus. What does this mean for your cross-chain transactions?"
+}

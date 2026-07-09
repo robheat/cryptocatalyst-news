@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-09-glyph-a-blockchain-that-uses-ai-inference-for-proof-of-work",
+  "title": "Glyph: A Blockchain That Uses AI Inference for Proof-of-Work",
+  "summary": "A new blockchain called Glyph repurposes mining power to run AI inference tasks instead of solving meaningless math problems. The project is live on GitHub and invites developers to test and attack its claims.",
+  "body": "A developer has created Glyph, a blockchain that replaces traditional proof-of-work with neural network inference. Instead of miners solving SHA-256 hashes, they perform AI computations, turning mining hardware into general-purpose AI processors. The project aims to make blockchain mining more useful by leveraging AI workloads.\n\nGlyph is currently live on GitHub, and the developer has addressed several technical challenges to make it work. The project invites the community to test its claims and file issues if any vulnerabilities or flaws are found. This approach could make blockchain mining more productive by repurposing the massive computational power for AI tasks.\n\nFor everyday users, this innovation could mean more efficient and purposeful mining operations. Instead of wasting energy on cryptographic puzzles, miners contribute to AI research and applications. This could lead to faster advancements in AI technology and more sustainable blockchain networks.\n\nThe project is still in its early stages, and the developer is looking for feedback and potential improvements. If successful, Glyph could set a new standard for blockchain mining, making it more relevant and beneficial to the broader tech community. Keep an eye on the GitHub repository for updates and community discussions.",
+  "sourceUrl": "https://github.com/raphaelwkago69-create/GLYPH",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "blockchain",
+    "ai",
+    "proof-of-work",
+    "mining",
+    "glyph",
+    "github"
+  ],
+  "publishedAt": "2026-07-09T13:11:38.176737+00:00",
+  "imageUrl": "/images/articles/2026-07-09-glyph-a-blockchain-that-uses-ai-inference-for-proof-of-work.webp",
+  "twitterThread": [
+    "Imagine a blockchain where mining powers AI instead of solving pointless math problems. Meet Glyph, a new project turning miners into AI processors.",
+    "Glyph replaces traditional proof-of-work with neural network inference. Miners contribute to AI research, making blockchain mining more useful and sustainable.",
+    "Check out the live GitHub repo and help test its claims. If you break something, file an issue. Read more → https://cryptocatalyst.news/articles/2026-07-09-glyph-a-blockchain-that-uses-ai-inference-for-proof-of-work"
+  ],
+  "standaloneTweet": "Glyph is a blockchain that uses AI inference for mining, turning wasted computation into useful AI research. Check it out on GitHub!"
+}
