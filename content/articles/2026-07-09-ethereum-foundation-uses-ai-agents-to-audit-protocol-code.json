@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-09-ethereum-foundation-uses-ai-agents-to-audit-protocol-code",
+  "title": "Ethereum Foundation Uses AI Agents to Audit Protocol Code",
+  "summary": "The Ethereum Foundation's Protocol Security team is using AI agents to review the blockchain's code. This approach helps identify vulnerabilities and improve security across different Ethereum clients.",
+  "body": "The Ethereum Foundation's Protocol Security team has begun using AI agents to audit the blockchain's protocol code. This initiative aims to enhance the security and reliability of Ethereum by systematically reviewing the code for potential vulnerabilities. The team has shared their initial findings and methodologies in a recent blog post, highlighting how they organize the work and what aspects of the code hold up under scrutiny.\n\nThe team has been running coordinated AI agents against real protocol code to identify issues that might not be immediately apparent to human reviewers. They have found that this approach helps in catching subtle bugs and inconsistencies, which are critical for maintaining the integrity of the Ethereum network. The blog post also provides insights into how client teams and security researchers can benefit from this method, emphasizing the importance of organized and systematic code reviews.\n\nThis development is significant for everyday users because it means that the Ethereum network is becoming more secure and reliable. As AI agents continue to review and improve the protocol code, users can expect fewer bugs and a more stable blockchain experience. This initiative is part of a broader effort to ensure that Ethereum remains a robust and trustworthy platform for decentralized applications and transactions.\n\nThe Ethereum Foundation plans to publish more detailed posts in the future, delving deeper into the specific findings and methodologies used by the Protocol Security team. Users and developers interested in the security of the Ethereum network should keep an eye out for these updates, as they will provide valuable insights into the ongoing efforts to maintain and improve the blockchain's protocol code.",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/07/09/triage-is-the-product",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "ai",
+    "protocol",
+    "security",
+    "blockchain",
+    "code-audit"
+  ],
+  "publishedAt": "2026-07-09T21:23:55.304006+00:00",
+  "imageUrl": "/images/articles/2026-07-09-ethereum-foundation-uses-ai-agents-to-audit-protocol-code.webp",
+  "twitterThread": [
+    "The Ethereum Foundation's Protocol Security team is running coordinated AI agents against real protocol code to catch subtle bugs and improve security across clients.",
+    "The team shares how they organize the work, what holds up under scrutiny, and what client teams and security researchers can take from it. This post stands on its own; deeper posts will follow.",
+    "This initiative means a more secure Ethereum for users. Watch for future posts from the team for deeper insights. Read more → https://cryptocatalyst.news/articles/2026-07-09-ethereum-foundation-uses-ai-agents-to-audit-protocol-code"
+  ],
+  "standaloneTweet": "The Ethereum Foundation's Protocol Security team is running coordinated AI agents against real protocol code to catch subtle bugs and improve security across clients. A big step forward for blockchain safety."
+}
