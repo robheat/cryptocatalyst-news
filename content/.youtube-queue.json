@@ -8321,6 +8321,121 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-polymarket-enables-instant-bitcoin-deposits-via-lightning-network_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-08-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 08, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Wednesday, July 08, 2026\n\n1. OVERNIGHT MOVES\n\nA coordinated red session with clear compositional divergence. BTC $61,985 (–1.6%) — back below $62k after reclaiming it on Saturday, now $13,015 below the former $75k floor. ETH $1,730.72 (–2.1%) gave back all of Monday's gain, losing the $1,770 handle. SOL $77.20 (–5.0%) is the standout underperformer — the largest single-day loss since June 26, and the first time SOL has led the downside since the decoupling began on June 26. BTC dominance ticked up to 56.0% from 55.8% yesterday, the first increase in four sessions. The compositional signal is unambiguous: SOL's six-session relative-strength run has snapped, and capital is flowing back into BTC proportionally faster than alts. No structural level reclaimed — BTC remains deep in no-man's land, ETH is $269 off $2k, SOL is $2.80 below $80 after holding it for four sessions.\n\nThe trending board has rotated sharply. Cash Cat (CASHCAT) leads — a low-cap entry with zero vault research. The Black Bull (ANSEM) persists at #2 for a twelfth consecutive day. LAB (LAB) re-enters after appearing on July 5. EVAA Protocol (EVAA) is a fresh DeFi infrastructure name — first appearance in this data set. Lighter (LIT) holds at #5. Grass (GRASS) enters — a DePIN wireless network token, first appearance. Pudgy Penguins (PENGU) rounds out the top seven. Notable absentees: no Solana (SOL",
+      "imageUrl": "/images/articles/2026-07-08-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-08-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just dropped back below 62 thousand dollars, wiping out last weekend's gains.",
+        "narration_lines": [
+          "This means if you bought last week, you're now in the red.",
+          "Solana took the biggest hit, down 5% in one day.",
+          "Money's flowing back into Bitcoin faster than other cryptocurrencies.",
+          "For example, Ethereum is now 269 dollars away from its 2,000 dollar mark.",
+          "If you're investing, watch these shifts closely - they show where money's moving.",
+          "Start small and learn how these trends can affect your cryptocurrency portfolio."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "239cf14544a8f678",
+      "scriptText": "Bitcoin just dropped back below 62 thousand dollars, wiping out last weekend's gains. This means if you bought last week, you're now in the red. Solana took the biggest hit, down 5% in one day. Money's flowing back into Bitcoin faster than other cryptocurrencies. For example, Ethereum is now 269 dollars away from its 2,000 dollar mark. If you're investing, watch these shifts closely - they show where money's moving. Start small and learn how these trends can affect your cryptocurrency portfolio. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "gD4Qm6_UDsw",
+      "youtubeUrl": "https://youtube.com/watch?v=gD4Qm6_UDsw",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-09T17:20:38.583288+00:00",
+      "uploadedAt": "2026-07-09T17:27:47.963912+00:00",
+      "audioLineDurations": [
+        5.461333333333333,
+        2.8586666666666667,
+        3.477333333333333,
+        4.074666666666666,
+        7.296,
+        4.032,
+        4.416,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-08-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks",
+      "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
+      "category": "general",
+      "tags": [
+        "swift",
+        "blockchain",
+        "payments",
+        "banks",
+        "tokenized-assets"
+      ],
+      "articleSummary": "HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.",
+      "articleBody": "Swift, the global financial messaging network, has launched a new blockchain-based ledger designed to enable 24/7 banking transactions. The initiative involves 17 major banks, including HSBC, UBS, Wells Fargo, and Citi, which are preparing to pilot live transactions using tokenized digital assets on the platform.\n\nThe new platform leverages blockchain technology to enhance the speed and efficiency of cross-border payments. Swift's blockchain ledger aims to reduce settlement times and improve transparency, making it easier for banks to conduct transactions outside of traditional banking hours. The pilot program will span six continents, demonstrating the global reach and potential impact of this innovation.\n\nFor everyday people, this development could mean faster and more reliable international money transfers. Currently, cross-border payments can take days and involve high fees. With 24/7 blockchain-based transactions, users might see quicker settlements and lower costs, especially for remittances and business transactions.\n\nThe pilot program is set to begin shortly, with Swift and the participating banks closely monitoring the results. If successful, this could pave the way for widespread adoption of blockchain technology in the traditional banking sector. Users should watch for announcements from their banks about potential improvements in international payment services.",
+      "imageUrl": "/images/articles/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks",
+      "script": {
+        "hook": "Your international money transfers could soon get faster and cheaper thanks to a new blockchain system from Swift.",
+        "narration_lines": [
+          "Seventeen global banks, including HSBC and Wells Fargo, are testing 24/7 cryptocurrency transactions on a new blockchain platform.",
+          "This could mean quicker settlements and lower fees for your international payments, especially for remittances and business deals.",
+          "Imagine sending money to family overseas or paying a supplier without waiting days or paying high fees.",
+          "Swift's blockchain ledger aims to reduce settlement times and improve transparency, making banking more efficient.",
+          "If successful, this pilot could lead to widespread adoption of blockchain technology in traditional banking.",
+          "Keep an eye out for updates from your bank about potential improvements in international payment services."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 118
+      },
+      "scriptHash": "dff3b43b6432b1ac",
+      "scriptText": "Your international money transfers could soon get faster and cheaper thanks to a new blockchain system from Swift. Seventeen global banks, including HSBC and Wells Fargo, are testing 24/7 cryptocurrency transactions on a new blockchain platform. This could mean quicker settlements and lower fees for your international payments, especially for remittances and business deals. Imagine sending money to family overseas or paying a supplier without waiting days or paying high fees. Swift's blockchain ledger aims to reduce settlement times and improve transparency, making banking more efficient. If successful, this pilot could lead to widespread adoption of blockchain technology in traditional banking. Keep an eye out for updates from your bank about potential improvements in international payment services. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "etNE3XnhTFs",
+      "youtubeUrl": "https://youtube.com/watch?v=etNE3XnhTFs",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-09T17:20:41.290796+00:00",
+      "uploadedAt": "2026-07-09T17:27:49.745255+00:00",
+      "audioLineDurations": [
+        6.8053333333333335,
+        10.154666666666667,
+        7.210666666666667,
+        6.570666666666667,
+        6.8053333333333335,
+        6.272,
+        5.866666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-09-swift-launches-247-blockchain-payments-with-17-global-banks_bg_3.jpg"
+      ]
     }
   ]
 }
