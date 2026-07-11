@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-11-31-of-ethereum-nodes-in-the-us-raising-decentralization-concerns",
+  "title": "31% of Ethereum Nodes in the US, Raising Decentralization Concerns",
+  "summary": "A new study reveals that 31% of Ethereum's node activity is based in the US, primarily on three cloud providers. If a third of these nodes go offline, it could disrupt the network's finalization process.",
+  "body": "Research from Cambridge University has found that 31% of Ethereum's node activity is concentrated in the United States. These nodes are primarily hosted on three major cloud providers: Amazon Web Services (AWS), Hetzner, and OVH. This concentration raises concerns about the network's decentralization and potential vulnerabilities.\n\nThe study highlights that a significant portion of Ethereum's infrastructure relies on just a few providers. If a third of these nodes were to go offline—whether due to technical issues, regulatory actions, or other disruptions—it could stall the network's finalization process, which is crucial for confirming transactions and maintaining network security.\n\nFor everyday users, this means that Ethereum's security and efficiency could be at risk if these nodes are compromised or taken offline. It underscores the importance of decentralization in blockchain networks, as reliance on a few providers can create single points of failure.\n\nThe findings also raise jurisdictional questions. If a significant portion of Ethereum's infrastructure is based in the US, it could be subject to regulatory actions or legal challenges that might impact the global network. Users and developers should be aware of these risks and consider supporting more decentralized node hosting solutions.\n\nMoving forward, the community may need to focus on diversifying node locations and providers to ensure the network's resilience. Users can contribute by running their own nodes or supporting initiatives that promote decentralization. Watch for further developments in node distribution and regulatory discussions around Ethereum's infrastructure.",
+  "sourceUrl": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "decentralization",
+    "node",
+    "research",
+    "cloud",
+    "security"
+  ],
+  "publishedAt": "2026-07-11T13:49:53.571742+00:00",
+  "imageUrl": "/images/articles/2026-07-11-31-of-ethereum-nodes-in-the-us-raising-decentralization-concerns.webp",
+  "twitterThread": [
+    "31% of Ethereum nodes are in the US, mostly on AWS, Hetzner, and OVH. If a third go offline, finalization could stall. 🚨",
+    "This concentration raises big risks for Ethereum's security and decentralization. A few providers control a lot of the network's infrastructure.",
+    "To reduce risk, consider running your own node or supporting decentralized hosting. Read more → https://cryptocatalyst.news/articles/2026-07-11-31-of-ethereum-nodes-in-the-us-raising-decentralization-concerns"
+  ],
+  "standaloneTweet": "31% of Ethereum nodes are in the US, mostly on AWS, Hetzner, and OVH. If a third go offline, finalization could stall. Decentralization matters!"
+}

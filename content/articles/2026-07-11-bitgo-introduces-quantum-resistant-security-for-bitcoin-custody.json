@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-11-bitgo-introduces-quantum-resistant-security-for-bitcoin-custody",
+  "title": "BitGo Adds Quantum-Risk Controls to Bitcoin Custody",
+  "summary": "BitGo launched new quantum-risk tools that help institutional Bitcoin holders identify and reduce potential future quantum-computing exposure in their custody wallets.",
+  "body": "BitGo, a major player in institutional Bitcoin custody, has launched new quantum-risk management tools. These tools are designed to help large-scale Bitcoin holders identify and mitigate potential vulnerabilities in their custody wallets that could be exploited by future quantum computers.\n\nThe new controls include advanced algorithms and risk assessment features that evaluate the quantum resistance of private keys. BitGo's update follows growing concerns in the crypto community about the potential impact of quantum computing on cryptographic security. The company aims to provide peace of mind to institutional investors by offering proactive protection against this emerging threat.\n\nFor everyday Bitcoin users, this development underscores the importance of security in the crypto space. While quantum computers capable of breaking current cryptographic standards are not yet a reality, the proactive steps taken by BitGo highlight the need for continuous innovation in security measures. Institutional investors and high-net-worth individuals using BitGo's services can now rest easier knowing their assets are protected against future quantum threats.\n\nBitcoin holders who use BitGo's custody services should take advantage of these new tools to assess and upgrade their security measures. For those not using BitGo, this news serves as a reminder to stay informed about advancements in quantum computing and their potential impact on crypto security. Keep an eye on further developments in this area as quantum technology continues to evolve.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/bitgo-adds-quantum-risk-controls-bitcoin",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "custody",
+    "quantum",
+    "security",
+    "institutional",
+    "bitgo"
+  ],
+  "publishedAt": "2026-07-11T13:50:33.569533+00:00",
+  "imageUrl": "/images/articles/2026-07-11-bitgo-introduces-quantum-resistant-security-for-bitcoin-custody.webp",
+  "twitterThread": [
+    "BitGo just added quantum-risk controls to its Bitcoin custody services. Institutional investors can now identify and reduce potential future quantum-computing exposure in their custody wallets.",
+    "These new tools assess and mitigate vulnerabilities in custody wallets that could be exploited by quantum computers. A proactive step in the evolving crypto security landscape.",
+    "If you're using BitGo for custody, check out these new quantum-risk tools. For others, stay informed about quantum computing's impact on crypto security. Read more → https://cryptocatalyst.news/articles/2026-07-11-bitgo-introduces-quantum-resistant-security-for-bitcoin-custody"
+  ],
+  "standaloneTweet": "BitGo's new quantum-risk controls for Bitcoin custody help institutional holders identify and reduce potential future quantum-computing exposure. Are you prepared?"
+}
