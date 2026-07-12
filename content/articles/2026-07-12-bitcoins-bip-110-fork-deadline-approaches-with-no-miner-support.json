@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-12-bitcoins-bip-110-fork-deadline-approaches-with-no-miner-support",
+  "title": "Bitcoin's BIP 110 Fork Deadline Nears with Miner Support at Zero",
+  "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+  "body": "Bitcoin's BIP 110 proposal, which would temporarily cap the amount of arbitrary data that can be stored on the Bitcoin blockchain, is nearing its fork deadline. The proposal aims to address spam issues by limiting data storage for a year, but it has faced significant opposition from prominent figures in the crypto community.\n\nKey opponents, including Michael Saylor and Adam Back, argue that turning a spam dispute into a consensus fight could create a bigger risk than the spam itself. Notably, the proposal has garnered zero support from Bitcoin miners, casting doubt on its implementation. The lack of miner backing is a critical hurdle, as miners play a pivotal role in determining which changes are adopted on the Bitcoin network.\n\nThis situation matters to everyday Bitcoin users because it highlights the ongoing debate over how to manage the blockchain's resources. A contentious fork could lead to network instability or a split in the community, which could affect the value and usability of Bitcoin. The proposal's failure to gain miner support suggests that the community may prefer alternative solutions to address spam issues without resorting to a hard fork.\n\nAs the deadline approaches, all eyes are on the Bitcoin community to see how they will resolve this issue. Users should watch for any last-minute developments or statements from key stakeholders that could influence the outcome. The lack of miner support indicates that the proposal may not move forward, but the debate over blockchain governance and spam management is far from over.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bip-110",
+    "fork",
+    "miners",
+    "spam",
+    "governance"
+  ],
+  "publishedAt": "2026-07-12T13:30:45.234246+00:00",
+  "imageUrl": "/images/articles/2026-07-12-bitcoins-bip-110-fork-deadline-approaches-with-no-miner-support.webp",
+  "twitterThread": [
+    "Bitcoin's BIP 110 proposal to cap arbitrary data is nearing its deadline with zero miner support. Key figures like Michael Saylor and Adam Back say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+    "The proposal would limit data storage on Bitcoin for a year, but opponents argue it could create more problems than it solves. Miners, who decide on forks, are not backing it.",
+    "With the deadline approaching, watch for last-minute developments. The lack of miner support suggests the proposal may not go forward, but the debate over blockchain governance continues. Read more → https://cryptocatalyst.news/articles/2026-07-12-bitcoins-bip-110-fork-deadline-approaches-with-no-miner-support"
+  ],
+  "standaloneTweet": "Bitcoin's BIP 110 proposal to cap arbitrary data is facing opposition from key figures like Michael Saylor and Adam Back, with zero miner support as the deadline nears. They say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself."
+}

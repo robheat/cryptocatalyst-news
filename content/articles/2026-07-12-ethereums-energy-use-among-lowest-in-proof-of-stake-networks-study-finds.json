@@ -1,0 +1,24 @@
+{
+  "slug": "2026-07-12-ethereums-energy-use-among-lowest-in-proof-of-stake-networks-study-finds",
+  "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+  "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
+  "body": "A recent study by the Cambridge Centre for Alternative Finance has found that Ethereum's annual energy consumption stands at 7.87 gigawatt-hours (GWh). This places Ethereum near the lower end of energy intensity among proof-of-stake (PoS) networks, making it one of the most energy-efficient blockchains.\n\nThe study highlights that Ethereum has the second-lowest market-value-adjusted energy intensity among the PoS networks analyzed. This is a significant achievement, especially considering Ethereum's large market capitalization and widespread use. The transition from proof-of-work (PoW) to PoS in 2022, known as 'the Merge,' drastically reduced Ethereum's energy consumption, aligning it with more sustainable practices.\n\nFor everyday users, this means that using Ethereum for transactions, smart contracts, and decentralized applications (dApps) is increasingly environmentally friendly. As concerns about the environmental impact of blockchain technology grow, Ethereum's efficiency could make it a more attractive option for both developers and users who prioritize sustainability.\n\nLooking ahead, the study suggests that other blockchains could learn from Ethereum's transition to PoS. As more networks adopt similar energy-efficient protocols, the overall environmental impact of blockchain technology could continue to decrease. Users and developers should keep an eye on future studies and updates from Cambridge and other research institutions to stay informed about the latest developments in sustainable blockchain technology.",
+  "sourceUrl": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "energy",
+    "sustainability",
+    "proof-of-stake",
+    "blockchain"
+  ],
+  "publishedAt": "2026-07-12T13:32:57.807258+00:00",
+  "imageUrl": "/images/articles/2026-07-12-ethereums-energy-use-among-lowest-in-proof-of-stake-networks-study-finds.webp",
+  "twitterThread": [
+    "Cambridge study: Ethereum consumes 7.87 GWh annually, near the lower end of PoS energy intensity.",
+    "Ethereum has the second-lowest market-value-adjusted energy intensity among PoS networks studied. The Merge in 2022 made this possible.",
+    "If you care about sustainability, Ethereum's efficiency is a big win. Watch for more updates on blockchain energy use → https://cryptocatalyst.news/articles/2026-07-12-ethereums-energy-use-among-lowest-in-proof-of-stake-networks-study-finds"
+  ],
+  "standaloneTweet": "Cambridge study: Ethereum uses 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among PoS networks. Great news for eco-conscious crypto users!"
+}
