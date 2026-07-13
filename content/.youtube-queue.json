@@ -8769,6 +8769,121 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-11-31-of-ethereum-nodes-in-the-us-raising-decentralization-concerns_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-11-31-of-ethereum-nodes-in-the-us-raising-decentralization-concerns_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-13-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 13, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "research",
+        "solana"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Monday, July 13, 2026\n\n1. OVERNIGHT MOVES\n\nThe watchlist prints a mild pullback, erasing Friday's gains. BTC $63,047 (-1.2%) — back below $63,200 after reclaiming it on Saturday, now $11,953 below the former $75k floor. ETH $1,785.20 (-0.8%) gave back the $1,800 handle it held for two sessions, now $215 shy of $2k. SOL $76.58 (flat) remains the laggard, unchanged from Sunday's close, extending the relative weakness that began July 10. BTC dominance ticked down to 56.1% from 56.3% on Sunday — the first decline in four sessions, marginal but directionally consistent with a mild rotation away from BTC. Volume across all three is below average. No structural level reclaimed.\n\nThe trending board has rotated back. ADI (ADI) enters at #1 — a completely fresh low-cap name with zero vault research. Cash Cat (CASHCAT) persists at #2 for a sixth consecutive day. LAB (LAB) re-enters at #3 after a brief absence. DeXe (DEXE) is a fresh governance/DAO infrastructure entry — first appearance. Velvet (VELVET) returns. Pudgy Penguins (PENGU) holds its single meme slot at #6. The Black Bull (ANSEM) returns at #7 after a single-session absence — the longest low-cap run in the data set (15 consecutive days) ended yesterday, but the re-entry after just one day of absence is the key compositional signal.\n\n2. NARRATIVE PULSE\n\nTwo structural shifts beneath the stale tape:\nANSEM's return",
+      "imageUrl": "/images/articles/2026-07-13-crypto-research-morning-brief.png",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-13-crypto-research-morning-brief",
+      "script": {
+        "hook": "Bitcoin just lost over a thousand dollars in value overnight, and it's not alone.",
+        "narration_lines": [
+          "Bitcoin dropped 1.2% to $63,047, wiping out Friday's gains, and Ethereum fell 0.8% to $1,785.20.",
+          "This means if you held $1,000 worth of Bitcoin on Friday, you'd have about $90 less today.",
+          "The market is seeing a mild rotation away from Bitcoin, with its dominance dropping slightly to 56.1%.",
+          "New cryptocurrencies like ADI and DeXe are gaining attention, showing a shift in investor interest.",
+          "If you're investing, keep an eye on these trends and consider diversifying your holdings.",
+          "Remember, market fluctuations are normal, and this could be a good time to buy at lower prices."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "9cb32672cd8d9388",
+      "scriptText": "Bitcoin just lost over a thousand dollars in value overnight, and it's not alone. Bitcoin dropped 1.2% to $63,047, wiping out Friday's gains, and Ethereum fell 0.8% to $1,785.20. This means if you held $1,000 worth of Bitcoin on Friday, you'd have about $90 less today. The market is seeing a mild rotation away from Bitcoin, with its dominance dropping slightly to 56.1%. New cryptocurrencies like ADI and DeXe are gaining attention, showing a shift in investor interest. If you're investing, keep an eye on these trends and consider diversifying your holdings. Remember, market fluctuations are normal, and this could be a good time to buy at lower prices. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "gZ0T4K9hq50",
+      "youtubeUrl": "https://youtube.com/watch?v=gZ0T4K9hq50",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-13T17:11:45.574664+00:00",
+      "uploadedAt": "2026-07-13T17:16:41.009638+00:00",
+      "audioLineDurations": [
+        4.693333333333333,
+        12.544,
+        7.210666666666667,
+        7.658666666666667,
+        6.784,
+        5.034666666666666,
+        5.610666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-13-bitcoin-dips-to-62000-after-recent-rebound",
+      "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "cryptocurrency",
+        "market",
+        "investing",
+        "demand",
+        "trends"
+      ],
+      "articleSummary": "Bitcoin slipped to around $62,000 after rebounding from last week's $57,700 low. CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal.",
+      "articleBody": "Bitcoin's price has dropped to around $62,000, paring back some of its recent rebound. The cryptocurrency had previously climbed from a low of $57,700 last week. CryptoQuant, a blockchain analytics firm, notes that while there are signs of improving demand and favorable seasonality, the market may still be in a bear-market recovery phase rather than a full trend reversal.\n\nAccording to CryptoQuant, several factors support the possibility of further gains. These include improving demand metrics, seasonality trends, and valuation indicators. However, the firm's Bull Score Index remains bearish, suggesting that the current recovery may not yet signal a full reversal of the downward trend. This cautious outlook is important for investors to consider as they navigate the volatile crypto market.\n\nFor everyday investors, this news highlights the importance of staying informed about market trends and analytics. While there are signs of potential upside, the bearish indicators suggest that caution is still warranted. Investors should keep an eye on key metrics and consider diversifying their portfolios to manage risk.\n\nLooking ahead, investors should watch for further developments in demand metrics and seasonality trends. If the Bull Score Index shows signs of improvement, it could indicate a stronger upward trend. However, for now, the cautious outlook suggests that a wait-and-see appr",
+      "imageUrl": "/images/articles/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound",
+      "script": {
+        "hook": "Bitcoin just dropped to $62,000, and here's what it means for your wallet.",
+        "narration_lines": [
+          "After a rebound from $57,700 last week, Bitcoin is slipping again.",
+          "Experts say improving demand and seasonality could push prices higher, but caution remains.",
+          "Think of it like a stock recovering from a big dip—it's not yet a full turnaround.",
+          "The Bull Score Index, a key market indicator, is still bearish, meaning the trend isn't secure.",
+          "For you, this means staying informed and cautious with your investments.",
+          "Keep an eye on demand metrics and consider diversifying to manage risk."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "291f6a3b1aa3b92d",
+      "scriptText": "Bitcoin just dropped to $62,000, and here's what it means for your wallet. After a rebound from $57,700 last week, Bitcoin is slipping again. Experts say improving demand and seasonality could push prices higher, but caution remains. Think of it like a stock recovering from a big dip—it's not yet a full turnaround. The Bull Score Index, a key market indicator, is still bearish, meaning the trend isn't secure. For you, this means staying informed and cautious with your investments. Keep an eye on demand metrics and consider diversifying to manage risk. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "n0Rf_jfzPpA",
+      "youtubeUrl": "https://youtube.com/watch?v=n0Rf_jfzPpA",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-13T17:11:50.185901+00:00",
+      "uploadedAt": "2026-07-13T17:16:44.253192+00:00",
+      "audioLineDurations": [
+        5.781333333333333,
+        5.568,
+        5.653333333333333,
+        4.650666666666667,
+        5.354666666666667,
+        4.010666666666666,
+        4.650666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-13-bitcoin-dips-to-62000-after-recent-rebound_bg_3.jpg"
+      ]
     }
   ]
 }
