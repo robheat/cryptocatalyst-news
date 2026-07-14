@@ -23,13 +23,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const article = getArticleBySlug(slug);
   if (!article) return {};
 
+  const metadataTitle = article.seoTitle || article.title;
+  const metadataDescription = article.metaDescription || article.summary;
+  const ogImage = article.imageUrl
+    ? article.imageUrl.startsWith("http")
+      ? article.imageUrl
+      : `https://cryptocatalyst.news${article.imageUrl}`
+    : `/api/og?title=${encodeURIComponent(article.title)}`;
+
   return {
-    title: article.title,
-    description: article.summary,
+    title: metadataTitle,
+    description: metadataDescription,
     keywords: article.tags,
     openGraph: {
-      title: article.title,
-      description: article.summary,
+      title: metadataTitle,
+      description: metadataDescription,
       url: `https://cryptocatalyst.news/articles/${article.slug}`,
       type: "article",
       publishedTime: article.publishedAt,
@@ -37,18 +45,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       tags: article.tags,
       images: [
         {
-          url: `/api/og?title=${encodeURIComponent(article.title)}`,
-          width: 1200,
-          height: 630,
+          url: ogImage,
+          width: article.imageUrl ? undefined : 1200,
+          height: article.imageUrl ? undefined : 630,
           alt: article.title,
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: article.title,
-      description: article.summary,
-      images: [`/api/og?title=${encodeURIComponent(article.title)}`],
+      title: metadataTitle,
+      description: metadataDescription,
+      images: [ogImage],
     },
     alternates: {
       canonical: `https://cryptocatalyst.news/articles/${article.slug}`,

@@ -5,14 +5,20 @@ interface Props {
 }
 
 export default function SchemaMarkup({ article }: Props) {
+  const articleUrl = `https://cryptocatalyst.news/articles/${article.slug}`;
   const ogImage = `https://cryptocatalyst.news/api/og?title=${encodeURIComponent(article.title)}`;
+  const imageUrl = article.imageUrl
+    ? article.imageUrl.startsWith("http")
+      ? article.imageUrl
+      : `https://cryptocatalyst.news${article.imageUrl}`
+    : ogImage;
 
-  const schema = {
+  const fallbackSchema = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     headline: article.title,
     description: article.summary,
-    url: `https://cryptocatalyst.news/articles/${article.slug}`,
+    url: articleUrl,
     inLanguage: "en-US",
     datePublished: article.publishedAt,
     dateModified: article.publishedAt,
@@ -32,17 +38,22 @@ export default function SchemaMarkup({ article }: Props) {
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://cryptocatalyst.news/articles/${article.slug}`,
+      "@id": articleUrl,
     },
     image: {
       "@type": "ImageObject",
-      url: article.imageUrl ?? ogImage,
+      url: imageUrl,
       width: article.imageUrl ? undefined : 1200,
       height: article.imageUrl ? undefined : 630,
     },
     keywords: article.tags.join(", "),
     articleSection: article.category,
     isAccessibleForFree: true,
+  };
+
+  const schema = {
+    ...fallbackSchema,
+    ...(article.schema ?? {}),
   };
 
   return (

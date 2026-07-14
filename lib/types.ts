@@ -11,6 +11,10 @@ export interface Article {
   imageUrl?: string;
   twitterThread?: string[];
   standaloneTweet?: string;
+  seoTitle?: string;
+  metaDescription?: string;
+  llmSummary?: string;
+  schema?: Record<string, unknown>;
 }
 
 export type Category =

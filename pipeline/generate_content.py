@@ -116,6 +116,81 @@ def _normalize_thread(tweets: list[str], correct_url: str) -> list[str]:
     return normalized[:3]
 
 
+def _build_news_schema(article: dict, correct_url: str) -> dict:
+    """Build a baseline JSON-LD NewsArticle schema when missing or malformed."""
+    image_url = article.get("imageUrl") or f"https://cryptocatalyst.news/api/og?title={article.get('title', '')}"
+    return {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": article.get("title", ""),
+        "description": article.get("summary", ""),
+        "url": correct_url,
+        "inLanguage": "en-US",
+        "datePublished": article.get("publishedAt", ""),
+        "dateModified": article.get("publishedAt", ""),
+        "articleSection": article.get("category", "general"),
+        "keywords": ", ".join(article.get("tags", [])),
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": correct_url,
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "CryptoCatalyst",
+            "url": "https://cryptocatalyst.news",
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "CryptoCatalyst",
+            "url": "https://cryptocatalyst.news",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://cryptocatalyst.news/logo.png",
+            },
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": image_url,
+        },
+        "isAccessibleForFree": True,
+    }
+
+
+def _normalize_article_enhancements(article: dict, correct_url: str) -> dict:
+    """Ensure schema + LLM/SEO enhancement fields are present and valid."""
+    title = str(article.get("title", "")).strip()
+    summary = str(article.get("summary", "")).strip()
+    body = str(article.get("body", "")).strip()
+
+    seo_title = str(article.get("seoTitle", "")).strip()
+    if not seo_title:
+        seo_title = title[:60].strip()
+    article["seoTitle"] = seo_title[:70]
+
+    meta_description = str(article.get("metaDescription", "")).strip()
+    if not meta_description:
+        meta_description = summary or body[:160]
+    article["metaDescription"] = re.sub(r"\s+", " ", meta_description).strip()[:180]
+
+    llm_summary = str(article.get("llmSummary", "")).strip()
+    if not llm_summary:
+        llm_summary = summary or body[:500]
+    article["llmSummary"] = re.sub(r"\s+", " ", llm_summary).strip()[:800]
+
+    schema = article.get("schema")
+    if not isinstance(schema, dict):
+        schema = _build_news_schema(article, correct_url)
+    schema.setdefault("@context", "https://schema.org")
+    schema.setdefault("@type", "NewsArticle")
+    schema.setdefault("headline", title)
+    schema.setdefault("description", summary)
+    schema.setdefault("url", correct_url)
+    schema.setdefault("mainEntityOfPage", {"@type": "WebPage", "@id": correct_url})
+    article["schema"] = schema
+
+    return article
+
+
 def generate_article(story: dict) -> dict | None:
     """Generate a full article JSON from a curated story using Venice AI."""
     user_payload: dict = {
@@ -184,6 +259,10 @@ def generate_article(story: dict) -> dict | None:
         "imageUrl": None,
         "twitterThread": fixed_thread,
         "standaloneTweet": fixed_standalone,
+        "seoTitle": result["title"],
+        "metaDescription": result.get("summary", ""),
+        "llmSummary": result.get("summary", ""),
+        "schema": None,
     }
 
     # Editor pass — deepseek-v4-flash reviews and corrects the draft
@@ -210,13 +289,22 @@ Your job:
 - Fix any inaccuracies, distortions, or missing key points in the title, summary, and body.
 - Ensure the body paragraphs flow logically and are factually grounded in the source.
 - Fix the twitterThread and standaloneTweet if they misrepresent or omit important facts.
+- Improve SEO and LLM-readability quality:
+    - seoTitle: concise and search-friendly (50-70 chars target, no clickbait)
+    - metaDescription: clear SERP snippet (120-180 chars target)
+    - llmSummary: dense factual summary suitable for retrieval/answering (2-4 sentences)
+- Ensure schema is present and complete:
+    - schema: valid JSON-LD object for NewsArticle with at least @context, @type, headline,
+        description, url, datePublished/dateModified, author, publisher, mainEntityOfPage, image,
+        articleSection, and keywords.
 - Do NOT add speculation or details not found in the source.
 - Do NOT change the slug, sourceUrl, sourceName, publishedAt, imageUrl, or any other metadata fields.
 - Do NOT change the category or tags unless they are clearly wrong.
-- Keep the same JSON schema and field names exactly.
+- Keep all existing fields. You may add/repair only these optional enhancement fields:
+    seoTitle, metaDescription, llmSummary, schema.
 
 If the draft is already accurate and complete, return it unchanged.
-Respond with ONLY valid JSON matching the exact same schema as the input draft.
+Respond with ONLY valid JSON.
 """
 
 
@@ -271,6 +359,8 @@ def edit_article(article: dict, story: dict, correct_url: str) -> dict:
         )
     if "standaloneTweet" in edited:
         edited["standaloneTweet"] = _clean_text(_fix_urls(edited["standaloneTweet"]))
+
+    edited = _normalize_article_enhancements(edited, correct_url)
 
     print("  [EDITOR] Article reviewed and edited by deepseek-v4-flash")
     return edited

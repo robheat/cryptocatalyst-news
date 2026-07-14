@@ -27,12 +27,18 @@ export async function GET() {
   });
 
   for (const article of articles) {
+    const itemTitle = article.seoTitle || article.title;
+    const itemDescription = article.metaDescription || article.summary;
+    const llmSummaryBlock = article.llmSummary
+      ? `\n\nLLM Summary:\n${article.llmSummary}`
+      : "";
+
     feed.addItem({
-      title: article.title,
+      title: itemTitle,
       id: `https://cryptocatalyst.news/articles/${article.slug}`,
       link: `https://cryptocatalyst.news/articles/${article.slug}`,
-      description: article.summary,
-      content: article.body,
+      description: itemDescription,
+      content: `${article.body}${llmSummaryBlock}`,
       date: new Date(article.publishedAt),
       category: [{ name: article.category }],
     });
