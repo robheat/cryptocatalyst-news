@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-14-bitcoins-bip-110-reignites-censorship-and-decentralization-debates",
+  "title": "Bitcoin's BIP-110 reignites censorship and decentralization debates",
+  "summary": "BIP-110 aimed to restrict non-financial data on Bitcoin's blockchain, but it has instead sparked intense discussions about who controls Bitcoin's future. The debate centers on the balance between censorship resistance and practical blockchain use.",
+  "body": "Bitcoin's BIP-110 proposal, which sought to limit the amount of non-financial data stored on its blockchain, has reignited a heated debate about censorship and decentralization. The proposal, intended to streamline the blockchain, has instead highlighted the tension between maintaining Bitcoin's core principles and adapting to new use cases.\n\nThe debate has drawn sharp lines between those who believe Bitcoin should remain strictly a financial tool and those who advocate for its use in broader applications. Key figures in the Bitcoin community have weighed in, with some arguing that limiting data storage could stifle innovation, while others contend that unrestricted data could lead to misuse of the blockchain.\n\nThis discussion matters to everyday users because it directly impacts Bitcoin's utility and accessibility. If restrictions are imposed, certain applications may be limited, affecting how people use Bitcoin for more than just transactions. Conversely, allowing unrestricted data could lead to congestion and higher fees, making Bitcoin less practical for everyday use.\n\nAs the debate continues, users should watch for developments in how the Bitcoin community reaches a consensus. The outcome will shape Bitcoin's future, determining whether it remains a purely financial tool or evolves to support a wider range of applications. Stay informed and be prepared to adapt your use of Bitcoin based on the final decisions.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bip-110",
+    "censorship",
+    "decentralization",
+    "blockchain",
+    "innovation"
+  ],
+  "publishedAt": "2026-07-14T13:55:44.558278+00:00",
+  "imageUrl": "/images/articles/2026-07-14-bitcoins-bip-110-reignites-censorship-and-decentralization-debates.webp",
+  "twitterThread": [
+    "Bitcoin's BIP-110 proposal is sparking a huge fight over who controls its future. Should it be strictly financial or support broader uses?",
+    "The debate centers on censorship and decentralization. Some want to limit non-financial data, while others argue that could stifle innovation.",
+    "This matters because it could change how you use Bitcoin. Stay tuned for updates on where the community lands. Read more → https://cryptocatalyst.news/articles/2026-07-14-bitcoins-bip-110-reignites-censorship-and-decentralization-debates"
+  ],
+  "standaloneTweet": "Bitcoin's BIP-110 debate is heating up: should it stay strictly financial or support broader uses? The outcome could change how you use Bitcoin."
+}

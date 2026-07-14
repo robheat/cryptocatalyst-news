@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-14-boundless-expands-4000-gpu-network-from-zk-proofs-to-ai",
+  "title": "Boundless Expands 4,000-GPU Network from ZK Proofs to AI",
+  "summary": "Boundless, a startup that built a 4,000-GPU network to process Ethereum and Base ZK proofs on Bitcoin, is now expanding into AI compute. This move highlights the growing intersection of blockchain and AI technologies.",
+  "body": "Boundless, a distributed compute startup, has announced plans to expand its 4,000-GPU network beyond zero-knowledge (ZK) proofs to include AI compute. The company initially focused on settling Ethereum and Base ZK proofs on Bitcoin, leveraging its extensive GPU infrastructure to handle complex cryptographic computations.\n\nThe expansion into AI compute marks a significant shift for Boundless, as it aims to capitalize on the growing demand for high-performance computing in the AI sector. The company's 4,000-GPU network, originally designed for blockchain applications, will now be utilized to support AI model training and inference, potentially offering a cost-effective solution for AI developers.\n\nThis move is particularly relevant for everyday users as it could lead to more efficient and affordable AI services. By leveraging its existing infrastructure, Boundless may be able to provide AI compute resources at a lower cost, making advanced AI technologies more accessible to a broader audience. Additionally, the integration of blockchain and AI technologies could pave the way for new applications and innovations.\n\nFor those interested in the intersection of blockchain and AI, this expansion is a development worth watching. As Boundless begins to offer AI compute services, it will be important to monitor the performance and cost-effectiveness of its offerings. Developers and businesses looking for affordable AI compute solutions may find Boundless's services particularly appealing.",
+  "sourceUrl": "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "blockchain",
+    "ai",
+    "gpu",
+    "zk-proofs",
+    "compute",
+    "boundless"
+  ],
+  "publishedAt": "2026-07-14T13:58:13.116524+00:00",
+  "imageUrl": "/images/articles/2026-07-14-boundless-expands-4000-gpu-network-from-zk-proofs-to-ai.webp",
+  "twitterThread": [
+    "Boundless, a startup with a 4,000-GPU network for ZK proofs, is now diving into AI compute. This could make AI services more affordable for everyone.",
+    "The company's existing GPU infrastructure, built for Ethereum and Base ZK proofs on Bitcoin, will now support AI model training and inference. A smart pivot?",
+    "Developers and businesses should watch this space for cost-effective AI compute solutions. Read more → https://cryptocatalyst.news/articles/2026-07-14-boundless-expands-4000-gpu-network-from-zk-proofs-to-ai"
+  ],
+  "standaloneTweet": "Boundless, known for its 4,000-GPU network for ZK proofs, is expanding into AI compute. This could bring down the cost of AI services for everyone."
+}

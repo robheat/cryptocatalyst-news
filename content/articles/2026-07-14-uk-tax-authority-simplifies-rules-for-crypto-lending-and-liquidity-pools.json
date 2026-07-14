@@ -1,0 +1,25 @@
+{
+  "slug": "2026-07-14-uk-tax-authority-simplifies-rules-for-crypto-lending-and-liquidity-pools",
+  "title": "UK HMRC adopts ‘no gain, no loss’ tax treatment for crypto lending, liquidity pools",
+  "summary": "The UK's HMRC has adopted a 'no gain, no loss' tax treatment for certain crypto loans and liquidity pool transactions, deferring capital gains tax (CGT) until economic disposal.",
+  "body": "The UK's tax authority, HMRC, has adopted a 'no gain, no loss' tax treatment for certain crypto lending and liquidity pool transactions. Under this new rule, capital gains tax (CGT) will be deferred until the user actually sells or disposes of the assets for economic gain, rather than being triggered by the temporary transfer of assets into a lending or liquidity pool.\n\nThis change simplifies the tax process for crypto users in the UK, particularly those involved in decentralized finance (DeFi) activities. The 'no gain, no loss' principle means that users won't face immediate tax implications when they lend crypto or provide liquidity, even if the value of the assets fluctuates while locked. This aligns with the economic reality of these transactions, where gains or losses are only realized upon actual disposal.\n\nFor everyday crypto users, this update is significant as it reduces the tax burden and complexity associated with DeFi activities. It encourages more participation in crypto lending and liquidity pools, as users no longer need to worry about tax implications for temporary asset lockups. This could lead to increased liquidity and activity in the UK's crypto market.\n\nThe HMRC's decision is part of a broader effort to create a more favorable regulatory environment for crypto assets in the UK. This move is expected to attract more investors and users to the crypto space, fostering growth and innovation. Users should stay informed about further updates and ensure they comply with the new tax rules to avoid any potential issues.\n\nTo take advantage of this new tax treatment, users should keep detailed records of their crypto transactions and consult with tax professionals to ensure they understand the implications fully. This will help them navigate the new rules effectively and maximize their benefits.",
+  "sourceUrl": "https://www.theblock.co/post/408206/uk-hmrc-adopts-no-gain-no-loss-tax-treatment-for-crypto-lending-liquidity-pools?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "policy",
+  "tags": [
+    "uk",
+    "tax",
+    "crypto",
+    "defi",
+    "hmrc",
+    "liquidity"
+  ],
+  "publishedAt": "2026-07-14T13:57:18.811690+00:00",
+  "imageUrl": "/images/articles/2026-07-14-uk-tax-authority-simplifies-rules-for-crypto-lending-and-liquidity-pools.webp",
+  "twitterThread": [
+    "UK crypto users: no more tax headaches for locked-up assets! HMRC adopts 'no gain, no loss' rule for lending & liquidity pools.",
+    "This means capital gains tax is deferred until you actually sell. A big win for DeFi enthusiasts and liquidity providers!",
+    "Keep records and consult a tax pro to stay compliant. Read more → https://cryptocatalyst.news/articles/2026-07-14-uk-tax-authority-simplifies-rules-for-crypto-lending-and-liquidity-pools"
+  ],
+  "standaloneTweet": "UK crypto users: no tax on locked-up assets in lending or liquidity pools! HMRC's new 'no gain, no loss' rule defers CGT until economic disposal."
+}
