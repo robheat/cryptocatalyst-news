@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-15-ethereum-privacy-team-launches-ethsystems-to-bring-confidentiality-to-institutio",
+  "title": "Ethereum Privacy Team Launches EthSystems to Bring Confidentiality to Institutions",
+  "summary": "The team behind Ethereum's institutional privacy push has spun out into a for-profit firm called EthSystems, backed by Bitmine and Joe Lubin. The startup aims to provide a privacy layer for institutions hesitant to run money on a public chain.",
+  "body": "The team behind Ethereum's institutional privacy push has spun out into a standalone for-profit company called EthSystems. The startup is backed by notable investors, including Bitmine and Joe Lubin, co-founder of ConsenSys. EthSystems aims to provide a privacy layer for institutions that want to use Ethereum but are concerned about transparency on public blockchains.\n\nThe team behind EthSystems has been working on privacy solutions for Ethereum for some time, focusing on making the blockchain more appealing to institutions. The startup is led by developers with deep experience in Ethereum's ecosystem, and its backers believe that privacy is a crucial factor for institutional adoption. EthSystems plans to offer tools that allow institutions to conduct transactions confidentially while still benefiting from Ethereum's security and decentralization.\n\nFor everyday users, this development highlights the growing importance of privacy in the blockchain space. While most retail users may not need the same level of privacy as institutions, the solutions developed by EthSystems could eventually trickle down to consumer applications. This could lead to more private and secure transactions for all users, not just large financial entities.\n\nWhat to watch: Keep an eye on EthSystems' progress and any partnerships they announce with major financial institutions. Their success could signal a broader shift towards privacy-focused solutions in the Ethereum ecosystem. If you're an institution considering Ethereum, this could be a game-changer in how you approach blockchain transactions.",
+  "sourceUrl": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "ethereum",
+    "privacy",
+    "institutions",
+    "blockchain",
+    "ethsystems",
+    "joe-lubin"
+  ],
+  "publishedAt": "2026-07-15T13:05:53.789262+00:00",
+  "imageUrl": "/images/articles/2026-07-15-ethereum-privacy-team-launches-ethsystems-to-bring-confidentiality-to-institutio.webp",
+  "twitterThread": [
+    "Big news for Ethereum's institutional adoption: EthSystems launches to bring privacy solutions to the blockchain. Backed by Bitmine and Joe Lubin, they're tackling a major hurdle for big players.",
+    "Why does this matter? Institutions are hesitant to use public blockchains due to transparency concerns. EthSystems aims to provide a privacy layer, making Ethereum more appealing for large-scale transactions.",
+    "If you're an institution exploring Ethereum, keep an eye on EthSystems. Their success could pave the way for broader privacy solutions in the ecosystem. Read more → https://cryptocatalyst.news/articles/2026-07-15-ethereum-privacy-team-launches-ethsystems-to-bring-confidentiality-to-institutio"
+  ],
+  "standaloneTweet": "The team behind Ethereum's institutional privacy push has spun out into a for-profit firm called EthSystems, backed by Bitmine and Joe Lubin. The startup aims to provide a privacy layer for institutions hesitant to run money on a public chain.",
+  "seoTitle": "Ethereum Privacy Team Launches EthSystems for Institutional Confidenti",
+  "metaDescription": "The team behind Ethereum's institutional privacy push spins out into for-profit firm EthSystems, backed by Bitmine and Joe Lubin, to provide a privacy layer for institutions.",
+  "llmSummary": "The team behind Ethereum's institutional privacy push has spun out into a for-profit firm called EthSystems, backed by Bitmine and Joe Lubin. The startup aims to provide a privacy layer for institutions hesitant to run money on a public chain, addressing transparency concerns on public blockchains.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Ethereum Privacy Team Launches EthSystems to Bring Confidentiality to Institutions",
+    "description": "The team behind Ethereum's institutional privacy push has spun out into a for-profit firm called EthSystems, backed by Bitmine and Joe Lubin. The startup aims to provide a privacy layer for institutions hesitant to run money on a public chain.",
+    "url": "https://cryptocatalyst.news/articles/2026-07-15-ethereum-privacy-team-launches-ethsystems-to-bring-confidentiality-to-institutio",
+    "datePublished": "2026-07-15T13:05:53.789262+00:00",
+    "dateModified": "2026-07-15T13:05:53.789262+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://cryptocatalyst.news/articles/2026-07-15-ethereum-privacy-team-launches-ethsystems-to-bring-confidentiality-to-institutio"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "ethereum",
+      "privacy",
+      "institutions",
+      "blockchain",
+      "ethsystems",
+      "joe-lubin"
+    ]
+  }
+}

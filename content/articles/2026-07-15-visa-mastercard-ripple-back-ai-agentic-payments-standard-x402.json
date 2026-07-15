@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-15-visa-mastercard-ripple-back-ai-agentic-payments-standard-x402",
+  "title": "Visa, Mastercard, Ripple Back AI Agentic Payments Standard x402",
+  "summary": "The x402 protocol, which enables AI agents to make payments in stablecoins, now has support from Visa, Mastercard, and Ripple. It processed $24 million across 75 million payments last month, showing growing adoption.",
+  "body": "The x402 protocol, originally developed by Coinbase and later handed over to a consortium of companies, has gained significant backing from major players like Visa, Mastercard, and Ripple. This protocol allows AI agents to execute payments using stablecoins, a type of cryptocurrency pegged to traditional currencies.\n\nIn June 2026, x402 settled approximately $24 million across 75 million payments, demonstrating its growing use in the market. The protocol is now governed by a consortium of 40 companies, indicating strong industry support and collaboration.\n\nFor everyday users, this development means that AI agents could soon handle routine financial tasks, such as paying bills or making purchases, without human intervention. This could streamline transactions and reduce the need for manual oversight.\n\nThe adoption of x402 by major financial institutions suggests that AI-driven payments are becoming more mainstream. Users should watch for announcements from their banks or payment providers about integrating x402 into their services, which could offer more efficient and automated payment options.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "ai",
+    "payments",
+    "stablecoins",
+    "visa",
+    "mastercard",
+    "ripple"
+  ],
+  "publishedAt": "2026-07-15T13:11:48.856073+00:00",
+  "imageUrl": null,
+  "twitterThread": [
+    "AI agents are getting their own payment system. Visa, Mastercard, and Ripple just backed x402, the protocol that settled $24M last month.",
+    "x402 lets AI handle payments in stablecoins, cutting out the middleman. 40 companies now govern it, showing serious industry support.",
+    "Expect your AI to pay bills or make purchases soon. Watch for your bank to adopt x402. Read more → https://cryptocatalyst.news/articles/2026-07-15-visa-mastercard-ripple-back-ai-agentic-payments-standard-x402"
+  ],
+  "standaloneTweet": "Your AI could soon pay bills automatically. Visa, Mastercard, and Ripple just backed x402, the protocol that settled $24M in June.",
+  "seoTitle": "Visa, Mastercard, Ripple Back AI Agentic Payments Standard x402",
+  "metaDescription": "The x402 protocol, which enables AI agents to make payments in stablecoins, now has support from Visa, Mastercard, and Ripple. It processed $24 million across 75 million payments l",
+  "llmSummary": "The x402 protocol, which enables AI agents to make payments in stablecoins, now has support from Visa, Mastercard, and Ripple. It processed $24 million across 75 million payments last month, showing growing adoption.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Visa, Mastercard, Ripple Back AI Agentic Payments Standard x402",
+    "description": "The x402 protocol, which enables AI agents to make payments in stablecoins, now has support from Visa, Mastercard, and Ripple. It processed $24 million across 75 million payments last month, showing growing adoption.",
+    "url": "https://cryptocatalyst.news/articles/2026-07-15-visa-mastercard-ripple-back-ai-agentic-payments-standard-x402",
+    "datePublished": "2026-07-15T13:11:48.856073+00:00",
+    "dateModified": "2026-07-15T13:11:48.856073+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://cryptocatalyst.news/articles/2026-07-15-visa-mastercard-ripple-back-ai-agentic-payments-standard-x402"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "ai, payments, stablecoins, visa, mastercard, ripple"
+  }
+}
