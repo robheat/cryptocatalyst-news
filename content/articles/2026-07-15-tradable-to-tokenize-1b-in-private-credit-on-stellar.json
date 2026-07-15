@@ -1,0 +1,51 @@
+{
+  "slug": "2026-07-15-tradable-to-tokenize-1b-in-private-credit-on-stellar",
+  "title": "Tradable to Tokenize $1B in Private Credit on Stellar",
+  "summary": "Tokenization startup Tradable plans to bring $1 billion in private credit assets to the Stellar blockchain. This move highlights Stellar's growing appeal for institutional tokenization projects.",
+  "body": "Tradable, a tokenization startup, has announced plans to bring $1 billion worth of private credit assets onto the Stellar blockchain. This initiative underscores Stellar's increasing popularity among institutional players for tokenizing real-world assets.\n\nThe project follows similar moves by major financial institutions like Franklin Templeton and WisdomTree, which have also chosen Stellar for tokenization. Tradable's decision to tokenize private credit assets on Stellar is expected to enhance liquidity and accessibility for these traditionally illiquid investments.\n\nFor everyday investors, this development could mean easier access to private credit markets, which have historically been reserved for institutional investors. Tokenization can democratize investment opportunities by lowering entry barriers and increasing transparency.\n\nInvestors interested in private credit should watch for further announcements from Tradable and other institutions utilizing Stellar for tokenization. This trend could open up new avenues for diversifying portfolios with previously inaccessible assets.",
+  "sourceUrl": "https://www.theblock.co/post/408399/tokenization-startup-tradable-plans-bring-1-billion-private-credit-assets-stellar?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "tokenization",
+    "stellar",
+    "private credit",
+    "institutional",
+    "tradable"
+  ],
+  "publishedAt": "2026-07-15T21:02:58.777721+00:00",
+  "imageUrl": "/images/articles/2026-07-15-tradable-to-tokenize-1b-in-private-credit-on-stellar.webp",
+  "twitterThread": [
+    "Tradable is bringing $1B in private credit assets to the Stellar blockchain. This could democratize access to traditionally exclusive investments.",
+    "By tokenizing private credit on Stellar, Tradable aims to increase liquidity and accessibility. Major firms like Franklin Templeton are already using Stellar for similar projects.",
+    "If you're interested in private credit, keep an eye on Tradable's progress. This could be a game-changer for retail investors. Read more → https://cryptocatalyst.news/articles/2026-07-15-tradable-to-tokenize-1b-in-private-credit-on-stellar"
+  ],
+  "standaloneTweet": "Tradable is tokenizing $1B in private credit on Stellar, making these investments more accessible to everyday investors. Watch this space!",
+  "seoTitle": "Tradable to Tokenize $1B in Private Credit on Stellar",
+  "metaDescription": "Tokenization startup Tradable plans to bring $1 billion in private credit assets to the Stellar blockchain, following Franklin Templeton and WisdomTree.",
+  "llmSummary": "Tokenization startup Tradable plans to bring $1 billion in private credit assets to the Stellar blockchain. The move follows similar institutional tokenization projects by Franklin Templeton and WisdomTree on Stellar, aiming to increase liquidity and accessibility for private credit investments.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Tradable to Tokenize $1B in Private Credit on Stellar",
+    "description": "Tokenization startup Tradable plans to bring $1 billion in private credit assets to the Stellar blockchain, following Franklin Templeton and WisdomTree.",
+    "url": "https://cryptocatalyst.news/articles/2026-07-15-tradable-to-tokenize-1b-in-private-credit-on-stellar",
+    "datePublished": "2026-07-15T21:02:58.777721+00:00",
+    "dateModified": "2026-07-15T21:02:58.777721+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://cryptocatalyst.news/articles/2026-07-15-tradable-to-tokenize-1b-in-private-credit-on-stellar"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "tokenization, stellar, private credit, institutional, tradable"
+  }
+}

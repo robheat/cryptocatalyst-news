@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-15-open-usd-could-challenge-circles-dominance-in-stablecoin-market",
+  "title": "Open USD Poses Biggest Threat Yet to Circle's USDC, CoinShares Says",
+  "summary": "A consortium-backed stablecoin, Open USD, plans to share reserve income with partners rather than keeping it with the issuer, potentially squeezing Circle's margins if it launches in 2026.",
+  "body": "A new stablecoin called Open USD, backed by a consortium, is set to challenge Circle's USDC. Unlike USDC, which retains reserve income for Circle, Open USD plans to share this income with its partners, potentially pressuring Circle's margins.\n\nAccording to CoinShares, Open USD's unique model could make it a formidable competitor if it launches in 2026. This move could significantly alter the stablecoin market, which has been dominated by Circle's USDC and Tether's USDT.\n\nFor everyday users, this could mean more competition and potentially better terms for stablecoin holders. If Open USD gains traction, it might offer lower fees or higher returns on reserves, benefiting users who hold or transact with stablecoins.\n\nWatch for the official launch of Open USD and how it performs against established stablecoins like USDC and USDT. The success of Open USD could prompt other stablecoin issuers to adopt similar models, increasing competition in the market.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "stablecoin",
+    "usdc",
+    "openusd",
+    "circle",
+    "coinshares",
+    "competition"
+  ],
+  "publishedAt": "2026-07-15T21:03:28.923556+00:00",
+  "imageUrl": "/images/articles/2026-07-15-open-usd-could-challenge-circles-dominance-in-stablecoin-market.webp",
+  "twitterThread": [
+    "Open USD, a consortium-backed stablecoin, plans to share reserve income with partners instead of keeping it with the issuer, posing the biggest threat yet to Circle's USDC, per CoinShares.",
+    "If Open USD launches in 2026, its model could squeeze Circle's margins and reshape the stablecoin market, potentially offering better terms for users.",
+    "Watch for Open USD's launch and its impact on the stablecoin market. Could this be the start of a new era in stablecoin competition? Read more → https://cryptocatalyst.news/articles/2026-07-15-open-usd-could-challenge-circles-dominance-in-stablecoin-market"
+  ],
+  "standaloneTweet": "Open USD, a consortium-backed stablecoin, plans to share reserve income with partners instead of keeping it with the issuer, posing the biggest threat yet to Circle's USDC, per CoinShares. If it launches in 2026, it could squeeze Circle's margins and offer better terms for users.",
+  "seoTitle": "Open USD Poses Biggest Threat Yet to Circle's USDC, CoinShares Says",
+  "metaDescription": "A consortium-backed stablecoin, Open USD, plans to share reserve income with partners, potentially squeezing Circle's margins if it launches in 2026, per CoinShares.",
+  "llmSummary": "CoinShares reports that a consortium-backed stablecoin, Open USD, poses the biggest threat yet to Circle's USDC by planning to share reserve income with partners instead of the issuer. If it launches in 2026, this model could squeeze Circle's margins and reshape the stablecoin market.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Open USD Poses Biggest Threat Yet to Circle's USDC, CoinShares Says",
+    "description": "A consortium-backed stablecoin, Open USD, plans to share reserve income with partners rather than keeping it with the issuer, potentially squeezing Circle's margins if it launches in 2026.",
+    "url": "https://cryptocatalyst.news/articles/2026-07-15-open-usd-could-challenge-circles-dominance-in-stablecoin-market",
+    "datePublished": "2026-07-15T21:03:28.923556+00:00",
+    "dateModified": "2026-07-15T21:03:28.923556+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://cryptocatalyst.news/articles/2026-07-15-open-usd-could-challenge-circles-dominance-in-stablecoin-market"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "stablecoin, usdc, openusd, circle, coinshares, competition"
+  }
+}
