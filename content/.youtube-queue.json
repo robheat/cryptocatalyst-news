@@ -8997,6 +8997,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-metaplanet-explores-bitcoin-backed-digital-credit-for-japan_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-metaplanet-explores-bitcoin-backed-digital-credit-for-japan_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit",
+      "title": "Hedera Lending Protocol Bonzo Lend Hit for $9 Million After Supra Verifier Accepts Manipulated Price Update",
+      "category": "defi",
+      "tags": [
+        "hedera",
+        "bonzo-lend",
+        "exploit",
+        "defi",
+        "supra",
+        "white-hat"
+      ],
+      "articleSummary": "A Hedera-based lending protocol, Bonzo Lend, was exploited for $9 million after a manipulated price update was accepted by Supra's verifier. A second wallet, claiming to be a white hat hacker, borrowed $1 million and promised to return the funds.",
+      "articleBody": "Bonzo Lend, a lending protocol on the Hedera network, suffered a $9 million exploit after a manipulated price update was accepted by Supra's verifier. The attacker exploited the system by submitting a fraudulent price update that was not properly validated, allowing them to drain funds from the protocol.\n\nA second wallet, which borrowed approximately $1 million, identified itself as a white hat hacker and stated that the funds would be returned. This incident highlights the vulnerabilities in decentralized finance (DeFi) protocols and the critical importance of robust verification mechanisms for price oracles.\n\nFor everyday users, this exploit serves as a reminder of the risks associated with DeFi platforms. While white hat hackers can sometimes mitigate damage, such incidents underscore the need for improved security measures and vigilance when using lending protocols.\n\nUsers should monitor updates from Bonzo Lend and Supra regarding the incident and any steps they are taking to enhance security. Stay informed about the status of the returned funds and any compensations that may be offered to affected users.",
+      "imageUrl": "/images/articles/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit",
+      "script": {
+        "hook": "Your cryptocurrency savings could be at risk right now - a $9 million hack just showed us why.",
+        "narration_lines": [
+          "A lending platform on Hedera, Bonzo Lend, was just hacked for $9 million because of a fake price update.",
+          "This happened because Supra's verifier, which checks prices, didn't catch the fake data in time.",
+          "Think of it like a bank teller accepting a counterfeit bill without checking it properly.",
+          "A second hacker, calling themselves a white hat, took $1 million but said they'd return it.",
+          "This is a big warning for anyone using DeFi - always check the security measures of the platforms you use.",
+          "Keep an eye on updates from Bonzo Lend and Supra to see how they're fixing this."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "eb217ec570e60550",
+      "scriptText": "Your cryptocurrency savings could be at risk right now - a $9 million hack just showed us why. A lending platform on Hedera, Bonzo Lend, was just hacked for $9 million because of a fake price update. This happened because Supra's verifier, which checks prices, didn't catch the fake data in time. Think of it like a bank teller accepting a counterfeit bill without checking it properly. A second hacker, calling themselves a white hat, took $1 million but said they'd return it. This is a big warning for anyone using DeFi - always check the security measures of the platforms you use. Keep an eye on updates from Bonzo Lend and Supra to see how they're fixing this. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "co6MIuKn-E4",
+      "youtubeUrl": "https://youtube.com/watch?v=co6MIuKn-E4",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-15T16:18:46.030760+00:00",
+      "uploadedAt": "2026-07-15T16:25:56.230973+00:00",
+      "audioLineDurations": [
+        6.272,
+        6.912,
+        5.653333333333333,
+        4.928,
+        5.397333333333333,
+        6.272,
+        4.650666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-hedera-lending-protocol-bonzo-lend-loses-9m-in-exploit_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test",
+      "title": "Bitcoin's New Debt Machine is Facing Its First Major Stress Test",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "finance",
+        "debt",
+        "investment",
+        "stress-test",
+        "corporate-debt"
+      ],
+      "articleSummary": "BitcoinTreasuries.net says June marked the first major stress test for Bitcoin-backed preferred shares, with Strategy's STRC and Strive's SATA rebounding after a sharp sell-off, reinforcing confidence in the growing corporate Bitcoin financing model.",
+      "articleBody": "Bitcoin-backed preferred shares, a relatively new financial instrument, faced their first significant stress test in June. According to BitcoinTreasuries.net, shares issued by Strategy (STRC) and Strive (SATA) experienced a sharp sell-off but quickly rebounded, demonstrating the resilience of this financing model.\n\nThe resilience of STRC and SATA shares is notable as it highlights the growing acceptance of Bitcoin as collateral for corporate debt. This model allows companies to raise capital by issuing shares backed by their Bitcoin holdings, providing a new avenue for investment and liquidity in the crypto space.\n\nFor everyday investors, this development means more options for diversifying portfolios with Bitcoin-backed assets. It also signals a maturing market where Bitcoin is increasingly seen as a reliable asset for traditional financial instruments. The successful stress test could attract more institutional investors, further legitimizing Bitcoin in the broader financial ecosystem.\n\nInvestors should watch for further adoption of Bitcoin-backed preferred shares by other companies. The performance of STRC and SATA in the coming months will be crucial in determining the long-term viability of this financing model. Those interested in this space should keep an eye on BitcoinTreasuries.net for updates and trends in Bitcoin-backed corporate debt.",
+      "imageUrl": "/images/articles/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test.webp",
+      "articleUrl": "https://cryptocatalyst.news/articles/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test",
+      "script": {
+        "hook": "Your Bitcoin investments just got a new way to grow, but there's a catch you need to know.",
+        "narration_lines": [
+          "Two companies just proved Bitcoin can back corporate debt, and it survived its first big test in June.",
+          "Strategy's STRC and Strive's SATA shares dropped hard but bounced back, showing Bitcoin's strength as collateral.",
+          "This means you could soon see more Bitcoin-backed investment options, like preferred shares, in your portfolio.",
+          "Think of it like a loan where Bitcoin is the security, but instead of borrowing cash, companies issue shares.",
+          "For everyday investors, this could mean safer, diversified ways to put your money into cryptocurrency.",
+          "Keep an eye on BitcoinTreasuries.net for updates, as more companies may jump on this trend."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 112
+      },
+      "scriptHash": "4cc196a9c6985bbc",
+      "scriptText": "Your Bitcoin investments just got a new way to grow, but there's a catch you need to know. Two companies just proved Bitcoin can back corporate debt, and it survived its first big test in June. Strategy's STRC and Strive's SATA shares dropped hard but bounced back, showing Bitcoin's strength as collateral. This means you could soon see more Bitcoin-backed investment options, like preferred shares, in your portfolio. Think of it like a loan where Bitcoin is the security, but instead of borrowing cash, companies issue shares. For everyday investors, this could mean safer, diversified ways to put your money into cryptocurrency. Keep an eye on BitcoinTreasuries.net for updates, as more companies may jump on this trend. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "ocHqNwHRCl0",
+      "youtubeUrl": "https://youtube.com/watch?v=ocHqNwHRCl0",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-15T16:18:49.243042+00:00",
+      "uploadedAt": "2026-07-15T16:25:57.651597+00:00",
+      "audioLineDurations": [
+        4.586666666666667,
+        6.1226666666666665,
+        7.125333333333334,
+        6.336,
+        6.1866666666666665,
+        6.421333333333333,
+        5.76,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_3.jpg"
+      ]
     }
   ]
 }
