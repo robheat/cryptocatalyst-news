@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Newsletter — CryptoCatalyst",
     description:
       "Subscribe to the CryptoCatalyst weekly digest — the top crypto and blockchain stories of the week, delivered every Sunday.",
-    url: "https://cryptocatalyst.news/newsletter",
+    url: "https://www.cryptocatalyst.news/newsletter",
     images: [
       {
         url: "/api/og?title=Weekly+Crypto+Digest+Newsletter",

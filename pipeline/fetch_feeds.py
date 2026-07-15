@@ -89,7 +89,7 @@ def _strip_html(text: str) -> str:
 def _fetch_url(url: str) -> bytes | None:
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "CryptoCatalystBot/1.0 (+https://cryptocatalyst.news/llms.txt)"},
+        headers={"User-Agent": "CryptoCatalystBot/1.0 (+https://www.cryptocatalyst.news/llms.txt)"},
     )
     try:
         with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:

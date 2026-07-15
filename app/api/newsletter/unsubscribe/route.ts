@@ -40,5 +40,5 @@ function unsubPage(message: string) {
 <style>body{font-family:system-ui,sans-serif;background:#0a0a0a;color:#ededed;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
 .card{max-width:420px;text-align:center;padding:2rem}.card h1{font-size:1.25rem;margin-bottom:1rem}.card p{color:#9ca3af;font-size:.875rem}
 a{color:#f59e0b;text-decoration:none}</style></head>
-<body><div class="card"><h1>CryptoCatalyst</h1><p>${message}</p><p style="margin-top:1.5rem"><a href="https://cryptocatalyst.news">← Back to CryptoCatalyst</a></p></div></body></html>`;
+<body><div class="card"><h1>CryptoCatalyst</h1><p>${message}</p><p style="margin-top:1.5rem"><a href="https://www.cryptocatalyst.news">← Back to CryptoCatalyst</a></p></div></body></html>`;
 }

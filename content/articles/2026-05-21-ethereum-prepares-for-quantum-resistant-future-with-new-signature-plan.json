@@ -19,7 +19,7 @@
   "twitterThread": [
     "Ethereum is planning to replace BLS signatures with post-quantum secure alternatives to protect against future quantum computing threats. This is a big step toward future-proofing the network.",
     "Currently, Ethereum uses BLS signatures for efficient and secure transactions. However, quantum computers could potentially break these cryptographic schemes, making this transition crucial for long-term security.",
-    "While the exact timeline is still being finalized, this move underscores Ethereum's commitment to maintaining a secure network. Stay informed through official channels for updates. Read more → https://cryptocatalyst.news/articles/2026-05-21-ethereum-prepares-for-quantum-resistant-future-with-new-signature-plan"
+    "While the exact timeline is still being finalized, this move underscores Ethereum's commitment to maintaining a secure network. Stay informed through official channels for updates. Read more → https://www.cryptocatalyst.news/articles/2026-05-21-ethereum-prepares-for-quantum-resistant-future-with-new-signature-plan"
   ],
   "standaloneTweet": "Ethereum is planning to switch to post-quantum secure signatures to protect against future quantum computing threats. This move ensures your transactions and holdings stay safe as technology advances."
 }

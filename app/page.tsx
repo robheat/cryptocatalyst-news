@@ -10,11 +10,14 @@ export const metadata: Metadata = {
   title: "CryptoCatalyst — Daily Crypto & Blockchain News",
   description:
     "The latest crypto, blockchain, and Web3 news — curated and summarized daily by AI.",
+  alternates: {
+    canonical: "https://www.cryptocatalyst.news/",
+  },
   openGraph: {
     title: "CryptoCatalyst — Daily Crypto & Blockchain News",
     description:
       "The latest crypto, blockchain, and Web3 news — curated and summarized daily by AI.",
-    url: "https://cryptocatalyst.news",
+    url: "https://www.cryptocatalyst.news",
     images: [
       {
         url: "/api/og?title=CryptoCatalyst+%E2%80%94+Daily+Crypto+News",

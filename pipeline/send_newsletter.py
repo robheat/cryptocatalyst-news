@@ -6,7 +6,7 @@ Environment variables:
   RESEND_API_KEY        — Resend API key
   RESEND_AUDIENCE_ID    — Resend audience ID for subscribers
   NEWSLETTER_SECRET     — Shared secret to authenticate digest API call
-  SITE_URL              — Base URL (default: https://cryptocatalyst.news)
+  SITE_URL              — Base URL (default: https://www.cryptocatalyst.news)
 """
 
 import json
@@ -21,7 +21,7 @@ from html import escape
 RESEND_API_KEY = os.environ["RESEND_API_KEY"]
 RESEND_AUDIENCE_ID = os.environ["RESEND_AUDIENCE_ID"]
 NEWSLETTER_SECRET = os.environ["NEWSLETTER_SECRET"]
-SITE_URL = os.environ.get("SITE_URL", "https://cryptocatalyst.news")
+SITE_URL = os.environ.get("SITE_URL", "https://www.cryptocatalyst.news")
 FROM_EMAIL = "CryptoCatalyst <digest@cryptocatalyst.news>"
 ARTICLES_DIR = Path(__file__).resolve().parent.parent / "content" / "articles"
 

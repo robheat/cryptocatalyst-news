@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const ogImage = article.imageUrl
     ? article.imageUrl.startsWith("http")
       ? article.imageUrl
-      : `https://cryptocatalyst.news${article.imageUrl}`
+      : `https://www.cryptocatalyst.news${article.imageUrl}`
     : `/api/og?title=${encodeURIComponent(article.title)}`;
 
   return {
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: metadataTitle,
       description: metadataDescription,
-      url: `https://cryptocatalyst.news/articles/${article.slug}`,
+      url: `https://www.cryptocatalyst.news/articles/${article.slug}`,
       type: "article",
       publishedTime: article.publishedAt,
       authors: ["CryptoCatalyst"],
@@ -59,7 +59,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [ogImage],
     },
     alternates: {
-      canonical: `https://cryptocatalyst.news/articles/${article.slug}`,
+      canonical: `https://www.cryptocatalyst.news/articles/${article.slug}`,
     },
   };
 }
@@ -78,9 +78,9 @@ export default async function ArticlePage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://cryptocatalyst.news" },
-      { "@type": "ListItem", position: 2, name: article.category, item: `https://cryptocatalyst.news/categories/${article.category}` },
-      { "@type": "ListItem", position: 3, name: article.title, item: `https://cryptocatalyst.news/articles/${article.slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.cryptocatalyst.news" },
+      { "@type": "ListItem", position: 2, name: article.category, item: `https://www.cryptocatalyst.news/categories/${article.category}` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `https://www.cryptocatalyst.news/articles/${article.slug}` },
     ],
   };
 

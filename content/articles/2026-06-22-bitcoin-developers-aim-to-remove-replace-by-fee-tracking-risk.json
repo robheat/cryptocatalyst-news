@@ -18,7 +18,7 @@
   "twitterThread": [
     "Bitcoin's 'Replace by Fee' feature, used to speed up stuck transactions, is now a privacy risk. Developers are looking to remove it.",
     "The RBF option leaves a 'fingerprint' that can track Bitcoin movements. Removing it could make transactions harder to follow but might complicate fee management.",
-    "If RBF is removed, users may need new ways to manage transaction fees. Watch for updates from your wallet provider. Read more → https://cryptocatalyst.news/articles/2026-06-22-bitcoin-developers-aim-to-remove-replace-by-fee-tracking-risk"
+    "If RBF is removed, users may need new ways to manage transaction fees. Watch for updates from your wallet provider. Read more → https://www.cryptocatalyst.news/articles/2026-06-22-bitcoin-developers-aim-to-remove-replace-by-fee-tracking-risk"
   ],
   "standaloneTweet": "Bitcoin's 'Replace by Fee' feature, used to speed up transactions, is being reconsidered due to privacy concerns. Developers want to remove it."
 }

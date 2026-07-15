@@ -10,6 +10,21 @@ const nextConfig: NextConfig = {
     // Keep variants cached for 1 year — minimises cache write frequency
     minimumCacheTTL: 31536000,
   },
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "cryptocatalyst.news",
+          },
+        ],
+        destination: "https://www.cryptocatalyst.news/:path*",
+        permanent: true,
+      },
+    ];
+  },
   async rewrites() {
     return [
       { source: "/feed.xml", destination: "/feed" },

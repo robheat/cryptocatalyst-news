@@ -18,7 +18,7 @@
   "twitterThread": [
     "200 blockchain NPM packages are flagged for deprecation or hijack risk. A major security red flag for developers.",
     "A security researcher found these packages are no longer maintained, leaving them open to exploitation.",
-    "Developers: audit your tools and update regularly. Don't let outdated packages put your projects at risk. Read more → https://cryptocatalyst.news/articles/2026-06-21-researcher-flags-200-blockchain-npm-packages-for-security-risks"
+    "Developers: audit your tools and update regularly. Don't let outdated packages put your projects at risk. Read more → https://www.cryptocatalyst.news/articles/2026-06-21-researcher-flags-200-blockchain-npm-packages-for-security-risks"
   ],
   "standaloneTweet": "200 blockchain NPM packages are flagged for deprecation or hijack risk. A major security red flag for developers."
 }

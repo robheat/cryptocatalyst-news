@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/content";
 import { CATEGORIES } from "@/lib/types";
 
-const BASE_URL = "https://cryptocatalyst.news";
+const BASE_URL = "https://www.cryptocatalyst.news";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();

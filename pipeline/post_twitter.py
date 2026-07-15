@@ -179,7 +179,7 @@ def _build_fallback_thread(article: dict, correct_url: str) -> list[str]:
 
 
 def _select_thread_tweets(article: dict) -> list[str]:
-    correct_url = f"https://cryptocatalyst.news/articles/{article['slug']}"
+    correct_url = f"https://www.cryptocatalyst.news/articles/{article['slug']}"
     raw_tweets = article.get("twitterThread", [])
     cleaned = []
     for tweet in raw_tweets:

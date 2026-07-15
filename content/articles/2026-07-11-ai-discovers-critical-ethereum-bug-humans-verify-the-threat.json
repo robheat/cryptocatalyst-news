@@ -19,7 +19,7 @@
   "twitterThread": [
     "The Ethereum Foundation used coordinated AI agents to scan validator software. The AI found a remotely triggerable crash bug that could take validators offline.",
     "But the AI also produced many confident, well-written findings that were not bugs at all. Human experts had to verify which threats were real.",
-    "This shows AI is great for finding vulnerabilities, but humans are still needed to verify them. Stay updated on Ethereum's security patches! Read more → https://cryptocatalyst.news/articles/2026-07-11-ai-discovers-critical-ethereum-bug-humans-verify-the-threat"
+    "This shows AI is great for finding vulnerabilities, but humans are still needed to verify them. Stay updated on Ethereum's security patches! Read more → https://www.cryptocatalyst.news/articles/2026-07-11-ai-discovers-critical-ethereum-bug-humans-verify-the-threat"
   ],
   "standaloneTweet": "The Ethereum Foundation used coordinated AI agents to scan validator software. The AI found a remotely triggerable crash bug that could take validators offline, but humans had to prove it was real. This shows AI's potential and limits in blockchain security."
 }

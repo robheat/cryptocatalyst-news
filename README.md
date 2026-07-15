@@ -2,7 +2,7 @@
 
 Automated daily crypto and blockchain news digest powered by AI. Built on Next.js.
 
-Live at: **https://cryptocatalyst.news**
+Live at: **https://www.cryptocatalyst.news**
 
 ## What it does
 

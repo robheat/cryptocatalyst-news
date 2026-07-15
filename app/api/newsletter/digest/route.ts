@@ -45,7 +45,7 @@ function renderDigestEmail(articles: Article[], weekEnd: string): string {
       (a) => `
     <tr>
       <td style="padding:16px 0;border-bottom:1px solid #1f2937">
-        <a href="https://cryptocatalyst.news/articles/${a.slug}"
+        <a href="https://www.cryptocatalyst.news/articles/${a.slug}"
            style="color:#a78bfa;text-decoration:none;font-size:16px;font-weight:600;line-height:1.4">
           ${escapeHtml(a.title)}
         </a>
@@ -94,7 +94,7 @@ function renderDigestEmail(articles: Article[], weekEnd: string): string {
 
     <!-- CTA -->
     <div style="text-align:center;padding:32px 0">
-      <a href="https://cryptocatalyst.news"
+      <a href="https://www.cryptocatalyst.news"
          style="display:inline-block;background:#d97706;color:#ffffff;text-decoration:none;font-size:14px;font-weight:600;padding:12px 24px;border-radius:8px">
         Read all stories on CryptoCatalyst →
       </a>
@@ -104,9 +104,9 @@ function renderDigestEmail(articles: Article[], weekEnd: string): string {
     <div style="border-top:1px solid #1f2937;padding-top:20px;text-align:center">
       <p style="margin:0;color:#6b7280;font-size:12px;line-height:1.6">
         You received this because you subscribed to the CryptoCatalyst weekly digest.<br>
-        <a href="https://cryptocatalyst.news/api/newsletter/unsubscribe?id={{CONTACT_ID}}" style="color:#f59e0b;text-decoration:none">Unsubscribe</a>
+        <a href="https://www.cryptocatalyst.news/api/newsletter/unsubscribe?id={{CONTACT_ID}}" style="color:#f59e0b;text-decoration:none">Unsubscribe</a>
         &nbsp;·&nbsp;
-        <a href="https://cryptocatalyst.news" style="color:#f59e0b;text-decoration:none">CryptoCatalyst.news</a>
+        <a href="https://www.cryptocatalyst.news" style="color:#f59e0b;text-decoration:none">CryptoCatalyst.news</a>
         &nbsp;·&nbsp;
         <a href="https://twitter.com/CryptoCatalystN" style="color:#f59e0b;text-decoration:none">@CryptoCatalystN</a>
       </p>

@@ -19,7 +19,7 @@
   "twitterThread": [
     "Developers in and are being targeted by a new malware campaign called TrapDoor. Fake packages steal wallet data, SSH keys, and more.",
     "The attack focuses on , , and ecosystems, tricking developers into installing malicious software. Verify your tools before installing!",
-    "If you're a developer, double-check the authenticity of your packages and update your security practices. Read more → https://cryptocatalyst.news/articles/2026-05-29-trapdoor-attack-targets-solana-sui-and-aptos-wallet-data"
+    "If you're a developer, double-check the authenticity of your packages and update your security practices. Read more → https://www.cryptocatalyst.news/articles/2026-05-29-trapdoor-attack-targets-solana-sui-and-aptos-wallet-data"
   ],
   "standaloneTweet": "Developers, beware! A new malware campaign called TrapDoor is stealing crypto wallet data and developer credentials. Verify your tools before installing."
 }

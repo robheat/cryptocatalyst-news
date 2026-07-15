@@ -19,7 +19,7 @@
   "twitterThread": [
     "A critical Zcash bug could have allowed unlimited counterfeit coin creation, causing ZEC to drop 31%. The flaw was patched quickly, but findings suggest actual exploitation is unlikely.",
     "The vulnerability was in Zcash's cryptographic proofs, potentially bypassing security checks. No evidence suggests it was exploited, and the quick fix shows how fast teams can respond.",
-    "For users, this is a reminder to keep software updated and stay informed. Monitor official Zcash channels for updates. Read more → https://cryptocatalyst.news/articles/2026-06-06-zcash-bug-could-have-allowed-unlimited-counterfeit-minting-zec-drops-31"
+    "For users, this is a reminder to keep software updated and stay informed. Monitor official Zcash channels for updates. Read more → https://www.cryptocatalyst.news/articles/2026-06-06-zcash-bug-could-have-allowed-unlimited-counterfeit-minting-zec-drops-31"
   ],
   "standaloneTweet": "A Zcash bug could have allowed unlimited counterfeit coins, causing ZEC to drop 31%. The flaw was patched quickly, but findings suggest actual exploitation is unlikely. A reminder to keep your crypto software updated."
 }

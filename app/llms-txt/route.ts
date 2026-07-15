@@ -18,25 +18,25 @@ export async function GET() {
     "",
     "---",
     "",
-    `## Site: https://cryptocatalyst.news`,
+    `## Site: https://www.cryptocatalyst.news`,
     `## Updated: ${today}`,
     "",
     "## Key Pages",
     "",
-    "- Homepage (today's digest): https://cryptocatalyst.news/",
-    "- Archive (all articles): https://cryptocatalyst.news/archive",
-    "- RSS Feed: https://cryptocatalyst.news/feed.xml",
-    "- Full content dump: https://cryptocatalyst.news/llms-full.txt",
+    "- Homepage (today's digest): https://www.cryptocatalyst.news/",
+    "- Archive (all articles): https://www.cryptocatalyst.news/archive",
+    "- RSS Feed: https://www.cryptocatalyst.news/feed.xml",
+    "- Full content dump: https://www.cryptocatalyst.news/llms-full.txt",
     "",
     "## Categories",
     "",
-    ...CATEGORIES.map((c) => `- ${c.label}: https://cryptocatalyst.news/categories/${c.value}`),
+    ...CATEGORIES.map((c) => `- ${c.label}: https://www.cryptocatalyst.news/categories/${c.value}`),
     "",
     "## Recent Articles",
     "",
     ...articles.map(
       (a) =>
-        `- [${a.publishedAt.slice(0, 10)}] ${a.title}\n  https://cryptocatalyst.news/articles/${a.slug}`
+        `- [${a.publishedAt.slice(0, 10)}] ${a.title}\n  https://www.cryptocatalyst.news/articles/${a.slug}`
     ),
     "",
     "---",
@@ -48,7 +48,7 @@ export async function GET() {
     "All content is original AI-generated summaries with source attribution.",
     "",
     "For full article content, fetch individual article pages or use:",
-    "https://cryptocatalyst.news/llms-full.txt",
+    "https://www.cryptocatalyst.news/llms-full.txt",
   ];
 
   return new NextResponse(lines.join("\n"), {

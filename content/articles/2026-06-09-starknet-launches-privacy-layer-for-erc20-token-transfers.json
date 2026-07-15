@@ -18,7 +18,7 @@
   "twitterThread": [
     "Starknet just launched STRK20, a privacy layer for ERC20 tokens that hides your balances and transfers. Zero-knowledge proofs keep your data private, but regulators can still access it when needed.",
     "This is a big deal for privacy on Ethereum's Layer 2 networks. STRK20 uses advanced cryptography to prove transactions are valid without revealing the details, like the amounts or who's involved.",
-    "If you value financial privacy, this could be a game-changer. Keep an eye on how regulators respond and start experimenting with STRK20 on Starknet. Read more → https://cryptocatalyst.news/articles/2026-06-09-starknet-launches-privacy-layer-for-erc20-token-transfers"
+    "If you value financial privacy, this could be a game-changer. Keep an eye on how regulators respond and start experimenting with STRK20 on Starknet. Read more → https://www.cryptocatalyst.news/articles/2026-06-09-starknet-launches-privacy-layer-for-erc20-token-transfers"
   ],
   "standaloneTweet": "Starknet's new STRK20 feature lets you keep your ERC20 token balances and transfers private using zero-knowledge proofs. Regulators can still access info when needed, making it a balanced approach to privacy and compliance."
 }

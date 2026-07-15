@@ -39,7 +39,7 @@ def build_metadata(item: dict) -> dict:
         yt_title = title[:91] + " #Shorts"
 
     script_text = item.get("scriptText", "")
-    article_url = item.get("articleUrl", "https://cryptocatalyst.news")
+    article_url = item.get("articleUrl", "https://www.cryptocatalyst.news")
     description = (
         f"{script_text}\n\n"
         f"Read more: {article_url}\n\n"

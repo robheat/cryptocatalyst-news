@@ -14,7 +14,7 @@ export async function GET() {
   const sections = articles.map((a) =>
     [
       `## ${a.title}`,
-      `URL: https://cryptocatalyst.news/articles/${a.slug}`,
+      `URL: https://www.cryptocatalyst.news/articles/${a.slug}`,
       `Date: ${a.publishedAt.slice(0, 10)}`,
       `Category: ${a.category}`,
       `Source: ${a.sourceName} (${a.sourceUrl})`,

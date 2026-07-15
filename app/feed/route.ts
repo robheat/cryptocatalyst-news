@@ -12,17 +12,17 @@ export async function GET() {
     title: "CryptoCatalyst — Daily Crypto & Blockchain News",
     description:
       "The latest crypto, blockchain, and Web3 news — curated and summarized daily by AI.",
-    id: "https://cryptocatalyst.news/",
-    link: "https://cryptocatalyst.news/",
+    id: "https://www.cryptocatalyst.news/",
+    link: "https://www.cryptocatalyst.news/",
     language: "en",
-    favicon: "https://cryptocatalyst.news/favicon.ico",
+    favicon: "https://www.cryptocatalyst.news/favicon.ico",
     copyright: `© ${new Date().getFullYear()} CryptoCatalyst`,
     author: {
       name: "CryptoCatalyst",
-      link: "https://cryptocatalyst.news",
+      link: "https://www.cryptocatalyst.news",
     },
     feedLinks: {
-      rss2: "https://cryptocatalyst.news/feed.xml",
+      rss2: "https://www.cryptocatalyst.news/feed.xml",
     },
   });
 
@@ -35,8 +35,8 @@ export async function GET() {
 
     feed.addItem({
       title: itemTitle,
-      id: `https://cryptocatalyst.news/articles/${article.slug}`,
-      link: `https://cryptocatalyst.news/articles/${article.slug}`,
+      id: `https://www.cryptocatalyst.news/articles/${article.slug}`,
+      link: `https://www.cryptocatalyst.news/articles/${article.slug}`,
       description: itemDescription,
       content: `${article.body}${llmSummaryBlock}`,
       date: new Date(article.publishedAt),

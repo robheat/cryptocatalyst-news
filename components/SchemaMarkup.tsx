@@ -5,12 +5,12 @@ interface Props {
 }
 
 export default function SchemaMarkup({ article }: Props) {
-  const articleUrl = `https://cryptocatalyst.news/articles/${article.slug}`;
-  const ogImage = `https://cryptocatalyst.news/api/og?title=${encodeURIComponent(article.title)}`;
+  const articleUrl = `https://www.cryptocatalyst.news/articles/${article.slug}`;
+  const ogImage = `https://www.cryptocatalyst.news/api/og?title=${encodeURIComponent(article.title)}`;
   const imageUrl = article.imageUrl
     ? article.imageUrl.startsWith("http")
       ? article.imageUrl
-      : `https://cryptocatalyst.news${article.imageUrl}`
+      : `https://www.cryptocatalyst.news${article.imageUrl}`
     : ogImage;
 
   const fallbackSchema = {
@@ -25,15 +25,15 @@ export default function SchemaMarkup({ article }: Props) {
     author: {
       "@type": "Organization",
       name: "CryptoCatalyst",
-      url: "https://cryptocatalyst.news",
+      url: "https://www.cryptocatalyst.news",
     },
     publisher: {
       "@type": "Organization",
       name: "CryptoCatalyst",
-      url: "https://cryptocatalyst.news",
+      url: "https://www.cryptocatalyst.news",
       logo: {
         "@type": "ImageObject",
-        url: "https://cryptocatalyst.news/logo.png",
+        url: "https://www.cryptocatalyst.news/logo.png",
       },
     },
     mainEntityOfPage: {

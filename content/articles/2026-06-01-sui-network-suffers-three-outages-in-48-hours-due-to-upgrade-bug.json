@@ -19,7 +19,7 @@
   "twitterThread": [
     "The Sui blockchain just had 3 outages in 48 hours—all due to a bug in their latest upgrade. A new address-balance feature clashed with the network's existing systems, causing the halts.",
     "The issue was traced to interactions between the new feature in v1.72 and the network's gas and consensus logic. The Sui Foundation is working on a fix to prevent future disruptions.",
-    "If you're a Sui user, stay informed about network updates and be prepared for potential disruptions. Watch for official announcements on the fix. Read more → https://cryptocatalyst.news/articles/2026-06-01-sui-network-suffers-three-outages-in-48-hours-due-to-upgrade-bug"
+    "If you're a Sui user, stay informed about network updates and be prepared for potential disruptions. Watch for official announcements on the fix. Read more → https://www.cryptocatalyst.news/articles/2026-06-01-sui-network-suffers-three-outages-in-48-hours-due-to-upgrade-bug"
   ],
   "standaloneTweet": "The Sui blockchain had 3 outages in 48 hours due to a bug in their latest upgrade. A new address-balance feature clashed with the network's existing systems, causing the halts. Stay informed about updates and be prepared for disruptions."
 }

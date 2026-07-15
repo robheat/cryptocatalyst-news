@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cryptocatalyst.news"),
+  metadataBase: new URL("https://www.cryptocatalyst.news"),
   title: {
     default: "CryptoCatalyst — Daily Crypto & Blockchain News",
     template: "%s | CryptoCatalyst",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   },
   alternates: {
     types: {
-      "application/rss+xml": "https://cryptocatalyst.news/feed.xml",
+      "application/rss+xml": "https://www.cryptocatalyst.news/feed.xml",
     },
   },
 };
@@ -53,8 +53,8 @@ const orgSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "CryptoCatalyst",
-  url: "https://cryptocatalyst.news",
-  logo: "https://cryptocatalyst.news/logo.png",
+  url: "https://www.cryptocatalyst.news",
+  logo: "https://www.cryptocatalyst.news/logo.png",
   sameAs: ["https://twitter.com/CryptoCatalystN"],
 };
 
@@ -62,14 +62,14 @@ const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "CryptoCatalyst",
-  url: "https://cryptocatalyst.news",
+  url: "https://www.cryptocatalyst.news",
   description:
     "Daily crypto and blockchain news curated and summarized by artificial intelligence.",
   potentialAction: {
     "@type": "SearchAction",
     target: {
       "@type": "EntryPoint",
-      urlTemplate: "https://cryptocatalyst.news/archive?q={search_term_string}",
+      urlTemplate: "https://www.cryptocatalyst.news/archive?q={search_term_string}",
     },
     "query-input": "required name=search_term_string",
   },

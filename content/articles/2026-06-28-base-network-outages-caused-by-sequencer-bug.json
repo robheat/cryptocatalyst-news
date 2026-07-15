@@ -18,7 +18,7 @@
   "twitterThread": [
     "Base's recent back-to-back outages were caused by a bug in its sequencer system, highlighting the fragility of layer-2 networks.",
     "A 'race condition' after a system reset prevented the sequencers from catching up, leading to the second outage. This shows the importance of robust error handling in blockchain infrastructure.",
-    "Users should watch for updates from Base on fixes and improvements to its sequencer system. Stay informed with official announcements. Read more → https://cryptocatalyst.news/articles/2026-06-28-base-network-outages-caused-by-sequencer-bug"
+    "Users should watch for updates from Base on fixes and improvements to its sequencer system. Stay informed with official announcements. Read more → https://www.cryptocatalyst.news/articles/2026-06-28-base-network-outages-caused-by-sequencer-bug"
   ],
   "standaloneTweet": "Base's recent back-to-back outages were caused by a bug in its sequencer system, showing that even layer-2 networks can face technical disruptions. The second outage was due to a 'race condition' after a system reset. Stay informed with official announcements."
 }

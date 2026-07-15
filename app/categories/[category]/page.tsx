@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${cat.label} — Crypto News`,
     description: `Latest crypto ${cat.label.toLowerCase()} news, curated daily by CryptoCatalyst.`,
-    alternates: { canonical: `https://cryptocatalyst.news/categories/${category}` },
+    alternates: { canonical: `https://www.cryptocatalyst.news/categories/${category}` },
     openGraph: {
       title: `${cat.label} — Crypto News | CryptoCatalyst`,
       description: `Latest crypto ${cat.label.toLowerCase()} news, curated daily by CryptoCatalyst.`,
-      url: `https://cryptocatalyst.news/categories/${category}`,
+      url: `https://www.cryptocatalyst.news/categories/${category}`,
       images: [{
         url: `/api/og?title=${encodeURIComponent(cat.label + " — Crypto News")}&category=${encodeURIComponent(cat.label)}`,
         width: 1200,

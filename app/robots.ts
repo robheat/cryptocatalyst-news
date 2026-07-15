@@ -22,7 +22,7 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "YouBot", allow: "/" },
       { userAgent: "Amazonbot", allow: "/" },
     ],
-    sitemap: "https://cryptocatalyst.news/sitemap.xml",
-    host: "https://cryptocatalyst.news",
+    sitemap: "https://www.cryptocatalyst.news/sitemap.xml",
+    host: "https://www.cryptocatalyst.news",
   };
 }

@@ -19,7 +19,7 @@
   "twitterThread": [
     "Ethereum co-founder Vitalik Buterin proposes shrinking the blockchain's state to near-zero using ZK proofs. The two-step plan shifts state management to validators and replaces per-epoch balance updates with ZK proofs.",
     "This could drastically reduce storage needs and improve efficiency, leading to lower transaction fees and faster confirmations.",
-    "Keep an eye on community discussions as this proposal develops. Read more → https://cryptocatalyst.news/articles/2026-07-07-vitalik-buterin-proposes-extremely-lean-ethereum-with-zk-proofs"
+    "Keep an eye on community discussions as this proposal develops. Read more → https://www.cryptocatalyst.news/articles/2026-07-07-vitalik-buterin-proposes-extremely-lean-ethereum-with-zk-proofs"
   ],
   "standaloneTweet": "Vitalik Buterin's 'Extremely Lean' Ethereum proposal: a two-step plan to shrink the chain to near-zero state using ZK proofs, slashing storage needs and lowering fees."
 }

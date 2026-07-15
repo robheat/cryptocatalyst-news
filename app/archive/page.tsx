@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Archive — All Crypto News",
   description:
     "Browse the complete archive of crypto and blockchain news stories curated daily by CryptoCatalyst.",
-  alternates: { canonical: "https://cryptocatalyst.news/archive" },
+  alternates: { canonical: "https://www.cryptocatalyst.news/archive" },
 };
 
 interface Props {

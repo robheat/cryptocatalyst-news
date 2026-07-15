@@ -19,7 +19,7 @@
   "twitterThread": [
     "25.3% of all Bitcoin sits at addresses with an exposed public key, making it potentially vulnerable to future quantum computing attacks.",
     "Quantum computers that could break Bitcoin's cryptography don't exist yet, so the risk is not immediate. But long-term holders should take note.",
-    "Addresses that have never been used in transactions do not expose the public key and are not at risk. Stay informed on quantum-resistant solutions. Read more → https://cryptocatalyst.news/articles/2026-06-12-253-of-bitcoin-exposed-to-quantum-computing-risks"
+    "Addresses that have never been used in transactions do not expose the public key and are not at risk. Stay informed on quantum-resistant solutions. Read more → https://www.cryptocatalyst.news/articles/2026-06-12-253-of-bitcoin-exposed-to-quantum-computing-risks"
   ],
   "standaloneTweet": "25.3% of Bitcoin sits at addresses with an exposed public key, potentially vulnerable to future quantum attacks. The risk isn't immediate, but long-term holders should consider using fresh addresses."
 }

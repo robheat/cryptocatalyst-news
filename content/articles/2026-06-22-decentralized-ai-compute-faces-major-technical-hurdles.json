@@ -19,7 +19,7 @@
   "twitterThread": [
     "Decentralized AI computing is an unforgiving arena. Latency is the biggest issue — most attempts to distribute frontier models across consumer GPUs have crashed and burned.",
     "Sharding a 100B+ parameter model across scattered consumer GPUs on the public internet? The latency makes it nearly impossible to coordinate efficiently.",
-    "For now, distributed frontier models remain a dream. Keep an eye on advancements in GPU tech and network protocols. Read more → https://cryptocatalyst.news/articles/2026-06-22-decentralized-ai-compute-faces-major-technical-hurdles"
+    "For now, distributed frontier models remain a dream. Keep an eye on advancements in GPU tech and network protocols. Read more → https://www.cryptocatalyst.news/articles/2026-06-22-decentralized-ai-compute-faces-major-technical-hurdles"
   ],
   "standaloneTweet": "Decentralized AI computing is an unforgiving arena. High latency kills most attempts to distribute large frontier models across consumer GPUs. The tech just isn't there yet."
 }

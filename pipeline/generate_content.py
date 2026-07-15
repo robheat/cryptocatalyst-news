@@ -118,7 +118,7 @@ def _normalize_thread(tweets: list[str], correct_url: str) -> list[str]:
 
 def _build_news_schema(article: dict, correct_url: str) -> dict:
     """Build a baseline JSON-LD NewsArticle schema when missing or malformed."""
-    image_url = article.get("imageUrl") or f"https://cryptocatalyst.news/api/og?title={article.get('title', '')}"
+    image_url = article.get("imageUrl") or f"https://www.cryptocatalyst.news/api/og?title={article.get('title', '')}"
     return {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
@@ -137,15 +137,15 @@ def _build_news_schema(article: dict, correct_url: str) -> dict:
         "author": {
             "@type": "Organization",
             "name": "CryptoCatalyst",
-            "url": "https://cryptocatalyst.news",
+            "url": "https://www.cryptocatalyst.news",
         },
         "publisher": {
             "@type": "Organization",
             "name": "CryptoCatalyst",
-            "url": "https://cryptocatalyst.news",
+            "url": "https://www.cryptocatalyst.news",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://cryptocatalyst.news/logo.png",
+                "url": "https://www.cryptocatalyst.news/logo.png",
             },
         },
         "image": {
@@ -230,7 +230,7 @@ def generate_article(story: dict) -> dict | None:
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     slug = f"{today}-{slugify(result['title'])}"
-    correct_url = f"https://cryptocatalyst.news/articles/{slug}"
+    correct_url = f"https://www.cryptocatalyst.news/articles/{slug}"
 
     def _fix_urls(text: str) -> str:
         """Replace any cryptocatalyst.news article URL (including LLM-guessed slugs with dots)

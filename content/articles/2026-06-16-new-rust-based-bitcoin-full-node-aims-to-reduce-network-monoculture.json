@@ -18,7 +18,7 @@
   "twitterThread": [
     "A new Bitcoin full node called Satd, written in Rust, aims to reduce the network's reliance on a single C++ codebase that has been used for 15 years. It offers modern features like native TLS, built-in APIs, and robust security.",
     "Satd includes atomic indices with a single RocksDB data store, a novel Streaming Consumer API with gRPC and JSON WebSocket transports, and a built-in TUI (sat-tui) for operator observability. It also supports optional services for Electrum and Esplora, making it easier to run a wallet backend without sidecars.",
-    "This project could make the Bitcoin network more resilient by reducing the risk of a single point of failure. Check it out on GitHub and consider testing it to support network diversity. Read more → https://cryptocatalyst.news/articles/2026-06-16-new-rust-based-bitcoin-full-node-aims-to-reduce-network-monoculture"
+    "This project could make the Bitcoin network more resilient by reducing the risk of a single point of failure. Check it out on GitHub and consider testing it to support network diversity. Read more → https://www.cryptocatalyst.news/articles/2026-06-16-new-rust-based-bitcoin-full-node-aims-to-reduce-network-monoculture"
   ],
   "standaloneTweet": "A new Rust-based Bitcoin full node called Satd aims to reduce the network's reliance on a single C++ codebase that has been used for 15 years, offering modern features and improved security."
 }

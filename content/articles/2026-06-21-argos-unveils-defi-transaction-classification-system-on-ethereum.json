@@ -18,7 +18,7 @@
   "twitterThread": [
     "Argos has published a blog post explaining how they label every transaction on Ethereum to demystify DeFi. The system identifies arbitrage, swaps, and other actions.",
     "The classification uses advanced algorithms to detect patterns like arbitrage strategies and token swaps. The post focuses on their arbitrage detection method in particular.",
-    "Want to understand Ethereum transactions better? Read the full Argos article for technical details → https://cryptocatalyst.news/articles/2026-06-21-argos-unveils-defi-transaction-classification-system-on-ethereum"
+    "Want to understand Ethereum transactions better? Read the full Argos article for technical details → https://www.cryptocatalyst.news/articles/2026-06-21-argos-unveils-defi-transaction-classification-system-on-ethereum"
   ],
   "standaloneTweet": "Argos is making Ethereum DeFi transactions clearer with labels for arbitrage, swaps, and more. Their blog post explains exactly how they classify every transaction on-chain."
 }
