@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-16-ledger-introduces-agent-stack-to-secure-ai-powered-crypto-transactions",
+  "title": "Ledger Introduces Agent Stack to Secure AI-Powered Crypto Transactions",
+  "summary": "Ledger has launched a hardware-backed system called Agent Stack that allows users to deploy AI bots to manage crypto transactions securely. This innovation aims to prevent unauthorized transactions by rogue AI agents.",
+  "body": "Ledger, a leading hardware wallet provider, has unveiled the Agent Stack, a new system designed to enhance security for AI-powered crypto transactions. This technology enables users to deploy AI bots that can read balances, suggest transactions, prepare swaps, and draft operations, all while ensuring that these actions are secured by Ledger's hardware.\n\nThe Agent Stack is particularly focused on preventing rogue AI agents from executing unauthorized transactions. By leveraging Ledger's hardware security, users can trust that their crypto assets are protected even when automated by AI. This development is part of Ledger's ongoing efforts to integrate advanced technologies with robust security measures.\n\nFor everyday crypto users, this means greater peace of mind when using AI to manage their digital assets. The Agent Stack ensures that AI bots can perform tasks like balance checks and transaction suggestions without compromising the security of the user's funds. This is especially important as the use of AI in financial management continues to grow.\n\nLedger's Agent Stack is now available for users to integrate into their existing hardware wallets. Those interested in leveraging AI for their crypto transactions should explore this new feature to enhance both convenience and security. Keep an eye on updates from Ledger for further advancements in this area.",
+  "sourceUrl": "https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "ledger",
+    "ai",
+    "crypto",
+    "security",
+    "transactions",
+    "agent-stack"
+  ],
+  "publishedAt": "2026-07-16T20:59:52.655290+00:00",
+  "imageUrl": "/images/articles/2026-07-16-ledger-introduces-agent-stack-to-secure-ai-powered-crypto-transactions.webp",
+  "twitterThread": [
+    "Ledger's new Agent Stack lets you use AI bots to manage crypto securely. No more rogue AI spending your funds!",
+    "The Agent Stack allows AI to read balances, suggest transactions, and prepare swaps—all secured by Ledger's hardware. Your crypto stays safe.",
+    "Want to use AI for your crypto but worried about security? Ledger's Agent Stack has you covered. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-ledger-introduces-agent-stack-to-secure-ai-powered-crypto-transactions"
+  ],
+  "standaloneTweet": "Ledger's new Agent Stack lets you safely use AI bots to manage your crypto. No more rogue AI transactions—your funds stay secure!",
+  "seoTitle": "Ledger Agent Stack: Hardware-Backed Security for AI Crypto Transaction",
+  "metaDescription": "Ledger launches Agent Stack, a hardware-backed system that lets users deploy AI bots to read balances, suggest transactions, and prepare swaps while preventing rogue AI transaction",
+  "llmSummary": "Ledger has launched Agent Stack, a hardware-backed system that enables users to deploy AI bots to read balances, suggest transactions, prepare swaps, and draft operations. The system uses Ledger's hardware security to prevent rogue AI agents from executing unauthorized transactions, providing a secure way to automate crypto management.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Ledger Introduces Agent Stack to Secure AI-Powered Crypto Transactions",
+    "description": "Ledger has launched a hardware-backed system called Agent Stack that allows users to deploy AI bots to manage crypto transactions securely. This innovation aims to prevent unauthorized transactions by rogue AI agents.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-ledger-introduces-agent-stack-to-secure-ai-powered-crypto-transactions",
+    "datePublished": "2026-07-16T20:59:52.655290+00:00",
+    "dateModified": "2026-07-16T20:59:52.655290+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-ledger-introduces-agent-stack-to-secure-ai-powered-crypto-transactions"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "ledger",
+      "ai",
+      "crypto",
+      "security",
+      "transactions",
+      "agent-stack"
+    ]
+  }
+}

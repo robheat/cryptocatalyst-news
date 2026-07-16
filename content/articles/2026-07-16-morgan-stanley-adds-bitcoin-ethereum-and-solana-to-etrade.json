@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-16-morgan-stanley-adds-bitcoin-ethereum-and-solana-to-etrade",
+  "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*TRADE",
+  "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+  "body": "Morgan Stanley has expanded its crypto offerings, allowing eligible customers to buy, sell, and hold Bitcoin, Ethereum, and Solana through E*TRADE. The service is powered by Zero Hash, a regulated platform that facilitates crypto trading for traditional financial institutions.\n\nThis initiative marks a significant step for Morgan Stanley, which has been gradually integrating crypto into its services. The move is part of a broader trend of traditional financial firms embracing digital assets, making them more accessible to everyday investors.\n\nFor everyday people, this means easier access to crypto investments through a well-established financial platform. E*TRADE users can now manage their crypto holdings alongside traditional assets, simplifying their investment strategies.\n\nMorgan Stanley’s decision to include Solana, alongside Bitcoin and Ethereum, highlights the growing interest in this newer blockchain. Solana’s high-speed transactions and lower fees make it an attractive option for investors.\n\nIf you're a Morgan Stanley customer, check your E*TRADE account to see if you're eligible for this new service. This could be a convenient way to start or expand your crypto portfolio.",
+  "sourceUrl": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana",
+    "trading",
+    "morgan-stanley",
+    "etrade"
+  ],
+  "publishedAt": "2026-07-16T20:57:22.492333+00:00",
+  "imageUrl": "/images/articles/2026-07-16-morgan-stanley-adds-bitcoin-ethereum-and-solana-to-etrade.webp",
+  "twitterThread": [
+    "Morgan Stanley now lets you buy, sell, and hold Bitcoin, Ethereum, and Solana on E*TRADE via Zero Hash. A big step for mainstream crypto adoption.",
+    "Powered by Zero Hash, this service makes crypto trading accessible through a trusted financial platform. Solana’s inclusion is notable for its speed and low fees.",
+    "If you're a Morgan Stanley customer, check your E*TRADE account to see if you're eligible. This could simplify your crypto investment strategy. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-morgan-stanley-adds-bitcoin-ethereum-and-solana-to-etrade"
+  ],
+  "standaloneTweet": "Morgan Stanley now offers Bitcoin, Ethereum, and Solana trading on E*TRADE via Zero Hash. A big move for mainstream crypto adoption, making it easier for everyday investors.",
+  "seoTitle": "Morgan Stanley Launches Bitcoin, Ethereum, Solana Trading on E*TRADE",
+  "metaDescription": "Morgan Stanley now allows eligible customers to buy, sell, and hold Bitcoin, Ethereum, and Solana through E*TRADE, powered by Zero Hash. A major step for mainstream crypto adoption",
+  "llmSummary": "Morgan Stanley has launched crypto trading on E*TRADE, allowing eligible customers to buy, sell, and hold Bitcoin, Ethereum, and Solana. The service is powered by Zero Hash, a regulated platform. This move brings mainstream crypto access to a broader audience through a trusted financial institution.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*TRADE",
+    "description": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-morgan-stanley-adds-bitcoin-ethereum-and-solana-to-etrade",
+    "datePublished": "2026-07-16T20:57:22.492333+00:00",
+    "dateModified": "2026-07-16T20:57:22.492333+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-morgan-stanley-adds-bitcoin-ethereum-and-solana-to-etrade"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "ethereum",
+      "solana",
+      "trading",
+      "morgan-stanley",
+      "etrade"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-16-bitcoin-q-day-recovery-plan-lets-users-prove-ownership-after-quantum-attacks",
+  "title": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
+  "summary": "Project Eleven has proposed a method to help Bitcoin users recover their wallets after a quantum computer breaks the network's cryptographic protections. The plan involves a post-quantum cryptographic proof to verify ownership of wallets.",
+  "body": "Project Eleven has proposed a method to help Bitcoin users recover their wallets in the event of a quantum attack, known as Q-Day. This scenario could occur when a quantum computer becomes powerful enough to break the cryptographic protections of Bitcoin wallets, rendering them vulnerable. The proposal suggests using a post-quantum cryptographic proof to verify ownership of wallets, allowing users to recover their funds even after a quantum attack.\n\nThe project outlines a detailed process where users would need to provide additional information to prove they own a wallet. This could include transaction history, public keys, and other data that would be difficult for an attacker to replicate. The goal is to create a system that is resistant to quantum computing threats while maintaining the security and integrity of the Bitcoin network.\n\nThis proposal is significant because it addresses a major concern in the crypto community: the potential threat of quantum computing to blockchain security. If successful, it could provide a safety net for Bitcoin users, ensuring they can still access their funds even if a quantum attack occurs. This would be a major step forward in preparing the cryptocurrency ecosystem for future technological threats.\n\nProject Eleven's proposal is still in the early stages, and it will require extensive testing and community feedback before it can be implemented. However, the idea highlights the ongoing efforts to future-proof Bitcoin and other cryptocurrencies against emerging technologies. Users and developers should keep an eye on developments in post-quantum cryptography and how they might be integrated into existing blockchain systems.",
+  "sourceUrl": "https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "recovery",
+    "cryptography",
+    "q-day"
+  ],
+  "publishedAt": "2026-07-16T20:59:16.981388+00:00",
+  "imageUrl": "/images/articles/2026-07-16-bitcoin-q-day-recovery-plan-lets-users-prove-ownership-after-quantum-attacks.webp",
+  "twitterThread": [
+    "Quantum computers could one day break Bitcoin wallets. Project Eleven has a plan to help users recover funds after a Q-Day attack by using post-quantum cryptographic proofs to verify ownership.",
+    "The proposal requires users to provide transaction history and public keys to prove they own a wallet, even after a quantum attack. This could provide a safety net for Bitcoin holders.",
+    "This is a big step in preparing Bitcoin for future threats. Keep an eye on developments in post-quantum cryptography. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-bitcoin-q-day-recovery-plan-lets-users-prove-ownership-after-quantum-attacks"
+  ],
+  "standaloneTweet": "Quantum computers could break Bitcoin wallets, but Project Eleven has a plan to help users recover funds. Their proposal uses post-quantum proofs to verify ownership, ensuring security even after a Q-Day attack.",
+  "seoTitle": "Bitcoin Q-Day Recovery Proposal Uses Post-Quantum Proofs",
+  "metaDescription": "Project Eleven proposes a post-quantum cryptographic proof to help Bitcoin users recover wallets after a quantum attack (Q-Day) by verifying ownership with transaction history and ",
+  "llmSummary": "Project Eleven has proposed a method to help Bitcoin users recover their wallets after a quantum computer breaks the network's cryptographic protections. The plan involves a post-quantum cryptographic proof that uses transaction history and public keys to verify wallet ownership, even after a Q-Day attack. The proposal is in early stages and requires community feedback before implementation.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
+    "description": "Project Eleven has proposed a method to help Bitcoin users recover their wallets after a quantum computer breaks the network's cryptographic protections. The plan involves a post-quantum cryptographic proof to verify ownership of wallets.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-bitcoin-q-day-recovery-plan-lets-users-prove-ownership-after-quantum-attacks",
+    "datePublished": "2026-07-16T20:59:16.981388+00:00",
+    "dateModified": "2026-07-16T20:59:16.981388+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-bitcoin-q-day-recovery-plan-lets-users-prove-ownership-after-quantum-attacks"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "bitcoin, quantum, security, recovery, cryptography, q-day"
+  }
+}

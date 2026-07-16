@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-16-85-of-defi-liquidity-sits-idle-costing-150m-in-lost-fees-annually",
+  "title": "85% of DeFi Liquidity Sits Idle, Costing $150M in Lost Fees Annually",
+  "summary": "A new Dune Analytics report commissioned by 1inch reveals that 85% of concentrated DeFi liquidity is underutilized, with $150 million in annual fees foregone. This inefficiency highlights a major opportunity for liquidity providers to optimize their strategies.",
+  "body": "A recent study commissioned by 1inch and conducted by Dune Analytics has uncovered a significant inefficiency in decentralized finance (DeFi). The research found that 85% of concentrated liquidity in DeFi remains underutilized, leading to an estimated $150 million in annual fees being foregone.\n\nConcentrated liquidity, a strategy where liquidity providers allocate funds to specific price ranges, is meant to maximize returns. However, the data shows that most providers are not optimizing their positions effectively. This underutilization results in lower trading fees and reduced earnings for liquidity providers.\n\nFor everyday DeFi users, this finding underscores the importance of strategic liquidity provision. By optimizing their liquidity positions, users can capture more fees and improve their returns. The report suggests that better tools and education are needed to help liquidity providers make the most of their investments.\n\nMoving forward, liquidity providers should consider using advanced tools and strategies to maximize their earnings. The DeFi community may also see an increase in platforms offering optimization services, making it easier for users to participate effectively. Watch for new tools and educational resources that aim to address this inefficiency in the coming months.",
+  "sourceUrl": "https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "defi",
+  "tags": [
+    "defi",
+    "liquidity",
+    "fees",
+    "1inch",
+    "dune-analytics"
+  ],
+  "publishedAt": "2026-07-16T21:00:34.334058+00:00",
+  "imageUrl": "/images/articles/2026-07-16-85-of-defi-liquidity-sits-idle-costing-150m-in-lost-fees-annually.webp",
+  "twitterThread": [
+    "85% of concentrated DeFi liquidity is sitting idle, costing providers $150M in foregone fees every year. A huge missed opportunity.",
+    "Concentrated liquidity is supposed to maximize returns, but most providers aren't optimizing their positions. Big room for improvement.",
+    "If you're providing liquidity, it's time to up your game. Look for new tools and strategies to capture those lost fees. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-85-of-defi-liquidity-sits-idle-costing-150m-in-lost-fees-annually"
+  ],
+  "standaloneTweet": "Did you know 85% of concentrated DeFi liquidity is underused, leaving $150M in fees foregone annually? Time to optimize your strategy!",
+  "seoTitle": "85% of Concentrated DeFi Liquidity Underutilized, $150M Fees Lost",
+  "metaDescription": "Dune Analytics research commissioned by 1inch finds 85% of concentrated DeFi liquidity is underutilized, costing providers $150M in annual fees foregone.",
+  "llmSummary": "A Dune Analytics study commissioned by 1inch found that 85% of concentrated DeFi liquidity is underutilized, resulting in $150 million in annual fees being foregone. The report highlights a significant inefficiency in liquidity provision and calls for better tools and education to help providers optimize their positions.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "85% of Concentrated DeFi Liquidity Underutilized, $150M Fees Lost",
+    "description": "Dune Analytics research commissioned by 1inch finds 85% of concentrated DeFi liquidity is underutilized, costing providers $150M in annual fees foregone.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-85-of-defi-liquidity-sits-idle-costing-150m-in-lost-fees-annually",
+    "datePublished": "2026-07-16T21:00:34.334058+00:00",
+    "dateModified": "2026-07-16T21:00:34.334058+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-85-of-defi-liquidity-sits-idle-costing-150m-in-lost-fees-annually"
+    },
+    "image": null,
+    "articleSection": "DeFi",
+    "keywords": [
+      "defi",
+      "liquidity",
+      "fees",
+      "1inch",
+      "dune-analytics"
+    ]
+  }
+}

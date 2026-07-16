@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-16-devcon-8-tickets-now-available-for-mumbai-gathering",
+  "title": "Devcon 8 Tickets Now Available for Mumbai Gathering",
+  "summary": "The Ethereum Foundation has opened ticket sales for Devcon 8, set to take place in Mumbai this November. The event brings together builders, researchers, and enthusiasts to discuss the future of open technology. Tickets are available now, though specific pricing tiers were not disclosed in the official announcement.",
+  "body": "The Ethereum Foundation has announced that tickets for Devcon 8 are now live. This year's event will be held in Mumbai, India, this November. Devcon is a major gathering for the Ethereum community, attracting builders, researchers, maintainers, organizers, and anyone curious about the future of open technology.\n\nTickets are available in several tiers, though specific pricing was not disclosed in the official announcement. The event promises a more focused and intimate experience compared to previous years. Across four days, attendees can expect a mix of technical workshops, panel discussions, and networking opportunities. The Ethereum Foundation emphasizes that Devcon is for anyone curious about open technology, not just developers.\n\nThis event is significant for everyday people interested in crypto because it provides a unique opportunity to learn directly from the Ethereum community. Attendees can gain insights into the latest developments, network with industry leaders, and participate in workshops that demystify blockchain technology. For those unable to attend in person, virtual ticket options may also be available, offering access to live streams and recorded sessions.\n\nIf you're interested in attending, tickets are available now on the official Devcon website. Early access tickets are limited, so prospective attendees are encouraged to secure their spots soon. For those planning to travel, consider booking accommodations early, as Mumbai is a popular destination. Stay tuned for more details on the event schedule and speaker lineup as they are announced.",
+  "sourceUrl": "https://blog.ethereum.org/en/2026/07/14/devcon8-tickets",
+  "sourceName": "Ethereum Foundation Blog",
+  "category": "ethereum",
+  "tags": [
+    "ethereum",
+    "devcon",
+    "mumbai",
+    "blockchain",
+    "conference",
+    "crypto"
+  ],
+  "publishedAt": "2026-07-16T21:01:21.770391+00:00",
+  "imageUrl": "/images/articles/2026-07-16-devcon-8-tickets-now-available-for-mumbai-gathering.webp",
+  "twitterThread": [
+    "Devcon 8 tickets are live! Join the Ethereum community in Mumbai this November. Tickets are available now on the official Devcon website.",
+    "This year's Devcon promises a more focused and intimate experience with workshops, panels, and networking. Open to builders, researchers, maintainers, organizers, and anyone curious about open technology.",
+    "Don't miss out—tickets are limited. Secure your spot and plan your trip to Mumbai. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-devcon-8-tickets-now-available-for-mumbai-gathering"
+  ],
+  "standaloneTweet": "Devcon 8 tickets are live! Join the Ethereum community in Mumbai this November. Tickets are available now on the official Devcon website. Don't miss this chance to learn and network with the best in crypto.",
+  "seoTitle": "Devcon 8 Tickets Now Live for Mumbai Ethereum Gathering",
+  "metaDescription": "The Ethereum Foundation has opened ticket sales for Devcon 8 in Mumbai this November. The event brings together builders, researchers, and enthusiasts to discuss the future of open",
+  "llmSummary": "The Ethereum Foundation has opened ticket sales for Devcon 8, set to take place in Mumbai, India, this November. The event gathers builders, researchers, maintainers, organizers, and anyone curious about open technology for a more focused and intimate experience. Tickets are available now on the official Devcon website, though specific pricing was not disclosed in the announcement.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Devcon 8 Tickets Now Available for Mumbai Gathering",
+    "description": "The Ethereum Foundation has opened ticket sales for Devcon 8, set to take place in Mumbai this November. The event brings together builders, researchers, and enthusiasts to discuss the future of open technology.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-devcon-8-tickets-now-available-for-mumbai-gathering",
+    "datePublished": "2026-07-16T21:01:21.770391+00:00",
+    "dateModified": "2026-07-16T21:01:21.770391+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-devcon-8-tickets-now-available-for-mumbai-gathering"
+    },
+    "image": null,
+    "articleSection": "Ethereum",
+    "keywords": [
+      "ethereum",
+      "devcon",
+      "mumbai",
+      "blockchain",
+      "conference",
+      "crypto"
+    ]
+  }
+}
