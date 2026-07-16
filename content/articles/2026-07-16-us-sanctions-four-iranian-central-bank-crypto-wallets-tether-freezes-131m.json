@@ -1,0 +1,61 @@
+{
+  "slug": "2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m",
+  "title": "U.S. Sanctions Four Iranian Central Bank Crypto Wallets, Tether Freezes $131M",
+  "summary": "The U.S. has added four crypto wallets linked to Iran's central bank to its sanctions list, and Tether has frozen $131 million of the contents. This move targets TRON-based addresses holding over $165 million, preventing those funds from being transferred or redeemed.",
+  "body": "The U.S. Treasury Department has imposed sanctions on four cryptocurrency wallets associated with Iran's central bank. These wallets, which held over $165 million in cryptocurrency, are now blocked from transferring or redeeming funds. Tether, the issuer of the USDT stablecoin, has frozen $131 million of the contents in these wallets.\n\nThe targeted wallets are based on the TRON blockchain and were identified as part of the U.S. government's efforts to enforce economic sanctions against Iran. The sanctions aim to prevent Iran from accessing and using these funds, which are now effectively locked. This action highlights the increasing use of cryptocurrencies by state actors and the U.S. government's efforts to monitor and control such activities.\n\nFor everyday people, this news underscores the importance of complying with international sanctions and regulations when dealing with cryptocurrencies. It also serves as a reminder that stablecoins like USDT can be frozen or seized by issuers in response to legal or regulatory actions. This move may also impact the broader crypto market, as it demonstrates the reach and enforcement capabilities of U.S. sanctions.\n\nMoving forward, users should be vigilant about the origins and destinations of their crypto transactions. If you hold or transact with USDT or other stablecoins, be aware that these assets can be frozen by their issuers. Stay informed about the latest developments in crypto regulations and sanctions to avoid potential legal issues.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "sanctions",
+    "tether",
+    "us-treasury",
+    "crypto-regulation",
+    "tron"
+  ],
+  "publishedAt": "2026-07-16T13:31:40.976393+00:00",
+  "imageUrl": "/images/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m.webp",
+  "twitterThread": [
+    "The U.S. just sanctioned four Iranian central bank crypto wallets, freezing $131M in USDT. Tether complied, blocking the funds.",
+    "These wallets held over $165M on the TRON blockchain. The U.S. is cracking down on state actors using crypto to evade sanctions.",
+    "If you use stablecoins, remember: issuers can freeze funds. Stay compliant and watch for updates on crypto sanctions. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m"
+  ],
+  "standaloneTweet": "The U.S. just froze $131M in USDT linked to Iran's central bank. A reminder: stablecoins can be seized. Be careful where you send crypto.",
+  "seoTitle": "U.S. Sanctions 4 Iran Central Bank Crypto Wallets, Tether Freezes $131",
+  "metaDescription": "The U.S. Treasury sanctioned four TRON-based crypto wallets linked to Iran's central bank. Tether froze $131M of the $165M+ held in those addresses.",
+  "llmSummary": "The U.S. Treasury Department added four TRON-based cryptocurrency wallets linked to Iran's central bank to its sanctions list. Tether, the issuer of USDT, froze $131 million of the contents, which were part of over $165 million held in those addresses. The action prevents Iran from transferring or redeeming those specific funds.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "U.S. Sanctions Four Iranian Central Bank Crypto Wallets, Tether Freezes $131M",
+    "description": "The U.S. Treasury Department has imposed sanctions on four cryptocurrency wallets associated with Iran's central bank. Tether has frozen $131 million of the contents, targeting TRON-based addresses holding over $165 million.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m",
+    "datePublished": "2026-07-16T13:31:40.976393+00:00",
+    "dateModified": "2026-07-16T13:31:40.976393+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m"
+    },
+    "image": null,
+    "articleSection": "Regulation",
+    "keywords": [
+      "sanctions",
+      "tether",
+      "us-treasury",
+      "crypto-regulation",
+      "tron",
+      "iran",
+      "central bank",
+      "usdt",
+      "freeze"
+    ]
+  }
+}

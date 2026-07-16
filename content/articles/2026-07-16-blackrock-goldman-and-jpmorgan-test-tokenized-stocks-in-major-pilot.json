@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-16-blackrock-goldman-and-jpmorgan-test-tokenized-stocks-in-major-pilot",
+  "title": "BlackRock, Goldman, and JPMorgan Join DTCC Pilot for Tokenized Stocks and Treasuries",
+  "summary": "The Depository Trust & Clearing Corporation (DTCC) is leading a pilot with nearly 40 financial firms, including BlackRock, Goldman Sachs, and JPMorgan, to test tokenized stocks and U.S. treasuries. The initiative aims to explore blockchain-based settlement and trading efficiencies.",
+  "body": "The Depository Trust & Clearing Corporation (DTCC) is leading a pilot program with nearly 40 financial firms to test tokenized stocks and U.S. treasuries. Major players like BlackRock, Goldman Sachs, and JPMorgan are participating in this initiative, which aims to explore the benefits of using blockchain technology for traditional financial assets.\n\nThe pilot focuses on creating digital tokens that represent stocks and treasuries, allowing for faster and more efficient trading. These tokens could potentially reduce settlement times from days to minutes, making the process more streamlined for both institutions and individual investors. The program is still in its early stages, but the involvement of such prominent firms indicates a growing interest in tokenization.\n\nFor everyday investors, this development could mean more accessible and efficient trading options. Tokenized assets could lower barriers to entry and provide more liquidity, making it easier for individuals to buy and sell stocks and treasuries. This could also lead to lower fees and faster access to funds, benefiting retail investors.\n\nThe pilot program is expected to run for several months, with results likely to be shared later this year. Investors should watch for any announcements from the DTCC or participating firms, as successful outcomes could pave the way for wider adoption of tokenized assets in the financial market.",
+  "sourceUrl": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "tokenized",
+    "stocks",
+    "dtcc",
+    "blackrock",
+    "goldman",
+    "jpmorgan"
+  ],
+  "publishedAt": "2026-07-16T13:34:52.049901+00:00",
+  "imageUrl": "/images/articles/2026-07-16-blackrock-goldman-and-jpmorgan-test-tokenized-stocks-in-major-pilot.webp",
+  "twitterThread": [
+    "Big banks like BlackRock, Goldman, and JPMorgan are testing tokenized stocks in a major DTCC-led pilot. Could this make trading faster and more efficient for you?",
+    "The Depository Trust & Clearing Corporation (DTCC) is leading the way with nearly 40 firms exploring tokenized stocks and U.S. treasuries. These digital tokens could cut settlement times from days to minutes.",
+    "If successful, this could mean easier and faster trading for everyday investors. Watch for updates from the DTCC later this year. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-blackrock-goldman-and-jpmorgan-test-tokenized-stocks-in-major-pilot"
+  ],
+  "standaloneTweet": "Tokenized stocks and treasuries are being tested by major banks like BlackRock and JPMorgan in a DTCC-led pilot. This could make trading faster and more accessible for everyday investors.",
+  "seoTitle": "BlackRock, Goldman, JPMorgan Join DTCC Tokenized Stocks Pilot",
+  "metaDescription": "The DTCC is piloting tokenized stocks and U.S. treasuries with nearly 40 firms including BlackRock, Goldman Sachs, and JPMorgan, aiming to speed up settlement and trading.",
+  "llmSummary": "The DTCC is leading a pilot with nearly 40 financial firms, including BlackRock, Goldman Sachs, and JPMorgan, to test tokenized stocks and U.S. treasuries on blockchain. The initiative aims to reduce settlement times from days to minutes and improve trading efficiency for both institutions and retail investors.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BlackRock, Goldman, and JPMorgan Join DTCC Pilot for Tokenized Stocks and Treasuries",
+    "description": "The Depository Trust & Clearing Corporation (DTCC) is leading a pilot with nearly 40 financial firms, including BlackRock, Goldman Sachs, and JPMorgan, to test tokenized stocks and U.S. treasuries. The initiative aims to explore blockchain-based settlement and trading efficiencies.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-blackrock-goldman-and-jpmorgan-test-tokenized-stocks-in-major-pilot",
+    "datePublished": "2026-07-16T13:34:52.049901+00:00",
+    "dateModified": "2026-07-16T13:34:52.049901+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-blackrock-goldman-and-jpmorgan-test-tokenized-stocks-in-major-pilot"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "tokenized, stocks, dtcc, blackrock, goldman, jpmorgan"
+  }
+}

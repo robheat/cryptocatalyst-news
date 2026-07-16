@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-16-bip-110-proposal-sparks-bitcoin-community-divide",
+  "title": "BIP-110 Proposal Sparks Bitcoin Community Divide",
+  "summary": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.",
+  "body": "A new proposal, BIP-110, aims to limit the use of Bitcoin's blockchain for non-financial data, such as inscriptions and other non-transactional uses. This has sparked a heated debate within the Bitcoin community, with prominent developers, miners, and industry leaders taking opposing stances. The proposal is set to reach a critical activation deadline soon, which has further escalated the tension.\n\nThe BIP-110 proposal seeks to address concerns about the increasing use of Bitcoin's blockchain for purposes other than financial transactions. Proponents argue that this usage clutters the blockchain and increases costs, while opponents believe it stifles innovation and limits the potential of Bitcoin's technology. The debate has drawn comparisons to the Blocksize Wars of the past, highlighting the ongoing governance challenges within the Bitcoin ecosystem.\n\nThis divide is significant for everyday users because it could impact the future functionality and usability of the Bitcoin network. If the proposal is implemented, it may restrict certain types of data storage and usage, potentially affecting applications that rely on these features. Users may need to adapt to new limitations or explore alternative solutions if the proposal is activated.\n\nAs the activation deadline approaches, the Bitcoin community is closely watching the developments. Users should stay informed about the outcomes of this debate, as it could shape the future of Bitcoin's blockchain. Keeping an eye on official announcements and community discussions will be crucial for understanding the potential impacts on the network and its users.",
+  "sourceUrl": "https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bip-110",
+    "blockchain",
+    "governance",
+    "community",
+    "debate"
+  ],
+  "publishedAt": "2026-07-16T13:29:02.165434+00:00",
+  "imageUrl": "/images/articles/2026-07-16-bip-110-proposal-sparks-bitcoin-community-divide.webp",
+  "twitterThread": [
+    "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline. What's at stake?",
+    "BIP-110 aims to limit non-transactional data on Bitcoin's blockchain, reopening one of the network's biggest governance debates since the Blocksize Wars. The deadline is approaching, and tensions are high.",
+    "This divide could impact the future of Bitcoin's functionality. Stay informed and watch for official announcements. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-bip-110-proposal-sparks-bitcoin-community-divide"
+  ],
+  "standaloneTweet": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars. Stay informed!",
+  "seoTitle": "BIP-110 Proposal Sparks Bitcoin Community Divide",
+  "metaDescription": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's",
+  "llmSummary": "BIP-110 is a proposal to restrict non-financial data on Bitcoin's blockchain, such as inscriptions. It has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars. Proponents argue it reduces clutter and costs, while opponents say it stifles innovation.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BIP-110 Proposal Sparks Bitcoin Community Divide",
+    "description": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-bip-110-proposal-sparks-bitcoin-community-divide",
+    "datePublished": "2026-07-16T13:29:02.165434+00:00",
+    "dateModified": "2026-07-16T13:29:02.165434+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-bip-110-proposal-sparks-bitcoin-community-divide"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "bip-110",
+      "blockchain",
+      "governance",
+      "community",
+      "debate"
+    ]
+  }
+}

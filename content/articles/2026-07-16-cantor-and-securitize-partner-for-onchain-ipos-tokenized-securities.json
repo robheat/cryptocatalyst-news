@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-16-cantor-and-securitize-partner-for-onchain-ipos-tokenized-securities",
+  "title": "Cantor and Securitize Partner for Onchain IPOs, Tokenized Securities",
+  "summary": "Cantor Fitzgerald and Securitize are teaming up to let public companies raise capital through blockchain-based IPOs. This collaboration aims to streamline capital raising and expand access to tokenized securities.",
+  "body": "Cantor Fitzgerald, a prominent investment bank, and Securitize, a leader in digital securities, have announced a partnership to facilitate blockchain-based IPOs. This collaboration will enable public companies to raise capital and issue tokenized securities onchain, leveraging blockchain technology for transparency and efficiency.\n\nThe partnership will allow companies to tokenize their shares, making them easily tradable on blockchain networks. Cantor Fitzgerald will provide underwriting and advisory services, while Securitize will handle the tokenization and compliance aspects. This move is expected to attract companies looking for innovative ways to raise capital and engage with a broader investor base.\n\nFor everyday investors, this development could mean greater access to investment opportunities previously limited to institutional players. Tokenized securities can offer lower barriers to entry, increased liquidity, and more transparent ownership records. This could democratize access to capital markets and provide more options for individual investors.\n\nThis collaboration marks a significant step toward mainstream adoption of blockchain technology in traditional finance. As more companies explore tokenized offerings, investors should watch for announcements from Cantor and Securitize about upcoming IPOs and the platforms they will use. Keep an eye on regulatory developments to ensure compliance and security in this evolving space.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "blockchain",
+    "ipos",
+    "securities",
+    "tokenization",
+    "investing",
+    "finance"
+  ],
+  "publishedAt": "2026-07-16T13:33:46.780228+00:00",
+  "imageUrl": "/images/articles/2026-07-16-cantor-and-securitize-partner-for-onchain-ipos-tokenized-securities.webp",
+  "twitterThread": [
+    "Cantor Fitzgerald and Securitize are teaming up to bring blockchain-based IPOs to the mainstream. Companies can now raise capital and issue tokenized securities onchain. 🚀",
+    "This partnership combines Cantor's underwriting expertise with Securitize's tokenization tech. Expect lower barriers to entry and more transparent ownership records for investors. 📈",
+    "For investors, this could mean easier access to previously exclusive opportunities. Watch for upcoming IPOs and regulatory updates. Read more → https://www.cryptocatalyst.news/articles/2026-07-16-cantor-and-securitize-partner-for-onchain-ipos-tokenized-securities"
+  ],
+  "standaloneTweet": "Blockchain-based IPOs are coming to the mainstream thanks to Cantor Fitzgerald and Securitize. Investors may soon have easier access to tokenized securities. 📊",
+  "seoTitle": "Cantor and Securitize Partner for Onchain IPOs, Tokenized Securities",
+  "metaDescription": "Cantor Fitzgerald and Securitize are teaming up to let public companies raise capital through blockchain-based IPOs. This collaboration aims to streamline capital raising and expan",
+  "llmSummary": "Cantor Fitzgerald and Securitize are teaming up to let public companies raise capital through blockchain-based IPOs. This collaboration aims to streamline capital raising and expand access to tokenized securities.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cantor and Securitize Partner for Onchain IPOs, Tokenized Securities",
+    "description": "Cantor Fitzgerald and Securitize are teaming up to let public companies raise capital through blockchain-based IPOs. This collaboration aims to streamline capital raising and expand access to tokenized securities.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-16-cantor-and-securitize-partner-for-onchain-ipos-tokenized-securities",
+    "datePublished": "2026-07-16T13:33:46.780228+00:00",
+    "dateModified": "2026-07-16T13:33:46.780228+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-16-cantor-and-securitize-partner-for-onchain-ipos-tokenized-securities"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "blockchain, ipos, securities, tokenization, investing, finance"
+  }
+}
