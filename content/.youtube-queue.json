@@ -9111,6 +9111,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-12-bitcoin-backed-preferred-shares-pass-first-major-stress-test_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions",
+      "title": "Bitcoin's BIP-110 Softfork Faces Backlash Over 'Junk Data' Restrictions",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "softfork",
+        "bip-110",
+        "blockchain",
+        "junk-data",
+        "decentralization"
+      ],
+      "articleSummary": "A proposed Bitcoin softfork (BIP-110) aims to limit data-heavy transactions, but miners and users are pushing back. The debate highlights tensions over who controls what gets recorded on the blockchain. The proposed change would restrict certain types of data transactions to prevent what some call 'junk data' from clogging the network.",
+      "articleBody": "A proposed Bitcoin softfork, known as BIP-110, has sparked significant controversy within the Bitcoin community. The softfork aims to restrict data-heavy transactions, which some argue clutter the blockchain with 'junk data.' Proponents of BIP-110 believe this will make the network more efficient, but critics argue it undermines Bitcoin's core principle of permissionless access.\n\nThe backlash has been swift, with miners and users expressing concerns over the potential implications. Miners, in particular, are resistant to the idea of restricting what can be recorded on the blockchain, as it could limit their revenue from transaction fees. The debate has also highlighted the broader tension between scalability and decentralization in Bitcoin's development.\n\nFor everyday users, this controversy underscores the importance of Bitcoin's permissionless nature. The ability to record any data on the blockchain, as long as fees are paid, is a fundamental aspect of Bitcoin's design. Restricting this could limit the use cases for Bitcoin, potentially affecting everything from financial transactions to decentralized applications.\n\nAs the debate continues, it's clear that BIP-110 is far from a done deal. The backlash indicates that any changes to Bitcoin's core principles will face significant resistance. Users and miners alike are watching closely to see how this plays out, as the outcome c",
+      "imageUrl": "/images/articles/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions",
+      "script": {
+        "hook": "Bitcoin just landed in a heated debate that could change what you can do with it.",
+        "narration_lines": [
+          "A proposed update, BIP-110, wants to block certain data from being stored on the blockchain, calling it 'junk data.'",
+          "Miners and users are pushing back, saying it goes against Bitcoin's core idea of letting anyone record anything for a fee.",
+          "Imagine trying to store a smart contract or a digital receipt, and suddenly finding out it's not allowed.",
+          "This fight highlights the tension between making Bitcoin faster and keeping it open to everyone.",
+          "If this goes through, it could limit how you use Bitcoin for things beyond just sending money.",
+          "For now, the update is on hold, but the debate shows how any change to Bitcoin can spark big arguments."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "dfd260a418925004",
+      "scriptText": "Bitcoin just landed in a heated debate that could change what you can do with it. A proposed update, BIP-110, wants to block certain data from being stored on the blockchain, calling it 'junk data.' Miners and users are pushing back, saying it goes against Bitcoin's core idea of letting anyone record anything for a fee. Imagine trying to store a smart contract or a digital receipt, and suddenly finding out it's not allowed. This fight highlights the tension between making Bitcoin faster and keeping it open to everyone. If this goes through, it could limit how you use Bitcoin for things beyond just sending money. For now, the update is on hold, but the debate shows how any change to Bitcoin can spark big arguments. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "_eiACkOhJV0",
+      "youtubeUrl": "https://youtube.com/watch?v=_eiACkOhJV0",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-16T16:16:08.669177+00:00",
+      "uploadedAt": "2026-07-16T16:24:05.233144+00:00",
+      "audioLineDurations": [
+        4.458666666666667,
+        7.402666666666667,
+        7.466666666666667,
+        5.866666666666666,
+        5.482666666666667,
+        5.184,
+        6.314666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-bitcoins-bip-110-softfork-faces-backlash-over-junk-data-restrictions_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m",
+      "title": "U.S. Sanctions Four Iranian Central Bank Crypto Wallets, Tether Freezes $131M",
+      "category": "general",
+      "tags": [
+        "sanctions",
+        "tether",
+        "us-treasury",
+        "crypto-regulation",
+        "tron"
+      ],
+      "articleSummary": "The U.S. has added four crypto wallets linked to Iran's central bank to its sanctions list, and Tether has frozen $131 million of the contents. This move targets TRON-based addresses holding over $165 million, preventing those funds from being transferred or redeemed.",
+      "articleBody": "The U.S. Treasury Department has imposed sanctions on four cryptocurrency wallets associated with Iran's central bank. These wallets, which held over $165 million in cryptocurrency, are now blocked from transferring or redeeming funds. Tether, the issuer of the USDT stablecoin, has frozen $131 million of the contents in these wallets.\n\nThe targeted wallets are based on the TRON blockchain and were identified as part of the U.S. government's efforts to enforce economic sanctions against Iran. The sanctions aim to prevent Iran from accessing and using these funds, which are now effectively locked. This action highlights the increasing use of cryptocurrencies by state actors and the U.S. government's efforts to monitor and control such activities.\n\nFor everyday people, this news underscores the importance of complying with international sanctions and regulations when dealing with cryptocurrencies. It also serves as a reminder that stablecoins like USDT can be frozen or seized by issuers in response to legal or regulatory actions. This move may also impact the broader crypto market, as it demonstrates the reach and enforcement capabilities of U.S. sanctions.\n\nMoving forward, users should be vigilant about the origins and destinations of their crypto transactions. If you hold or transact with USDT or other stablecoins, be aware that these assets can be frozen by their issuers. Stay ",
+      "imageUrl": "/images/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m",
+      "script": {
+        "hook": "Your cryptocurrency could be frozen overnight, and here's why.",
+        "narration_lines": [
+          "The U.S. just sanctioned four crypto wallets linked to Iran's central bank, freezing $131 million in Tether's USDT stablecoin.",
+          "This affects everyday users because stablecoins like USDT can be frozen by their issuers, even if you're not involved in sanctions.",
+          "Imagine putting money in a bank, and the bank freezes your account without warning. That's what happened here.",
+          "If you use stablecoins, check where your funds are coming from and going to, to avoid unexpected freezes.",
+          "This move shows how U.S. sanctions can impact the crypto market, making it crucial to stay informed and compliant."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "e110ccb3811d5da9",
+      "scriptText": "Your cryptocurrency could be frozen overnight, and here's why. The U.S. just sanctioned four crypto wallets linked to Iran's central bank, freezing $131 million in Tether's USDT stablecoin. This affects everyday users because stablecoins like USDT can be frozen by their issuers, even if you're not involved in sanctions. Imagine putting money in a bank, and the bank freezes your account without warning. That's what happened here. If you use stablecoins, check where your funds are coming from and going to, to avoid unexpected freezes. This move shows how U.S. sanctions can impact the crypto market, making it crucial to stay informed and compliant. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "xY5fss_i9pY",
+      "youtubeUrl": "https://youtube.com/watch?v=xY5fss_i9pY",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-16T16:16:12.095035+00:00",
+      "uploadedAt": "2026-07-16T16:24:07.308979+00:00",
+      "audioLineDurations": [
+        3.392,
+        9.237333333333334,
+        8.042666666666667,
+        5.802666666666667,
+        6.4,
+        7.8293333333333335,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_3.jpg"
+      ]
     }
   ]
 }
