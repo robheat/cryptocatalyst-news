@@ -9222,6 +9222,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-16-us-sanctions-four-iranian-central-bank-crypto-wallets-tether-freezes-131m_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure",
+      "title": "T. Rowe Price Debuts New ETF With Bitcoin and Crypto Exposure",
+      "category": "bitcoin",
+      "tags": [
+        "etf",
+        "bitcoin",
+        "crypto",
+        "investing",
+        "t-rowe-price"
+      ],
+      "articleSummary": "Asset manager T. Rowe Price has debuted a new crypto fund that gives investors exposure to Bitcoin and other digital assets, signaling growing mainstream interest in cryptocurrencies.",
+      "articleBody": "T. Rowe Price, a well-known asset management firm, has debuted a new crypto fund that gives investors exposure to Bitcoin and other digital assets. This fund is designed to provide a diversified way to invest in the digital asset market, making it easier for traditional investors to participate in the crypto space. \n\nThe new fund will include Bitcoin and other major cryptocurrencies, although the specific assets included have not been detailed in the initial announcement. T. Rowe Price is known for its rigorous investment strategies, and this move is likely to attract both individual and institutional investors looking for a regulated and diversified way to invest in crypto. \n\nThis development is significant for everyday investors who may be hesitant to directly buy and hold cryptocurrencies due to the complexity and volatility of the market. The fund provides a more accessible and potentially less risky way to gain exposure to digital assets. It also signals growing mainstream acceptance of cryptocurrencies as legitimate investment assets. \n\nInvestors interested in this fund should watch for the official list of included cryptocurrencies and the fund's performance metrics. This fund could be a good option for those looking to diversify their portfolios with digital assets without the need to manage them directly. Read more → https://bitcoinmagazine.com/news/t-rowe-price-debuts",
+      "imageUrl": "/images/articles/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure",
+      "script": {
+        "hook": "Big name T. Rowe Price just made it easier to invest in cryptocurrency without the hassle.",
+        "narration_lines": [
+          "They launched a new fund that bundles Bitcoin and other cryptocurrencies together.",
+          "This is a game-changer for regular investors who find crypto too complex or risky to buy directly.",
+          "Think of it like a basket of crypto stocks, managed by professionals, so you don't have to stress.",
+          "The fund is diversified, so it spreads the risk across different digital assets.",
+          "This move shows how mainstream cryptocurrency is becoming in the investment world.",
+          "If you're curious, keep an eye out for the official list of included cryptocurrencies and performance updates."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "0f6c12e9e4099e36",
+      "scriptText": "Big name T. Rowe Price just made it easier to invest in cryptocurrency without the hassle. They launched a new fund that bundles Bitcoin and other cryptocurrencies together. This is a game-changer for regular investors who find crypto too complex or risky to buy directly. Think of it like a basket of crypto stocks, managed by professionals, so you don't have to stress. The fund is diversified, so it spreads the risk across different digital assets. This move shows how mainstream cryptocurrency is becoming in the investment world. If you're curious, keep an eye out for the official list of included cryptocurrencies and performance updates. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "vXuApkeaTfQ",
+      "youtubeUrl": "https://youtube.com/watch?v=vXuApkeaTfQ",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-17T16:12:51.609903+00:00",
+      "uploadedAt": "2026-07-17T16:20:01.694202+00:00",
+      "audioLineDurations": [
+        5.802666666666667,
+        4.650666666666667,
+        6.784,
+        5.525333333333333,
+        4.757333333333333,
+        4.970666666666666,
+        6.250666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-t-rowe-price-launches-etf-offering-bitcoin-and-crypto-exposure_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents",
+      "title": "Cloudflare's x402 Integration Enables Bitcoin Micropayments for AI Agents",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "ai",
+        "micropayments",
+        "lightning-network",
+        "x402",
+        "cloudflare"
+      ],
+      "articleSummary": "Cloudflare has integrated the x402 protocol, allowing websites to accept Bitcoin micropayments from AI agents. This move positions Bitcoin and the Lightning Network as key players in AI data monetization, offering privacy and speed alongside stablecoins.",
+      "articleBody": "Cloudflare has adopted the x402 protocol, enabling websites to monetize data for AI agents through direct cryptocurrency payments. This integration supports Bitcoin, the Lightning Network, and stablecoins, providing options for privacy and fast transactions.\n\nThe x402 protocol allows AI agents to pay for data access in real-time, with Bitcoin and the Lightning Network offering advantages in privacy and speed. This development opens up new avenues for content creators and data providers to monetize their offerings directly through crypto payments.\n\nFor everyday users, this means that websites and services powered by AI agents could soon offer more personalized and efficient interactions, all while supporting a decentralized payment system. Content creators and data providers may find new revenue streams through direct crypto payments, reducing reliance on traditional advertising models.\n\nThis integration is part of a broader trend toward decentralized payment systems in the AI and web3 spaces. As more platforms adopt similar protocols, we can expect to see increased use of Bitcoin and other cryptocurrencies in everyday transactions. Users should watch for announcements from other major tech companies about similar integrations and consider how they might benefit from these new payment options.",
+      "imageUrl": "/images/articles/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents",
+      "script": {
+        "hook": "Your favorite websites might soon pay you in Bitcoin for your data, thanks to a new deal with Cloudflare.",
+        "narration_lines": [
+          "Cloudflare just added a new protocol called x402, letting AI agents pay websites with Bitcoin.",
+          "This means faster, private payments using the Lightning Network, a layer on top of Bitcoin.",
+          "For example, an AI chatbot could pay you tiny amounts of Bitcoin for accessing your data.",
+          "Content creators could earn directly from their audience without ads or middlemen.",
+          "Imagine getting paid for every article you read or every question you answer online.",
+          "Keep an eye out for more websites adopting this tech—it could change how you use the internet."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "cf43313b231e1e53",
+      "scriptText": "Your favorite websites might soon pay you in Bitcoin for your data, thanks to a new deal with Cloudflare. Cloudflare just added a new protocol called x402, letting AI agents pay websites with Bitcoin. This means faster, private payments using the Lightning Network, a layer on top of Bitcoin. For example, an AI chatbot could pay you tiny amounts of Bitcoin for accessing your data. Content creators could earn directly from their audience without ads or middlemen. Imagine getting paid for every article you read or every question you answer online. Keep an eye out for more websites adopting this tech—it could change how you use the internet. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "4JGicdLllTs",
+      "youtubeUrl": "https://youtube.com/watch?v=4JGicdLllTs",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-17T16:12:56.293525+00:00",
+      "uploadedAt": "2026-07-17T16:20:03.539979+00:00",
+      "audioLineDurations": [
+        5.717333333333333,
+        6.997333333333334,
+        5.461333333333333,
+        5.738666666666667,
+        4.8213333333333335,
+        5.034666666666666,
+        5.269333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_3.jpg"
+      ]
     }
   ]
 }
