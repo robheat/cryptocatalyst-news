@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-17-bip-110-likely-to-fail-as-miner-support-falls-short",
+  "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
+  "summary": "Ocean Mining VP Jason Hughes argues BIP-110 lacks measurable consensus, with node signaling at 7-15% and hashrate support under 1% ahead of the critical block 961632 window.",
+  "body": "Ocean Mining’s VP of Development and Engineering, Jason Hughes, has stated that BIP-110 is on track to fail. The proposal, which aims to introduce changes to the Bitcoin network, has seen miner signaling stay below 1%. Hughes argues that this level of support is insufficient to achieve the necessary consensus for implementation.\n\nAccording to Hughes, node signaling for BIP-110 is between 7-15%, but hashrate support is critically low at under 1%. This lack of miner backing is a significant hurdle, as the proposal requires a higher level of support to be activated. The critical block 961632 window is approaching, and without increased miner participation, BIP-110 is unlikely to move forward.\n\nThe failure of BIP-110 could impact the timeline for potential upgrades to the Bitcoin network. While the proposal was intended to bring about specific improvements, the lack of miner support suggests that the community may need to reconsider or revise the proposal. This situation highlights the importance of broad consensus in the Bitcoin ecosystem, where major changes require widespread agreement.\n\nFor those interested in the future of Bitcoin upgrades, it will be crucial to monitor miner signaling and community discussions. If BIP-110 fails, the focus may shift to alternative proposals or further refinement of existing ones. Stay informed about miner support levels and community feedback to understand the next steps in Bitcoin’s development.",
+  "sourceUrl": "https://bitcoinmagazine.com/bitcoin-mining/ocean-mining-vp-jason-hughes-bip-110-on-track-to-fail-as-miner-signaling-stays-below-1",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "bip-110",
+    "miner-signaling",
+    "network-upgrade",
+    "consensus"
+  ],
+  "publishedAt": "2026-07-17T20:55:01.829816+00:00",
+  "imageUrl": "/images/articles/2026-07-17-bip-110-likely-to-fail-as-miner-support-falls-short.webp",
+  "twitterThread": [
+    "BIP-110, a proposed Bitcoin upgrade, is on track to fail as miner signaling stays below 1%. Ocean Mining VP Jason Hughes argues the proposal lacks measurable consensus.",
+    "Node signaling for BIP-110 is at 7-15%, but hashrate support is critically low at under 1% ahead of the critical block 961632 window.",
+    "If BIP-110 fails, the Bitcoin community may need to revisit or revise the proposal. Watch for miner signaling updates. Read more → https://www.cryptocatalyst.news/articles/2026-07-17-bip-110-likely-to-fail-as-miner-support-falls-short"
+  ],
+  "standaloneTweet": "Ocean Mining VP Jason Hughes: BIP-110 on track to fail as miner signaling stays below 1% and hashrate support under 1% ahead of block 961632.",
+  "seoTitle": "BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
+  "metaDescription": "Ocean Mining VP Jason Hughes argues BIP-110 lacks consensus with node signaling at 7-15% and hashrate support under 1% ahead of the critical block 961632 window.",
+  "llmSummary": "Ocean Mining VP Jason Hughes argues BIP-110 lacks measurable consensus, with node signaling at 7-15% and hashrate support under 1% ahead of the critical block 961632 window. The proposal is on track to fail due to insufficient miner backing.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
+    "description": "Ocean Mining VP Jason Hughes argues BIP-110 lacks measurable consensus, with node signaling at 7-15% and hashrate support under 1% ahead of the critical block 961632 window.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-17-bip-110-likely-to-fail-as-miner-support-falls-short",
+    "datePublished": "2026-07-17T20:55:01.829816+00:00",
+    "dateModified": "2026-07-17T20:55:01.829816+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "Jason Hughes"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-17-bip-110-likely-to-fail-as-miner-support-falls-short"
+    },
+    "image": null,
+    "articleSection": "Bitcoin",
+    "keywords": [
+      "bitcoin",
+      "bip-110",
+      "miner-signaling",
+      "network-upgrade",
+      "consensus"
+    ]
+  }
+}

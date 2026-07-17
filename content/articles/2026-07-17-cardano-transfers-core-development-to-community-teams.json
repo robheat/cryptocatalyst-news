@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-17-cardano-transfers-core-development-to-community-teams",
+  "title": "Cardano Transfers Core Development to Community Teams",
+  "summary": "Cardano is handing over control of key components like its Haskell node and Plutus to external development teams. Founder Charles Hoskinson says this move is necessary for the network to grow and evolve.",
+  "body": "Cardano, one of the largest blockchain networks, is decentralizing its development by transferring control of core components to outside teams. Input Output (IO), the company behind Cardano, will no longer oversee the development of the Haskell node, Plutus, Hydra, and other critical parts of the network. This shift is part of a broader strategy to foster community-driven growth and innovation.\n\nAccording to Charles Hoskinson, Cardano's founder, the network must change to start growing again. The transfer of development responsibilities is seen as a necessary step to ensure the ecosystem remains dynamic and resilient. The Haskell node, which is the backbone of Cardano's infrastructure, will now be managed by external developers, as will Plutus, the smart contract platform, and Hydra, a layer-2 scaling solution.\n\nThis move is significant for everyday users because it could lead to faster innovation and more diverse contributions to the Cardano ecosystem. By decentralizing development, the network aims to reduce reliance on a single entity and encourage a broader range of developers to participate. This could result in more robust and versatile applications being built on Cardano.\n\nFor developers and enthusiasts, this transition marks a new era of community involvement. Watch for announcements from the newly appointed teams and how they plan to enhance Cardano's capabilities. Users should also keep an eye on any updates regarding the integration of new features and improvements.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "cardano",
+    "decentralization",
+    "blockchain",
+    "development",
+    "charles-hoskinson",
+    "input-output"
+  ],
+  "publishedAt": "2026-07-17T20:55:37.287887+00:00",
+  "imageUrl": "/images/articles/2026-07-17-cardano-transfers-core-development-to-community-teams.webp",
+  "twitterThread": [
+    "Cardano is handing over core development to external teams, marking a major decentralization push. Key components like Plutus and Hydra are now in community hands.",
+    "Founder Charles Hoskinson says this move is necessary for the network to grow. The Haskell node, a critical part of Cardano's infrastructure, will be managed by outside developers.",
+    "For users, this could mean faster innovation and more diverse contributions. Watch for updates from the new teams and how they plan to enhance Cardano. Read more → https://www.cryptocatalyst.news/articles/2026-07-17-cardano-transfers-core-development-to-community-teams"
+  ],
+  "standaloneTweet": "Cardano is decentralizing its development, handing over key components like Plutus to external teams. This could mean faster innovation and more community-driven growth.",
+  "seoTitle": "Cardano Transfers Core Development to Community Teams",
+  "metaDescription": "Cardano is handing over control of key components like its Haskell node and Plutus to external development teams. Founder Charles Hoskinson says this move is necessary for the netw",
+  "llmSummary": "Cardano is handing over control of key components like its Haskell node and Plutus to external development teams. Founder Charles Hoskinson says this move is necessary for the network to grow and evolve.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cardano Transfers Core Development to Community Teams",
+    "description": "Cardano is handing over control of key components like its Haskell node and Plutus to external development teams. Founder Charles Hoskinson says this move is necessary for the network to grow and evolve.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-17-cardano-transfers-core-development-to-community-teams",
+    "datePublished": "2026-07-17T20:55:37.287887+00:00",
+    "dateModified": "2026-07-17T20:55:37.287887+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-17-cardano-transfers-core-development-to-community-teams"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "cardano, decentralization, blockchain, development, charles-hoskinson, input-output"
+  }
+}
