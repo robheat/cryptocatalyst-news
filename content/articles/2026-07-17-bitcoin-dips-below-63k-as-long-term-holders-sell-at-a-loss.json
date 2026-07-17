@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-17-bitcoin-dips-below-63k-as-long-term-holders-sell-at-a-loss",
+  "title": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
+  "summary": "Bitcoin's price is testing the $63,000 level, with two-thirds of coins moving to exchanges coming from long-term holders selling at a loss. This trend is driven by macroeconomic risks and broader market uncertainty.",
+  "body": "Bitcoin's price is testing the $63,000 mark, as long-term holders continue to sell their coins at a loss. According to data, approximately two-thirds of the coins being moved to exchanges are from holders who acquired them long ago and are now selling at a loss. This selling pressure is contributing to the downward trend in Bitcoin's price.\n\nThe current sell-off is largely attributed to macroeconomic risks and a broader risk-off sentiment in the financial markets. Long-term holders, who typically have a higher conviction in holding through market cycles, are now offloading their assets, indicating a shift in market sentiment. This trend is unusual and suggests that even the most committed holders are feeling the pressure of the current market conditions.\n\nFor everyday investors, this trend highlights the volatility and risk associated with cryptocurrency investments. While long-term holders are selling at a loss, it may signal a potential buying opportunity for those with a higher risk tolerance. However, it also serves as a reminder of the importance of diversifying investments and not relying solely on cryptocurrency.\n\nInvestors should watch for any signs of stabilization or reversal in this trend. If long-term holders start accumulating again, it could indicate a shift in market sentiment and potentially a recovery in Bitcoin's price. Keep an eye on macroeconomic indicators and market news for any changes that could impact Bitcoin's price movement.",
+  "sourceUrl": "https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "price",
+    "long-term",
+    "loss",
+    "market"
+  ],
+  "publishedAt": "2026-07-17T13:08:31.605986+00:00",
+  "imageUrl": "/images/articles/2026-07-17-bitcoin-dips-below-63k-as-long-term-holders-sell-at-a-loss.webp",
+  "twitterThread": [
+    "Bitcoin tests $63K as long-term holders sell at a loss. Two-thirds of coins moving to exchanges are from holders taking losses.",
+    "Macro risks and broader market uncertainty are driving this sell-off. Even long-term holders, usually the most committed, are offloading assets.",
+    "For investors, this could signal a buying opportunity or a warning. Watch for stabilization signs or changes in macroeconomic indicators. Read more → https://www.cryptocatalyst.news/articles/2026-07-17-bitcoin-dips-below-63k-as-long-term-holders-sell-at-a-loss"
+  ],
+  "standaloneTweet": "Bitcoin tests $63K as long-term holders sell at a loss. Two-thirds of coins moving to exchanges are from holders taking losses. What does this mean for your crypto investments?",
+  "seoTitle": "Bitcoin Tests $63K as Long-Term Holders Sell at a Loss",
+  "metaDescription": "Bitcoin tests $63,000 as long-term holders sell at a loss. Two-thirds of coins moving to exchanges come from holders taking losses amid macro risk-off sentiment.",
+  "llmSummary": "Bitcoin is testing the $63,000 level as long-term holders continue selling at a loss. Approximately two-thirds of coins moving to exchanges are from long-term holders taking losses, driven by macroeconomic risks and broader market uncertainty.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
+    "description": "Bitcoin tests $63,000 as long-term holders sell at a loss. Two-thirds of coins moving to exchanges come from holders taking losses amid macro risk-off sentiment.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-17-bitcoin-dips-below-63k-as-long-term-holders-sell-at-a-loss",
+    "datePublished": "2026-07-17T13:08:31.605986+00:00",
+    "dateModified": "2026-07-17T13:08:31.605986+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-17-bitcoin-dips-below-63k-as-long-term-holders-sell-at-a-loss"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "price",
+      "long-term",
+      "loss",
+      "market"
+    ]
+  }
+}

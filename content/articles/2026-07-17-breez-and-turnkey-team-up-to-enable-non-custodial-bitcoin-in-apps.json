@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps",
+  "title": "Breez Partners With Turnkey to Bring Non-Custodial Bitcoin to Backend-Run Apps",
+  "summary": "Breez has partnered with Turnkey to let backend-run apps integrate non-custodial bitcoin wallets at scale, allowing users to retain control of their funds without requiring companies to hold private keys or redesign their existing infrastructure.",
+  "body": "Breez, a Bitcoin wallet and payment service, has partnered with Turnkey to let backend-run applications integrate non-custodial Bitcoin wallets at scale. This collaboration means users can retain full control of their Bitcoin funds, while companies do not need to hold private keys or overhaul their existing infrastructure.\n\nTurnkey provides the infrastructure to securely handle Bitcoin transactions, while Breez’s technology ensures users retain control of their wallets. This allows apps to offer Bitcoin services without managing user funds directly, reducing complexity and security risks for developers.\n\nFor everyday users, this partnership could lead to more apps offering Bitcoin payments or wallet services without requiring users to trust the app with their funds. Users can keep their Bitcoin secure in their own wallets while still using the app’s features, potentially driving wider adoption of Bitcoin in everyday applications.\n\nThe partnership highlights a growing trend of companies working together to make Bitcoin more accessible. As more apps integrate non-custodial Bitcoin wallets, users may see more options for spending and managing their Bitcoin securely, marking a significant step toward mainstream Bitcoin adoption.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/breez-partners-with-turnkey-non",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "wallets",
+    "non-custodial",
+    "breez",
+    "turnkey",
+    "partnership"
+  ],
+  "publishedAt": "2026-07-17T13:07:05.005453+00:00",
+  "imageUrl": "/images/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps.webp",
+  "twitterThread": [
+    "Apps could soon let you use Bitcoin without giving up control of your funds. Breez and Turnkey just teamed up to make non-custodial Bitcoin wallets easier to integrate for backend-run apps.",
+    "The partnership lets apps offer Bitcoin services without holding private keys. Users keep control of their funds while using the app’s features. This could make Bitcoin more accessible for everyone.",
+    "If you’re a developer or Bitcoin user, watch for more apps adopting this tech. It could make managing Bitcoin easier and more secure. Read more → https://www.cryptocatalyst.news/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps"
+  ],
+  "standaloneTweet": "Apps could soon let you use Bitcoin without giving up control of your funds. Breez and Turnkey just teamed up to make non-custodial Bitcoin wallets easier to integrate for backend-run apps.",
+  "seoTitle": "Breez Partners With Turnkey for Non-Custodial Bitcoin in Apps",
+  "metaDescription": "Breez partners with Turnkey to let backend-run apps integrate non-custodial bitcoin wallets at scale, allowing users to retain control of funds without companies holding private ke",
+  "llmSummary": "Breez has partnered with Turnkey to enable backend-run apps to integrate non-custodial bitcoin wallets at scale. Users retain control of their funds, and companies do not need to hold private keys or redesign their infrastructure. This partnership aims to simplify Bitcoin adoption for developers and increase user security.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Breez Partners With Turnkey to Bring Non-Custodial Bitcoin to Backend-Run Apps",
+    "description": "Breez has partnered with Turnkey to let backend-run apps integrate non-custodial bitcoin wallets at scale, allowing users to retain control of their funds without requiring companies to hold private keys or redesign their existing infrastructure.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps",
+    "datePublished": "2026-07-17T13:07:05.005453+00:00",
+    "dateModified": "2026-07-17T13:07:05.005453+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "Micah Zimmerman"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "bitcoin",
+      "wallets",
+      "non-custodial",
+      "breez",
+      "turnkey",
+      "partnership"
+    ]
+  }
+}

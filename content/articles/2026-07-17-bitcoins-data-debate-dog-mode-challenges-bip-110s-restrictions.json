@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-17-bitcoins-data-debate-dog-mode-challenges-bip-110s-restrictions",
+  "title": "Bitcoin's Data Debate: DOG Mode Challenges BIP-110's Restrictions",
+  "summary": "A new Bitcoin client called DOG Mode aims to bypass data restrictions proposed by BIP-110, which lacks miner support. DOG Mode requires no consensus vote, offering an alternative approach to Bitcoin's data capacity debate.",
+  "body": "A new Bitcoin client called DOG Mode is challenging the proposed BIP-110, which aims to restrict data on the Bitcoin network through a consensus change. Unlike BIP-110, DOG Mode does not require miner support or a vote, offering a different approach to managing data capacity on the Bitcoin blockchain.\n\nBIP-110, which proposes to limit the amount of data that can be stored on the Bitcoin blockchain, has faced significant opposition from miners. In contrast, DOG Mode is designed to bypass these restrictions entirely, allowing for more data to be stored without requiring a consensus change. This alternative approach could potentially reshape the debate around Bitcoin's data capacity.\n\nFor everyday users, this debate highlights the ongoing tension between scalability and decentralization in the Bitcoin network. While BIP-110 aims to prevent spam and maintain network efficiency, DOG Mode advocates for a more open approach, potentially benefiting applications that require larger data storage. The outcome of this debate could impact the types of applications that can be built on Bitcoin.\n\nUsers should watch for developments in both BIP-110 and DOG Mode, as the adoption and implementation of these proposals could significantly affect the Bitcoin network's capabilities. Keep an eye on miner support and community discussions to understand the potential impact on the network's future.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "bip-110",
+    "dog-mode",
+    "data-restrictions",
+    "blockchain",
+    "scalability"
+  ],
+  "publishedAt": "2026-07-17T13:04:10.484280+00:00",
+  "imageUrl": "/images/articles/2026-07-17-bitcoins-data-debate-dog-mode-challenges-bip-110s-restrictions.webp",
+  "twitterThread": [
+    "Bitcoin's data debate heats up: DOG Mode client challenges BIP-110's restrictions, no miner vote needed. What's the impact?",
+    "BIP-110 aims to limit data on Bitcoin, but DOG Mode wants to bypass those restrictions entirely. No consensus vote required for DOG Mode.",
+    "Watch for miner support and community discussions—this debate could shape Bitcoin's future. Read more → https://www.cryptocatalyst.news/articles/2026-07-17-bitcoins-data-debate-dog-mode-challenges-bip-110s-restrictions"
+  ],
+  "standaloneTweet": "Bitcoin's data debate: DOG Mode client challenges BIP-110's restrictions, offering a vote-free alternative. What does this mean for the network's future?",
+  "seoTitle": "DOG Mode vs BIP-110: Bitcoin Client Bypasses Data Restrictions",
+  "metaDescription": "DOG Mode, a new Bitcoin client, bypasses BIP-110's proposed data restrictions without requiring miner support or a consensus vote, reshaping the scalability debate.",
+  "llmSummary": "A new Bitcoin client called DOG Mode is designed to bypass data restrictions proposed by BIP-110, which aims to limit data on the Bitcoin blockchain through a consensus change. BIP-110 has almost no miner support, while DOG Mode requires no miner vote and offers an alternative approach to managing Bitcoin's data capacity. The debate highlights the tension between scalability and decentralization, with potential implications for applications that require larger data storage on Bitcoin.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin's Data Debate: DOG Mode Challenges BIP-110's Restrictions",
+    "description": "A new Bitcoin client called DOG Mode aims to bypass data restrictions proposed by BIP-110, which lacks miner support. DOG Mode requires no consensus vote, offering an alternative approach to Bitcoin's data capacity debate.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-17-bitcoins-data-debate-dog-mode-challenges-bip-110s-restrictions",
+    "datePublished": "2026-07-17T13:04:10.484280+00:00",
+    "dateModified": "2026-07-17T13:04:10.484280+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-17-bitcoins-data-debate-dog-mode-challenges-bip-110s-restrictions"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "bip-110",
+      "dog-mode",
+      "data-restrictions",
+      "blockchain",
+      "scalability"
+    ]
+  }
+}
