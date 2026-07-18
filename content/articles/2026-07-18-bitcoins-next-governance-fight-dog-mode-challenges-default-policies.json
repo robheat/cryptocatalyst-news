@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-18-bitcoins-next-governance-fight-dog-mode-challenges-default-policies",
+  "title": "DOG Mode Explains Bitcoin's Next Governance Fight Over Default Relay Policies",
+  "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+  "body": "The DOG Mode client, developed by Leonidas, is challenging Bitcoin's default relay policies, reigniting a philosophical debate about censorship, free markets, and who truly governs the network. This client aims to change how Bitcoin nodes relay transactions, potentially altering the network's default behavior.\n\nThe core of the debate revolves around whether Bitcoin should prioritize certain transactions or data types over others. DOG Mode advocates for a more open approach, arguing that the current policies may inadvertently lead to censorship or centralization. This challenge comes at a time when discussions about Bitcoin's governance and decentralization are gaining traction.\n\nFor everyday users, this debate could affect transaction speeds, fees, and the overall security of the Bitcoin network. If DOG Mode gains traction, it could lead to a more open and decentralized network, but it might also introduce new risks and complexities. The outcome of this governance fight could shape the future of Bitcoin's infrastructure.\n\nAs this debate unfolds, users should watch for updates from the Bitcoin community and developers. The adoption of DOG Mode or similar clients could signal a shift in how the network operates, so staying informed is crucial. Keep an eye on discussions from major Bitcoin developers and community leaders for the latest developments.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "governance",
+    "censorship",
+    "network",
+    "dog-mode",
+    "relay-policies"
+  ],
+  "publishedAt": "2026-07-18T20:44:37.835715+00:00",
+  "imageUrl": "/images/articles/2026-07-18-bitcoins-next-governance-fight-dog-mode-challenges-default-policies.webp",
+  "twitterThread": [
+    "Bitcoin's next big governance fight is heating up, and it's all about who controls the network's default relay policies. Leonidas' DOG Mode is leading the charge.",
+    "DOG Mode challenges Bitcoin's current relay policies, reopening a philosophical debate over censorship, free markets, and who really governs the network. Could this lead to a more open network?",
+    "If you're a Bitcoin user, keep an eye on how this debate unfolds—it could impact transaction speeds and fees. Read more → https://www.cryptocatalyst.news/articles/2026-07-18-bitcoins-next-governance-fight-dog-mode-challenges-default-policies"
+  ],
+  "standaloneTweet": "Bitcoin's governance is under the microscope as Leonidas' DOG Mode challenges default relay policies, reopening a debate over censorship and free markets. Stay tuned.",
+  "seoTitle": "DOG Mode Explains Bitcoin's Next Governance Fight Over Relay Policies",
+  "metaDescription": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+  "llmSummary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network. The client aims to change how Bitcoin nodes relay transactions, potentially altering the network's default behavior and affecting transaction speeds, fees, and security.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "DOG Mode Explains Bitcoin's Next Governance Fight Over Default Relay Policies",
+    "description": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-18-bitcoins-next-governance-fight-dog-mode-challenges-default-policies",
+    "datePublished": "2026-07-18T20:44:37.835715+00:00",
+    "dateModified": "2026-07-18T20:44:37.835715+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-18-bitcoins-next-governance-fight-dog-mode-challenges-default-policies"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "governance",
+      "censorship",
+      "network",
+      "dog-mode",
+      "relay-policies"
+    ]
+  }
+}

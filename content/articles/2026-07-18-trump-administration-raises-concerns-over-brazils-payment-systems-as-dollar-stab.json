@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-18-trump-administration-raises-concerns-over-brazils-payment-systems-as-dollar-stab",
+  "title": "Trump Targets Brazil's Payment Systems as Dollar Stablecoins Quietly Overtake Country's Payments",
+  "summary": "Washington views Brazil's promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
+  "body": "The Trump administration has expressed concerns over Brazil's promotion of non-dollar payment channels, particularly the Pix system and the rise of stablecoins. Officials view these developments as a potential threat to the dominance of the U.S. dollar in global trade. This comes as dollar-linked stablecoins account for approximately 90% of Brazil's crypto transactions, underscoring their significant role in the country's financial landscape.\n\nPix, Brazil's instant payment system, has gained widespread adoption since its launch in 2020. Meanwhile, stablecoins, which are digital currencies pegged to the value of the U.S. dollar, have become a popular means of conducting transactions in Brazil. The growth of these payment methods has raised eyebrows in Washington, where policymakers are increasingly focused on maintaining the dollar's central role in international trade.\n\nFor everyday people in Brazil, the rise of stablecoins and the Pix system offers more options for fast, low-cost transactions. This is particularly beneficial for those who may not have access to traditional banking services. However, the Trump administration's scrutiny could lead to increased regulatory pressure, potentially impacting the ease and availability of these payment methods.\n\nAs the situation develops, it will be important to monitor any regulatory changes that may arise from the Trump administration's concerns. For now, users of stablecoins and the Pix system can continue to benefit from these innovative payment options, but they should stay informed about potential policy shifts that could affect their use.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "brazil",
+    "stablecoins",
+    "trump",
+    "payments",
+    "pix",
+    "dollar"
+  ],
+  "publishedAt": "2026-07-18T20:45:16.060899+00:00",
+  "imageUrl": "/images/articles/2026-07-18-trump-administration-raises-concerns-over-brazils-payment-systems-as-dollar-stab.webp",
+  "twitterThread": [
+    "The Trump administration is eyeing Brazil's payment systems like Pix and stablecoins, seeing them as a threat to dollar dominance. Meanwhile, dollar stablecoins make up 90% of Brazil's crypto transactions.",
+    "Brazil's Pix system and stablecoins offer fast, low-cost transactions, especially for those without traditional banking access. But Washington's scrutiny could lead to regulatory changes.",
+    "If you're using stablecoins or Pix in Brazil, keep an eye on potential policy shifts from the U.S. Read more → https://www.cryptocatalyst.news/articles/2026-07-18-trump-administration-raises-concerns-over-brazils-payment-systems-as-dollar-stab"
+  ],
+  "standaloneTweet": "Dollar stablecoins now make up 90% of Brazil's crypto transactions, offering fast, low-cost payments. But the Trump administration's scrutiny could impact their future.",
+  "seoTitle": "Trump Targets Brazil's Payment Systems as Dollar Stablecoins Dominate",
+  "metaDescription": "The Trump administration views Brazil's Pix system and stablecoin growth as a threat to dollar-based trade, even as dollar stablecoins account for 90% of Brazil's crypto transactio",
+  "llmSummary": "The Trump administration is scrutinizing Brazil's promotion of non-dollar payment channels, including Pix and stablecoins, viewing them as a threat to dollar-based trade. Despite this, dollar-linked stablecoins account for about 90% of Brazil's crypto transactions, quietly overtaking the country's payments landscape.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Trump Targets Brazil's Payment Systems as Dollar Stablecoins Quietly Overtake Country's Payments",
+    "description": "Washington views Brazil's promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-18-trump-administration-raises-concerns-over-brazils-payment-systems-as-dollar-stab",
+    "datePublished": "2026-07-18T20:45:16.060899+00:00",
+    "dateModified": "2026-07-18T20:45:16.060899+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-18-trump-administration-raises-concerns-over-brazils-payment-systems-as-dollar-stab"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "brazil",
+      "stablecoins",
+      "trump",
+      "payments",
+      "pix",
+      "dollar"
+    ]
+  }
+}

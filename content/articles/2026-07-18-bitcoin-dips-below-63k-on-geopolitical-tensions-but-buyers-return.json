@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return",
+  "title": "Bitcoin Dips Below $63K on Geopolitical Tensions, But Buyers Return",
+  "summary": "Bitcoin dropped under $63,000 due to U.S. strikes on Iran and U.S.-China tensions, but onchain data and ETF inflows suggest buyers are returning quickly. Analysts see resilience in the market despite the short-term sell-off.",
+  "body": "Bitcoin's price fell below $63,000 this week as geopolitical tensions flared up. U.S. strikes on Iran and renewed tensions between the U.S. and China triggered a broader risk-off sell-off in markets, including cryptocurrencies.\n\nDespite the drop, analysts point to resilient onchain data and renewed inflows into Bitcoin ETFs as signs that buyers are quickly stepping back into the market. This suggests confidence in Bitcoin's long-term value, even amid short-term volatility.\n\nFor everyday investors, this means that while geopolitical events can cause temporary price drops, strong underlying demand and market resilience may support a quick recovery. It's a reminder that Bitcoin's price can be influenced by global events, but its fundamentals often prevail.\n\nLooking ahead, investors should watch for further developments in geopolitical tensions and ETF inflows. These factors could continue to impact Bitcoin's price in the short term, but the market's resilience suggests a potential for quick rebounds. Stay informed and consider the long-term trends when making investment decisions.",
+  "sourceUrl": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "price",
+    "geopolitics",
+    "etf",
+    "onchain"
+  ],
+  "publishedAt": "2026-07-18T20:47:56.897987+00:00",
+  "imageUrl": "/images/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return.webp",
+  "twitterThread": [
+    "Bitcoin dipped below $63K due to U.S.-Iran strikes and U.S.-China tensions, but buyers are returning quickly.",
+    "Onchain data and ETF inflows show resilience, suggesting confidence in Bitcoin's long-term value despite short-term volatility.",
+    "Watch geopolitical developments and ETF inflows for short-term price impacts, but fundamentals suggest potential rebounds. Read more → https://www.cryptocatalyst.news/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return"
+  ],
+  "standaloneTweet": "Bitcoin dropped below $63K due to geopolitical tensions, but strong ETF inflows and onchain data show buyers are returning.",
+  "seoTitle": "Bitcoin Dips Below $63K on Geopolitical Tensions, Buyers Return",
+  "metaDescription": "Bitcoin fell under $63,000 after U.S. strikes on Iran and renewed U.S.-China tensions, but resilient onchain data and renewed ETF inflows suggest buyers are stepping back in quickl",
+  "llmSummary": "Bitcoin's price fell below $63,000 after U.S. strikes on Iran and renewed U.S.-China tensions triggered a risk-off sell-off. However, resilient onchain data and renewed Bitcoin ETF inflows indicate buyers are quickly returning to the market, suggesting underlying demand remains strong despite short-term geopolitical volatility.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin Dips Below $63K on Geopolitical Tensions, But Buyers Return",
+    "description": "Bitcoin fell under $63,000 after U.S. strikes on Iran and renewed U.S.-China tensions, but resilient onchain data and renewed ETF inflows suggest buyers are stepping back in quickly.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return",
+    "datePublished": "2026-07-18T20:47:56.897987+00:00",
+    "dateModified": "2026-07-18T20:47:56.897987+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "Micah Zimmerman"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst.news"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "bitcoin",
+      "price",
+      "geopolitics",
+      "etf",
+      "onchain"
+    ]
+  }
+}
