@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis",
+  "title": "Fed Chair Warsh: No Bailout for Crypto Industry in Crisis",
+  "summary": "Federal Reserve Chair Kevin Warsh stated that the Fed will not rescue failing crypto firms, emphasizing that the industry must manage its own risks. This comes as regulators work on finalizing rules under the GENIUS Act.",
+  "body": "Federal Reserve Chair Kevin Warsh has made it clear that the Fed will not step in to bail out struggling crypto firms. Speaking recently, Warsh emphasized that the crypto industry must bear its own risks, a stance that underscores the Fed's position on financial responsibility within the sector.\n\nWarsh's comments come as regulators are in the process of finalizing rules under the GENIUS Act, a legislative framework aimed at providing clearer guidelines for the crypto industry. The GENIUS Act is expected to address various aspects of crypto regulation, including investor protection and market stability.\n\nFor everyday crypto users, this statement is a reminder that the crypto market operates without the same safety nets as traditional finance. Investors should be prepared for potential losses and should conduct thorough research before investing in crypto assets.\n\nAs the regulatory landscape continues to evolve, crypto enthusiasts should stay informed about the latest developments under the GENIUS Act. Keeping an eye on regulatory changes will be crucial for understanding the future of crypto investments and the broader market.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/fed-chair-warsh-no-bailout-for-crypto",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "fed",
+    "crypto",
+    "regulation",
+    "warsh",
+    "bailout",
+    "genius-act"
+  ],
+  "publishedAt": "2026-07-18T13:21:31.775834+00:00",
+  "imageUrl": "/images/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis.webp",
+  "twitterThread": [
+    "Fed Chair Warsh just made it official: no bailouts for failing crypto firms. The industry must bear its own risks.",
+    "Warsh's statement comes as regulators finalize rules under the GENIUS Act. This means clearer guidelines but no safety nets for crypto investors.",
+    "If you're in crypto, this is your reminder: no Fed backstop. Do your research and be prepared for volatility. Read more → https://www.cryptocatalyst.news/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis"
+  ],
+  "standaloneTweet": "Fed Chair Warsh just made it clear: no bailouts for crypto. The industry is on its own, and investors should be prepared for risks.",
+  "seoTitle": "Fed Chair Warsh: No Bailout for Crypto Industry in Crisis",
+  "metaDescription": "Federal Reserve Chair Kevin Warsh stated the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks as regulators finalize rules under the GENIU",
+  "llmSummary": "Federal Reserve Chair Kevin Warsh stated that the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks. His comments come as regulators finalize rules under the GENIUS Act, a legislative framework aimed at providing clearer guidelines for the crypto industry, including investor protection and market stability.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Fed Chair Warsh: No Bailout for Crypto Industry in Crisis",
+    "description": "Federal Reserve Chair Kevin Warsh stated the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks as regulators finalize rules under the GENIUS Act.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis",
+    "datePublished": "2026-07-18T13:21:31.775834+00:00",
+    "dateModified": "2026-07-18T13:21:31.775834+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "Micah Zimmerman"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bitcoin Magazine"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "fed",
+      "crypto",
+      "regulation",
+      "warsh",
+      "bailout",
+      "genius-act"
+    ]
+  }
+}

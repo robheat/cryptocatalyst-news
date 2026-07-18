@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork",
+  "title": "Foundry Lets Miners Vote on Bitcoin's BIP-110 Soft Fork",
+  "summary": "Foundry Digital is allowing its Bitcoin mining pool clients to vote on BIP-110, a proposed soft fork. The proposal aims to improve transaction efficiency, and the vote gives miners a direct role in protocol governance.",
+  "body": "Foundry Digital, one of the largest Bitcoin mining companies, has announced that it will enable its mining pool clients to vote on BIP-110, a proposed soft fork for the Bitcoin network. A soft fork is a backward-compatible upgrade that allows the network to adopt new features without splitting the blockchain.\n\nBIP-110, or Bitcoin Improvement Proposal 110, is designed to enhance transaction efficiency and reduce fees by optimizing block propagation. Foundry's move is significant because it gives miners a direct say in the decision-making process, which is typically dominated by developers and node operators.\n\nThis initiative matters because it empowers miners, who play a crucial role in securing the Bitcoin network, to have a more active role in its development. It also highlights the growing trend of decentralized governance in the Bitcoin ecosystem, where various stakeholders can influence the network's future.\n\nAs of now, it's unclear how many miners will participate in the vote or what the outcome will be. However, this could set a precedent for future proposals, encouraging more miner engagement in protocol upgrades. Miners and enthusiasts should watch for the results of this vote and any subsequent actions from the Bitcoin community.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "bip-110",
+    "foundry",
+    "soft-fork",
+    "voting"
+  ],
+  "publishedAt": "2026-07-18T13:20:52.548372+00:00",
+  "imageUrl": "/images/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork.webp",
+  "twitterThread": [
+    "Bitcoin miners can now vote on BIP-110, a proposed soft fork that could cut fees and speed up transactions. Foundry Digital is leading the charge. Miners have a rare chance to directly shape Bitcoin's future. This is a big deal for decentralized governance. Read more → https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
+    "BIP-110 aims to optimize block propagation, making transactions faster and cheaper. Foundry's mining pool clients get to vote on whether to adopt it. This is a test case for miner-driven upgrades in Bitcoin. Will others follow suit? Read more → https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
+    "If BIP-110 passes, it could set a precedent for future miner involvement in Bitcoin's development. Keep an eye on the vote results and community reaction. Read more → https://www.cryptocatalyst.news/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork"
+  ],
+  "standaloneTweet": "Bitcoin miners are getting a say in the network's future. Foundry Digital is letting its clients vote on BIP-110, a soft fork that could make transactions faster and cheaper. This is a big step for decentralized governance.",
+  "seoTitle": "Foundry Lets Miners Vote on Bitcoin's BIP-110 Soft Fork",
+  "metaDescription": "Foundry Digital is allowing its Bitcoin mining pool clients to vote on BIP-110, a proposed soft fork that aims to improve transaction efficiency. This gives miners a direct role in",
+  "llmSummary": "Foundry Digital, a major Bitcoin mining company, is allowing its mining pool clients to vote on BIP-110, a proposed soft fork designed to improve transaction efficiency and reduce fees by optimizing block propagation. This vote gives miners a direct say in protocol upgrades, a role typically held by developers and node operators, and could set a precedent for future miner-driven governance in the Bitcoin ecosystem.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Foundry Lets Miners Vote on Bitcoin's BIP-110 Soft Fork",
+    "description": "Foundry Digital is allowing its Bitcoin mining pool clients to vote on BIP-110, a proposed soft fork that aims to improve transaction efficiency. This gives miners a direct role in protocol governance.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork",
+    "datePublished": "2026-07-18T13:20:52.548372+00:00",
+    "dateModified": "2026-07-18T13:20:52.548372+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "bitcoin",
+      "mining",
+      "bip-110",
+      "foundry",
+      "soft-fork",
+      "voting"
+    ]
+  }
+}
