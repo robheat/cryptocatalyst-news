@@ -9335,6 +9335,120 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-cloudflares-x402-integration-enables-bitcoin-micropayments-for-ai-agents_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork",
+      "title": "Foundry Lets Miners Vote on Bitcoin's BIP-110 Soft Fork",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "mining",
+        "bip-110",
+        "foundry",
+        "soft-fork",
+        "voting"
+      ],
+      "articleSummary": "Foundry Digital is allowing its Bitcoin mining pool clients to vote on BIP-110, a proposed soft fork. The proposal aims to improve transaction efficiency, and the vote gives miners a direct role in protocol governance.",
+      "articleBody": "Foundry Digital, one of the largest Bitcoin mining companies, has announced that it will enable its mining pool clients to vote on BIP-110, a proposed soft fork for the Bitcoin network. A soft fork is a backward-compatible upgrade that allows the network to adopt new features without splitting the blockchain.\n\nBIP-110, or Bitcoin Improvement Proposal 110, is designed to enhance transaction efficiency and reduce fees by optimizing block propagation. Foundry's move is significant because it gives miners a direct say in the decision-making process, which is typically dominated by developers and node operators.\n\nThis initiative matters because it empowers miners, who play a crucial role in securing the Bitcoin network, to have a more active role in its development. It also highlights the growing trend of decentralized governance in the Bitcoin ecosystem, where various stakeholders can influence the network's future.\n\nAs of now, it's unclear how many miners will participate in the vote or what the outcome will be. However, this could set a precedent for future proposals, encouraging more miner engagement in protocol upgrades. Miners and enthusiasts should watch for the results of this vote and any subsequent actions from the Bitcoin community.",
+      "imageUrl": "/images/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork",
+      "script": {
+        "hook": "Bitcoin miners just got a direct vote on the future of the network.",
+        "narration_lines": [
+          "Foundry Digital, a top Bitcoin mining firm, is letting its clients vote on BIP-110, a proposal to improve transaction efficiency.",
+          "This is a big deal because miners, who secure the network, rarely get a direct say in upgrades.",
+          "BIP-110 is a soft fork, meaning it won't split the blockchain but will optimize how transactions are processed.",
+          "If passed, it could lower fees and speed up transactions, directly benefiting everyday Bitcoin users.",
+          "Miners can now influence the network's future, not just developers and node operators.",
+          "Keep an eye on the results—this could change how Bitcoin evolves."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "464113639c7287c7",
+      "scriptText": "Bitcoin miners just got a direct vote on the future of the network. Foundry Digital, a top Bitcoin mining firm, is letting its clients vote on BIP-110, a proposal to improve transaction efficiency. This is a big deal because miners, who secure the network, rarely get a direct say in upgrades. BIP-110 is a soft fork, meaning it won't split the blockchain but will optimize how transactions are processed. If passed, it could lower fees and speed up transactions, directly benefiting everyday Bitcoin users. Miners can now influence the network's future, not just developers and node operators. Keep an eye on the results—this could change how Bitcoin evolves. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "YVJ7eJU70Ps",
+      "youtubeUrl": "https://youtube.com/watch?v=YVJ7eJU70Ps",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-18T15:54:01.640810+00:00",
+      "uploadedAt": "2026-07-18T16:01:10.790839+00:00",
+      "audioLineDurations": [
+        4.010666666666666,
+        9.856,
+        5.717333333333333,
+        7.936,
+        6.4,
+        5.482666666666667,
+        3.8826666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-foundry-lets-miners-vote-on-bitcoins-bip-110-soft-fork_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis",
+      "title": "Fed Chair Warsh: No Bailout for Crypto Industry in Crisis",
+      "category": "bitcoin",
+      "tags": [
+        "fed",
+        "crypto",
+        "regulation",
+        "warsh",
+        "bailout",
+        "genius-act"
+      ],
+      "articleSummary": "Federal Reserve Chair Kevin Warsh stated that the Fed will not rescue failing crypto firms, emphasizing that the industry must manage its own risks. This comes as regulators work on finalizing rules under the GENIUS Act.",
+      "articleBody": "Federal Reserve Chair Kevin Warsh has made it clear that the Fed will not step in to bail out struggling crypto firms. Speaking recently, Warsh emphasized that the crypto industry must bear its own risks, a stance that underscores the Fed's position on financial responsibility within the sector.\n\nWarsh's comments come as regulators are in the process of finalizing rules under the GENIUS Act, a legislative framework aimed at providing clearer guidelines for the crypto industry. The GENIUS Act is expected to address various aspects of crypto regulation, including investor protection and market stability.\n\nFor everyday crypto users, this statement is a reminder that the crypto market operates without the same safety nets as traditional finance. Investors should be prepared for potential losses and should conduct thorough research before investing in crypto assets.\n\nAs the regulatory landscape continues to evolve, crypto enthusiasts should stay informed about the latest developments under the GENIUS Act. Keeping an eye on regulatory changes will be crucial for understanding the future of crypto investments and the broader market.",
+      "imageUrl": "/images/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis",
+      "script": {
+        "hook": "Your crypto investments just got riskier: the Federal Reserve won't bail out failing crypto firms.",
+        "narration_lines": [
+          "Federal Reserve Chair Kevin Warsh made this clear: no safety net for crypto.",
+          "This means if a crypto company fails, your money could be at risk.",
+          "The GENIUS Act is coming, but it won't protect you from bad investments.",
+          "Imagine losing $10,000 because a crypto firm collapses—no government help.",
+          "Do your research and only invest what you can afford to lose.",
+          "Stay updated on the GENIUS Act to understand future crypto rules."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "87435651989c480f",
+      "scriptText": "Your crypto investments just got riskier: the Federal Reserve won't bail out failing crypto firms. Federal Reserve Chair Kevin Warsh made this clear: no safety net for crypto. This means if a crypto company fails, your money could be at risk. The GENIUS Act is coming, but it won't protect you from bad investments. Imagine losing $10,000 because a crypto firm collapses—no government help. Do your research and only invest what you can afford to lose. Stay updated on the GENIUS Act to understand future crypto rules. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "cxraM7iruMk",
+      "youtubeUrl": "https://youtube.com/watch?v=cxraM7iruMk",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-18T15:54:03.878997+00:00",
+      "uploadedAt": "2026-07-18T16:01:12.423378+00:00",
+      "audioLineDurations": [
+        5.9093333333333335,
+        4.736,
+        3.7973333333333334,
+        3.968,
+        6.378666666666667,
+        3.4133333333333336,
+        4.1386666666666665,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_3.jpg"
+      ]
     }
   ]
 }
