@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-19-south-korea-sanctions-process-begins-for-dunamu-after-36m-hack",
+  "title": "South Korea Sanctions Process Begins for Dunamu After $36M Hack",
+  "summary": "South Korea's regulator is taking action against Dunamu, the operator of Upbit, following a $36 million hack. The case highlights gaps in the country's Virtual Asset User Protection Act regarding penalties for security breaches.",
+  "body": "South Korea's Financial Services Commission (FSC) has initiated a sanctions process against Dunamu, the parent company of the major cryptocurrency exchange Upbit. The move follows a significant hack in which $36 million was stolen from Upbit's hot wallets. The FSC's action comes amid concerns over the lack of explicit sanctions provisions in South Korea's Virtual Asset User Protection Act for incidents involving hacking and computer system breaches.\n\nThe hack, which occurred earlier this year, has raised questions about the adequacy of security measures at major exchanges. The FSC's inspection letter to Dunamu indicates that the regulator is exploring the full extent of the company's responsibilities and potential penalties. However, the lack of clear guidelines in the existing law has left the scope of possible sanctions uncertain.\n\nThis case is significant for everyday crypto users because it underscores the importance of exchange security and regulatory oversight. If the FSC imposes substantial penalties, it could set a precedent for how exchanges handle security breaches and protect user funds. For now, users are advised to keep their assets in secure wallets and stay informed about regulatory developments.\n\nThe FSC's actions could also influence future legislation, potentially leading to stricter regulations for crypto exchanges. Users should watch for updates on the sanctions process and any changes to South Korea's Virtual Asset User Protection Act, as these could impact exchange operations and user protections. Read more → https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceUrl": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "south-korea",
+    "dunamu",
+    "upbit",
+    "hack",
+    "regulation",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-07-19T13:37:54.341752+00:00",
+  "imageUrl": "/images/articles/2026-07-19-south-korea-sanctions-process-begins-for-dunamu-after-36m-hack.webp",
+  "twitterThread": [
+    "South Korea's regulator is taking action against Dunamu after a $36M hack on Upbit. The case highlights gaps in the country's crypto laws.",
+    "The Financial Services Commission (FSC) is exploring penalties, but South Korea's Virtual Asset User Protection Act lacks clear guidelines for security breaches. This could set a precedent for exchange responsibilities.",
+    "Crypto users should keep assets in secure wallets and watch for updates on the sanctions process. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-south-korea-sanctions-process-begins-for-dunamu-after-36m-hack"
+  ],
+  "standaloneTweet": "South Korea's regulator is taking action against Dunamu after a $36M hack on Upbit. The case highlights gaps in the country's crypto laws.",
+  "seoTitle": "South Korea Sanctions Process Begins for Dunamu After $36M Hack",
+  "metaDescription": "South Korea's regulator is taking action against Dunamu, the operator of Upbit, following a $36 million hack. The case highlights gaps in the country's Virtual Asset User Protectio",
+  "llmSummary": "South Korea's Financial Services Commission has initiated a sanctions process against Dunamu, operator of Upbit, after a $36 million hot wallet hack. The case reveals that the Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "South Korea Sanctions Process Begins for Dunamu After $36M Hack",
+    "description": "South Korea's regulator is taking action against Dunamu, the operator of Upbit, following a $36 million hack. The case highlights gaps in the country's Virtual Asset User Protection Act regarding penalties for security breaches.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-south-korea-sanctions-process-begins-for-dunamu-after-36m-hack",
+    "datePublished": "2026-07-19T13:37:54.341752+00:00",
+    "dateModified": "2026-07-19T13:37:54.341752+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-south-korea-sanctions-process-begins-for-dunamu-after-36m-hack"
+    },
+    "image": "",
+    "articleSection": "general",
+    "keywords": [
+      "south-korea",
+      "dunamu",
+      "upbit",
+      "hack",
+      "regulation",
+      "cryptocurrency"
+    ]
+  }
+}

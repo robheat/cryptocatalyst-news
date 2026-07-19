@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-19-zcashs-new-node-aims-for-visa-scale-privacy-at-50000-tps",
+  "title": "Inside Zcash's New Node That Targets Visa-Scale Privacy at 50,000 Transactions Per Second",
+  "summary": "Zcash has launched a new node client called Zakura, the first live piece of a plan to scale the network from roughly one private transaction per second to 50,000 TPS — comparable to Visa's capacity — while maintaining strong privacy protections.",
+  "body": "Zcash, a privacy-focused cryptocurrency, has introduced a new node client called Zakura. This client is the first live implementation of a broader plan to scale Zcash's privacy features from roughly one private transaction per second to 50,000 transactions per second (TPS), comparable to Visa's scale. The goal is to make Zcash a more practical option for everyday transactions while maintaining strong privacy protections.\n\nThe Zakura client leverages advanced cryptographic techniques to ensure that transactions remain private even at high speeds. This development is part of a long-term strategy to make Zcash a more competitive player in the payment network space. Currently, Zcash processes roughly one private transaction per second, making this a significant leap in capacity.\n\nFor everyday users, this means that Zcash could become a more viable option for everyday transactions, such as online purchases or peer-to-peer payments. The increased transaction capacity and maintained privacy could make it a more attractive alternative to traditional payment methods, which often lack robust privacy features.\n\nThe success of the Zakura client will depend on its adoption by the broader Zcash community. If widely adopted, it could set a new standard for privacy-focused cryptocurrencies. Users should watch for updates on the integration of Zakura into the Zcash network and its impact on transaction speeds and privacy.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "zcash",
+    "privacy",
+    "transactions",
+    "visa",
+    "cryptocurrency",
+    "zakura"
+  ],
+  "publishedAt": "2026-07-19T13:34:15.144834+00:00",
+  "imageUrl": "/images/articles/2026-07-19-zcashs-new-node-aims-for-visa-scale-privacy-at-50000-tps.webp",
+  "twitterThread": [
+    "Zcash's new Zakura node is the first live piece of a plan to scale from ~1 private transaction per second to 50,000 TPS — Visa-scale speed with full privacy.",
+    "The Zakura client leverages advanced cryptography to keep transactions private even at high speeds. Currently, Zcash processes about 1 private transaction per second. This is a huge leap.",
+    "If successful, Zcash could become a go-to for private, fast transactions. Watch for updates on Zakura's adoption → https://www.cryptocatalyst.news/articles/2026-07-19-zcashs-new-node-aims-for-visa-scale-privacy-at-50000-tps"
+  ],
+  "standaloneTweet": "Zcash's new Zakura node is the first live piece of a plan to scale from ~1 private transaction per second to 50,000 TPS — Visa-scale speed with full privacy. Game-changer.",
+  "seoTitle": "Zcash's Zakura Node Targets Visa-Scale Privacy at 50,000 TPS",
+  "metaDescription": "Zcash's new Zakura node client is the first live piece of a plan to scale from ~1 private transaction per second to 50,000 TPS, matching Visa's capacity while preserving privacy.",
+  "llmSummary": "Zcash has launched a new node client called Zakura, the first live implementation of a plan to scale the network from roughly one private transaction per second to 50,000 transactions per second (TPS), comparable to Visa's capacity. The client uses advanced cryptographic techniques to maintain privacy at high speeds. Currently, Zcash processes about one private transaction per second, making this a significant leap toward payment-network scale.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Inside Zcash's New Node That Targets Visa-Scale Privacy at 50,000 Transactions Per Second",
+    "description": "Zcash's new Zakura node client is the first live piece of a plan to scale from roughly one private transaction per second to 50,000 TPS, matching Visa's capacity while preserving privacy.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-zcashs-new-node-aims-for-visa-scale-privacy-at-50000-tps",
+    "datePublished": "2026-07-19T13:34:15.144834+00:00",
+    "dateModified": "2026-07-19T13:34:15.144834+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-zcashs-new-node-aims-for-visa-scale-privacy-at-50000-tps"
+    },
+    "image": null,
+    "articleSection": "Technology",
+    "keywords": [
+      "zcash",
+      "privacy",
+      "transactions",
+      "visa",
+      "cryptocurrency",
+      "zakura"
+    ]
+  }
+}

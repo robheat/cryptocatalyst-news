@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-19-bitcoin-wallet-recovery-tool-for-quantum-threats-unveiled",
+  "title": "Bitcoin Wallet Recovery Tool for Quantum Threats Unveiled",
+  "summary": "Project Eleven has developed a tool to recover Bitcoin wallets threatened by quantum computers. However, it won't work for Satoshi's 1.1 million coins. The tool runs in just 243 milliseconds on a standard laptop.",
+  "body": "Project Eleven has announced a breakthrough in Bitcoin security, creating a tool that can recover wallet access even if quantum computers compromise the cryptographic signatures. This development is crucial as quantum computing advances threaten to break the elliptic curve cryptography that secures Bitcoin transactions.\n\nThe tool works by using a wallet's key-derivation path as a form of ownership proof, allowing users to regain access to their funds. It operates in just 243 milliseconds on a standard laptop, making it practical for everyday use. However, the tool cannot recover Satoshi Nakamoto's estimated 1.1 million Bitcoin, as the necessary key-derivation paths for those wallets are unknown.\n\nFor everyday Bitcoin users, this tool provides a critical safeguard against the looming threat of quantum computing. As quantum computers become more powerful, they could potentially forge signatures and steal funds from wallets that rely on outdated cryptographic methods. This recovery tool offers a way to mitigate that risk, ensuring that users can still access their funds even if their signatures are compromised.\n\nMoving forward, Bitcoin users should keep an eye on developments in quantum computing and consider using this recovery tool as a precautionary measure. While it won't help with coins like Satoshi's, it provides a vital layer of security for those who want to protect their investments against future threats.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "wallet",
+    "security",
+    "recovery",
+    "crypto"
+  ],
+  "publishedAt": "2026-07-19T13:32:55.327961+00:00",
+  "imageUrl": "/images/articles/2026-07-19-bitcoin-wallet-recovery-tool-for-quantum-threats-unveiled.webp",
+  "twitterThread": [
+    "Quantum computers could break Bitcoin's security, but a new tool from Project Eleven offers a recovery solution. It runs in just 243 milliseconds on a laptop!",
+    "The tool uses a wallet's key-derivation path to prove ownership, even if quantum computers forge signatures. But it won't recover Satoshi's 1.1 million coins.",
+    "If you're holding Bitcoin, this tool could be a lifesaver against quantum threats. Keep an eye on updates and consider using it to protect your funds. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-bitcoin-wallet-recovery-tool-for-quantum-threats-unveiled"
+  ],
+  "standaloneTweet": "Quantum computers could steal your Bitcoin, but a new recovery tool from Project Eleven can help. It runs in 243ms on a laptop!",
+  "seoTitle": "Bitcoin Wallet Recovery Tool for Quantum Threats Unveiled",
+  "metaDescription": "Project Eleven has developed a tool to recover Bitcoin wallets threatened by quantum computers. However, it won't work for Satoshi's 1.1 million coins. The tool runs in just 243 mi",
+  "llmSummary": "Project Eleven funded a proof that uses a wallet's own key-derivation path to prove ownership after quantum computers can forge its signatures. The tool runs in 243 milliseconds on a laptop but cannot recover Satoshi Nakamoto's 1.1 million Bitcoin because the key-derivation paths for those wallets are unknown.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin Wallet Recovery Tool for Quantum Threats Unveiled",
+    "description": "Project Eleven has developed a tool to recover Bitcoin wallets threatened by quantum computers. However, it won't work for Satoshi's 1.1 million coins. The tool runs in just 243 milliseconds on a standard laptop.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-bitcoin-wallet-recovery-tool-for-quantum-threats-unveiled",
+    "datePublished": "2026-07-19T13:32:55.327961+00:00",
+    "dateModified": "2026-07-19T13:32:55.327961+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-bitcoin-wallet-recovery-tool-for-quantum-threats-unveiled"
+    },
+    "image": null,
+    "articleSection": "Technology",
+    "keywords": "bitcoin, quantum, wallet, security, recovery, crypto"
+  }
+}
