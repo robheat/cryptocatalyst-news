@@ -1,0 +1,51 @@
+{
+  "slug": "2026-07-19-cardano-decentralizes-development-ada-price-rises",
+  "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
+  "summary": "Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+  "body": "Cardano's development is taking a major step toward decentralization. Input Output (IO), the company behind Cardano, is transferring its core infrastructure to external teams. This move is part of a broader effort to make the network more community-driven and less dependent on a single entity.\n\nThe shift comes as ADA, Cardano's native cryptocurrency, is experiencing a price surge. The price increase is attributed to an imminent protocol upgrade that promises to enhance the network's capabilities. Input Output has been gradually handing over responsibilities to third-party developers, a process that began earlier this year.\n\nFor everyday users, this decentralization could lead to more innovative developments on the Cardano network. As more teams contribute to its growth, the ecosystem may become more robust and diverse. This could attract more users and developers, further strengthening Cardano's position in the crypto space.\n\nThe next step for Cardano will be the implementation of the upcoming protocol upgrade. Users should watch for announcements regarding the upgrade's features and timeline. This could provide further insights into how the network will evolve and what new opportunities it will offer.",
+  "sourceUrl": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "cardano",
+    "ada",
+    "decentralization",
+    "protocol-upgrade",
+    "crypto-price"
+  ],
+  "publishedAt": "2026-07-19T20:49:04.877619+00:00",
+  "imageUrl": "/images/articles/2026-07-19-cardano-decentralizes-development-ada-price-rises.webp",
+  "twitterThread": [
+    "Cardano is handing over its core infrastructure to external teams, pushing for more decentralization. ADA price is up on the news. 📈",
+    "Input Output (IO) is transferring its core infrastructure to third-party developers. This move aims to make Cardano more community-driven and less reliant on a single entity.",
+    "The imminent protocol upgrade could bring new features and opportunities. Keep an eye on announcements for the latest developments. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-cardano-decentralizes-development-ada-price-rises"
+  ],
+  "standaloneTweet": "Cardano is decentralizing its development, and ADA's price is rising. The imminent protocol upgrade could mean more innovation and opportunities for users. 🚀",
+  "seoTitle": "Cardano Decentralizes Development, ADA Price Spikes",
+  "metaDescription": "Input Output is handing Cardano's core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade, further decentralizing the network.",
+  "llmSummary": "Input Output (IO) is transferring Cardano's core infrastructure to external teams as part of a broader decentralization effort. The move coincides with a price surge for ADA, driven by an imminent protocol upgrade that promises to enhance network capabilities.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cardano Pumps as Network Moves to Further Decentralize Development",
+    "description": "Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-cardano-decentralizes-development-ada-price-rises",
+    "datePublished": "2026-07-19T20:49:04.877619+00:00",
+    "dateModified": "2026-07-19T20:49:04.877619+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-cardano-decentralizes-development-ada-price-rises"
+    },
+    "image": "",
+    "articleSection": "general",
+    "keywords": "cardano, ada, decentralization, protocol-upgrade, crypto-price"
+  }
+}

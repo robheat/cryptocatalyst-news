@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-19-trump-reportedly-earned-14b-from-crypto-in-one-year",
+  "title": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
+  "summary": "A Guardian investigation reveals that Donald Trump earned $1.4 billion from cryptocurrency ventures in a single year, with TRON founder Justin Sun playing a central role in facilitating the deals.",
+  "body": "A detailed investigation by The Guardian has revealed that former President Donald Trump earned $1.4 billion from cryptocurrency ventures in a single year. The report traces the source of these earnings to a series of high-profile deals and partnerships within the crypto industry, with TRON founder Justin Sun identified as a key facilitator.\n\nAccording to the investigation, Sun's involvement was instrumental in structuring and executing the transactions that generated Trump's massive crypto windfall. The report highlights the growing intersection between traditional political power and the largely unregulated crypto market, raising questions about conflicts of interest and the influence of wealthy crypto entrepreneurs on public figures.\n\nFor everyday investors, the story underscores both the potential for enormous returns in the crypto space and the significant risks, particularly when high-profile figures are involved. The Trump-Sun connection could draw increased regulatory scrutiny and influence market dynamics going forward.\n\nAs the crypto market continues to evolve, this case serves as a reminder to stay informed about both the opportunities and the risks. Keep an eye on further developments involving Trump and Sun, as their actions could have a substantial impact on the market.",
+  "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "trump",
+    "justin-sun",
+    "investments",
+    "trx",
+    "bitcoin"
+  ],
+  "publishedAt": "2026-07-19T20:49:41.891565+00:00",
+  "imageUrl": "/images/articles/2026-07-19-trump-reportedly-earned-14b-from-crypto-in-one-year.webp",
+  "twitterThread": [
+    "A Guardian investigation reveals Trump made $1.4B from crypto in one year. Justin Sun, founder of TRON, is named as a key facilitator. 💰📈",
+    "The report details how Sun helped structure the deals that generated Trump's massive crypto earnings. This raises questions about influence and regulation. 🚀",
+    "This story highlights the growing intersection of traditional political power and crypto. Stay informed about the risks and opportunities. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-trump-reportedly-earned-14b-from-crypto-in-one-year"
+  ],
+  "standaloneTweet": "A Guardian investigation reveals Trump made $1.4B from crypto in one year. Justin Sun, founder of TRON, is named as a key facilitator. Crypto's influence on traditional finance and politics is growing. 💸",
+  "seoTitle": "Trump Made $1.4B from Crypto in One Year – Justin Sun's Role",
+  "metaDescription": "A Guardian investigation reveals Donald Trump earned $1.4 billion from crypto in one year, with TRON founder Justin Sun playing a central role in the deals.",
+  "llmSummary": "A Guardian investigation reveals that Donald Trump earned $1.4 billion from cryptocurrency ventures in a single year. TRON founder Justin Sun is identified as a key facilitator in structuring the deals that generated these earnings. The report highlights the growing intersection of political power and the crypto market, raising questions about influence and regulation.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
+    "description": "A Guardian investigation reveals that Donald Trump earned $1.4 billion from cryptocurrency ventures in a single year, with TRON founder Justin Sun playing a central role in facilitating the deals.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-trump-reportedly-earned-14b-from-crypto-in-one-year",
+    "datePublished": "2026-07-19T20:49:41.891565+00:00",
+    "dateModified": "2026-07-19T20:49:41.891565+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-trump-reportedly-earned-14b-from-crypto-in-one-year"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "crypto, trump, justin-sun, investments, trx, bitcoin"
+  }
+}

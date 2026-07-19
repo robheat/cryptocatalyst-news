@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-19-trumps-crypto-bank-accused-of-creating-iran-sanctions-workaround",
+  "title": "Trump's Crypto Bank Built an Iran Sanctions Loophole, Report Alleges",
+  "summary": "A report alleges that a crypto bank linked to former President Trump built a system to bypass U.S. sanctions on Iran. The bank also used the AI Claude to write ad copy promoting the service.",
+  "body": "A crypto bank with ties to former President Donald Trump is facing serious allegations. According to a report from Disruption Banking, the bank built a system that allows users to bypass U.S. sanctions against Iran. The report further claims that the bank used the AI model Claude to generate marketing materials for this service, including ad copy that promoted the ability to facilitate transactions with Iran.\n\nThe allegations raise significant ethical and legal questions about the use of AI in the financial sector and the bank's compliance with international sanctions. The report highlights the specific technical and marketing mechanisms allegedly employed, though the full details are available in the original source.\n\nFor users, this story underscores the risks of engaging with crypto platforms that may not prioritize compliance with international laws. It also highlights the growing concern about how AI tools can be misused by financial institutions. Users are advised to stay informed and choose platforms that prioritize transparency and regulatory compliance.\n\nThe crypto community has long struggled with regulatory compliance, and this case serves as a reminder that the space remains fraught with risks. Those interested in the full details should consult the original report for a deeper dive into the allegations and the technology involved.",
+  "sourceUrl": "https://www.disruptionbanking.com/2026/07/16/trumps-crypto-bank-built-an-iran-sanctions-loophole-and-claude-wrote-the-ad-copy/",
+  "sourceName": "Hacker News Crypto",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "sanctions",
+    "trump",
+    "ai",
+    "compliance",
+    "banking"
+  ],
+  "publishedAt": "2026-07-19T20:45:18.557743+00:00",
+  "imageUrl": "/images/articles/2026-07-19-trumps-crypto-bank-accused-of-creating-iran-sanctions-workaround.webp",
+  "twitterThread": [
+    "A report alleges that a crypto bank linked to Trump built a system to bypass Iran sanctions. The bank also used the AI Claude to write ad copy promoting the service.",
+    "The allegations raise serious ethical and legal concerns about the use of AI in finance and compliance with international sanctions.",
+    "Users should be cautious about where they store and transact their digital assets. Stay informed and choose platforms that prioritize compliance. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-trumps-crypto-bank-accused-of-creating-iran-sanctions-workaround"
+  ],
+  "standaloneTweet": "A report alleges that a crypto bank tied to Trump built a system to bypass Iran sanctions. The bank also used the AI Claude to write ad copy promoting the service. Stay vigilant with your crypto investments.",
+  "seoTitle": "Trump Crypto Bank Iran Sanctions Loophole Report",
+  "metaDescription": "A report alleges a crypto bank linked to Trump built a system to bypass Iran sanctions and used AI Claude to write ad copy. Learn about the ethical and legal concerns.",
+  "llmSummary": "A Disruption Banking report alleges that a crypto bank linked to former President Donald Trump built a system to bypass U.S. sanctions on Iran. The bank also used the AI model Claude to generate marketing materials promoting the service. The allegations raise significant ethical and legal questions about AI use in finance and sanctions compliance.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Trump's Crypto Bank Built an Iran Sanctions Loophole, Report Alleges",
+    "description": "A report alleges that a crypto bank linked to former President Trump built a system to bypass U.S. sanctions on Iran. The bank also used the AI Claude to write ad copy promoting the service.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-trumps-crypto-bank-accused-of-creating-iran-sanctions-workaround",
+    "datePublished": "2026-07-19T20:45:18.557743+00:00",
+    "dateModified": "2026-07-19T20:45:18.557743+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-trumps-crypto-bank-accused-of-creating-iran-sanctions-workaround"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "crypto",
+      "sanctions",
+      "trump",
+      "ai",
+      "compliance",
+      "banking"
+    ]
+  }
+}

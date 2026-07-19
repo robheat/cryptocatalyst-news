@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-19-us-agencies-miss-deadline-for-final-stablecoin-regulations",
+  "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+  "summary": "US federal agencies missed the July 19, 2026 deadline set by the GENIUS Act to finalize stablecoin regulations, issuing 10 proposed rules instead. The delay leaves the stablecoin market in regulatory limbo, creating uncertainty for businesses and consumers.",
+  "body": "US federal agencies failed to meet the July 19, 2026 deadline set by the GENIUS Act to finalize regulations for stablecoins. Instead of final rules, they issued 10 proposed rules, pushing the timeline for concrete regulations further into the future.\n\nThe GENIUS Act, passed in 2025, required agencies to establish clear guidelines for stablecoin issuers and transactions. The delay means the stablecoin market will continue operating without definitive regulatory oversight, creating uncertainty for businesses and consumers.\n\nThis regulatory gap affects everyday users who rely on stablecoins for transactions, savings, or investments. Without clear rules, the stability and security of stablecoins remain uncertain, potentially impacting their adoption and trust.\n\nFor now, the proposed rules will undergo public comment periods, which could take months. Users and businesses should watch for updates on these proposals and potential final rules, which could come in early 2027.",
+  "sourceUrl": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "stablecoins",
+    "regulation",
+    "genius-act",
+    "crypto-news",
+    "us-government"
+  ],
+  "publishedAt": "2026-07-19T20:46:48.262048+00:00",
+  "imageUrl": "/images/articles/2026-07-19-us-agencies-miss-deadline-for-final-stablecoin-regulations.webp",
+  "twitterThread": [
+    "US regulators missed the GENIUS Act deadline for final stablecoin rules. Instead, they issued 10 proposed rules. The stablecoin market remains in limbo.",
+    "The GENIUS Act, passed in 2025, required agencies to finalize stablecoin regulations by July 19, 2026. They didn't make it, leaving the market without clear rules.",
+    "This delay means stablecoin users and businesses face uncertainty. Watch for updates on the proposed rules and potential final regulations in early 2027. Read more → https://www.cryptocatalyst.news/articles/2026-07-19-us-agencies-miss-deadline-for-final-stablecoin-regulations"
+  ],
+  "standaloneTweet": "US regulators missed the GENIUS Act deadline for stablecoin rules, leaving the market in limbo. Stablecoin users face uncertainty until final regulations are issued.",
+  "seoTitle": "US agencies miss GENIUS Act deadline for stablecoin rules",
+  "metaDescription": "US federal agencies missed the July 19, 2026 GENIUS Act deadline to finalize stablecoin regulations, issuing 10 proposed rules instead. The delay leaves the stablecoin market in re",
+  "llmSummary": "US federal agencies missed the July 19, 2026 deadline set by the GENIUS Act to finalize stablecoin regulations, issuing 10 proposed rules instead. The GENIUS Act, passed in 2025, required agencies to establish clear guidelines for stablecoin issuers and transactions. The delay leaves the stablecoin market in regulatory limbo, creating uncertainty for businesses and consumers until final rules are issued, potentially in early 2027.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+    "description": "US federal agencies missed the July 19, 2026 deadline set by the GENIUS Act to finalize stablecoin regulations, issuing 10 proposed rules instead. The delay leaves the stablecoin market in regulatory limbo, creating uncertainty for businesses and consumers.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-19-us-agencies-miss-deadline-for-final-stablecoin-regulations",
+    "datePublished": "2026-07-19T20:46:48.262048+00:00",
+    "dateModified": "2026-07-19T20:46:48.262048+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-19-us-agencies-miss-deadline-for-final-stablecoin-regulations"
+    },
+    "image": null,
+    "articleSection": "Regulation",
+    "keywords": [
+      "stablecoins",
+      "regulation",
+      "GENIUS Act",
+      "crypto news",
+      "US government"
+    ]
+  }
+}
