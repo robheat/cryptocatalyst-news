@@ -9449,6 +9449,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-fed-chair-warsh-no-bailout-for-crypto-industry-in-crisis_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions",
+      "title": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "investment",
+        "small-business",
+        "lyn-alden",
+        "holding-company"
+      ],
+      "articleSummary": "Bitcoin VC veterans, including Lyn Alden, have launched a $40 million permanent capital company to acquire profitable small businesses and transition them to a Bitcoin standard.",
+      "articleBody": "A group of seasoned Bitcoin venture capitalists has unveiled a $40 million permanent capital company focused on acquiring profitable small businesses. The goal is to transition these businesses to a Bitcoin standard, leveraging the cryptocurrency for treasury reserves and financial operations.\n\nLyn Alden, a prominent Bitcoin analyst and macro strategist, is among the key figures helping to debut this initiative. The company will target businesses that are already profitable and have the potential to benefit from adopting Bitcoin as a treasury asset. This move is part of a broader strategy to integrate Bitcoin into mainstream business operations, providing an alternative to traditional fiat-based financial management.\n\nFor small business owners, this could mean increased financial stability and protection against currency debasement. By adopting a Bitcoin standard, businesses can reduce reliance on traditional banking systems and benefit from a sound money policy. This initiative could also attract more investors to the Bitcoin ecosystem, further solidifying its role in the global economy.\n\nThe holding company plans to announce its first acquisitions in the coming months. Business owners interested in this opportunity should watch for updates and consider how Bitcoin integration could benefit their operations. Read more → https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holdi",
+      "imageUrl": "/images/articles/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions",
+      "script": {
+        "hook": "Small business owners, you could soon get a $40 million cash offer to go all-in on Bitcoin.",
+        "narration_lines": [
+          "Bitcoin investors just launched a $40 million fund to buy small businesses and make them Bitcoin-powered.",
+          "This means your local bakery or hardware store could soon use Bitcoin for savings and payments instead of banks.",
+          "Lyn Alden, a top Bitcoin expert, is leading this. They're targeting profitable businesses ready to switch.",
+          "For owners, this could mean better protection against inflation and lower banking fees.",
+          "If you run a business, watch for their first deals coming soon—this could be your upgrade."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "8168f5163422017a",
+      "scriptText": "Small business owners, you could soon get a $40 million cash offer to go all-in on Bitcoin. Bitcoin investors just launched a $40 million fund to buy small businesses and make them Bitcoin-powered. This means your local bakery or hardware store could soon use Bitcoin for savings and payments instead of banks. Lyn Alden, a top Bitcoin expert, is leading this. They're targeting profitable businesses ready to switch. For owners, this could mean better protection against inflation and lower banking fees. If you run a business, watch for their first deals coming soon—this could be your upgrade. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "7GAreyC05FI",
+      "youtubeUrl": "https://youtube.com/watch?v=7GAreyC05FI",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-19T15:55:21.416839+00:00",
+      "uploadedAt": "2026-07-19T16:02:26.386058+00:00",
+      "audioLineDurations": [
+        5.888,
+        7.1466666666666665,
+        6.741333333333333,
+        6.613333333333333,
+        5.0986666666666665,
+        4.970666666666666,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-19-bitcoin-vc-veterans-launch-40m-holding-company-for-small-business-acquisitions_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-18-uniswap-governance-votes-on-uni-burn-expansion",
+      "title": "Uniswap Governance Votes on Proposals to Route v4 Fees and Robinhood Chain Fees into UNI Burn",
+      "category": "defi",
+      "tags": [
+        "uni",
+        "uniswap",
+        "burn",
+        "governance",
+        "defi",
+        "robinhood"
+      ],
+      "articleSummary": "Uniswap's governance is voting on two proposals that could increase the UNI token burn rate. The votes, open from July 19 to July 26, would route new fees from Uniswap v4 and the Robinhood Chain into the burn system established under the \"UNIfication\" overhaul in December 2025.",
+      "articleBody": "Uniswap's governance is currently voting on two proposals that could significantly increase the burn rate of its native token, UNI. The first proposal involves allocating fees from Uniswap v4 to the burn system, while the second proposes routing fees from the Robinhood Chain expansion into the burn mechanism. Both proposals aim to direct new fees into the UNI burn system, which was created under the \"UNIfication\" overhaul in December 2025.\n\nThe voting period for these proposals is open from July 19 through July 26. If passed, these changes could lead to a higher burn rate for UNI, potentially reducing its supply and increasing its value over time. The proposals are part of Uniswap's ongoing efforts to enhance its ecosystem and provide more value to its token holders.\n\nFor everyday users, this could mean a more robust and valuable UNI token. A higher burn rate could lead to increased scarcity, potentially driving up the token's price. This could be particularly beneficial for those holding UNI, as they may see an appreciation in the value of their holdings.\n\nAdditionally, the expansion of the Robinhood Chain could bring more liquidity and trading opportunities to the Uniswap ecosystem. This could attract more users and traders, further strengthening the platform's position in the decentralized finance (DeFi) space.\n\nUsers should keep an eye on the voting results, which will be a",
+      "imageUrl": "/images/articles/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion",
+      "script": {
+        "hook": "Your Uniswap tokens could soon be worth more, and it's all thanks to a simple vote.",
+        "narration_lines": [
+          "Uniswap is voting on two proposals to burn more of its UNI cryptocurrency.",
+          "This could make UNI more valuable by reducing its supply.",
+          "Imagine fees from new Uniswap features being used to buy back and burn tokens.",
+          "The vote runs until July 26, and if passed, it could boost UNI's price.",
+          "For holders, this means potential gains without lifting a finger.",
+          "Keep an eye on the results, as they could shape UNI's future."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 100
+      },
+      "scriptHash": "a38969a348f30268",
+      "scriptText": "Your Uniswap tokens could soon be worth more, and it's all thanks to a simple vote. Uniswap is voting on two proposals to burn more of its UNI cryptocurrency. This could make UNI more valuable by reducing its supply. Imagine fees from new Uniswap features being used to buy back and burn tokens. The vote runs until July 26, and if passed, it could boost UNI's price. For holders, this means potential gains without lifting a finger. Keep an eye on the results, as they could shape UNI's future. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "8dnenpArW8E",
+      "youtubeUrl": "https://youtube.com/watch?v=8dnenpArW8E",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-19T15:55:24.196038+00:00",
+      "uploadedAt": "2026-07-19T16:02:28.767700+00:00",
+      "audioLineDurations": [
+        4.629333333333333,
+        5.141333333333334,
+        3.776,
+        5.034666666666666,
+        5.248,
+        3.925333333333333,
+        3.6693333333333333,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_3.jpg"
+      ]
     }
   ]
 }
