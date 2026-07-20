@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-20-amazon-japan-supplier-to-use-yen-stablecoin-jpyc-for-payments",
+  "title": "Amazon Japan Supplier to Use Yen Stablecoin JPYC for Payments",
+  "summary": "AZ-Com Maruwa, a logistics firm supplying Amazon Japan, will pay 2,300 partners using the yen-pegged stablecoin JPYC. This marks Japan's first large-scale corporate adoption of stablecoins for payments.",
+  "body": "AZ-Com Maruwa, a key logistics supplier for Amazon Japan, has announced plans to pay 2,300 of its partners, including truck drivers, using the yen-pegged stablecoin JPYC. This initiative is part of Japan's first large-scale corporate rollout of stablecoins for payments, aiming to streamline transactions and reduce costs.\n\nThe company will integrate JPYC into its payment systems, allowing partners to receive and manage payments in a stable digital currency tied to the Japanese yen. This move is expected to enhance efficiency and reduce the reliance on traditional banking systems, which can be slow and costly for small-scale payments.\n\nFor everyday people, this development highlights the growing practical applications of stablecoins in everyday transactions. It demonstrates how blockchain technology can simplify payments, particularly for gig workers and small businesses, by offering faster and more cost-effective alternatives to traditional banking.\n\nAs Japan continues to explore the potential of digital currencies, this pilot program could set a precedent for other companies to adopt similar payment solutions. Watch for updates on the success of this initiative and whether it leads to broader adoption of stablecoins in Japan's corporate sector.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "stablecoin",
+    "japan",
+    "payments",
+    "amazon",
+    "jpyc",
+    "blockchain"
+  ],
+  "publishedAt": "2026-07-20T13:57:26.268414+00:00",
+  "imageUrl": "/images/articles/2026-07-20-amazon-japan-supplier-to-use-yen-stablecoin-jpyc-for-payments.webp",
+  "twitterThread": [
+    "Amazon Japan's supplier is paying 2,300 partners in yen stablecoin JPYC. First large-scale corporate rollout in Japan →",
+    "AZ-Com Maruwa will use JPYC for payments to truck drivers and other partners, aiming to cut costs and speed up transactions. A big step for stablecoins in everyday use →",
+    "This could make payments faster and cheaper for gig workers. Will other Japanese companies follow? Read more → https://www.cryptocatalyst.news/articles/2026-07-20-amazon-japan-supplier-to-use-yen-stablecoin-jpyc-for-payments"
+  ],
+  "standaloneTweet": "Amazon Japan's supplier is paying 2,300 partners in yen stablecoin JPYC. First large-scale corporate rollout in Japan, showing stablecoins' real-world use.",
+  "seoTitle": "Amazon Japan Supplier to Use Yen Stablecoin JPYC for Payments",
+  "metaDescription": "AZ-Com Maruwa, a logistics firm supplying Amazon Japan, will pay 2,300 partners using the yen-pegged stablecoin JPYC. This marks Japan's first large-scale corporate adoption of sta",
+  "llmSummary": "AZ-Com Maruwa, a logistics firm supplying Amazon Japan, will pay 2,300 partners using the yen-pegged stablecoin JPYC. This marks Japan's first large-scale corporate adoption of stablecoins for payments.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Amazon Japan Supplier to Use Yen Stablecoin JPYC for Payments",
+    "description": "AZ-Com Maruwa, a logistics firm supplying Amazon Japan, will pay 2,300 partners using the yen-pegged stablecoin JPYC. This marks Japan's first large-scale corporate adoption of stablecoins for payments.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-amazon-japan-supplier-to-use-yen-stablecoin-jpyc-for-payments",
+    "datePublished": "2026-07-20T13:57:26.268414+00:00",
+    "dateModified": "2026-07-20T13:57:26.268414+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-amazon-japan-supplier-to-use-yen-stablecoin-jpyc-for-payments"
+    },
+    "image": null,
+    "articleSection": "Business",
+    "keywords": "stablecoin, japan, payments, amazon, jpyc, blockchain"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-20-allbridge-pauses-operations-after-165m-flash-loan-attack",
+  "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+  "summary": "Allbridge, a cross-chain bridge, has temporarily paused operations after a $1.65 million flash loan attack. The attacker exploited Solana stablecoin pools before transferring the funds to Ethereum, according to security firms.",
+  "body": "Allbridge, a platform that facilitates asset transfers between different blockchain networks, has halted its services after falling victim to a $1.65 million flash loan attack. The attacker used a flash loan—a type of uncollateralized loan—to manipulate the bridge's Solana stablecoin pools, then moved the stolen funds to Ethereum. Security firms have confirmed the attack, highlighting the ongoing risks associated with cross-chain bridges.\n\nThe attack involved distorting the price of stablecoins on Solana, allowing the attacker to withdraw more value than they initially deposited. This type of exploit is not uncommon in the DeFi space, where flash loans can be used to manipulate markets temporarily. Allbridge has not yet provided a timeline for when it will resume operations, but the pause is likely to last until the vulnerability is addressed.\n\nFor everyday users, this incident underscores the risks of using cross-chain bridges, which have been frequent targets for hackers. While bridges are essential for moving assets between different blockchains, they often become vulnerable points in the ecosystem. Users should exercise caution and consider the security measures of any bridge before transferring large sums.\n\nMoving forward, users should watch for official announcements from Allbridge regarding the resumption of services and any additional security measures they implement. It's also advisable to monitor updates from security firms for insights into the attack and how similar exploits can be prevented in the future. Read more → https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+  "sourceUrl": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "allbridge",
+    "flashloan",
+    "crosschain",
+    "attack",
+    "security"
+  ],
+  "publishedAt": "2026-07-20T13:55:41.153569+00:00",
+  "imageUrl": "/images/articles/2026-07-20-allbridge-pauses-operations-after-165m-flash-loan-attack.webp",
+  "twitterThread": [
+    "Allbridge just paused operations after a $1.65M flash loan attack. The hacker manipulated Solana stablecoin pools before moving funds to Ethereum. 👀",
+    "Here’s how it went down: the attacker used a flash loan to distort prices, then withdrew more than they deposited. Cross-chain bridges remain a prime target. 🔍",
+    "If you use bridges, stay alert for Allbridge’s security updates. Flash loan attacks are a real threat—watch for official announcements. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-allbridge-pauses-operations-after-165m-flash-loan-attack"
+  ],
+  "standaloneTweet": "Allbridge just paused after a $1.65M flash loan attack. Hackers manipulated Solana stablecoins, then moved funds to Ethereum. A reminder: cross-chain bridges are high-risk targets.",
+  "seoTitle": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+  "metaDescription": "Allbridge paused its cross-chain protocol after a $1.65M flash loan attack. The attacker exploited Solana stablecoin pools and moved funds to Ethereum. Security firms confirmed the",
+  "llmSummary": "Allbridge paused its cross-chain protocol after a $1.65 million flash loan attack. The attacker used a flash loan to distort Solana stablecoin pools and then transferred the stolen funds to Ethereum. Security firms confirmed the exploit, highlighting ongoing risks for cross-chain bridges.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+    "description": "Allbridge paused its cross-chain protocol after a $1.65M flash loan attack. The attacker exploited Solana stablecoin pools and moved funds to Ethereum. Security firms confirmed the exploit.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-allbridge-pauses-operations-after-165m-flash-loan-attack",
+    "datePublished": "2026-07-20T13:55:41.153569+00:00",
+    "dateModified": "2026-07-20T13:55:41.153569+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-allbridge-pauses-operations-after-165m-flash-loan-attack"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "allbridge",
+      "flashloan",
+      "crosschain",
+      "attack",
+      "security"
+    ]
+  }
+}

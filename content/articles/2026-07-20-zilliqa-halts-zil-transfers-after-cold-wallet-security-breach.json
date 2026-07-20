@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-20-zilliqa-halts-zil-transfers-after-cold-wallet-security-breach",
+  "title": "Zilliqa Asks Exchanges to Pause ZIL Transfers After Suspected Cold Wallet Theft",
+  "summary": "Zilliqa has asked exchanges to pause ZIL deposits and withdrawals after a suspected theft from an exchange partner's cold wallet. The amount stolen remains undisclosed, but the move highlights ongoing risks in crypto security.",
+  "body": "Zilliqa, a blockchain platform, has requested that exchanges temporarily halt ZIL deposits and withdrawals following a suspected security breach. The incident involves an exchange partner's cold wallet, which is typically used to store large amounts of cryptocurrency offline for security reasons. The exact amount stolen has not been disclosed, but the move underscores the persistent threats to crypto security.\n\nThe breach was discovered when irregularities were detected in the exchange partner's cold wallet. In response, Zilliqa and the affected exchanges have taken immediate action to prevent further losses. This type of incident is a reminder of the vulnerabilities that can exist even in cold storage, which is often considered one of the safest methods for storing cryptocurrency.\n\nFor everyday users, this news serves as a cautionary tale about the importance of security in the crypto space. It highlights the need for exchanges and platforms to have robust security measures in place to protect user funds. Additionally, it reminds investors to be vigilant and to use secure storage methods for their own assets.\n\nMoving forward, users should monitor official announcements from Zilliqa and their respective exchanges for updates on when transfers will resume. It's also a good time to review personal security practices, such as using hardware wallets and enabling two-factor authentication, to protect against similar incidents.",
+  "sourceUrl": "https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "zilliqa",
+    "zil",
+    "security",
+    "crypto",
+    "breach"
+  ],
+  "publishedAt": "2026-07-20T13:59:11.682246+00:00",
+  "imageUrl": "/images/articles/2026-07-20-zilliqa-halts-zil-transfers-after-cold-wallet-security-breach.webp",
+  "twitterThread": [
+    "Zilliqa has asked exchanges to pause ZIL deposits and withdrawals after a suspected cold wallet theft at an exchange partner. The amount stolen hasn't been disclosed.",
+    "A cold wallet, usually one of the safest storage methods, was compromised. This incident underscores ongoing security risks in crypto, even for offline storage.",
+    "If you're a ZIL holder, keep an eye on official updates from Zilliqa and your exchange. This is a good time to review your own security practices. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-zilliqa-halts-zil-transfers-after-cold-wallet-security-breach"
+  ],
+  "standaloneTweet": "Zilliqa has asked exchanges to pause ZIL deposits and withdrawals after a suspected cold wallet theft at an exchange partner. The amount stolen remains undisclosed—a reminder to review your security measures.",
+  "seoTitle": "Zilliqa Asks Exchanges to Pause ZIL Transfers After Cold Wallet Theft",
+  "metaDescription": "Zilliqa has asked exchanges to pause ZIL deposits and withdrawals after a suspected theft from an exchange partner's cold wallet. The amount stolen remains undisclosed.",
+  "llmSummary": "Zilliqa requested exchanges to pause ZIL deposits and withdrawals after a suspected theft from an exchange partner's cold wallet. The amount stolen has not been disclosed. The incident highlights ongoing security risks in cryptocurrency, even with cold storage.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Zilliqa Asks Exchanges to Pause ZIL Transfers After Suspected Cold Wallet Theft",
+    "description": "Zilliqa has asked exchanges to pause ZIL deposits and withdrawals after a suspected theft from an exchange partner's cold wallet. The amount stolen remains undisclosed.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-zilliqa-halts-zil-transfers-after-cold-wallet-security-breach",
+    "datePublished": "2026-07-20T13:59:11.682246+00:00",
+    "dateModified": "2026-07-20T13:59:11.682246+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-zilliqa-halts-zil-transfers-after-cold-wallet-security-breach"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "zilliqa",
+      "zil",
+      "security",
+      "crypto",
+      "breach"
+    ]
+  }
+}
