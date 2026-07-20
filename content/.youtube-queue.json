@@ -9560,6 +9560,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-uniswap-governance-votes-on-uni-burn-expansion_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return",
+      "title": "Bitcoin Dips Below $63K on Geopolitical Tensions, But Buyers Return",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "price",
+        "geopolitics",
+        "etf",
+        "onchain"
+      ],
+      "articleSummary": "Bitcoin dropped under $63,000 due to U.S. strikes on Iran and U.S.-China tensions, but onchain data and ETF inflows suggest buyers are returning quickly. Analysts see resilience in the market despite the short-term sell-off.",
+      "articleBody": "Bitcoin's price fell below $63,000 this week as geopolitical tensions flared up. U.S. strikes on Iran and renewed tensions between the U.S. and China triggered a broader risk-off sell-off in markets, including cryptocurrencies.\n\nDespite the drop, analysts point to resilient onchain data and renewed inflows into Bitcoin ETFs as signs that buyers are quickly stepping back into the market. This suggests confidence in Bitcoin's long-term value, even amid short-term volatility.\n\nFor everyday investors, this means that while geopolitical events can cause temporary price drops, strong underlying demand and market resilience may support a quick recovery. It's a reminder that Bitcoin's price can be influenced by global events, but its fundamentals often prevail.\n\nLooking ahead, investors should watch for further developments in geopolitical tensions and ETF inflows. These factors could continue to impact Bitcoin's price in the short term, but the market's resilience suggests a potential for quick rebounds. Stay informed and consider the long-term trends when making investment decisions.",
+      "imageUrl": "/images/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return",
+      "script": {
+        "hook": "Bitcoin just dipped under $63,000, but here's why that might not be bad news for investors.",
+        "narration_lines": [
+          "Geopolitical tensions, like U.S. strikes on Iran, caused Bitcoin to drop temporarily.",
+          "But onchain data and Bitcoin ETF inflows show buyers are coming back fast.",
+          "This means even when global events shake up prices, Bitcoin's fundamentals stay strong.",
+          "For example, Bitcoin ETFs saw renewed inflows, showing long-term confidence.",
+          "If you're investing, watch for geopolitical news and ETF trends to gauge short-term moves.",
+          "Remember, Bitcoin's price can bounce back quickly, so focus on the bigger picture."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "420df63c2988e862",
+      "scriptText": "Bitcoin just dipped under $63,000, but here's why that might not be bad news for investors. Geopolitical tensions, like U.S. strikes on Iran, caused Bitcoin to drop temporarily. But onchain data and Bitcoin ETF inflows show buyers are coming back fast. This means even when global events shake up prices, Bitcoin's fundamentals stay strong. For example, Bitcoin ETFs saw renewed inflows, showing long-term confidence. If you're investing, watch for geopolitical news and ETF trends to gauge short-term moves. Remember, Bitcoin's price can bounce back quickly, so focus on the bigger picture. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "XgZOyBw0g30",
+      "youtubeUrl": "https://youtube.com/watch?v=XgZOyBw0g30",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-20T16:23:19.751691+00:00",
+      "uploadedAt": "2026-07-20T16:33:13.773803+00:00",
+      "audioLineDurations": [
+        7.338666666666667,
+        5.781333333333333,
+        5.12,
+        5.248,
+        5.269333333333333,
+        5.9093333333333335,
+        4.778666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-18-bitcoin-dips-below-63k-on-geopolitical-tensions-but-buyers-return_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps",
+      "title": "Breez Partners With Turnkey to Bring Non-Custodial Bitcoin to Backend-Run Apps",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "wallets",
+        "non-custodial",
+        "breez",
+        "turnkey",
+        "partnership"
+      ],
+      "articleSummary": "Breez has partnered with Turnkey to let backend-run apps integrate non-custodial bitcoin wallets at scale, allowing users to retain control of their funds without requiring companies to hold private keys or redesign their existing infrastructure.",
+      "articleBody": "Breez, a Bitcoin wallet and payment service, has partnered with Turnkey to let backend-run applications integrate non-custodial Bitcoin wallets at scale. This collaboration means users can retain full control of their Bitcoin funds, while companies do not need to hold private keys or overhaul their existing infrastructure.\n\nTurnkey provides the infrastructure to securely handle Bitcoin transactions, while Breez’s technology ensures users retain control of their wallets. This allows apps to offer Bitcoin services without managing user funds directly, reducing complexity and security risks for developers.\n\nFor everyday users, this partnership could lead to more apps offering Bitcoin payments or wallet services without requiring users to trust the app with their funds. Users can keep their Bitcoin secure in their own wallets while still using the app’s features, potentially driving wider adoption of Bitcoin in everyday applications.\n\nThe partnership highlights a growing trend of companies working together to make Bitcoin more accessible. As more apps integrate non-custodial Bitcoin wallets, users may see more options for spending and managing their Bitcoin securely, marking a significant step toward mainstream Bitcoin adoption.",
+      "imageUrl": "/images/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps",
+      "script": {
+        "hook": "Your favorite apps could soon let you pay with Bitcoin without handing over control of your money.",
+        "narration_lines": [
+          "Breez and Turnkey just teamed up to make Bitcoin payments easier for everyday apps.",
+          "This means you can keep your Bitcoin in your own wallet while using apps that accept it.",
+          "No more worrying about companies holding your private keys or managing your funds.",
+          "For example, an app could let you pay with Bitcoin without ever touching your wallet keys.",
+          "This partnership could lead to more apps offering Bitcoin payments, making it more mainstream.",
+          "If you use apps that deal with Bitcoin, this could soon make your transactions more secure."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "a19ed0a71d1913dd",
+      "scriptText": "Your favorite apps could soon let you pay with Bitcoin without handing over control of your money. Breez and Turnkey just teamed up to make Bitcoin payments easier for everyday apps. This means you can keep your Bitcoin in your own wallet while using apps that accept it. No more worrying about companies holding your private keys or managing your funds. For example, an app could let you pay with Bitcoin without ever touching your wallet keys. This partnership could lead to more apps offering Bitcoin payments, making it more mainstream. If you use apps that deal with Bitcoin, this could soon make your transactions more secure. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "pFDm6q1-7JA",
+      "youtubeUrl": "https://youtube.com/watch?v=pFDm6q1-7JA",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-20T16:23:25.822591+00:00",
+      "uploadedAt": "2026-07-20T16:33:16.379482+00:00",
+      "audioLineDurations": [
+        5.184,
+        4.992,
+        4.586666666666667,
+        4.693333333333333,
+        5.013333333333334,
+        5.226666666666667,
+        4.928,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_3.jpg"
+      ]
     }
   ]
 }
