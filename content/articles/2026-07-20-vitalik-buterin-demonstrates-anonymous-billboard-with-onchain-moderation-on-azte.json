@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte",
+  "title": "Vitalik Buterin 'Vibe-Codes' Anonymous Billboard Demo with Onchain Moderation on Aztec",
+  "summary": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
+  "body": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on the Aztec network. The demo features onchain moderation, including a censor role and a local LLM (Large Language Model) flagging daemon designed to filter inappropriate content while maintaining user anonymity.\n\nThe billboard system leverages Aztec's privacy-focused infrastructure to enable anonymous posting and moderation. Buterin's demo highlights the potential for decentralized, community-moderated platforms that balance free expression with content control. The use of a local LLM for flagging content demonstrates how AI can be integrated into blockchain applications to enhance moderation efficiency.\n\nThis innovation is significant for everyday users as it offers a new way to engage in public discourse without sacrificing privacy. By enabling anonymous posting with built-in moderation, the system could foster more open and honest discussions. It also sets a precedent for future Web3 applications that prioritize both privacy and community governance.\n\nButerin's demonstration is part of a broader trend towards integrating AI and blockchain technologies. As this technology evolves, users can expect to see more applications that combine the benefits of decentralized networks with advanced AI capabilities. Watch for further developments in onchain moderation and privacy-preserving technologies as the Web3 ecosystem continues to grow.\n\nFor those interested in exploring this technology, keep an eye on updates from Aztec and Vitalik Buterin's public statements. The integration of AI and blockchain is a rapidly evolving field, and this demo could be a stepping stone for future innovations in decentralized social platforms.",
+  "sourceUrl": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "ethereum",
+  "tags": [
+    "vitalik-buterin",
+    "aztec",
+    "onchain-moderation",
+    "web3",
+    "privacy",
+    "llm"
+  ],
+  "publishedAt": "2026-07-20T21:13:01.497721+00:00",
+  "imageUrl": "/images/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte.webp",
+  "twitterThread": [
+    "Vitalik Buterin just \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation. It includes a censor role and a local LLM flagging daemon.",
+    "The system allows for anonymous posting while maintaining community-driven content oversight. This could be a game-changer for privacy-focused social platforms.",
+    "This is a big step for Web3. Watch for more developments in onchain moderation and AI integration. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte"
+  ],
+  "standaloneTweet": "Vitalik Buterin \"vibe-coded\" a new demo showing how anonymous billboards with onchain moderation could work on Aztec. This could change how we think about privacy and free speech in Web3.",
+  "seoTitle": "Vitalik Buterin 'Vibe-Codes' Anonymous Billboard Demo on Aztec",
+  "metaDescription": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
+  "llmSummary": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on the Aztec network. The prototype features onchain moderation with a censor role and a local LLM flagging daemon, demonstrating how privacy and censorship resistance can be combined in Web3 applications.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Vitalik Buterin 'Vibe-Codes' Anonymous Billboard Demo with Onchain Moderation on Aztec",
+    "description": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte",
+    "datePublished": "2026-07-20T21:13:01.497721+00:00",
+    "dateModified": "2026-07-20T21:13:01.497721+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "CryptoCatalyst News"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte"
+    },
+    "image": null,
+    "articleSection": "ethereum",
+    "keywords": [
+      "vitalik-buterin",
+      "aztec",
+      "onchain-moderation",
+      "web3",
+      "privacy",
+      "llm"
+    ]
+  }
+}

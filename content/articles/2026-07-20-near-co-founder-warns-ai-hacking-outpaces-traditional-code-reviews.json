@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-20-near-co-founder-warns-ai-hacking-outpaces-traditional-code-reviews",
+  "title": "NEAR Co-Founder Warns AI Hacking Outpaces Traditional Code Reviews",
+  "summary": "NEAR co-founder Illia Polosukhin warns that AI-assisted hacking is advancing faster than traditional code reviews. He advocates for formal verification to secure blockchain code from AI-driven threats.",
+  "body": "NEAR co-founder Illia Polosukhin has raised concerns about the rapid advancement of AI-assisted hacking, which he believes is outpacing traditional code review methods. In a recent statement, Polosukhin highlighted the need for formal verification as a necessary shift to secure blockchain code from these evolving threats.\n\nPolosukhin emphasized that traditional code reviews are no longer sufficient to protect blockchain systems from sophisticated AI-driven attacks. He pointed out that AI tools can quickly identify vulnerabilities and exploit them, making it crucial for developers to adopt more rigorous security measures like formal verification.\n\nFor everyday users, this means that the blockchain projects they rely on must prioritize advanced security protocols to safeguard their assets. As AI hacking becomes more prevalent, projects that implement formal verification will likely offer greater protection against potential breaches.\n\nMoving forward, users should watch for announcements from blockchain projects about their adoption of formal verification methods. This shift could significantly enhance the security of decentralized applications and user funds. Read more → https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
+  "sourceUrl": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "ai",
+    "hacking",
+    "blockchain",
+    "security",
+    "near",
+    "code-reviews"
+  ],
+  "publishedAt": "2026-07-20T21:16:56.292682+00:00",
+  "imageUrl": "/images/articles/2026-07-20-near-co-founder-warns-ai-hacking-outpaces-traditional-code-reviews.webp",
+  "twitterThread": [
+    "AI hacking is outpacing traditional code reviews, warns NEAR co-founder Illia Polosukhin. Formal verification is now critical for blockchain security.",
+    "Traditional code reviews can't keep up with AI-driven exploits. Polosukhin urges blockchain projects to adopt formal verification to stay ahead of threats.",
+    "Users should watch for blockchain projects adopting formal verification. This could mean better security for your funds. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-near-co-founder-warns-ai-hacking-outpaces-traditional-code-reviews"
+  ],
+  "standaloneTweet": "AI hacking is advancing faster than traditional code reviews. NEAR co-founder Illia Polosukhin says formal verification is now essential for blockchain security.",
+  "seoTitle": "NEAR Co-Founder: AI Hacking Outpaces Traditional Code Reviews",
+  "metaDescription": "NEAR co-founder Illia Polosukhin warns AI-assisted hacking is outpacing traditional code reviews. He calls formal verification a necessary shift for blockchain security.",
+  "llmSummary": "NEAR co-founder Illia Polosukhin warns that AI-assisted hacking is advancing faster than traditional code reviews. He calls formal verification a necessary shift for securing blockchain code from AI-driven threats, arguing traditional methods are no longer sufficient.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "NEAR Co-Founder Warns AI Hacking Outpaces Traditional Code Reviews",
+    "description": "NEAR co-founder Illia Polosukhin warns that AI-assisted hacking is advancing faster than traditional code reviews. He advocates for formal verification to secure blockchain code from AI-driven threats.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-near-co-founder-warns-ai-hacking-outpaces-traditional-code-reviews",
+    "datePublished": "2026-07-20T21:16:56.292682+00:00",
+    "dateModified": "2026-07-20T21:16:56.292682+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-near-co-founder-warns-ai-hacking-outpaces-traditional-code-reviews"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "ai, hacking, blockchain, security, near, code-reviews"
+  }
+}

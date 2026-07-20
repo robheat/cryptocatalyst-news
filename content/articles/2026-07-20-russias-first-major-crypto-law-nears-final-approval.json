@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-20-russias-first-major-crypto-law-nears-final-approval",
+  "title": "Russia's First Major Crypto Law Nears Final Approval",
+  "summary": "Russia's parliament is close to passing its first comprehensive crypto law, which would license exchanges and allow companies to pay foreign partners in crypto, bypassing Western sanctions. The law also limits individual investments to about $3,800 per year.",
+  "body": "Russia's State Duma, the lower house of parliament, is set to vote on a bill that would establish the country's first comprehensive legal framework for cryptocurrencies. The legislation, which has already passed its first two readings, would license crypto exchanges, create a legal pathway for Russian companies to pay foreign partners in crypto, and cap individual investments at approximately $3,800 per year.\n\nThe bill aims to integrate crypto into Russia's financial system while mitigating risks associated with digital assets. It would also allow banks and other financial institutions to provide crypto services, provided they obtain the necessary licenses. This move comes as Russia seeks to navigate Western sanctions that have restricted its access to traditional financial systems.\n\nFor everyday people, this law could mean greater access to crypto services within Russia, but with strict limits on how much they can invest. For businesses, it opens a legal avenue to use crypto for international transactions, potentially circumventing sanctions. However, the law also introduces regulatory oversight, which could impact the flexibility and anonymity that crypto users currently enjoy.\n\nThe final vote is expected soon, and if passed, the law will come into effect in early 2027. Crypto users and businesses in Russia should watch for updates on licensing requirements and investment limits as the law moves closer to implementation. Read more → https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+  "sourceUrl": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "regulation",
+    "russia",
+    "sanctions",
+    "investment",
+    "law"
+  ],
+  "publishedAt": "2026-07-20T21:12:19.373558+00:00",
+  "imageUrl": "/images/articles/2026-07-20-russias-first-major-crypto-law-nears-final-approval.webp",
+  "twitterThread": [
+    "Russia is about to pass its first major crypto law, allowing companies to pay foreign partners in crypto and bypass Western sanctions. Individual investments capped at $3,800/year.",
+    "The bill licenses exchanges, lets banks offer crypto services, and creates a legal framework for crypto use in Russia. It's a big step toward integrating crypto into the financial system.",
+    "If passed, the law could mean more crypto access for Russians but with strict limits. Watch for updates on licensing and investment caps. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-russias-first-major-crypto-law-nears-final-approval"
+  ],
+  "standaloneTweet": "Russia's first major crypto law is two votes away from passing, allowing companies to pay foreign partners in crypto and capping individual investments at $3,800/year.",
+  "seoTitle": "Russia's First Major Crypto Law Nears Final Approval",
+  "metaDescription": "Russia's parliament is close to passing its first comprehensive crypto law, which would license exchanges and allow companies to pay foreign partners in crypto, bypassing Western s",
+  "llmSummary": "Russia's State Duma is two votes away from passing its first comprehensive crypto law. The bill licenses exchanges, caps retail investments at about $3,800 per year, and creates a legal pathway for Russian companies to pay foreign partners in crypto, bypassing Western sanctions.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Russia's First Major Crypto Law Nears Final Approval",
+    "description": "Russia's parliament is close to passing its first comprehensive crypto law, which would license exchanges and allow companies to pay foreign partners in crypto, bypassing Western sanctions. The law also limits individual investments to about $3,800 per year.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-russias-first-major-crypto-law-nears-final-approval",
+    "datePublished": "2026-07-20T21:12:19.373558+00:00",
+    "dateModified": "2026-07-20T21:12:19.373558+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-russias-first-major-crypto-law-nears-final-approval"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "crypto, regulation, russia, sanctions, investment, law"
+  }
+}

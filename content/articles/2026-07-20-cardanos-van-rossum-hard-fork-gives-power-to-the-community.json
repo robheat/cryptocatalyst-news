@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-20-cardanos-van-rossum-hard-fork-gives-power-to-the-community",
+  "title": "Cardano's Van Rossum Hard Fork Gives Power to the Community",
+  "summary": "Cardano's latest upgrade, the Van Rossum hard fork, marks the first time the network's community voted on a major update. The change moves Cardano to version 11 and introduces new governance features.",
+  "body": "Cardano, a prominent blockchain network, successfully completed its Van Rossum hard fork on Saturday, transitioning the network to version 11. This upgrade is notable because it represents the first time Cardano's community, rather than the company that built it, voted on a major network change.\n\nThe Van Rossum upgrade introduces several new features, including enhanced governance tools that allow token holders to participate more directly in decision-making processes. This shift towards decentralized governance is a significant step for Cardano, as it empowers the community to have a more direct say in the network's future.\n\nFor everyday users, this means greater transparency and involvement in how the Cardano network evolves. Users can now vote on proposals, influence upgrades, and contribute to the network's development. This shift could lead to more community-driven innovations and a more inclusive ecosystem.\n\nLooking ahead, users should watch for upcoming governance proposals and participate in voting when possible. The next steps for Cardano will likely involve further refining these governance mechanisms and exploring new use cases for the network. Read more → https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "cardano",
+    "hard-fork",
+    "governance",
+    "blockchain",
+    "community",
+    "upgrade"
+  ],
+  "publishedAt": "2026-07-20T21:13:42.265068+00:00",
+  "imageUrl": "/images/articles/2026-07-20-cardanos-van-rossum-hard-fork-gives-power-to-the-community.webp",
+  "twitterThread": [
+    "Cardano just gave power back to the people. The Van Rossum hard fork lets the community vote on upgrades for the first time.",
+    "This isn't just another upgrade—it's a shift to decentralized governance. Token holders now have a direct say in Cardano's future.",
+    "Want to shape the future of Cardano? Start by voting on proposals. This is your network now. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-cardanos-van-rossum-hard-fork-gives-power-to-the-community"
+  ],
+  "standaloneTweet": "Cardano's Van Rossum hard fork is a game-changer: the community now votes on upgrades. Your voice matters in shaping the network's future.",
+  "seoTitle": "Cardano's Van Rossum Hard Fork Gives Power to the Community",
+  "metaDescription": "Cardano's latest upgrade, the Van Rossum hard fork, marks the first time the network's community voted on a major update. The change moves Cardano to version 11 and introduces new ",
+  "llmSummary": "Cardano's latest upgrade, the Van Rossum hard fork, marks the first time the network's community voted on a major update. The change moves Cardano to version 11 and introduces new governance features.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cardano's Van Rossum Hard Fork Gives Power to the Community",
+    "description": "Cardano's latest upgrade, the Van Rossum hard fork, marks the first time the network's community voted on a major update. The change moves Cardano to version 11 and introduces new governance features.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-cardanos-van-rossum-hard-fork-gives-power-to-the-community",
+    "datePublished": "2026-07-20T21:13:42.265068+00:00",
+    "dateModified": "2026-07-20T21:13:42.265068+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-cardanos-van-rossum-hard-fork-gives-power-to-the-community"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "cardano",
+      "hard-fork",
+      "governance",
+      "blockchain",
+      "community",
+      "upgrade"
+    ]
+  }
+}

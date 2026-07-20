@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-20-hyperliquid-to-add-decentralized-prediction-markets-in-major-upgrade",
+  "title": "Hyperliquid Plans to Add Decentralized Prediction Markets in HIP-4 Upgrade",
+  "summary": "Hyperliquid is introducing permissionless prediction markets, first on testnet and later on mainnet, as part of the HIP-4 upgrade.",
+  "body": "Hyperliquid, a decentralized trading platform, announced plans to add permissionless prediction markets as part of its HIP-4 upgrade. The feature will initially launch on the testnet before being rolled out to the mainnet, allowing users to bet on the outcomes of real-world events using blockchain technology.\n\nThe upgrade is designed to enhance the platform's decentralized finance (DeFi) ecosystem by enabling users to create and participate in prediction markets without needing approval. This move is part of Hyperliquid's ongoing efforts to provide more decentralized and user-controlled financial tools.\n\nFor everyday users, this means greater opportunities to engage in speculative markets while maintaining control over their assets. Prediction markets can offer insights into public sentiment and potential outcomes of various events, from elections to economic indicators.\n\nUsers should keep an eye on Hyperliquid's official channels for the testnet launch date and subsequent mainnet rollout. This upgrade could attract more users to the platform, especially those interested in decentralized betting and forecasting.\n\nWatch for announcements regarding the testnet phase and prepare to experiment with the new features before they go live on the mainnet. This is a significant step for Hyperliquid and the broader DeFi space.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "hyperliquid",
+    "defi",
+    "prediction-markets",
+    "hip-4",
+    "upgrade",
+    "blockchain"
+  ],
+  "publishedAt": "2026-07-20T21:14:20.068994+00:00",
+  "imageUrl": "/images/articles/2026-07-20-hyperliquid-to-add-decentralized-prediction-markets-in-major-upgrade.webp",
+  "twitterThread": [
+    "Hyperliquid is bringing permissionless prediction markets to its platform as part of the HIP-4 upgrade. No approval needed to bet on real-world events. First on testnet, then mainnet.",
+    "Prediction markets let users speculate on outcomes like elections or economic trends. Hyperliquid's move expands DeFi by giving users more control over their bets.",
+    "Keep an eye on Hyperliquid's announcements for the testnet launch. This could be a game-changer for decentralized betting. Read more → https://www.cryptocatalyst.news/articles/2026-07-20-hyperliquid-to-add-decentralized-prediction-markets-in-major-upgrade"
+  ],
+  "standaloneTweet": "Hyperliquid is adding permissionless prediction markets as part of the HIP-4 upgrade, letting users bet on real-world events without approval. First on testnet, then mainnet.",
+  "seoTitle": "Hyperliquid Plans Decentralized Prediction Markets in HIP-4 Upgrade",
+  "metaDescription": "Hyperliquid announces permissionless prediction markets as part of HIP-4 upgrade, launching first on testnet then mainnet, expanding DeFi offerings.",
+  "llmSummary": "Hyperliquid announced plans to add permissionless prediction markets as part of its HIP-4 upgrade. The feature will launch first on testnet and later on mainnet, allowing users to create and participate in markets on real-world events without approval. This expands Hyperliquid's decentralized finance ecosystem.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Hyperliquid Plans to Add Decentralized Prediction Markets in HIP-4 Upgrade",
+    "description": "Hyperliquid is introducing permissionless prediction markets, first on testnet and later on mainnet, as part of the HIP-4 upgrade.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-20-hyperliquid-to-add-decentralized-prediction-markets-in-major-upgrade",
+    "datePublished": "2026-07-20T21:14:20.068994+00:00",
+    "dateModified": "2026-07-20T21:14:20.068994+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-20-hyperliquid-to-add-decentralized-prediction-markets-in-major-upgrade"
+    },
+    "image": null,
+    "articleSection": "DeFi",
+    "keywords": [
+      "hyperliquid",
+      "defi",
+      "prediction-markets",
+      "hip-4",
+      "upgrade",
+      "blockchain"
+    ]
+  }
+}
