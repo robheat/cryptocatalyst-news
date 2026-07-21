@@ -1,0 +1,51 @@
+{
+  "slug": "2026-07-21-bank-of-korea-expands-cbdc-pilot-to-500000-users-in-phase-2",
+  "title": "Bank of Korea Expands CBDC Pilot to 500,000 Users in Phase 2",
+  "summary": "The Bank of Korea's CBDC pilot, Project Hangang, has expanded to 500,000 users in its second phase. This time, real government money is involved, marking a significant step from the initial trial.",
+  "body": "The Bank of Korea has significantly scaled up its central bank digital currency (CBDC) pilot program, Project Hangang. In Phase 1, 81,000 wallets were opened, with 42% of them actively using the CBDC. Now, Phase 2 has expanded the program to half a million users, and this time, real government money is being used, unlike the initial trial which used simulated funds.\n\nThe pilot aims to test the feasibility and practicality of a CBDC in South Korea. The Bank of Korea reported that 42% of the 81,000 wallets created in Phase 1 were actively used, indicating a moderate level of engagement. The expansion to 500,000 users suggests a growing interest and commitment to exploring digital currencies.\n\nThis development is crucial for everyday people as it could lead to a more efficient and secure payment system. If successful, a CBDC could offer faster transactions, lower fees, and increased financial inclusion. However, it also raises questions about privacy and the potential for increased government oversight of financial transactions.\n\nFor those interested in the future of digital currencies, this expansion is a key development to watch. The success of Phase 2 could pave the way for broader adoption and integration of CBDCs in South Korea. Users should stay informed about the progress and potential implications of this pilot program.",
+  "sourceUrl": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "cbdc",
+    "bank-of-korea",
+    "project-hangang",
+    "digital-currency",
+    "pilot-program"
+  ],
+  "publishedAt": "2026-07-21T13:09:30.444969+00:00",
+  "imageUrl": "/images/articles/2026-07-21-bank-of-korea-expands-cbdc-pilot-to-500000-users-in-phase-2.webp",
+  "twitterThread": [
+    "South Korea's CBDC pilot, Project Hangang, just expanded to 500,000 users. Real government money is now in play. 💸",
+    "Phase 1 saw 42% of 81,000 wallets actively used. Phase 2 is bigger, testing real-world feasibility of a digital won. 📈",
+    "This could mean faster, cheaper payments for everyone. But will it also mean more government oversight? Stay tuned. Read more → https://www.cryptocatalyst.news/articles/2026-07-21-bank-of-korea-expands-cbdc-pilot-to-500000-users-in-phase-2"
+  ],
+  "standaloneTweet": "South Korea's CBDC pilot just expanded to 500,000 users, with real government money now in play. Could this mean faster, cheaper payments for everyone? 💸",
+  "seoTitle": "Bank of Korea Expands CBDC Pilot to 500,000 Users in Phase 2",
+  "metaDescription": "The Bank of Korea's CBDC pilot, Project Hangang, has expanded to 500,000 users in its second phase. This time, real government money is involved, marking a significant step from th",
+  "llmSummary": "The Bank of Korea's CBDC pilot, Project Hangang, has expanded to 500,000 users in its second phase. This time, real government money is involved, marking a significant step from the initial trial.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bank of Korea Expands CBDC Pilot to 500,000 Users in Phase 2",
+    "description": "The Bank of Korea's CBDC pilot, Project Hangang, has expanded to 500,000 users in its second phase. This time, real government money is involved, marking a significant step from the initial trial.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-bank-of-korea-expands-cbdc-pilot-to-500000-users-in-phase-2",
+    "datePublished": "2026-07-21T13:09:30.444969+00:00",
+    "dateModified": "2026-07-21T13:09:30.444969+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-bank-of-korea-expands-cbdc-pilot-to-500000-users-in-phase-2"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "cbdc, bank-of-korea, project-hangang, digital-currency, pilot-program"
+  }
+}

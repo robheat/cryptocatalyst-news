@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-21-galaxy-invests-5m-to-protect-bitcoin-from-quantum-computing-threats",
+  "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
+  "summary": "Galaxy Digital is committing up to $5 million to prepare Bitcoin for potential quantum computing threats. Researchers, exchanges, and the U.S. government warn that a quantum attack, dubbed 'Q-Day,' could land as soon as 2030.",
+  "body": "Galaxy Digital, a prominent crypto firm, has announced a commitment of up to $5 million to safeguard Bitcoin against the growing threat of quantum computing. This move comes as researchers, exchanges, and U.S. government officials warn that a quantum attack—nicknamed 'Q-Day'—could occur as soon as 2030, potentially compromising Bitcoin's cryptographic security.\n\nThe initiative aims to fund research and development efforts to make Bitcoin's cryptographic defenses resistant to quantum attacks. Galaxy Digital's commitment includes supporting projects that explore post-quantum cryptography and other advanced security measures. The firm's CEO emphasized the importance of proactive measures to ensure the long-term security of Bitcoin and other digital assets.\n\nFor everyday users, this news highlights the evolving nature of digital security threats. While Bitcoin has been secure for years, the advent of quantum computing could change that. Galaxy's investment signals that the industry is taking these threats seriously and working to mitigate them before they become a reality.\n\nUsers should stay informed about developments in quantum-resistant cryptography. While Q-Day is still years away, being aware of these advancements can help users make informed decisions about their digital assets. Keep an eye on updates from Galaxy Digital and other major players in the crypto space as they continue to address this critical issue.",
+  "sourceUrl": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "investment",
+    "galaxy",
+    "crypto"
+  ],
+  "publishedAt": "2026-07-21T13:08:47.373788+00:00",
+  "imageUrl": "/images/articles/2026-07-21-galaxy-invests-5m-to-protect-bitcoin-from-quantum-computing-threats.webp",
+  "twitterThread": [
+    "Bitcoin's security is about to get a $5M boost. Galaxy Digital is funding research to protect it from quantum threats.",
+    "Experts, exchanges, and the U.S. government warn 'Q-Day'—when quantum computers break Bitcoin's encryption—could happen as soon as 2030. Galaxy's investment aims to stop that.",
+    "Stay ahead of the curve: Follow updates on quantum-resistant crypto. Read more → https://www.cryptocatalyst.news/articles/2026-07-21-galaxy-invests-5m-to-protect-bitcoin-from-quantum-computing-threats"
+  ],
+  "standaloneTweet": "Quantum computers could break Bitcoin's encryption as soon as 2030, warn researchers, exchanges, and the U.S. government. Galaxy Digital is committing up to $5M to prepare. Stay informed!",
+  "seoTitle": "Galaxy Commits Up to $5M to Prepare Bitcoin for Quantum Threat",
+  "metaDescription": "Galaxy Digital commits up to $5 million to prepare Bitcoin for quantum computing threats. Researchers, exchanges, and the U.S. government warn 'Q-Day' could arrive as soon as 2030.",
+  "llmSummary": "Galaxy Digital has committed up to $5 million to fund research and development aimed at making Bitcoin's cryptographic defenses resistant to quantum computing attacks. The initiative responds to warnings from researchers, exchanges, and the U.S. government that a quantum attack, known as 'Q-Day,' could occur as early as 2030.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
+    "description": "Galaxy Digital commits up to $5 million to prepare Bitcoin for quantum computing threats. Researchers, exchanges, and the U.S. government warn 'Q-Day' could arrive as soon as 2030.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-galaxy-invests-5m-to-protect-bitcoin-from-quantum-computing-threats",
+    "datePublished": "2026-07-21T13:08:47.373788+00:00",
+    "dateModified": "2026-07-21T13:08:47.373788+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-galaxy-invests-5m-to-protect-bitcoin-from-quantum-computing-threats"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "quantum",
+      "security",
+      "investment",
+      "galaxy",
+      "crypto"
+    ]
+  }
+}

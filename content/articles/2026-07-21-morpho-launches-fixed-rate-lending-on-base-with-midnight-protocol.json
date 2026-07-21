@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol",
+  "title": "Morpho Launches Fixed-Rate Lending on Base with Midnight Protocol",
+  "summary": "Morpho has introduced a new fixed-rate lending protocol called Midnight, complementing its existing variable-rate markets on Base. This offers users more predictable borrowing and lending options in the decentralized finance (DeFi) space.",
+  "body": "Morpho, a prominent DeFi protocol, has launched Morpho Midnight, a new fixed-rate lending protocol on the Base blockchain. This addition comes alongside Morpho Blue, which offers variable-rate lending markets. The new protocol allows users to lock in fixed interest rates and defined maturities, providing more stability and predictability in lending and borrowing.\n\nMorpho Midnight is designed to work seamlessly with Morpho Blue, offering users a choice between fixed and variable rates. The protocol aims to attract both retail and institutional investors by providing a more structured lending environment. This launch is part of Morpho's broader strategy to expand its DeFi offerings and cater to a wider range of financial needs.\n\nThe introduction of fixed-rate lending is significant for everyday users as it reduces the risk associated with fluctuating interest rates. Borrowers can now plan their repayments with certainty, while lenders can secure a fixed return on their investments. This stability is particularly appealing in a volatile market, making DeFi more accessible and less daunting for newcomers.\n\nFor those interested in exploring this new option, Morpho Midnight is now live on the Base blockchain. Users can start by connecting their wallets and choosing between fixed and variable-rate markets based on their financial goals. This launch is a step forward in making DeFi more user-friendly and attractive to a broader audience.",
+  "sourceUrl": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "defi",
+  "tags": [
+    "defi",
+    "lending",
+    "base",
+    "morpho",
+    "fixed-rate"
+  ],
+  "publishedAt": "2026-07-21T13:11:19.174420+00:00",
+  "imageUrl": "/images/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol.webp",
+  "twitterThread": [
+    "Morpho just launched fixed-rate lending on Base with its new Midnight protocol. No more guessing interest rates—lock in your terms!",
+    "Morpho Midnight complements Morpho Blue’s variable rates, offering predictable borrowing and lending. Fixed rates and defined maturities make DeFi less risky for everyone.",
+    "Want stable returns? Check out Morpho Midnight on Base. It’s live now—read more → https://www.cryptocatalyst.news/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol"
+  ],
+  "standaloneTweet": "Morpho’s new fixed-rate lending on Base means you can lock in interest rates and plan your finances with certainty. No more surprises in DeFi!",
+  "seoTitle": "Morpho Launches Fixed-Rate Lending on Base with Midnight Protocol",
+  "metaDescription": "Morpho launches Morpho Midnight, a fixed-rate lending protocol on Base, offering predictable interest rates and defined maturities alongside Morpho Blue's variable-rate markets.",
+  "llmSummary": "Morpho launched Morpho Midnight, a fixed-rate lending protocol on the Base blockchain, offering users fixed interest rates and defined maturities. It complements Morpho Blue's existing variable-rate markets, providing more predictable borrowing and lending options in DeFi.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Morpho Launches Fixed-Rate Lending on Base with Midnight Protocol",
+    "description": "Morpho launches Morpho Midnight, a fixed-rate lending protocol on Base, offering predictable interest rates and defined maturities alongside Morpho Blue's variable-rate markets.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol",
+    "datePublished": "2026-07-21T13:11:19.174420+00:00",
+    "dateModified": "2026-07-21T13:11:19.174420+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol"
+    },
+    "image": null,
+    "articleSection": "DeFi",
+    "keywords": [
+      "defi",
+      "lending",
+      "base",
+      "morpho",
+      "fixed-rate"
+    ]
+  }
+}
