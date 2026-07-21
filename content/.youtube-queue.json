@@ -9673,6 +9673,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-17-breez-and-turnkey-team-up-to-enable-non-custodial-bitcoin-in-apps_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol",
+      "title": "Morpho Launches Fixed-Rate Lending on Base with Midnight Protocol",
+      "category": "defi",
+      "tags": [
+        "defi",
+        "lending",
+        "base",
+        "morpho",
+        "fixed-rate"
+      ],
+      "articleSummary": "Morpho has introduced a new fixed-rate lending protocol called Midnight, complementing its existing variable-rate markets on Base. This offers users more predictable borrowing and lending options in the decentralized finance (DeFi) space.",
+      "articleBody": "Morpho, a prominent DeFi protocol, has launched Morpho Midnight, a new fixed-rate lending protocol on the Base blockchain. This addition comes alongside Morpho Blue, which offers variable-rate lending markets. The new protocol allows users to lock in fixed interest rates and defined maturities, providing more stability and predictability in lending and borrowing.\n\nMorpho Midnight is designed to work seamlessly with Morpho Blue, offering users a choice between fixed and variable rates. The protocol aims to attract both retail and institutional investors by providing a more structured lending environment. This launch is part of Morpho's broader strategy to expand its DeFi offerings and cater to a wider range of financial needs.\n\nThe introduction of fixed-rate lending is significant for everyday users as it reduces the risk associated with fluctuating interest rates. Borrowers can now plan their repayments with certainty, while lenders can secure a fixed return on their investments. This stability is particularly appealing in a volatile market, making DeFi more accessible and less daunting for newcomers.\n\nFor those interested in exploring this new option, Morpho Midnight is now live on the Base blockchain. Users can start by connecting their wallets and choosing between fixed and variable-rate markets based on their financial goals. This launch is a step forward in making DeFi mor",
+      "imageUrl": "/images/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol",
+      "script": {
+        "hook": "Borrowing cryptocurrency just got a lot less risky for regular people.",
+        "narration_lines": [
+          "Morpho just launched a new tool called Midnight that lets you lock in fixed interest rates when you lend or borrow cryptocurrency.",
+          "This means no more surprises—you’ll know exactly what you’ll pay or earn, making it way safer than the usual variable rates.",
+          "Imagine borrowing $1,000 and knowing exactly how much you’ll pay back, no matter what happens in the market.",
+          "Midnight works alongside Morpho Blue, which offers variable rates, so you can choose what fits your needs.",
+          "This is a big deal for everyday users because it makes cryptocurrency lending more stable and predictable.",
+          "If you’re into DeFi, check out Morpho Midnight on the Base blockchain and see how fixed rates can work for you."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 120
+      },
+      "scriptHash": "8a2cb515e4030339",
+      "scriptText": "Borrowing cryptocurrency just got a lot less risky for regular people. Morpho just launched a new tool called Midnight that lets you lock in fixed interest rates when you lend or borrow cryptocurrency. This means no more surprises—you’ll know exactly what you’ll pay or earn, making it way safer than the usual variable rates. Imagine borrowing $1,000 and knowing exactly how much you’ll pay back, no matter what happens in the market. Midnight works alongside Morpho Blue, which offers variable rates, so you can choose what fits your needs. This is a big deal for everyday users because it makes cryptocurrency lending more stable and predictable. If you’re into DeFi, check out Morpho Midnight on the Base blockchain and see how fixed rates can work for you. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "VRKJhiAses8",
+      "youtubeUrl": "https://youtube.com/watch?v=VRKJhiAses8",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-21T16:22:22.299482+00:00",
+      "uploadedAt": "2026-07-21T16:32:14.822296+00:00",
+      "audioLineDurations": [
+        4.373333333333333,
+        7.68,
+        7.509333333333333,
+        8.064,
+        6.144,
+        6.293333333333333,
+        6.1866666666666665,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-morpho-launches-fixed-rate-lending-on-base-with-midnight-protocol_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte",
+      "title": "Vitalik Buterin 'Vibe-Codes' Anonymous Billboard Demo with Onchain Moderation on Aztec",
+      "category": "ethereum",
+      "tags": [
+        "vitalik-buterin",
+        "aztec",
+        "onchain-moderation",
+        "web3",
+        "privacy",
+        "llm"
+      ],
+      "articleSummary": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
+      "articleBody": "Ethereum co-founder Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on the Aztec network. The demo features onchain moderation, including a censor role and a local LLM (Large Language Model) flagging daemon designed to filter inappropriate content while maintaining user anonymity.\n\nThe billboard system leverages Aztec's privacy-focused infrastructure to enable anonymous posting and moderation. Buterin's demo highlights the potential for decentralized, community-moderated platforms that balance free expression with content control. The use of a local LLM for flagging content demonstrates how AI can be integrated into blockchain applications to enhance moderation efficiency.\n\nThis innovation is significant for everyday users as it offers a new way to engage in public discourse without sacrificing privacy. By enabling anonymous posting with built-in moderation, the system could foster more open and honest discussions. It also sets a precedent for future Web3 applications that prioritize both privacy and community governance.\n\nButerin's demonstration is part of a broader trend towards integrating AI and blockchain technologies. As this technology evolves, users can expect to see more applications that combine the benefits of decentralized networks with advanced AI capabilities. Watch for further developments in onchain moderation and privacy-preserving technologies as the ",
+      "imageUrl": "/images/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte",
+      "script": {
+        "hook": "You can now post online without revealing your identity, and AI will keep things civil.",
+        "narration_lines": [
+          "Ethereum co-founder Vitalik Buterin just demoed a system where you can post anonymously on a digital billboard.",
+          "It uses cryptocurrency tech from Aztec to hide your identity while AI moderates content in real time.",
+          "Imagine a public forum where you can speak freely without fear of doxxing, but still stay safe from spam.",
+          "The system even has a 'censor role' to flag inappropriate posts, all while keeping your privacy intact.",
+          "This could change how we discuss sensitive topics online, making conversations more open and honest.",
+          "Keep an eye on Aztec for more privacy-focused tools that blend AI and blockchain."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "e25b0d68d75558d4",
+      "scriptText": "You can now post online without revealing your identity, and AI will keep things civil. Ethereum co-founder Vitalik Buterin just demoed a system where you can post anonymously on a digital billboard. It uses cryptocurrency tech from Aztec to hide your identity while AI moderates content in real time. Imagine a public forum where you can speak freely without fear of doxxing, but still stay safe from spam. The system even has a 'censor role' to flag inappropriate posts, all while keeping your privacy intact. This could change how we discuss sensitive topics online, making conversations more open and honest. Keep an eye on Aztec for more privacy-focused tools that blend AI and blockchain. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "OvVsgRi-1Lg",
+      "youtubeUrl": "https://youtube.com/watch?v=OvVsgRi-1Lg",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-21T16:22:41.399621+00:00",
+      "uploadedAt": "2026-07-21T16:32:17.488425+00:00",
+      "audioLineDurations": [
+        5.290666666666667,
+        7.189333333333333,
+        6.656,
+        6.4,
+        6.1866666666666665,
+        6.357333333333333,
+        5.418666666666667,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_3.jpg"
+      ]
     }
   ]
 }
