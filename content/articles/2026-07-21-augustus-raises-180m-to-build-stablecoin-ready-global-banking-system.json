@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-21-augustus-raises-180m-to-build-stablecoin-ready-global-banking-system",
+  "title": "Augustus Raises $180M to Build Stablecoin-Ready 'Global Dollar Bank'",
+  "summary": "Augustus, a fintech startup, has raised $180 million to integrate stablecoins into a federally chartered bank, aiming to modernize cross-border payments. The Tiger Global-led round values the company at $1 billion.",
+  "body": "Augustus, a fintech startup, has secured $180 million in funding led by Tiger Global, valuing the company at $1 billion. The funds will be used to build a stablecoin-ready banking system, wiring stablecoin rails directly into a federally chartered bank to streamline cross-border payments.\n\nThe startup aims to modernize the correspondent-banking infrastructure, which has been a bottleneck in global transactions. By integrating stablecoin rails directly into a bank, Augustus hopes to reduce costs and increase efficiency in international payments.\n\nThis development could significantly impact everyday users by making cross-border transactions faster and cheaper. Currently, traditional banking systems are slow and expensive, often involving multiple intermediaries. Augustus's solution could bypass these inefficiencies, benefiting individuals and businesses alike.\n\nFor those interested in the future of digital currencies and banking, this is a significant step forward. The integration of stablecoins into traditional banking systems could pave the way for broader adoption and use cases. Watch for further developments in this space as Augustus rolls out its services.",
+  "sourceUrl": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "stablecoin",
+    "fintech",
+    "cross-border",
+    "payments",
+    "banking",
+    "tiger-global"
+  ],
+  "publishedAt": "2026-07-21T21:11:28.027247+00:00",
+  "imageUrl": "/images/articles/2026-07-21-augustus-raises-180m-to-build-stablecoin-ready-global-banking-system.webp",
+  "twitterThread": [
+    "Augustus just raised $180M to build a stablecoin-ready 'Global Dollar Bank'. Cross-border payments could get faster and cheaper. 💸",
+    "The startup is wiring stablecoin rails directly into a federally chartered bank, modernizing the old correspondent-banking system. Tiger Global led the round, valuing Augustus at $1B.",
+    "This could make international transactions smoother for everyone. Keep an eye on Augustus's progress. Read more → https://www.cryptocatalyst.news/articles/2026-07-21-augustus-raises-180m-to-build-stablecoin-ready-global-banking-system"
+  ],
+  "standaloneTweet": "Augustus raises $180M to build a stablecoin-ready 'Global Dollar Bank', aiming to modernize cross-border payments. Could this make sending money abroad faster and cheaper?",
+  "seoTitle": "Augustus Raises $180M for Stablecoin-Ready Global Dollar Bank",
+  "metaDescription": "Augustus raises $180M led by Tiger Global to build a stablecoin-ready federally chartered bank, modernizing correspondent banking for faster cross-border payments. Valued at $1B.",
+  "llmSummary": "Augustus, a fintech startup, raised $180 million in a Tiger Global-led round at a $1 billion valuation to build a stablecoin-ready 'Global Dollar Bank'. The company will wire stablecoin rails directly into a federally chartered bank to modernize the correspondent-banking infrastructure behind cross-border payments, aiming to reduce costs and increase efficiency.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Augustus Raises $180M to Build Stablecoin-Ready 'Global Dollar Bank'",
+    "description": "Augustus, a fintech startup, has raised $180 million to integrate stablecoins into a federally chartered bank, aiming to modernize cross-border payments. The Tiger Global-led round values the company at $1 billion.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-augustus-raises-180m-to-build-stablecoin-ready-global-banking-system",
+    "datePublished": "2026-07-21T21:11:28.027247+00:00",
+    "dateModified": "2026-07-21T21:11:28.027247+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-augustus-raises-180m-to-build-stablecoin-ready-global-banking-system"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "stablecoin",
+      "fintech",
+      "cross-border",
+      "payments",
+      "banking",
+      "tiger-global"
+    ]
+  }
+}

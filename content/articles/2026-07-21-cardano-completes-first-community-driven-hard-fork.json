@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-21-cardano-completes-first-community-driven-hard-fork",
+  "title": "Cardano Completes First Community-Driven Hard Fork",
+  "summary": "Cardano has successfully executed its first hard fork entirely driven by community voting, marking a milestone in decentralized governance. The Van Rossem upgrade was approved and implemented without any single company controlling the process.",
+  "body": "Cardano, a major blockchain platform, has completed its first hard fork that was entirely decided by community voting. This update, named Van Rossem, is a significant step toward decentralized governance, as no single company or entity controlled the process. For the first time in Cardano's history, no company flipped the switch on a major protocol update.\n\nThe hard fork introduces several improvements to the Cardano network, including enhanced scalability and performance. The community voted on the changes, ensuring that the upgrade aligns with the collective vision for the platform's future. This marks a first in Cardano's history, as previous updates were typically managed by Input Output Global (IOG), the company behind Cardano.\n\nThis development is crucial for everyday users because it demonstrates a shift toward a more democratic and decentralized approach to blockchain governance. By giving the community control over major updates, Cardano aims to foster greater trust and participation.\n\nFor those interested in the future of Cardano, this hard fork sets a precedent for how decentralized networks can evolve. Users and developers should watch for further community-driven initiatives and participate in future voting processes to shape the platform's direction. Read more → https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+  "sourceUrl": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "cardano",
+    "hard-fork",
+    "decentralization",
+    "community-voting",
+    "blockchain",
+    "van-rossem"
+  ],
+  "publishedAt": "2026-07-21T21:10:39.264403+00:00",
+  "imageUrl": "/images/articles/2026-07-21-cardano-completes-first-community-driven-hard-fork.webp",
+  "twitterThread": [
+    "Cardano just completed its first hard fork decided entirely by community voting. No central company controlled the update — for the first time, no company flipped the switch. A big step for decentralization.",
+    "The Van Rossem hard fork brings scalability and performance improvements, all approved by the Cardano community. This is a first for the platform, shifting from company-led updates by IOG to community governance.",
+    "This move shows how decentralized networks can evolve with community input. Watch for future voting processes to shape Cardano's future. Read more → https://www.cryptocatalyst.news/articles/2026-07-21-cardano-completes-first-community-driven-hard-fork"
+  ],
+  "standaloneTweet": "Cardano's first community-driven hard fork, Van Rossem, is live! For the first time, no company flipped the switch — marking a shift toward decentralized governance.",
+  "seoTitle": "Cardano Completes First Community-Driven Hard Fork Van Rossem",
+  "metaDescription": "Cardano has executed its first hard fork driven entirely by community voting. The Van Rossem upgrade was approved without any central company controlling the process, a milestone i",
+  "llmSummary": "Cardano has successfully executed its first hard fork entirely driven by community voting, marking a milestone in decentralized governance. The Van Rossem upgrade was approved and implemented without any single company controlling the process — for the first time in Cardano's history, no company flipped the switch on a major protocol update.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cardano Completes First Community-Driven Hard Fork Van Rossem",
+    "description": "Cardano has executed its first hard fork driven entirely by community voting. The Van Rossem upgrade was approved without any central company controlling the process, a milestone in decentralized governance.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-cardano-completes-first-community-driven-hard-fork",
+    "datePublished": "2026-07-21T21:10:39.264403+00:00",
+    "dateModified": "2026-07-21T21:10:39.264403+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-cardano-completes-first-community-driven-hard-fork"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "cardano, hard-fork, decentralization, community-voting, blockchain, van-rossem"
+  }
+}

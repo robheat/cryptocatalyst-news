@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-21-robinhood-backed-dex-arcus-expands-with-tokenized-assets-and-perps",
+  "title": "Robinhood-Backed DEX Arcus Expands with Tokenized Assets and Perps",
+  "summary": "Arcus, a decentralized exchange built by the dYdX team and backed by Robinhood, has expanded its offerings to include tokenized stocks and perpetual futures on the Robinhood Chain. This move is part of a broader trend of crypto platforms bringing traditional financial assets onchain.",
+  "body": "Arcus, a decentralized exchange (DEX) built by the dYdX team and backed by Robinhood, has expanded its offerings to include tokenized stocks and perpetual futures. This addition is part of a broader trend in the crypto industry, where platforms are increasingly bringing traditional financial assets onchain to attract a wider range of users.\n\nThe new tokenized assets will be available on the Robinhood Chain, allowing users to trade tokenized versions of stocks and perpetual contracts directly on the blockchain. This move is significant as it bridges the gap between traditional finance and decentralized finance (DeFi), making it easier for users to access and trade these assets in a decentralized manner.\n\nFor everyday users, this expansion means more options for trading traditional assets within the crypto ecosystem. Tokenized stocks and perpetual futures offer the benefits of blockchain technology, such as transparency and security, while also providing exposure to traditional financial markets. This could attract both crypto enthusiasts and traditional investors looking for new ways to manage their portfolios.\n\nAs competition among crypto platforms heats up, users can expect more innovations in tokenized assets and trading options. This trend is likely to continue as platforms strive to offer more comprehensive and user-friendly services. For those interested in exploring these new offerings, keeping an eye on updates from Arcus and other DEXs will be crucial.",
+  "sourceUrl": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "dex",
+    "robinhood",
+    "tokenized-assets",
+    "perpetual-futures",
+    "defi",
+    "trading"
+  ],
+  "publishedAt": "2026-07-21T21:14:51.738176+00:00",
+  "imageUrl": "/images/articles/2026-07-21-robinhood-backed-dex-arcus-expands-with-tokenized-assets-and-perps.webp",
+  "twitterThread": [
+    "Arcus, the Robinhood-backed DEX built by the dYdX team, just added tokenized stocks and perpetual futures on Robinhood Chain. Traditional assets are coming to crypto in a big way. 🚀",
+    "Built by the dYdX team, Arcus now lets you trade tokenized stocks and perps directly on the blockchain. No more middlemen, just pure DeFi. 💎",
+    "If you're into trading but want the benefits of blockchain, this is a game-changer. Watch this space—more tokenized assets are coming. Read more → https://www.cryptocatalyst.news/articles/2026-07-21-robinhood-backed-dex-arcus-expands-with-tokenized-assets-and-perps"
+  ],
+  "standaloneTweet": "Arcus, built by the dYdX team and backed by Robinhood, now offers tokenized stocks and perpetual futures on Robinhood Chain. Traditional assets meet DeFi—what's next for your portfolio? 💸",
+  "seoTitle": "Robinhood-Backed DEX Arcus Adds Tokenized Stocks and Perps",
+  "metaDescription": "Arcus, a DEX built by the dYdX team and backed by Robinhood, expands with tokenized stocks and perpetual futures on Robinhood Chain, bridging traditional finance and DeFi.",
+  "llmSummary": "Arcus, a decentralized exchange built by the dYdX team and backed by Robinhood, has expanded its offerings to include tokenized stocks and perpetual futures on the Robinhood Chain. This move is part of a broader trend of crypto platforms bringing traditional financial assets onchain, bridging the gap between traditional finance and DeFi.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Robinhood-Backed DEX Arcus Expands with Tokenized Assets and Perps",
+    "description": "Arcus, a decentralized exchange built by the dYdX team and backed by Robinhood, has expanded its offerings to include tokenized stocks and perpetual futures on the Robinhood Chain. This move is part of a broader trend of crypto platforms bringing traditional financial assets onchain.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-21-robinhood-backed-dex-arcus-expands-with-tokenized-assets-and-perps",
+    "datePublished": "2026-07-21T21:14:51.738176+00:00",
+    "dateModified": "2026-07-21T21:14:51.738176+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-21-robinhood-backed-dex-arcus-expands-with-tokenized-assets-and-perps"
+    },
+    "image": null,
+    "articleSection": "DeFi",
+    "keywords": [
+      "dex",
+      "robinhood",
+      "tokenized-assets",
+      "perpetual-futures",
+      "defi",
+      "trading"
+    ]
+  }
+}
