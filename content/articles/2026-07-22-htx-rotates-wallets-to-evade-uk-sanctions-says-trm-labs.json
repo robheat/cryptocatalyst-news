@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-22-htx-rotates-wallets-to-evade-uk-sanctions-says-trm-labs",
+  "title": "Justin Sun's HTX Rotating On-Chain Wallets Amid UK Sanctions: TRM Labs",
+  "summary": "TRM Labs reports that HTX, a crypto exchange owned by Justin Sun and sanctioned by the UK, has been rotating hot wallets across multiple blockchains, making it difficult for address-list screening tools to keep pace.",
+  "body": "HTX, a cryptocurrency exchange owned by Justin Sun, is reportedly rotating its hot wallets across multiple blockchains to evade UK sanctions. According to TRM Labs, a blockchain analytics firm, the exchange has been moving funds between different wallets to stay ahead of regulators. This strategy makes it challenging for authorities to track and freeze assets.\n\nTRM Labs noted that HTX's wallet rotation is happening across various blockchains, including Ethereum and Solana. The firm stated that this tactic is making it difficult for address-list screening tools to keep up. These tools are typically used by regulators and exchanges to block transactions involving sanctioned entities. The rapid movement of funds suggests that HTX is actively trying to circumvent the sanctions imposed by the UK.\n\nThis development highlights the ongoing cat-and-mouse game between regulators and crypto exchanges. For everyday users, it underscores the importance of using reputable exchanges that comply with regulations. It also serves as a reminder to stay informed about the legal status of the platforms they use. Users should be cautious and conduct thorough research before engaging with any crypto exchange, especially those under sanctions.\n\nFor those interested in the broader implications, this situation demonstrates the challenges regulators face in monitoring and controlling the crypto space. Users should watch for updates from regulatory bodies and blockchain analytics firms. Staying informed about the latest developments can help users make safer and more informed decisions in the crypto market.",
+  "sourceUrl": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "htx",
+    "uk-sanctions",
+    "crypto-exchange",
+    "blockchain",
+    "trm-labs",
+    "justin-sun"
+  ],
+  "publishedAt": "2026-07-22T13:44:32.341669+00:00",
+  "imageUrl": "/images/articles/2026-07-22-htx-rotates-wallets-to-evade-uk-sanctions-says-trm-labs.webp",
+  "twitterThread": [
+    "Justin Sun's HTX is rotating its hot wallets across multiple blockchains to evade UK sanctions, per TRM Labs. This makes it harder for address-list screening tools to keep pace.",
+    "The exchange is moving funds between different wallets on Ethereum, Solana, and other blockchains. This tactic is outpacing address-list screening tools used by regulators.",
+    "For crypto users, this is a reminder to stick with regulated exchanges and stay informed about sanctions. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-htx-rotates-wallets-to-evade-uk-sanctions-says-trm-labs"
+  ],
+  "standaloneTweet": "Justin Sun's HTX is rotating its hot wallets across blockchains to evade UK sanctions, making it harder for regulators to track funds. Stay informed and use regulated exchanges.",
+  "seoTitle": "Justin Sun's HTX Rotates Wallets to Evade UK Sanctions: TRM Labs",
+  "metaDescription": "TRM Labs reports that HTX, a crypto exchange owned by Justin Sun and sanctioned by the UK, has been rotating hot wallets across multiple blockchains, making it difficult for addres",
+  "llmSummary": "TRM Labs reports that HTX, a crypto exchange owned by Justin Sun and sanctioned by the UK, has been rotating hot wallets across multiple blockchains, including Ethereum and Solana. This tactic makes it difficult for address-list screening tools to keep pace with tracking and blocking transactions.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Justin Sun's HTX Rotating On-Chain Wallets Amid UK Sanctions: TRM Labs",
+    "description": "TRM Labs reports that HTX, a crypto exchange owned by Justin Sun and sanctioned by the UK, has been rotating hot wallets across multiple blockchains, making it difficult for address-list screening tools to keep pace.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-htx-rotates-wallets-to-evade-uk-sanctions-says-trm-labs",
+    "datePublished": "2026-07-22T13:44:32.341669+00:00",
+    "dateModified": "2026-07-22T13:44:32.341669+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-htx-rotates-wallets-to-evade-uk-sanctions-says-trm-labs"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "htx",
+      "uk-sanctions",
+      "crypto-exchange",
+      "blockchain",
+      "trm-labs",
+      "justin-sun"
+    ]
+  }
+}

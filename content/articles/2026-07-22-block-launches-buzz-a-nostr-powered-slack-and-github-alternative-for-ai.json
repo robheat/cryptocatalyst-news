@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-22-block-launches-buzz-a-nostr-powered-slack-and-github-alternative-for-ai",
+  "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+  "summary": "Jack Dorsey's Block has launched Buzz, a free, open-source workspace built on the Nostr protocol that gives AI agents their own cryptographic identities, positioning it as a decentralized alternative to Slack and GitHub.",
+  "body": "Block, the payments company founded by Jack Dorsey, has launched Buzz, a new workspace platform designed to rival Slack and GitHub. Buzz is built on Nostr, a decentralized protocol, and is free and open-source. The platform allows AI agents to have their own cryptographic identities, enabling them to interact and collaborate in a secure and decentralized manner.\n\nBuzz aims to provide a more open and decentralized alternative to traditional workspace tools. By leveraging Nostr, the platform ensures that all interactions and data are cryptographically verifiable, enhancing security and transparency. The platform is designed to be user-friendly, making it accessible to both individuals and organizations looking to integrate AI agents into their workflows.\n\nFor everyday users, Buzz offers a new way to collaborate and manage projects with the added benefit of decentralized technology. This could mean more control over data, enhanced security, and the ability to interact with AI agents in a more seamless and secure manner. As the platform is open-source, users can also contribute to its development, ensuring it evolves to meet their needs.\n\nOne of the key features of Buzz is its support for AI agents, which can be assigned unique cryptographic identities. This allows for secure and verifiable interactions between humans and AI, as well as between different AI agents. The platform's open-source nature means that developers can build and integrate their own AI agents, fostering a vibrant ecosystem of tools and applications.\n\nFor those interested in trying out Buzz, the platform is now available for free. Users can start by creating their own cryptographic identities and exploring the various features and tools offered. As the platform continues to develop, it will be interesting to see how it evolves and competes with established players like Slack and GitHub. Keep an eye on updates and new features as they are rolled out.",
+  "sourceUrl": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "block",
+    "buzz",
+    "nostr",
+    "ai",
+    "open-source",
+    "decentralization"
+  ],
+  "publishedAt": "2026-07-22T13:45:39.059975+00:00",
+  "imageUrl": "/images/articles/2026-07-22-block-launches-buzz-a-nostr-powered-slack-and-github-alternative-for-ai.webp",
+  "twitterThread": [
+    "Jack Dorsey's Block just launched Buzz, a Nostr-based workspace that gives AI agents their own cryptographic identities. 🚀",
+    "Buzz is a free, open-source platform designed to rival Slack and GitHub. It runs on Nostr, ensuring secure and decentralized interactions. 🔒",
+    "If you're looking for a more open and secure way to collaborate with AI, Buzz might be worth a try. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-block-launches-buzz-a-nostr-powered-slack-and-github-alternative-for-ai"
+  ],
+  "standaloneTweet": "Buzz by Block is a Nostr-powered workspace that lets AI agents have their own cryptographic identities. A decentralized rival to Slack and GitHub. 🚀",
+  "seoTitle": "Block Launches Buzz: Nostr-Based Slack & GitHub Rival for AI Agents",
+  "metaDescription": "Jack Dorsey's Block launches Buzz, a free, open-source Nostr-based workspace that gives AI agents cryptographic identities, challenging Slack and GitHub.",
+  "llmSummary": "Jack Dorsey's Block has launched Buzz, a free, open-source workspace built on the Nostr protocol that gives AI agents their own cryptographic identities. The platform is designed as a decentralized alternative to Slack and GitHub, enabling secure, verifiable interactions between humans and AI agents.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+    "description": "Jack Dorsey's Block has launched Buzz, a free, open-source workspace built on the Nostr protocol that gives AI agents their own cryptographic identities, positioning it as a decentralized alternative to Slack and GitHub.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-block-launches-buzz-a-nostr-powered-slack-and-github-alternative-for-ai",
+    "datePublished": "2026-07-22T13:45:39.059975+00:00",
+    "dateModified": "2026-07-22T13:45:39.059975+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-block-launches-buzz-a-nostr-powered-slack-and-github-alternative-for-ai"
+    },
+    "image": null,
+    "articleSection": "Technology",
+    "keywords": [
+      "block",
+      "buzz",
+      "nostr",
+      "ai",
+      "open-source",
+      "decentralization"
+    ]
+  }
+}

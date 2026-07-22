@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-22-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea",
+  "title": "Kraken Parent Expands Tokenized Stocks to Hong Kong, UK, and South Korea",
+  "summary": "Payward's xStocks now offers tokenized versions of equities from Hong Kong, the UK, and South Korea, expanding beyond U.S. markets. This move comes as competition heats up to bring global stock markets onchain.",
+  "body": "Payward, the parent company of Kraken, has announced the expansion of its xStocks platform to include tokenized equities from Hong Kong, the UK, and South Korea. This move marks a significant step beyond the platform's initial focus on U.S. equities, as it seeks to bring more global stock markets onchain.\n\nThe expansion includes tokenized versions of prominent stocks from these regions, allowing investors to trade fractional shares of companies like Tencent, HSBC, and Samsung. This development is part of a broader trend where traditional financial assets are being tokenized, making them more accessible and tradable on blockchain networks.\n\nFor everyday investors, this means easier access to international markets without the complexities of traditional brokerage accounts. Tokenized stocks can be traded 24/7, offering greater flexibility and liquidity. Additionally, this expansion could attract more users to the Kraken ecosystem, potentially increasing adoption of crypto and tokenized assets.\n\nAs competition in the tokenized assets space intensifies, Payward's move is likely to spur other platforms to follow suit. Investors should watch for further expansions and new features that make global markets more accessible. For those interested in diversifying their portfolios, keeping an eye on xStocks' offerings could be beneficial. Read more → https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "tokenized",
+    "stocks",
+    "kraken",
+    "global",
+    "markets",
+    "xstocks"
+  ],
+  "publishedAt": "2026-07-22T13:43:52.020804+00:00",
+  "imageUrl": "/images/articles/2026-07-22-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea.webp",
+  "twitterThread": [
+    "Kraken's parent Payward just expanded tokenized stocks to Hong Kong, UK, and South Korea equities. Trade Tencent, HSBC, and Samsung 24/7!",
+    "This move brings global markets onchain, making international investing easier. No need for traditional brokerage accounts.",
+    "Want to diversify your portfolio with global stocks? Check out xStocks' new offerings. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea"
+  ],
+  "standaloneTweet": "Kraken's xStocks now offers tokenized versions of Tencent, HSBC, and Samsung. Trade global equities 24/7 without traditional brokerage accounts!",
+  "seoTitle": "Kraken Parent Expands Tokenized Stocks to Hong Kong, UK, South Korea",
+  "metaDescription": "Payward's xStocks platform now offers tokenized equities from Hong Kong, UK, and South Korea, expanding beyond U.S. markets as onchain global stock competition heats up.",
+  "llmSummary": "Payward, Kraken's parent company, expanded its xStocks platform to offer tokenized equities from Hong Kong, the UK, and South Korea, including stocks like Tencent, HSBC, and Samsung. This move extends beyond the platform's initial U.S. equities focus, allowing 24/7 trading of fractional shares on blockchain and intensifying competition in the tokenized assets space.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Kraken Parent Expands Tokenized Stocks to Hong Kong, UK, and South Korea",
+    "description": "Payward's xStocks platform now offers tokenized equities from Hong Kong, UK, and South Korea, expanding beyond U.S. markets as onchain global stock competition heats up.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea",
+    "datePublished": "2026-07-22T13:43:52.020804+00:00",
+    "dateModified": "2026-07-22T13:43:52.020804+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea"
+    },
+    "image": null,
+    "articleSection": "Business",
+    "keywords": "tokenized, stocks, kraken, global, markets, xstocks"
+  }
+}
