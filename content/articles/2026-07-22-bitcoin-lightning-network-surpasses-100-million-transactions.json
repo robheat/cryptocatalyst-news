@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions",
+  "title": "Bitcoin Lightning Network Surpasses 100 Million Transactions",
+  "summary": "The Bitcoin Lightning Network has processed over 100 million transactions, highlighting its growing adoption. This milestone marks a significant step in making Bitcoin more scalable for everyday use.",
+  "body": "The Bitcoin Lightning Network, a layer-two solution designed to enable faster and cheaper Bitcoin transactions, has reached a major milestone: over 100 million transactions processed. This network, which allows for near-instant payments and lower fees compared to the Bitcoin blockchain, has been gaining traction among users and businesses alike.\n\nAccording to data from various sources, the Lightning Network has seen significant growth in recent years. The network's capacity has also increased, with more nodes and channels being added regularly. This growth is driven by the increasing demand for scalable and efficient payment solutions on the Bitcoin network.\n\nFor everyday users, this milestone means that the Lightning Network is becoming a more reliable and accessible option for everyday transactions. Businesses are also starting to adopt the Lightning Network for payments, which could lead to more widespread use of Bitcoin in daily commerce. As the network continues to grow, users can expect even faster and cheaper transactions, making Bitcoin more viable for small, frequent payments.\n\nWhat to watch next: Keep an eye on the continued growth of the Lightning Network's capacity and the number of businesses that start accepting Bitcoin payments through this network. This could be a game-changer for Bitcoin's usability in everyday transactions. Read more → ARTICLE_URL",
+  "sourceUrl": "https://x.com/galactiator/status/2079626566762369332",
+  "sourceName": "@galactiator on X",
+  "category": "bitcoin",
+  "tags": [
+    "lightning",
+    "bitcoin",
+    "transactions",
+    "scalability",
+    "adoption"
+  ],
+  "publishedAt": "2026-07-22T15:45:55.707119+00:00",
+  "imageUrl": "/images/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions.webp",
+  "twitterThread": [
+    "The Bitcoin Lightning Network just hit 100 million transactions! 🚀 Here's why it matters for everyday payments.",
+    "The Lightning Network makes Bitcoin transactions faster and cheaper. With over 100 million transactions, it's proving to be a scalable solution for daily use.",
+    "Businesses are starting to adopt the Lightning Network. Watch for more widespread Bitcoin payments—this could change how we use crypto daily. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions"
+  ],
+  "standaloneTweet": "The Bitcoin Lightning Network just hit 100 million transactions! 🚀 Faster, cheaper Bitcoin payments are here. Watch for more businesses adopting this tech.",
+  "seoTitle": "Bitcoin Lightning Network Hits 100M Transactions Milestone",
+  "metaDescription": "The Bitcoin Lightning Network has processed over 100 million transactions, marking a key milestone for Bitcoin scalability and everyday payment adoption.",
+  "llmSummary": "The Bitcoin Lightning Network, a layer-two scaling solution for Bitcoin, has surpassed 100 million transactions, according to a tweet by @galactiator. This milestone reflects growing adoption and increased network capacity, making Bitcoin more viable for fast, low-cost everyday payments.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin Lightning Network Surpasses 100 Million Transactions",
+    "description": "The Bitcoin Lightning Network has processed over 100 million transactions, highlighting its growing adoption. This milestone marks a significant step in making Bitcoin more scalable for everyday use.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions",
+    "datePublished": "2026-07-22T15:45:55.707119+00:00",
+    "dateModified": "2026-07-22T15:45:55.707119+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "CryptoCatalyst News"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "lightning",
+      "bitcoin",
+      "transactions",
+      "scalability",
+      "adoption"
+    ]
+  }
+}
