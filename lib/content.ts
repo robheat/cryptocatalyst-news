@@ -44,9 +44,19 @@ export function getLatestArticles(limit = 10): Article[] {
 
 export function getPaginatedArticles(
   page: number,
-  perPage = 20
+  perPage = 20,
+  query?: string
 ): { articles: Article[]; total: number; totalPages: number } {
-  const all = getAllArticles();
+  let all = getAllArticles();
+  if (query) {
+    const q = query.toLowerCase();
+    all = all.filter(
+      (a) =>
+        a.title.toLowerCase().includes(q) ||
+        a.summary.toLowerCase().includes(q) ||
+        a.tags.some((tag) => tag.toLowerCase().includes(q))
+    );
+  }
   const total = all.length;
   const totalPages = Math.max(1, Math.ceil(total / perPage));
   const articles = all.slice((page - 1) * perPage, page * perPage);

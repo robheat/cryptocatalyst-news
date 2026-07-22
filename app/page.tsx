@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     canonical: "https://www.cryptocatalyst.news/",
   },
   openGraph: {
+    type: "website",
+    siteName: "CryptoCatalyst",
+    locale: "en_US",
     title: "CryptoCatalyst — Daily Crypto & Blockchain News",
     description:
       "The latest crypto, blockchain, and Web3 news — curated and summarized daily by AI.",
@@ -29,6 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    site: "@CryptoCatalystN",
     title: "CryptoCatalyst — Daily Crypto & Blockchain News",
     description:
       "The latest crypto, blockchain, and Web3 news — curated and summarized daily by AI.",

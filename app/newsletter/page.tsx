@@ -5,7 +5,11 @@ export const metadata: Metadata = {
   title: "Newsletter",
   description:
     "Subscribe to the CryptoCatalyst weekly digest — the top crypto and blockchain stories of the week, delivered every Sunday.",
+  alternates: { canonical: "https://www.cryptocatalyst.news/newsletter" },
   openGraph: {
+    type: "website",
+    siteName: "CryptoCatalyst",
+    locale: "en_US",
     title: "Newsletter — CryptoCatalyst",
     description:
       "Subscribe to the CryptoCatalyst weekly digest — the top crypto and blockchain stories of the week, delivered every Sunday.",
@@ -15,8 +19,17 @@ export const metadata: Metadata = {
         url: "/api/og?title=Weekly+Crypto+Digest+Newsletter",
         width: 1200,
         height: 630,
+        alt: "CryptoCatalyst Weekly Newsletter",
       },
     ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@CryptoCatalystN",
+    title: "Newsletter — CryptoCatalyst",
+    description:
+      "Subscribe to the CryptoCatalyst weekly digest — the top crypto and blockchain stories of the week, delivered every Sunday.",
+    images: ["/api/og?title=Weekly+Crypto+Digest+Newsletter"],
   },
 };
 

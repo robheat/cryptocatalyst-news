@@ -15,12 +15,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: new Date(a.publishedAt) > thirtyDaysAgo ? 0.8 : 0.6,
   }));
 
-  const categoryEntries: MetadataRoute.Sitemap = CATEGORIES.map((c) => ({
-    url: `${BASE_URL}/categories/${c.value}`,
-    lastModified: new Date(),
-    changeFrequency: "daily",
-    priority: 0.5,
-  }));
+  const categoryEntries: MetadataRoute.Sitemap = CATEGORIES.map((c) => {
+    const latest = articles.find((a) => a.category === c.value);
+    return {
+      url: `${BASE_URL}/categories/${c.value}`,
+      lastModified: latest ? new Date(latest.publishedAt) : new Date(),
+      changeFrequency: "daily",
+      priority: 0.5,
+    };
+  });
 
   return [
     {

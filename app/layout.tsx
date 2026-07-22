@@ -47,6 +47,17 @@ export const metadata: Metadata = {
       "application/rss+xml": "https://www.cryptocatalyst.news/feed.xml",
     },
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
 };
 
 const orgSchema = {

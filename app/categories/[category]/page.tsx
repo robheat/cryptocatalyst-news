@@ -23,6 +23,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: `Latest crypto ${cat.label.toLowerCase()} news, curated daily by CryptoCatalyst.`,
     alternates: { canonical: `https://www.cryptocatalyst.news/categories/${category}` },
     openGraph: {
+      type: "website",
+      siteName: "CryptoCatalyst",
+      locale: "en_US",
       title: `${cat.label} — Crypto News | CryptoCatalyst`,
       description: `Latest crypto ${cat.label.toLowerCase()} news, curated daily by CryptoCatalyst.`,
       url: `https://www.cryptocatalyst.news/categories/${category}`,
@@ -35,6 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
+      site: "@CryptoCatalystN",
       title: `${cat.label} — Crypto News | CryptoCatalyst`,
       description: `Latest crypto ${cat.label.toLowerCase()} news, curated daily by CryptoCatalyst.`,
       images: [`/api/og?title=${encodeURIComponent(cat.label + " — Crypto News")}&category=${encodeURIComponent(cat.label)}`],
@@ -49,8 +53,21 @@ export default async function CategoryPage({ params }: Props) {
 
   const articles = getArticlesByCategory(category as Category);
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.cryptocatalyst.news" },
+      { "@type": "ListItem", position: 2, name: cat.label, item: `https://www.cryptocatalyst.news/categories/${cat.value}` },
+    ],
+  };
+
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <div className="mb-8">
         <span className="text-xs font-medium uppercase tracking-wider px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
           {cat.label}

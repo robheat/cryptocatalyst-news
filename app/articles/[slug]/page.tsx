@@ -36,10 +36,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: metadataDescription,
     keywords: article.tags,
     openGraph: {
+      type: "article",
+      siteName: "CryptoCatalyst",
+      locale: "en_US",
       title: metadataTitle,
       description: metadataDescription,
       url: `https://www.cryptocatalyst.news/articles/${article.slug}`,
-      type: "article",
       publishedTime: article.publishedAt,
       authors: ["CryptoCatalyst"],
       tags: article.tags,
@@ -54,6 +56,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
+      site: "@CryptoCatalystN",
       title: metadataTitle,
       description: metadataDescription,
       images: [ogImage],
