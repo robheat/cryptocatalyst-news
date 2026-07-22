@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai",
+  "title": "Lightning Labs Launches Wavelength: “Bitcoin on Easy Mode” for Developers and Autonomous Agents",
+  "summary": "Lightning Labs has launched Wavelength, a tool that makes it easier for developers and AI agents to use Bitcoin. It allows machines to make tiny payments while users keep full control of their keys. The service is now available on Signet and testnet, with mainnet access by invitation only.",
+  "body": "Lightning Labs, a prominent Bitcoin development company, has launched Wavelength, a new tool designed to simplify Bitcoin transactions for developers and autonomous agents. Described as \"Bitcoin on easy mode,\" Wavelength is now available on Signet and testnet, with mainnet access limited to invited users. The tool provides an API that allows AI agents to make payments in fractions of a cent, all while users retain full control of their private keys.\n\nWavelength uses the Model Context Protocol to expose its API to AI agents, enabling seamless machine-to-machine payments. This innovation aims to make Bitcoin more accessible for developers and AI applications, which often require small, frequent transactions. The tool is currently in its early stages, with mainnet access restricted to ensure stability and security.\n\nThis development is significant for everyday users because it could lead to more innovative applications that use Bitcoin for microtransactions. For example, AI-driven services could automatically pay for small tasks or data transfers, making Bitcoin more useful in everyday scenarios. As Wavelength becomes more widely available, we can expect to see more integration of Bitcoin into various digital services.\n\nFor those interested in trying out Wavelength, the tool is currently available on Signet and testnet. Developers and AI enthusiasts can apply for mainnet access through Lightning Labs' invitation process. Keep an eye on updates from Lightning Labs for more information on how to get involved.",
+  "sourceUrl": "https://bitcoinmagazine.com/technical/lightning-labs-launches-wavelength-bitcoin-on-easy-mode-for-developers-and-autonomous-agents",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "lightning-network",
+    "developers",
+    "ai",
+    "microtransactions"
+  ],
+  "publishedAt": "2026-07-22T21:10:06.301476+00:00",
+  "imageUrl": "/images/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai.webp",
+  "twitterThread": [
+    "Lightning Labs just launched Wavelength, described as 'Bitcoin on easy mode' for developers and AI. Machines can now pay machines in fractions of a cent! 💡",
+    "Wavelength uses the Model Context Protocol to let AI agents make tiny Bitcoin payments while users keep full control of their keys. It's live on Signet and testnet, with mainnet access by invite only. 🔑",
+    "Developers and AI enthusiasts can try Wavelength on Signet and testnet. Apply for mainnet access through Lightning Labs. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai"
+  ],
+  "standaloneTweet": "Lightning Labs' new Wavelength tool lets AI agents make tiny Bitcoin payments in fractions of a cent, all while users keep full control of their keys. Described as 'Bitcoin on easy mode.' 💡",
+  "seoTitle": "Lightning Labs Launches Wavelength: Bitcoin on Easy Mode for Developer",
+  "metaDescription": "Lightning Labs launches Wavelength, a tool described as 'Bitcoin on easy mode' for developers and AI agents. Machines can pay machines in fractions of a cent while users retain ful",
+  "llmSummary": "Lightning Labs has launched Wavelength, a tool described as 'Bitcoin on easy mode' for developers and autonomous agents. It exposes an API via the Model Context Protocol, enabling AI agents to make microtransactions in fractions of a cent while users retain full control of their private keys. Wavelength is available immediately on Signet and testnet, with mainnet access by invitation only.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Lightning Labs Launches Wavelength: “Bitcoin on Easy Mode” for Developers and Autonomous Agents",
+    "description": "Lightning Labs has launched Wavelength, a tool described as 'Bitcoin on easy mode' for developers and AI agents. Machines can pay machines in fractions of a cent while users retain full key control. Available on Signet and testnet, mainnet by invitation.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai",
+    "datePublished": "2026-07-22T21:10:06.301476+00:00",
+    "dateModified": "2026-07-22T21:10:06.301476+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst News"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst News"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "bitcoin",
+      "lightning-network",
+      "developers",
+      "ai",
+      "microtransactions"
+    ]
+  }
+}

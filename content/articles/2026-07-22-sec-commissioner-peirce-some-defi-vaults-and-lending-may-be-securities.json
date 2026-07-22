@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-22-sec-commissioner-peirce-some-defi-vaults-and-lending-may-be-securities",
+  "title": "SEC Commissioner Peirce: Some DeFi Vaults and Lending May Be Securities",
+  "summary": "SEC Commissioner Hester Peirce warned that certain decentralized finance (DeFi) vaults and onchain lending strategies could fall under securities laws. The classification depends on how these financial products are structured and marketed, she said.",
+  "body": "SEC Commissioner Hester Peirce, known as 'Crypto Mom' for her pro-crypto stance, issued a warning that some DeFi vaults and onchain lending strategies might be considered securities. She emphasized that the determination hinges on the structure and marketing of these financial products, which could resemble investment funds or advisory services.\n\nPeirce's comments come at a time when regulators are increasingly scrutinizing DeFi platforms. She noted that if these products are marketed as offering returns based on the efforts of others, they could fall under the purview of securities laws. This could potentially impact how DeFi projects operate and how users interact with these platforms.\n\nFor everyday users, this means that some DeFi products they currently use might face regulatory changes or even be shut down if they are deemed to be securities. Users should be aware of the potential risks and keep an eye on regulatory developments that could affect their investments.\n\nPeirce's warning also highlights the need for DeFi projects to be transparent about their operations and marketing strategies. As regulators continue to focus on the crypto space, users and developers alike should stay informed about the evolving legal landscape to avoid potential legal pitfalls.\n\nMoving forward, users should watch for any official statements or guidance from the SEC regarding DeFi products. If new regulations are proposed, it could significantly impact the availability and operation of certain DeFi services. Staying informed and adapting to regulatory changes will be crucial for all participants in the DeFi ecosystem.",
+  "sourceUrl": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "defi",
+    "sec",
+    "regulation",
+    "onchain",
+    "lending",
+    "securities"
+  ],
+  "publishedAt": "2026-07-22T21:11:04.197355+00:00",
+  "imageUrl": "/images/articles/2026-07-22-sec-commissioner-peirce-some-defi-vaults-and-lending-may-be-securities.webp",
+  "twitterThread": [
+    "SEC's Hester Peirce warns: Some DeFi vaults and lending strategies could be classified as securities. What does this mean for users?",
+    "Peirce says it depends on how these products are structured and marketed. If they promise returns based on others' efforts, they might fall under securities laws.",
+    "If you use DeFi vaults or lending platforms, stay updated on SEC guidance. Some services might change or shut down. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-sec-commissioner-peirce-some-defi-vaults-and-lending-may-be-securities"
+  ],
+  "standaloneTweet": "SEC warns: Some DeFi vaults and lending products could be classified as securities. If you use these, watch for regulatory changes that might affect your access or operations.",
+  "seoTitle": "SEC Commissioner Peirce: Some DeFi Vaults and Lending May Be Securitie",
+  "metaDescription": "SEC Commissioner Hester Peirce warned that certain decentralized finance (DeFi) vaults and onchain lending strategies could fall under securities laws. The classification depends o",
+  "llmSummary": "SEC Commissioner Hester Peirce warned that certain decentralized finance (DeFi) vaults and onchain lending strategies could fall under securities laws. The classification depends on how these financial products are structured and marketed, she said.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "SEC Commissioner Peirce: Some DeFi Vaults and Lending May Be Securities",
+    "description": "SEC Commissioner Hester Peirce warned that certain decentralized finance (DeFi) vaults and onchain lending strategies could fall under securities laws. The classification depends on how these financial products are structured and marketed, she said.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-sec-commissioner-peirce-some-defi-vaults-and-lending-may-be-securities",
+    "datePublished": "2026-07-22T21:11:04.197355+00:00",
+    "dateModified": "2026-07-22T21:11:04.197355+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-sec-commissioner-peirce-some-defi-vaults-and-lending-may-be-securities"
+    },
+    "image": "",
+    "articleSection": "general",
+    "keywords": "defi, sec, regulation, onchain, lending, securities"
+  }
+}

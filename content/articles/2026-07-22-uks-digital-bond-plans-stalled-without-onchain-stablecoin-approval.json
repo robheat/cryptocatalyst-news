@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-22-uks-digital-bond-plans-stalled-without-onchain-stablecoin-approval",
+  "title": "UK Digital Bond Plans Hinge on One Missing Piece: Onchain Cash",
+  "summary": "Britain's pilot for digital government bonds could unlock trapped liquidity in financial markets, but experts say regulators must first approve an onchain stablecoin to serve as digital cash for settlement.",
+  "body": "The UK's plans to launch a digital government bond, or 'digital gilt,' are on hold until regulators approve an onchain stablecoin, according to experts cited by CoinDesk. This stablecoin would serve as a digital form of cash, allowing investors to trade bonds directly on the blockchain. The pilot aims to unlock trapped liquidity in financial markets, but without this crucial component, the project cannot move forward.\n\nExperts emphasize that the success of the digital gilt pilot hinges on the approval of a regulated stablecoin that operates on the blockchain. This stablecoin would need to be backed by traditional assets, such as government bonds or cash, to ensure stability and trust. The UK Treasury and the Bank of England have been exploring this option, but regulatory hurdles remain a significant obstacle.\n\nFor everyday investors, this development could mean easier and more efficient access to government bonds. Digital bonds could reduce transaction costs and settlement times, making it simpler for individuals to invest in these traditionally complex financial instruments. However, until regulators give the green light, the project remains in limbo.\n\nThe timeline for regulatory approval is uncertain, but the UK government has indicated that it is working closely with financial regulators to address concerns. Investors and financial institutions are watching closely, as the outcome could set a precedent for other countries exploring digital bond markets. For now, the focus is on securing regulatory approval for the onchain stablecoin, which experts describe as the missing piece of the puzzle.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "uk",
+    "digital-bonds",
+    "stablecoin",
+    "regulation",
+    "blockchain"
+  ],
+  "publishedAt": "2026-07-22T21:14:41.983762+00:00",
+  "imageUrl": "/images/articles/2026-07-22-uks-digital-bond-plans-stalled-without-onchain-stablecoin-approval.webp",
+  "twitterThread": [
+    "The UK's digital bond plans are stuck waiting for one thing: a regulated onchain stablecoin. Without it, billions in liquidity stay trapped, say experts.",
+    "A digital gilt pilot could make government bonds more accessible, but regulators must first approve a stablecoin that operates on the blockchain. This would act as digital cash for bond trades.",
+    "If approved, this could revolutionize bond markets. Watch for regulatory updates—this is a game-changer. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-uks-digital-bond-plans-stalled-without-onchain-stablecoin-approval"
+  ],
+  "standaloneTweet": "The UK's digital bond plans could make investing in government bonds easier and cheaper, but regulators must first approve an onchain stablecoin. Experts say this is the missing piece.",
+  "seoTitle": "UK Digital Bond Plans Hinge on Onchain Cash Approval",
+  "metaDescription": "Britain's digital gilt pilot can unlock trapped liquidity in financial markets only if regulators approve an onchain stablecoin, experts say. The missing piece explained.",
+  "llmSummary": "The UK's digital gilt pilot, aimed at unlocking trapped liquidity in financial markets, cannot proceed without regulatory approval of an onchain stablecoin to serve as digital cash for settlement. Experts say the stablecoin must be backed by traditional assets like government bonds or cash. The UK Treasury and Bank of England are exploring the option, but regulatory hurdles remain. The outcome could set a precedent for other countries exploring digital bond markets.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "UK Digital Bond Plans Hinge on One Missing Piece: Onchain Cash",
+    "description": "Britain's digital gilt pilot can unlock trapped liquidity in financial markets only if regulators approve an onchain stablecoin, experts say.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-uks-digital-bond-plans-stalled-without-onchain-stablecoin-approval",
+    "datePublished": "2026-07-22T21:14:41.983762+00:00",
+    "dateModified": "2026-07-22T21:14:41.983762+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-uks-digital-bond-plans-stalled-without-onchain-stablecoin-approval"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "uk",
+      "digital-bonds",
+      "stablecoin",
+      "regulation",
+      "blockchain"
+    ]
+  }
+}

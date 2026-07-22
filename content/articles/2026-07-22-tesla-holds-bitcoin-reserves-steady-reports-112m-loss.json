@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-22-tesla-holds-bitcoin-reserves-steady-reports-112m-loss",
+  "title": "Tesla Holds Bitcoin Reserves Steady, Reports $112M Impairment Loss",
+  "summary": "Tesla maintained its 11,509 BTC holdings through Q2 2026 despite a 14% decline in bitcoin's price. The company reported a $112 million impairment loss on its bitcoin investment alongside mixed earnings that beat revenue expectations but missed on profit.",
+  "body": "Tesla held its bitcoin treasury steady at 11,509 BTC through the second quarter of 2026, even as the cryptocurrency's price declined by 14%. The electric vehicle maker's latest earnings report showed mixed results: revenue of $22.4 billion beat analyst expectations, but net income of $1.8 billion fell short of profit estimates.\n\nThe company recorded a $112 million impairment loss on its bitcoin holdings, reflecting the drop in bitcoin's market value during the quarter. This impairment charge highlights the volatility risk associated with corporate bitcoin treasuries, though Tesla chose not to sell any of its position.\n\nFor investors, Tesla's decision to hold its bitcoin steady despite the price decline could signal confidence in the asset's long-term prospects. However, the impairment loss serves as a reminder of the financial risks companies face when holding significant crypto assets on their balance sheets. Under current accounting rules, companies must recognize impairment losses when crypto prices fall but cannot mark holdings back up until they are sold.\n\nLooking ahead, Tesla's bitcoin strategy will remain a point of focus. Further price declines could lead to additional impairment charges, while a recovery in bitcoin's value would only be recognized upon sale. The next earnings report will provide updates on both Tesla's financial performance and any changes to its digital asset holdings.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "tesla",
+    "bitcoin",
+    "impairment",
+    "earnings",
+    "investment"
+  ],
+  "publishedAt": "2026-07-22T21:13:40.431528+00:00",
+  "imageUrl": "/images/articles/2026-07-22-tesla-holds-bitcoin-reserves-steady-reports-112m-loss.webp",
+  "twitterThread": [
+    "Tesla held its 11,509 BTC steady through Q2 despite a 14% drop in bitcoin's price, reporting a $112M impairment loss. The company beat revenue expectations at $22.4B but missed on profit at $1.8B.",
+    "The $112M impairment loss highlights the risks of crypto volatility for corporate treasuries. Under current accounting rules, Tesla can only recognize gains upon sale, not on price recovery.",
+    "Will Tesla double down on bitcoin or cut its losses? Keep an eye on their next earnings report for updates. Read more → https://www.cryptocatalyst.news/articles/2026-07-22-tesla-holds-bitcoin-reserves-steady-reports-112m-loss"
+  ],
+  "standaloneTweet": "Tesla held its 11,509 BTC steady through Q2 despite a 14% drop in bitcoin's price, reporting a $112M impairment loss. Revenue beat at $22.4B but profit missed at $1.8B. What does this mean for corporate crypto strategies?",
+  "seoTitle": "Tesla Holds Bitcoin Steady, Reports $112M Impairment Loss in Q2 2026",
+  "metaDescription": "Tesla maintained 11,509 BTC through Q2 2026 despite a 14% bitcoin price drop, reporting a $112M impairment loss. Revenue beat expectations at $22.4B but profit missed at $1.8B.",
+  "llmSummary": "Tesla held its bitcoin treasury steady at 11,509 BTC through Q2 2026 despite a 14% decline in bitcoin's price. The company reported a $112 million impairment loss on its bitcoin holdings alongside mixed earnings: revenue of $22.4 billion beat expectations but net income of $1.8 billion missed profit estimates. Tesla did not sell any bitcoin during the quarter.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Tesla Holds Bitcoin Reserves Steady, Reports $112M Impairment Loss",
+    "description": "Tesla maintained its 11,509 BTC holdings through Q2 2026 despite a 14% decline in bitcoin's price. The company reported a $112 million impairment loss on its bitcoin investment alongside mixed earnings that beat revenue expectations but missed on profit.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-tesla-holds-bitcoin-reserves-steady-reports-112m-loss",
+    "datePublished": "2026-07-22T21:13:40.431528+00:00",
+    "dateModified": "2026-07-22T21:13:40.431528+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-tesla-holds-bitcoin-reserves-steady-reports-112m-loss"
+    },
+    "image": null,
+    "articleSection": "Markets",
+    "keywords": [
+      "tesla",
+      "bitcoin",
+      "impairment",
+      "earnings",
+      "investment",
+      "crypto",
+      "Q2 2026"
+    ]
+  }
+}

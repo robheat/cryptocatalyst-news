@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-22-bitgo-and-otc-markets-partner-to-bring-tokenized-securities-to-broker-dealers",
+  "title": "BitGo and OTC Markets Partner to Bring Tokenized Securities to Broker-Dealers",
+  "summary": "BitGo and OTC Markets are teaming up to let over 150 broker-dealers trade and settle digital asset securities using BitGo's custody services. This alliance aims to make tokenized securities more accessible to traditional financial firms.",
+  "body": "BitGo, a leading digital asset custody provider, and OTC Markets, a platform for trading over-the-counter securities, have announced a partnership to enable broker-dealers to trade and settle tokenized securities. The collaboration will leverage BitGo's custody infrastructure and OTC Link ATS, a regulated alternative trading system, to facilitate these transactions.\n\nThe alliance will initially support more than 150 broker-dealers, providing them with access to digital asset securities. This move is expected to bridge the gap between traditional financial markets and the growing world of tokenized assets, making it easier for firms to participate in this emerging market.\n\nFor everyday investors, this partnership could mean greater access to tokenized securities through their existing brokerage accounts. As more broker-dealers adopt this technology, investors may see a wider range of digital asset options available to them, potentially offering new investment opportunities and diversifications.\n\nTo stay updated on this development, investors should watch for announcements from their broker-dealers regarding the availability of tokenized securities. This partnership is a significant step towards integrating digital assets into traditional financial markets, and its success could pave the way for broader adoption in the future.",
+  "sourceUrl": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "sourceName": "CoinTelegraph",
+  "category": "general",
+  "tags": [
+    "tokenized",
+    "securities",
+    "broker-dealers",
+    "bitgo",
+    "otc",
+    "markets"
+  ],
+  "publishedAt": "2026-07-22T21:16:49.043985+00:00",
+  "imageUrl": "/images/articles/2026-07-22-bitgo-and-otc-markets-partner-to-bring-tokenized-securities-to-broker-dealers.webp",
+  "twitterThread": [
+    "BitGo and OTC Markets are partnering to bring tokenized securities to over 150 broker-dealers. This could open new investment doors for everyday investors.",
+    "The alliance will use BitGo's custody services and OTC Link ATS to trade and settle digital asset securities, bridging traditional finance and crypto.",
+    "If your broker-dealer joins, you might soon access tokenized securities through your existing account. Watch for updates → https://www.cryptocatalyst.news/articles/2026-07-22-bitgo-and-otc-markets-partner-to-bring-tokenized-securities-to-broker-dealers"
+  ],
+  "standaloneTweet": "BitGo and OTC Markets are teaming up to let broker-dealers trade tokenized securities, potentially bringing more crypto options to your investment account.",
+  "seoTitle": "BitGo, OTC Markets Partner for Tokenized Securities Access",
+  "metaDescription": "BitGo and OTC Markets plan to enable over 150 broker-dealers to trade and settle tokenized securities via OTC Link ATS and BitGo custody.",
+  "llmSummary": "BitGo and OTC Markets announced a partnership to allow over 150 broker-dealers to trade and settle tokenized digital asset securities using BitGo's custody infrastructure and OTC Link ATS, a regulated alternative trading system. The alliance aims to bridge traditional finance and tokenized assets, potentially giving everyday investors access to digital asset securities through their existing brokerage accounts.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BitGo and OTC Markets Partner to Bring Tokenized Securities to Broker-Dealers",
+    "description": "BitGo and OTC Markets are teaming up to let over 150 broker-dealers trade and settle digital asset securities using BitGo's custody services. This alliance aims to make tokenized securities more accessible to traditional financial firms.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-22-bitgo-and-otc-markets-partner-to-bring-tokenized-securities-to-broker-dealers",
+    "datePublished": "2026-07-22T21:16:49.043985+00:00",
+    "dateModified": "2026-07-22T21:16:49.043985+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-22-bitgo-and-otc-markets-partner-to-bring-tokenized-securities-to-broker-dealers"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "tokenized, securities, broker-dealers, bitgo, otc, markets"
+  }
+}
