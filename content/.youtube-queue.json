@@ -9786,6 +9786,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-20-vitalik-buterin-demonstrates-anonymous-billboard-with-onchain-moderation-on-azte_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions",
+      "title": "Bitcoin Lightning Network Surpasses 100 Million Transactions",
+      "category": "bitcoin",
+      "tags": [
+        "lightning",
+        "bitcoin",
+        "transactions",
+        "scalability",
+        "adoption"
+      ],
+      "articleSummary": "The Bitcoin Lightning Network has processed over 100 million transactions, highlighting its growing adoption. This milestone marks a significant step in making Bitcoin more scalable for everyday use.",
+      "articleBody": "The Bitcoin Lightning Network, a layer-two solution designed to enable faster and cheaper Bitcoin transactions, has reached a major milestone: over 100 million transactions processed. This network, which allows for near-instant payments and lower fees compared to the Bitcoin blockchain, has been gaining traction among users and businesses alike.\n\nAccording to data from various sources, the Lightning Network has seen significant growth in recent years. The network's capacity has also increased, with more nodes and channels being added regularly. This growth is driven by the increasing demand for scalable and efficient payment solutions on the Bitcoin network.\n\nFor everyday users, this milestone means that the Lightning Network is becoming a more reliable and accessible option for everyday transactions. Businesses are also starting to adopt the Lightning Network for payments, which could lead to more widespread use of Bitcoin in daily commerce. As the network continues to grow, users can expect even faster and cheaper transactions, making Bitcoin more viable for small, frequent payments.\n\nWhat to watch next: Keep an eye on the continued growth of the Lightning Network's capacity and the number of businesses that start accepting Bitcoin payments through this network. This could be a game-changer for Bitcoin's usability in everyday transactions. Read more → ARTICLE_URL",
+      "imageUrl": "/images/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions",
+      "script": {
+        "hook": "You can now send Bitcoin payments instantly and for pennies, thanks to the Lightning Network.",
+        "narration_lines": [
+          "The Lightning Network just hit 100 million transactions, making Bitcoin faster and cheaper to use.",
+          "This 'layer-two' solution sits on top of Bitcoin, handling tiny payments instantly.",
+          "Imagine tipping a content creator for just a few cents, without high fees or slow processing.",
+          "Businesses are jumping on board, accepting Bitcoin payments more easily than ever before.",
+          "With over 100 million transactions, the network is proving it can handle real-world use.",
+          "If you're curious, try sending a tiny Bitcoin amount using the Lightning Network today."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "b7994fe78656e0ad",
+      "scriptText": "You can now send Bitcoin payments instantly and for pennies, thanks to the Lightning Network. The Lightning Network just hit 100 million transactions, making Bitcoin faster and cheaper to use. This 'layer-two' solution sits on top of Bitcoin, handling tiny payments instantly. Imagine tipping a content creator for just a few cents, without high fees or slow processing. Businesses are jumping on board, accepting Bitcoin payments more easily than ever before. With over 100 million transactions, the network is proving it can handle real-world use. If you're curious, try sending a tiny Bitcoin amount using the Lightning Network today. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "-kvC58D-UcU",
+      "youtubeUrl": "https://youtube.com/watch?v=-kvC58D-UcU",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-22T16:19:20.083239+00:00",
+      "uploadedAt": "2026-07-22T16:27:10.134124+00:00",
+      "audioLineDurations": [
+        5.376,
+        6.357333333333333,
+        5.034666666666666,
+        5.824,
+        5.333333333333333,
+        5.632,
+        5.056,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-bitcoin-lightning-network-surpasses-100-million-transactions_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc",
+      "title": "U.S. Treasury Freezes $130M in Crypto Linked to Iran’s IRGC",
+      "category": "bitcoin",
+      "tags": [
+        "crypto",
+        "sanctions",
+        "treasury",
+        "iran",
+        "irgc",
+        "khamenei"
+      ],
+      "articleSummary": "The U.S. Treasury has frozen a $130 million crypto wallet tied to Iran’s IRGC. This is part of a broader effort to track and seize assets linked to Supreme Leader Ali Khamenei, increasing economic pressure on Tehran.",
+      "articleBody": "The U.S. Treasury has frozen a cryptocurrency wallet containing $130 million linked to Iran’s Islamic Revolutionary Guard Corps (IRGC). Treasury Secretary Scott Bessent announced the move as part of a larger campaign to track and seize assets connected to Iran’s Supreme Leader Ali Khamenei. \n\nThe frozen funds are part of a broader strategy to increase economic pressure on Tehran. The IRGC is a powerful military and political force in Iran, and the U.S. has long targeted its financial networks. This action underscores the growing use of cryptocurrency in global financial operations, including those of state actors. \n\nFor everyday people, this news highlights how cryptocurrency is increasingly being used in geopolitical strategies. It also shows that even large sums of crypto can be tracked and seized by authorities. This could have implications for how individuals and entities use crypto for transactions, especially in regions under economic sanctions. \n\nMoving forward, watch for further actions by the U.S. Treasury targeting crypto wallets linked to sanctioned entities. If you’re involved in crypto transactions, be aware of the potential risks and ensure compliance with international regulations. Read more → https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
+      "imageUrl": "/images/articles/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc",
+      "script": {
+        "hook": "Your crypto could be at risk if you're not careful—here's why.",
+        "narration_lines": [
+          "The U.S. Treasury just froze $130 million in cryptocurrency tied to Iran’s military.",
+          "This is part of a bigger push to track and seize assets linked to Iran’s leadership.",
+          "Cryptocurrency isn’t anonymous—governments can trace and freeze large transactions.",
+          "If you’re using crypto, make sure you know who you’re dealing with to avoid trouble.",
+          "The IRGC is a powerful group in Iran, and the U.S. is targeting its financial networks.",
+          "For everyday users, this means staying informed and compliant with regulations."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "8d70455ce5b715a8",
+      "scriptText": "Your crypto could be at risk if you're not careful—here's why. The U.S. Treasury just froze $130 million in cryptocurrency tied to Iran’s military. This is part of a bigger push to track and seize assets linked to Iran’s leadership. Cryptocurrency isn’t anonymous—governments can trace and freeze large transactions. If you’re using crypto, make sure you know who you’re dealing with to avoid trouble. The IRGC is a powerful group in Iran, and the U.S. is targeting its financial networks. For everyday users, this means staying informed and compliant with regulations. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "s1wJ49WRWRA",
+      "youtubeUrl": "https://youtube.com/watch?v=s1wJ49WRWRA",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-22T16:19:22.729696+00:00",
+      "uploadedAt": "2026-07-22T16:27:11.758614+00:00",
+      "audioLineDurations": [
+        3.328,
+        6.656,
+        4.736,
+        5.397333333333333,
+        3.9466666666666668,
+        5.674666666666667,
+        4.8,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_3.jpg"
+      ]
     }
   ]
 }
