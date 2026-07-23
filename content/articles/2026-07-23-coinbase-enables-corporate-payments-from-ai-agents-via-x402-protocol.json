@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-23-coinbase-enables-corporate-payments-from-ai-agents-via-x402-protocol",
+  "title": "Coinbase Enables Corporate Payments from AI Agents via x402 Protocol",
+  "summary": "Coinbase Business users can now accept payments from AI agents using the x402 protocol, which was developed and incubated by the exchange. This move aims to bridge the gap in the AI agent economy for businesses and developers.",
+  "body": "Coinbase is rolling out a new feature this week that allows its corporate customers to accept payments from AI agents. The payments are facilitated through the x402 protocol, which was developed and incubated by the exchange. This development is part of Coinbase's effort to integrate AI agents into the financial ecosystem, making it easier for businesses to transact with these digital entities.\n\nThe x402 protocol is designed to enable seamless interactions between AI agents and businesses. Coinbase Business users will now be able to receive payments from AI agents, which can be used for various services and transactions. This feature is expected to streamline operations for businesses that interact with AI agents, providing a more efficient and secure payment process.\n\nThis update is significant for everyday people because it highlights the growing role of AI in financial transactions. As AI agents become more prevalent, businesses that can accept payments from these entities will have a competitive edge. This feature could also lead to new opportunities for developers and businesses to create and offer services tailored for AI agents.\n\nFor those interested in leveraging this new capability, Coinbase Business users should watch for the official rollout this week. Developers and businesses looking to integrate AI agents into their operations can start exploring the x402 protocol to understand how it can benefit their workflows. Keep an eye on Coinbase's announcements for more details on how to implement this feature.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "coinbase",
+    "ai",
+    "payments",
+    "x402",
+    "business",
+    "finance"
+  ],
+  "publishedAt": "2026-07-23T21:16:28.814755+00:00",
+  "imageUrl": "/images/articles/2026-07-23-coinbase-enables-corporate-payments-from-ai-agents-via-x402-protocol.webp",
+  "twitterThread": [
+    "Coinbase Business users can now accept payments from AI agents using the x402 protocol, which was developed and incubated by Coinbase. This is a big step for the AI agent economy.",
+    "The x402 protocol enables seamless transactions between AI agents and businesses. This feature is rolling out this week to Coinbase Business customers.",
+    "Businesses and developers should watch for the official rollout and explore how the x402 protocol can streamline their operations. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-coinbase-enables-corporate-payments-from-ai-agents-via-x402-protocol"
+  ],
+  "standaloneTweet": "Coinbase Business users can now accept payments from AI agents, bridging the gap in the AI agent economy. This feature uses the x402 protocol, developed and incubated by Coinbase.",
+  "seoTitle": "Coinbase Business Now Accepts Payments from AI Agents via x402",
+  "metaDescription": "Coinbase Business users can now accept payments from AI agents using the x402 protocol, developed and incubated by the exchange. Learn how this bridges the AI agent economy.",
+  "llmSummary": "Coinbase Business users can now accept payments from AI agents using the x402 protocol, which was developed and incubated by the exchange. The feature rolls out this week and is designed to bridge the gap in the AI agent economy for businesses and developers, enabling seamless and secure transactions between AI agents and corporate accounts.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Coinbase Enables Corporate Payments from AI Agents via x402 Protocol",
+    "description": "Coinbase Business users can now accept payments from AI agents using the x402 protocol, which was developed and incubated by the exchange. This move aims to bridge the gap in the AI agent economy for businesses and developers.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-coinbase-enables-corporate-payments-from-ai-agents-via-x402-protocol",
+    "datePublished": "2026-07-23T21:16:28.814755+00:00",
+    "dateModified": "2026-07-23T21:16:28.814755+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-coinbase-enables-corporate-payments-from-ai-agents-via-x402-protocol"
+    },
+    "image": "",
+    "articleSection": "general",
+    "keywords": [
+      "coinbase",
+      "ai",
+      "payments",
+      "x402",
+      "business",
+      "finance"
+    ]
+  }
+}

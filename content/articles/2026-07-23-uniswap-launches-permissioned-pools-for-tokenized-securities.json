@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-23-uniswap-launches-permissioned-pools-for-tokenized-securities",
+  "title": "Uniswap Pushes Deeper Into Tokenized Assets With Permissioned Trading Pools",
+  "summary": "Uniswap has introduced a new framework, developed with Superstate, Securitize, and Dowgo, that allows regulated funds and securities to trade on its platform while enforcing compliance rules necessary for institutional investors.",
+  "body": "Uniswap, the popular decentralized exchange, has expanded its offerings to include permissioned trading pools for tokenized securities. This new framework, developed in collaboration with Superstate, Securitize, and Dowgo, enables regulated funds and securities to trade on Uniswap while adhering to compliance rules necessary for institutional investors.\n\nThe permissioned pools will allow institutions to trade tokenized assets on Uniswap's platform without compromising regulatory compliance. This initiative is part of Uniswap's broader strategy to attract more institutional investors to its decentralized exchange. The framework ensures that only authorized participants can trade, thereby maintaining the necessary regulatory standards.\n\nThis development is significant for bridging the gap between traditional financial markets and decentralized finance (DeFi). By enabling the trading of tokenized securities on a decentralized platform, Uniswap is making it easier for institutions to participate in the crypto market while adhering to regulatory requirements. This could lead to increased liquidity and more diverse investment opportunities in the DeFi space.\n\nFor those interested in institutional-grade trading on Uniswap, this is a development to watch closely. The permissioned pools are expected to roll out in phases, with initial partners likely to include major financial institutions. Investors should keep an eye on announcements from Uniswap and its partners for updates on when and how these pools will be available.\n\nRead more → https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "uniswap",
+    "tokenized-assets",
+    "decentralized-finance",
+    "institutional-investors",
+    "compliance"
+  ],
+  "publishedAt": "2026-07-23T21:17:57.116720+00:00",
+  "imageUrl": "/images/articles/2026-07-23-uniswap-launches-permissioned-pools-for-tokenized-securities.webp",
+  "twitterThread": [
+    "Uniswap just launched permissioned pools for tokenized securities, opening the door for institutional investors. This could bring more liquidity to DeFi.",
+    "The new framework, developed with Superstate, Securitize, and Dowgo, ensures compliance rules are enforced while allowing regulated funds to trade on Uniswap.",
+    "This is a big step for bridging traditional finance and DeFi. Watch for announcements on when these pools will be available. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-uniswap-launches-permissioned-pools-for-tokenized-securities"
+  ],
+  "standaloneTweet": "Uniswap's new permissioned pools for tokenized securities could bring institutional investors to DeFi, increasing liquidity and opportunities for all.",
+  "seoTitle": "Uniswap Launches Permissioned Trading Pools for Tokenized Securities",
+  "metaDescription": "Uniswap, with Superstate, Securitize, and Dowgo, launches permissioned pools for tokenized securities, enabling regulated funds to trade on the DEX while enforcing compliance rules",
+  "llmSummary": "Uniswap has introduced a new permissioned trading pool framework developed with Superstate, Securitize, and Dowgo that allows regulated funds and securities to trade on the decentralized exchange while enforcing compliance rules. The initiative aims to attract institutional investors by bridging traditional finance and DeFi, potentially increasing liquidity and investment opportunities.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Uniswap Pushes Deeper Into Tokenized Assets With Permissioned Trading Pools",
+    "description": "Uniswap, with Superstate, Securitize, and Dowgo, launches permissioned pools for tokenized securities, enabling regulated funds to trade on the DEX while enforcing compliance rules for institutions.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-uniswap-launches-permissioned-pools-for-tokenized-securities",
+    "datePublished": "2026-07-23T21:17:57.116720+00:00",
+    "dateModified": "2026-07-23T21:17:57.116720+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-uniswap-launches-permissioned-pools-for-tokenized-securities"
+    },
+    "image": null,
+    "articleSection": "DeFi",
+    "keywords": [
+      "uniswap",
+      "tokenized-assets",
+      "decentralized-finance",
+      "institutional-investors",
+      "compliance"
+    ]
+  }
+}

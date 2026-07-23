@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-23-blackrock-coinbase-lead-15m-push-to-quantum-proof-bitcoin",
+  "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+  "summary": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
+  "body": "Nine of the biggest names in Bitcoin, including BlackRock, Coinbase, and Strategy, have formed a consortium to fund the development of quantum-resistant security measures for the Bitcoin network. The group has pledged $15 million to support developers working on this critical initiative. This move comes as quantum computing technology advances, posing potential threats to the security of cryptographic systems, including Bitcoin.\n\nThe consortium aims to ensure that Bitcoin remains secure against future quantum attacks by funding research and development in quantum-resistant cryptography. This includes exploring post-quantum cryptographic algorithms that can withstand the computational power of quantum computers. The initiative highlights the growing recognition among institutional players of the need to proactively address emerging technological threats to the Bitcoin network.\n\nFor everyday Bitcoin users, this development means increased confidence in the long-term security of their investments. As quantum computing becomes more powerful, the risk of traditional cryptographic methods being compromised grows. By investing in quantum-resistant solutions, the consortium is working to ensure that Bitcoin remains a secure and reliable store of value. This initiative also underscores the importance of continued innovation and collaboration within the Bitcoin ecosystem to address evolving challenges.\n\nThe consortium's efforts are particularly timely, as quantum computing research progresses rapidly. While the timeline for practical quantum attacks remains uncertain, proactive measures are essential to safeguard the network. Users and investors should stay informed about developments in quantum-resistant technologies and consider the long-term implications for their cryptocurrency holdings. The consortium's commitment to funding this research is a significant step toward ensuring the future security of Bitcoin.",
+  "sourceUrl": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "quantum",
+    "security",
+    "blackrock",
+    "coinbase",
+    "crypto"
+  ],
+  "publishedAt": "2026-07-23T21:09:05.851443+00:00",
+  "imageUrl": "/images/articles/2026-07-23-blackrock-coinbase-lead-15m-push-to-quantum-proof-bitcoin.webp",
+  "twitterThread": [
+    "Big names in Bitcoin just pledged $15M to quantum-proof the network. BlackRock, Coinbase, and Strategy are leading the charge to secure Bitcoin against future quantum threats.",
+    "Quantum computers could one day crack traditional crypto. This consortium is funding research to develop quantum-resistant algorithms, ensuring Bitcoin's long-term security.",
+    "For Bitcoin users, this means increased confidence in the network's future. Stay updated on quantum-resistant tech—it's a game-changer. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-blackrock-coinbase-lead-15m-push-to-quantum-proof-bitcoin"
+  ],
+  "standaloneTweet": "BlackRock, Coinbase, and Strategy just pledged $15M to quantum-proof Bitcoin. This move ensures your Bitcoin stays secure against future quantum threats. Stay informed!",
+  "seoTitle": "BlackRock, Coinbase, Strategy Pledge $15M to Quantum-Proof Bitcoin",
+  "metaDescription": "Nine major Bitcoin players, including BlackRock, Coinbase, and Strategy, formed a consortium pledging $15 million to fund developers working on quantum-resistant security for the B",
+  "llmSummary": "A consortium of nine major Bitcoin institutional players, including BlackRock, Coinbase, and Strategy, has pledged $15 million to fund developers working on quantum-resistant security for the Bitcoin network. The initiative aims to future-proof Bitcoin against potential threats from advanced quantum computing by researching and implementing post-quantum cryptographic algorithms.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+    "description": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-blackrock-coinbase-lead-15m-push-to-quantum-proof-bitcoin",
+    "datePublished": "2026-07-23T21:09:05.851443+00:00",
+    "dateModified": "2026-07-23T21:09:05.851443+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-blackrock-coinbase-lead-15m-push-to-quantum-proof-bitcoin"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "bitcoin, quantum, security, blackrock, coinbase, crypto"
+  }
+}
