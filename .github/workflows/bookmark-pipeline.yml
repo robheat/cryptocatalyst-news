@@ -63,10 +63,12 @@ jobs:
           git config user.email "bot@cryptocatalyst.news"
           git add content/articles/ public/images/articles/
           git add content/.tweeted.json 2>/dev/null || true
+          NEW_SLUGS=$(git diff --cached --name-only --diff-filter=A -- content/articles/ | sed -E 's#.*/([^/]+)\.json$#\1#')
           if ! git diff --cached --quiet; then
             git commit -m "📌 Bookmark articles: $(date -u +%Y-%m-%d)"
             git pull --rebase origin master
             git push origin master
+            echo "$NEW_SLUGS" | python pipeline/notify_indexnow.py
           fi
 
       - name: Post to Twitter/X
