@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-23-bitmex-pioneer-of-crypto-perpetual-swaps-shuts-down",
+  "title": "BitMEX, Pioneer of Crypto Perpetual Swaps, Shuts Down",
+  "summary": "BitMEX, the exchange that introduced 100x leverage perpetual swaps, is closing by September 23. The platform's shutdown marks the end of an era in crypto derivatives trading.",
+  "body": "BitMEX, a trailblazer in the crypto derivatives market, is shutting down by September 23, 2026. Co-founded by Arthur Hayes in 2014, BitMEX revolutionized trading with its introduction of 100x leverage perpetual swaps, a product that redefined the global crypto market.\n\nThe exchange notified users of its impending closure, citing operational and regulatory challenges. BitMEX's perpetual swaps, which allow traders to bet on cryptocurrency price movements without expiry dates, became a staple in the crypto trading ecosystem. The platform's high leverage offerings attracted both seasoned traders and speculators, contributing significantly to the market's volatility and liquidity.\n\nFor everyday traders, BitMEX's shutdown means the loss of a major platform for high-leverage trading. Many users will need to migrate to other exchanges like Binance, Bybit, or OKX, which offer similar perpetual swap products. The closure also highlights the regulatory pressures facing crypto exchanges, particularly those dealing in derivatives.\n\nTraders currently using BitMEX should start withdrawing their funds and exploring alternative platforms immediately. It's crucial to familiarize yourself with the new exchange's interface, fee structures, and leverage limits to ensure a smooth transition. Keep an eye on announcements from other major exchanges for any special promotions or incentives for new users.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitmex",
+    "shutdown",
+    "crypto-derivatives",
+    "perpetual-swaps",
+    "trading",
+    "crypto-exchange"
+  ],
+  "publishedAt": "2026-07-23T13:09:52.850682+00:00",
+  "imageUrl": "/images/articles/2026-07-23-bitmex-pioneer-of-crypto-perpetual-swaps-shuts-down.webp",
+  "twitterThread": [
+    "BitMEX, the exchange that pioneered 100x leverage perpetual swaps, is shutting down by September 23. A major shift in the crypto derivatives market.",
+    "Founded in 2014, BitMEX was a game-changer with its high-leverage products. Its closure highlights the regulatory challenges facing crypto exchanges.",
+    "If you're a BitMEX user, start withdrawing funds and explore alternatives like Binance or Bybit. Transition now to avoid last-minute rush. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-bitmex-pioneer-of-crypto-perpetual-swaps-shuts-down"
+  ],
+  "standaloneTweet": "BitMEX, the exchange that introduced 100x leverage perpetual swaps, is shutting down by September 23. Time to explore alternatives if you're a trader.",
+  "seoTitle": "BitMEX Shuts Down: End of an Era for Crypto Perpetual Swaps",
+  "metaDescription": "BitMEX, the exchange that pioneered 100x leverage perpetual swaps, is shutting down by September 23, 2026. Learn what this means for traders and the crypto derivatives market.",
+  "llmSummary": "BitMEX, co-founded by Arthur Hayes in 2014 and known for inventing the 100x leverage perpetual swap, is shutting down by September 23, 2026. The exchange cited operational and regulatory challenges. Users must withdraw funds and migrate to alternatives like Binance, Bybit, or OKX.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BitMEX, Pioneer of Crypto Perpetual Swaps, Shuts Down",
+    "description": "BitMEX, the exchange that introduced 100x leverage perpetual swaps, is closing by September 23. The platform's shutdown marks the end of an era in crypto derivatives trading.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-bitmex-pioneer-of-crypto-perpetual-swaps-shuts-down",
+    "datePublished": "2026-07-23T13:09:52.850682+00:00",
+    "dateModified": "2026-07-23T13:09:52.850682+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-bitmex-pioneer-of-crypto-perpetual-swaps-shuts-down"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "bitmex, shutdown, crypto-derivatives, perpetual-swaps, trading, crypto-exchange"
+  }
+}

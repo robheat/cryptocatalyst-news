@@ -1,0 +1,51 @@
+{
+  "slug": "2026-07-23-arbitrum-perp-dex-afx-trade-hacked-for-24m-offers-30-bounty",
+  "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
+  "summary": "A hacker drained $24 million from the Arbitrum-based perpetual DEX AFX Trade, exploiting a custody bridge. The platform is offering the hacker 30% of the funds to return them.",
+  "body": "A significant exploit has hit the Arbitrum-based perpetual decentralized exchange (DEX) AFX Trade, resulting in a loss of $24 million. The hack targeted a custody bridge operated by AFX rather than the Arbitrum network itself, and the stolen funds were quickly moved to Ethereum.\n\nThe stolen funds were transferred to Ethereum shortly after the exploit, indicating the hacker's swift action. AFX Trade has responded by offering the hacker a 30% bounty to return the remaining 70% of the stolen funds, a common tactic in the crypto space to recover assets without legal complications.\n\nThis incident highlights the ongoing risks associated with decentralized finance (DeFi) platforms, particularly those involving complex bridges and custody solutions. For everyday users, it serves as a reminder to exercise caution and conduct thorough research before engaging with lesser-known DeFi platforms.\n\nUsers of AFX Trade and other DeFi platforms should monitor official announcements for updates on the recovery process. If the bounty offer is accepted, it could set a precedent for future hacks and recovery efforts in the crypto space. Stay informed and vigilant.",
+  "sourceUrl": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
+  "sourceName": "Decrypt",
+  "category": "general",
+  "tags": [
+    "hack",
+    "defi",
+    "arbitrum",
+    "afx trade",
+    "crypto security"
+  ],
+  "publishedAt": "2026-07-23T13:07:22.849980+00:00",
+  "imageUrl": "/images/articles/2026-07-23-arbitrum-perp-dex-afx-trade-hacked-for-24m-offers-30-bounty.webp",
+  "twitterThread": [
+    "A hacker just drained $24M from Arbitrum-based perp DEX AFX Trade. The exploit hit a custody bridge, not the Arbitrum network itself, and funds were quickly moved to Ethereum.",
+    "AFX is offering the hacker 30% of the stolen funds to return the remaining 70%. This tactic is sometimes used to recover assets without legal battles.",
+    "Stay cautious with DeFi platforms and watch for updates on AFX's recovery efforts. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-arbitrum-perp-dex-afx-trade-hacked-for-24m-offers-30-bounty"
+  ],
+  "standaloneTweet": "A $24M hack hit Arbitrum-based perp DEX AFX Trade via a custody bridge. The platform is offering the hacker 30% to return the funds. Stay cautious with DeFi.",
+  "seoTitle": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Retu",
+  "metaDescription": "A hacker drained $24 million from the Arbitrum-based perpetual DEX AFX Trade by exploiting a custody bridge. The platform is offering the hacker 30% of the funds to return them.",
+  "llmSummary": "A hacker drained $24 million from the Arbitrum-based perpetual DEX AFX Trade by exploiting a custody bridge, not the Arbitrum network itself. The stolen funds were quickly moved to Ethereum. AFX Trade has offered the hacker a 30% bounty to return the remaining 70% of the funds.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
+    "description": "A hacker drained $24 million from the Arbitrum-based perpetual DEX AFX Trade by exploiting a custody bridge. The platform is offering the hacker 30% of the funds to return them.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-arbitrum-perp-dex-afx-trade-hacked-for-24m-offers-30-bounty",
+    "datePublished": "2026-07-23T13:07:22.849980+00:00",
+    "dateModified": "2026-07-23T13:07:22.849980+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-arbitrum-perp-dex-afx-trade-hacked-for-24m-offers-30-bounty"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "hack, defi, arbitrum, afx trade, crypto security"
+  }
+}

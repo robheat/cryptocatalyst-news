@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-23-layerzero-and-keeta-enable-cross-chain-bank-deposit-tokens",
+  "title": "LayerZero and Keeta Enable Cross-Chain Bank Deposit Tokens",
+  "summary": "LayerZero and Keeta have partnered to allow tokenized bank deposits to be transferred across Ethereum, Solana, and Base. This collaboration aims to bridge traditional finance with decentralized networks, making cross-chain transactions more accessible.",
+  "body": "LayerZero and Keeta have announced a partnership to enable the transfer of tokenized bank deposits across multiple blockchain networks, including Ethereum, Solana, and Base. This collaboration allows users to move traditional financial assets seamlessly between these blockchains, leveraging LayerZero's cross-chain communication protocol and Keeta's financial infrastructure.\n\nThe partnership is designed to bridge the gap between traditional finance and decentralized networks. Users can now tokenize their bank deposits and transfer them across different blockchains, making it easier to access and manage financial assets in a decentralized manner. This initiative is expected to enhance liquidity and interoperability within the crypto ecosystem.\n\nFor everyday users, this means greater flexibility in managing their financial assets. Tokenized bank deposits can be used in decentralized finance (DeFi) applications, providing access to lending, borrowing, and other financial services across multiple blockchains. This could potentially lower barriers to entry for those looking to participate in DeFi without needing to convert their assets into native cryptocurrencies.\n\nThe collaboration between LayerZero and Keeta is a significant step towards integrating traditional financial systems with blockchain technology. As more financial institutions explore tokenization, this partnership could set a precedent for future cross-chain financial services. Users should watch for further developments in this space, as more traditional financial products may become available on decentralized networks in the near future.",
+  "sourceUrl": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "general",
+  "tags": [
+    "cross-chain",
+    "tokenization",
+    "finance",
+    "layerzero",
+    "keeta",
+    "ethereum"
+  ],
+  "publishedAt": "2026-07-23T13:13:43.402903+00:00",
+  "imageUrl": "/images/articles/2026-07-23-layerzero-and-keeta-enable-cross-chain-bank-deposit-tokens.webp",
+  "twitterThread": [
+    "Tokenized bank deposits can now move across Ethereum, Solana, and Base thanks to LayerZero and Keeta. A big step for bridging traditional finance and crypto.",
+    "LayerZero's cross-chain tech + Keeta's financial infrastructure = seamless transfers of tokenized deposits. No more blockchain silos for your bank deposits.",
+    "This could make DeFi more accessible. Watch for more traditional finance products on-chain. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-layerzero-and-keeta-enable-cross-chain-bank-deposit-tokens"
+  ],
+  "standaloneTweet": "Your bank deposits can now live on Ethereum, Solana, and Base as tokens. Thanks to LayerZero and Keeta, cross-chain finance just got real.",
+  "seoTitle": "LayerZero & Keeta Enable Cross-Chain Tokenized Bank Deposits",
+  "metaDescription": "LayerZero and Keeta partner to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta, bridging traditional finance with decentralized networks",
+  "llmSummary": "LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta. The collaboration uses LayerZero's cross-chain protocol and Keeta's financial infrastructure to bridge traditional finance with decentralized networks, allowing users to move tokenized deposits seamlessly between blockchains.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "LayerZero & Keeta Enable Cross-Chain Tokenized Bank Deposits",
+    "description": "LayerZero and Keeta partner to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta, bridging traditional finance with decentralized networks.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-layerzero-and-keeta-enable-cross-chain-bank-deposit-tokens",
+    "datePublished": "2026-07-23T13:13:43.402903+00:00",
+    "dateModified": "2026-07-23T13:13:43.402903+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-layerzero-and-keeta-enable-cross-chain-bank-deposit-tokens"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "cross-chain, tokenization, finance, layerzero, keeta, ethereum"
+  }
+}

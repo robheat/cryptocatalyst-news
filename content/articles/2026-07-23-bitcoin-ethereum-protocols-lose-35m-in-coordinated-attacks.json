@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-23-bitcoin-ethereum-protocols-lose-35m-in-coordinated-attacks",
+  "title": "Bitcoin, Ethereum Protocols Lose $35M in Attacks Exploiting Key Management Flaws",
+  "summary": "Multiple crypto protocols linked to Bitcoin and Ethereum lost $35 million in a series of attacks exploiting weak key management, upgrade powers, and validation checks. The breaches targeted Verus, B² Network, and other cross-chain systems, draining funds without breaking the underlying cryptography.",
+  "body": "Several cryptocurrency protocols linked to Bitcoin and Ethereum were hit by a series of attacks within hours of each other, resulting in losses totaling $35 million. The attacks targeted Verus, B² Network, and other cross-chain systems, exploiting weaknesses in key management, upgrade powers, and validation checks rather than breaking the underlying cryptography.\n\nThe breaches highlighted critical vulnerabilities in how these protocols handle security. Attackers compromised private keys, bypassed validation checks, and exploited upgrade mechanisms to drain funds. The incidents underscore the importance of robust security practices in decentralized finance.\n\nFor everyday users, these attacks serve as a stark reminder to use protocols with strong security measures. It's crucial to research the security practices of any platform before investing or using it. Users should also enable multi-signature wallets and other security features to protect their assets.\n\nMoving forward, the crypto community must prioritize security audits and transparent governance. Users should watch for announcements from affected protocols about refunds or compensation and consider using more secure alternatives in the meantime. Read more → https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "crypto",
+    "security",
+    "hack",
+    "bitcoin",
+    "ethereum"
+  ],
+  "publishedAt": "2026-07-23T13:08:09.517686+00:00",
+  "imageUrl": "/images/articles/2026-07-23-bitcoin-ethereum-protocols-lose-35m-in-coordinated-attacks.webp",
+  "twitterThread": [
+    "Multiple Bitcoin and Ethereum-linked protocols lost $35M in attacks today. Weak key management, upgrade powers, and validation checks were the culprits.",
+    "The breaches targeted Verus, B² Network, and other cross-chain systems, showing how compromised keys and upgrade powers can drain funds without breaking crypto itself.",
+    "Users: research security practices before using any platform. Watch for announcements from affected protocols. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-bitcoin-ethereum-protocols-lose-35m-in-coordinated-attacks"
+  ],
+  "standaloneTweet": "Bitcoin and Ethereum-linked protocols lost $35M in attacks today. Weak key management, upgrade powers, and validation checks were exploited. Users: research security practices before using any platform.",
+  "seoTitle": "Bitcoin, Ethereum Protocols Lose $35M in Key Management Attacks",
+  "metaDescription": "Multiple crypto protocols linked to Bitcoin and Ethereum lost $35 million in attacks exploiting weak key management, upgrade powers, and validation checks. Verus and B² Network amo",
+  "llmSummary": "Multiple crypto protocols linked to Bitcoin and Ethereum lost $35 million in a series of attacks exploiting weak key management, upgrade powers, and validation checks. The breaches targeted Verus, B² Network, and other cross-chain systems, draining funds without breaking the underlying cryptography.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Bitcoin, Ethereum Protocols Lose $35M in Attacks Exploiting Key Management Flaws",
+    "description": "Multiple crypto protocols linked to Bitcoin and Ethereum lost $35 million in a series of attacks exploiting weak key management, upgrade powers, and validation checks. The breaches targeted Verus, B² Network, and other cross-chain systems.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-bitcoin-ethereum-protocols-lose-35m-in-coordinated-attacks",
+    "datePublished": "2026-07-23T13:08:09.517686+00:00",
+    "dateModified": "2026-07-23T13:08:09.517686+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-bitcoin-ethereum-protocols-lose-35m-in-coordinated-attacks"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "crypto",
+      "security",
+      "hack",
+      "bitcoin",
+      "ethereum"
+    ]
+  }
+}

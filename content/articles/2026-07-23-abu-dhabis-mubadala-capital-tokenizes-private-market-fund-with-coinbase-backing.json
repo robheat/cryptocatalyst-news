@@ -1,0 +1,51 @@
+{
+  "slug": "2026-07-23-abu-dhabis-mubadala-capital-tokenizes-private-market-fund-with-coinbase-backing",
+  "title": "Abu Dhabi's Mubadala Capital Tokenizes Private Market Fund with Coinbase Backing",
+  "summary": "Abu Dhabi's Mubadala Capital is bringing a private market fund onchain, partnering with Coinbase and KAIO. The fund will be available across Base, Solana, and Sui networks, marking a significant step in tokenizing traditional assets.",
+  "body": "Abu Dhabi's Mubadala Capital, a sovereign wealth-backed asset manager, is making a major move into the tokenization space. The firm has partnered with Coinbase and KAIO to bring one of its private market funds onchain, making it accessible across the Base, Solana, and Sui networks. This initiative aims to democratize access to private market investments, which are typically reserved for institutional investors.\n\nThe tokenized fund will leverage blockchain technology to enhance liquidity and transparency. Coinbase has taken a stake in the onchain fund, signaling strong support from a major crypto exchange. KAIO, a platform specializing in tokenizing real-world assets, will facilitate the process. This collaboration highlights the growing trend of traditional financial institutions embracing blockchain solutions.\n\nFor everyday investors, this development could mean easier access to high-value private market investments. Tokenization can lower the barriers to entry, allowing smaller investors to participate in opportunities previously limited to large institutions. The use of multiple blockchain networks also ensures broader accessibility and security.\n\nThis move by Mubadala Capital is part of a broader push towards tokenizing traditional assets. As more institutions explore blockchain technology, we can expect to see increased liquidity and innovation in the financial markets. Investors should watch for further developments in tokenization and how it impacts traditional investment strategies.",
+  "sourceUrl": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "tokenization",
+    "private-markets",
+    "coinbase",
+    "mubadala-capital",
+    "blockchain"
+  ],
+  "publishedAt": "2026-07-23T13:12:31.897365+00:00",
+  "imageUrl": "/images/articles/2026-07-23-abu-dhabis-mubadala-capital-tokenizes-private-market-fund-with-coinbase-backing.webp",
+  "twitterThread": [
+    "Abu Dhabi's Mubadala Capital is tokenizing a private market fund with Coinbase backing. The fund will be available on Base, Solana, and Sui networks.",
+    "This move could democratize access to high-value investments, traditionally reserved for institutional investors. Tokenization enhances liquidity and transparency.",
+    "Keep an eye on how tokenization evolves and impacts traditional investment strategies. Read more → https://www.cryptocatalyst.news/articles/2026-07-23-abu-dhabis-mubadala-capital-tokenizes-private-market-fund-with-coinbase-backing"
+  ],
+  "standaloneTweet": "Abu Dhabi's Mubadala Capital is bringing a private market fund onchain, making high-value investments more accessible to everyday investors. Tokenization is changing the game.",
+  "seoTitle": "Mubadala Capital Tokenizes Private Market Fund with Coinbase, KAIO",
+  "metaDescription": "Abu Dhabi's Mubadala Capital partners with Coinbase and KAIO to tokenize a private market fund on Base, Solana, and Sui networks, expanding access to institutional-grade investment",
+  "llmSummary": "Abu Dhabi's Mubadala Capital, a sovereign wealth-backed asset manager, is tokenizing one of its private market funds via KAIO, with Coinbase taking a stake. The fund will be accessible on Base, Solana, and Sui blockchains, aiming to broaden investor access to traditionally institutional-only assets.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Abu Dhabi's Mubadala Capital Tokenizes Private Market Fund with Coinbase Backing",
+    "description": "Abu Dhabi's Mubadala Capital is bringing a private market fund onchain, partnering with Coinbase and KAIO. The fund will be available across Base, Solana, and Sui networks, marking a significant step in tokenizing traditional assets.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-23-abu-dhabis-mubadala-capital-tokenizes-private-market-fund-with-coinbase-backing",
+    "datePublished": "2026-07-23T13:12:31.897365+00:00",
+    "dateModified": "2026-07-23T13:12:31.897365+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-23-abu-dhabis-mubadala-capital-tokenizes-private-market-fund-with-coinbase-backing"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "tokenization, private-markets, coinbase, mubadala-capital, blockchain"
+  }
+}
