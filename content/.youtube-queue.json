@@ -9899,6 +9899,117 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-21-us-treasury-freezes-130m-in-crypto-linked-to-irans-irgc_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-23-crypto-research-morning-brief",
+      "title": "Crypto Research Morning Brief — July 23, 2026",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "ethereum",
+        "market-analysis",
+        "morning-brief",
+        "narrative",
+        "on-chain",
+        "research"
+      ],
+      "articleSummary": "1. OVERNIGHT MOVES",
+      "articleBody": "Morning Brief — Thursday, July 23, 2026\n\n1. OVERNIGHT MOVES\n\nA near-flat session across the watchlist with no structural conviction. BTC $65,586 (-0.6%), ETH $1,921.56 (flat), SOL $77.34 (flat). BTC dominance ticked up to 56.6% from 56.8% yesterday — a marginal decline, the first in three sessions, but too small to signal rotation. No structural level reclaimed: BTC remains $9,414 below the former $75k floor, ETH is $78 shy of $2k, SOL is $2.66 below $80. Volume across all three is below average. The tape is directionless.\n\nThe trending board has rotated decisively. Zama (ZAMA) leads — a completely fresh low-cap name with zero vault research. o1.exchange (O) enters at #2 — another fresh probe, zero vault research. ADI (ADI) persists at #3 from its July 13 debut — now ten consecutive days, the longest sustained non-mega-cap run since CASHCAT's nine-day streak ended. Hyperliquid (HYPE) re-enters at #4 — third appearance in the last five sessions. DeXe (DEXE) holds at #5 from yesterday's lead slot. Pudgy Penguins (PENGU) holds its meme slot at #6. Cash Cat (CASHCAT) returns at #7 after a one-day absence.\n\nNotable absentees: No Ondo (ONDO) after four appearances in the last six sessions — a one-day gap. No Bitcoin or Ethereum. No LAB after yesterday's re-entry. The board has shifted from governance infrastructure (DeXe) and RWA (ONDO) back toward fresh low-cap probes (ZAMA, O), per",
+      "imageUrl": "/images/articles/2026-07-23-crypto-research-morning-brief.png",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-23-crypto-research-morning-brief",
+      "script": {
+        "hook": "Your cryptocurrency investments just got a bit more confusing overnight.",
+        "narration_lines": [
+          "Bitcoin and Ethereum are barely moving, stuck below key price levels.",
+          "New, unknown cryptocurrencies like Zama and o1.exchange are suddenly trending.",
+          "This means the market is directionless, making it risky for new investors.",
+          "For example, Bitcoin is still $9,414 below its old support level of $75,000.",
+          "If you're investing, stick to well-known cryptocurrencies until the market clears up."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 80
+      },
+      "scriptHash": "2cfb58cc3b513fe0",
+      "scriptText": "Your cryptocurrency investments just got a bit more confusing overnight. Bitcoin and Ethereum are barely moving, stuck below key price levels. New, unknown cryptocurrencies like Zama and o1.exchange are suddenly trending. This means the market is directionless, making it risky for new investors. For example, Bitcoin is still $9,414 below its old support level of $75,000. If you're investing, stick to well-known cryptocurrencies until the market clears up. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "SRUWhc10WFY",
+      "youtubeUrl": "https://youtube.com/watch?v=SRUWhc10WFY",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-23T16:25:03.147864+00:00",
+      "uploadedAt": "2026-07-23T16:35:30.628488+00:00",
+      "audioLineDurations": [
+        4.245333333333333,
+        4.394666666666667,
+        5.589333333333333,
+        4.224,
+        8.746666666666666,
+        4.544,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-23-crypto-research-morning-brief_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai",
+      "title": "Lightning Labs Launches Wavelength: “Bitcoin on Easy Mode” for Developers and Autonomous Agents",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "lightning-network",
+        "developers",
+        "ai",
+        "microtransactions"
+      ],
+      "articleSummary": "Lightning Labs has launched Wavelength, a tool that makes it easier for developers and AI agents to use Bitcoin. It allows machines to make tiny payments while users keep full control of their keys. The service is now available on Signet and testnet, with mainnet access by invitation only.",
+      "articleBody": "Lightning Labs, a prominent Bitcoin development company, has launched Wavelength, a new tool designed to simplify Bitcoin transactions for developers and autonomous agents. Described as \"Bitcoin on easy mode,\" Wavelength is now available on Signet and testnet, with mainnet access limited to invited users. The tool provides an API that allows AI agents to make payments in fractions of a cent, all while users retain full control of their private keys.\n\nWavelength uses the Model Context Protocol to expose its API to AI agents, enabling seamless machine-to-machine payments. This innovation aims to make Bitcoin more accessible for developers and AI applications, which often require small, frequent transactions. The tool is currently in its early stages, with mainnet access restricted to ensure stability and security.\n\nThis development is significant for everyday users because it could lead to more innovative applications that use Bitcoin for microtransactions. For example, AI-driven services could automatically pay for small tasks or data transfers, making Bitcoin more useful in everyday scenarios. As Wavelength becomes more widely available, we can expect to see more integration of Bitcoin into various digital services.\n\nFor those interested in trying out Wavelength, the tool is currently available on Signet and testnet. Developers and AI enthusiasts can apply for mainnet access th",
+      "imageUrl": "/images/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai",
+      "script": {
+        "hook": "Your AI assistant could soon pay for things in Bitcoin without you lifting a finger.",
+        "narration_lines": [
+          "Lightning Labs just launched Wavelength, making Bitcoin transactions easier for developers and AI.",
+          "It lets machines make tiny payments, like fractions of a cent, while you keep full control of your money.",
+          "Think of it like an AI assistant paying for small tasks or data automatically, all using Bitcoin.",
+          "Right now, it's in testing, but you can apply for access to try it out.",
+          "This could mean more Bitcoin-powered services popping up in your daily life soon."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "24e1165b82194fbe",
+      "scriptText": "Your AI assistant could soon pay for things in Bitcoin without you lifting a finger. Lightning Labs just launched Wavelength, making Bitcoin transactions easier for developers and AI. It lets machines make tiny payments, like fractions of a cent, while you keep full control of your money. Think of it like an AI assistant paying for small tasks or data automatically, all using Bitcoin. Right now, it's in testing, but you can apply for access to try it out. This could mean more Bitcoin-powered services popping up in your daily life soon. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "_OPOldgbt7s",
+      "youtubeUrl": "https://youtube.com/watch?v=_OPOldgbt7s",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-23T16:25:06.162495+00:00",
+      "uploadedAt": "2026-07-23T16:35:33.514421+00:00",
+      "audioLineDurations": [
+        5.013333333333334,
+        6.208,
+        5.632,
+        6.250666666666667,
+        4.1386666666666665,
+        4.416,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_3.jpg"
+      ]
     }
   ]
 }
