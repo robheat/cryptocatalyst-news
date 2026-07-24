@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-24-strategy-updates-bitcoin-metrics-amid-prolonged-bear-market",
+  "title": "Strategy Overhauls Bitcoin Reporting to Show Net Exposure After Debt Obligations",
+  "summary": "Strategy, the bitcoin-focused firm co-founded by Michael Saylor, has overhauled its reporting framework to give common shareholders a clearer view of net bitcoin exposure after accounting for preferred stock and convertible debt obligations. The move comes as the prolonged bear market pressures crypto-related companies.",
+  "body": "Strategy, the bitcoin-focused investment firm co-founded by Michael Saylor, has overhauled its reporting framework to provide a more transparent view of its net bitcoin exposure. The new metrics account for preferred stock and convertible debt obligations, offering common shareholders a clearer understanding of the company's actual bitcoin holdings after those liabilities.\n\nThe update is part of Strategy's effort to adapt to the prolonged bear market, which has seen bitcoin prices remain under pressure. By adjusting its reporting, the company aims to give investors more accurate insights into its financial health and bitcoin reserves. This move is particularly important as it helps investors assess the company's ability to weather market downturns.\n\nFor everyday investors, this change means better transparency and potentially more confidence in Strategy's financial disclosures. Clearer reporting can help investors make more informed decisions, especially in a volatile market where understanding a company's true exposure to bitcoin is crucial.\n\nThis overhaul comes at a time when many crypto-related companies are struggling with market conditions. As the bear market persists, Strategy's proactive approach to reporting could set a precedent for other firms in the industry. Investors should watch for further updates from Strategy and other companies as they adapt to the evolving crypto landscape.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "investing",
+    "transparency",
+    "bear-market",
+    "financial-disclosures"
+  ],
+  "publishedAt": "2026-07-24T21:06:35.635710+00:00",
+  "imageUrl": "/images/articles/2026-07-24-strategy-updates-bitcoin-metrics-amid-prolonged-bear-market.webp",
+  "twitterThread": [
+    "Strategy overhauls its bitcoin metrics to give common shareholders a clearer view of net exposure after preferred stock and convertible debt obligations. A key move for transparency in crypto investing.",
+    "The new framework accounts for preferred stock and convertible debt, offering a more accurate picture of Strategy's actual bitcoin holdings after liabilities. Essential for assessing financial health in volatile markets.",
+    "As the crypto bear market persists, clearer reporting from Strategy could boost investor confidence. Watch for more updates as companies adapt to market conditions. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-strategy-updates-bitcoin-metrics-amid-prolonged-bear-market"
+  ],
+  "standaloneTweet": "Strategy overhauls bitcoin reporting to show net exposure after preferred stock and convertible debt obligations. A win for transparency in crypto investing during the bear market.",
+  "seoTitle": "Strategy Overhauls Bitcoin Reporting to Show Net Exposure After Debt",
+  "metaDescription": "Strategy, led by Michael Saylor, overhauls bitcoin metrics to give common shareholders a clearer view of net exposure after preferred stock and convertible debt obligations amid th",
+  "llmSummary": "Strategy, the bitcoin-focused firm co-founded by Michael Saylor, has overhauled its reporting framework to give common shareholders a clearer view of net bitcoin exposure after accounting for preferred stock and convertible debt obligations. The move comes as the prolonged bear market pressures crypto-related companies, and aims to provide investors with more accurate insights into the company's financial health and bitcoin reserves.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Strategy Overhauls Bitcoin Reporting to Show Net Exposure After Debt Obligations",
+    "description": "Strategy, led by Michael Saylor, overhauls bitcoin metrics to give common shareholders a clearer view of net exposure after preferred stock and convertible debt obligations amid the prolonged bear market.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-strategy-updates-bitcoin-metrics-amid-prolonged-bear-market",
+    "datePublished": "2026-07-24T21:06:35.635710+00:00",
+    "dateModified": "2026-07-24T21:06:35.635710+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-strategy-updates-bitcoin-metrics-amid-prolonged-bear-market"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "investing",
+      "transparency",
+      "bear-market",
+      "financial-disclosures"
+    ]
+  }
+}
