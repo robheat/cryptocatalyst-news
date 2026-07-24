@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-24-india-orders-takedown-of-jack-dorseys-bitcoin-messaging-app-bitchat",
+  "title": "India Orders Takedown of Jack Dorsey’s Bitcoin Messaging App Bitchat",
+  "summary": "India has ordered the removal of Bitchat, a bitcoin-linked messaging app, as protesters use it to communicate during internet shutdowns. The app relies on Bluetooth mesh networks to bypass traditional internet restrictions.",
+  "body": "India has ordered the takedown of Bitchat, a messaging app developed by Jack Dorsey, following its use by protesters to evade internet shutdowns. Bitchat operates on a Bluetooth mesh network, allowing encrypted messages and bitcoin transactions without relying on the internet. This move comes as protesters, referred to as 'Cockroach Janta Party,' use such tools to organize and communicate during government-imposed internet blackouts.\n\nThe app has gained traction among activists in Delhi who are leveraging mesh networks to maintain communication when traditional internet services are disrupted. Bitchat’s unique feature of enabling bitcoin transactions without internet access has made it a valuable tool for those operating under restrictive conditions. The Indian government’s order targets the app’s distribution and usage, citing concerns over its role in facilitating protests.\n\nFor everyday users, this development highlights the growing importance of decentralized communication tools in regions with strict internet controls. Bitchat’s technology demonstrates how blockchain and mesh networks can provide alternatives to traditional internet-based services. However, the takedown order underscores the challenges and risks faced by developers and users of such technologies in politically sensitive environments.\n\nUsers interested in decentralized communication tools should watch for similar apps that might emerge in response to this ban. While Bitchat’s future in India is uncertain, other projects may step in to fill the gap, offering similar functionalities. Stay informed about updates from the Indian government and the broader decentralized tech community for potential alternatives.",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "india",
+    "bitcoin",
+    "messaging",
+    "protests",
+    "mesh-networks",
+    "censorship"
+  ],
+  "publishedAt": "2026-07-24T13:17:59.942642+00:00",
+  "imageUrl": "/images/articles/2026-07-24-india-orders-takedown-of-jack-dorseys-bitcoin-messaging-app-bitchat.webp",
+  "twitterThread": [
+    "India has ordered the removal of Bitchat, a bitcoin-linked messaging app used by protesters to evade internet shutdowns. The app relies on Bluetooth mesh networks for encrypted communication and transactions.",
+    "Bitchat, developed by Jack Dorsey, allows users to send messages and conduct bitcoin transactions without internet access. This makes it a powerful tool for activists in regions with strict internet controls.",
+    "If you're interested in decentralized communication tools, keep an eye on similar apps that might emerge in response to this ban. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-india-orders-takedown-of-jack-dorseys-bitcoin-messaging-app-bitchat"
+  ],
+  "standaloneTweet": "India just banned Bitchat, a bitcoin-linked messaging app used by protesters to bypass internet shutdowns. This shows how decentralized tech can challenge government controls.",
+  "seoTitle": "India Orders Takedown of Jack Dorsey’s Bitcoin Messaging App Bitchat",
+  "metaDescription": "India has ordered the removal of Bitchat, a bitcoin-linked messaging app used by protesters to bypass internet shutdowns. The app uses Bluetooth mesh networks for encrypted message",
+  "llmSummary": "India ordered the takedown of Bitchat, a Bluetooth mesh messaging app linked to Jack Dorsey and bitcoin, after protesters used it to communicate during internet shutdowns in Delhi. The app enables encrypted messaging and bitcoin transactions without internet access.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "India Orders Takedown of Jack Dorsey’s Bitcoin Messaging App Bitchat",
+    "description": "India has ordered the removal of Bitchat, a bitcoin-linked messaging app used by protesters to bypass internet shutdowns. The app uses Bluetooth mesh networks for encrypted messages and bitcoin transactions.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-india-orders-takedown-of-jack-dorseys-bitcoin-messaging-app-bitchat",
+    "datePublished": "2026-07-24T13:17:59.942642+00:00",
+    "dateModified": "2026-07-24T13:17:59.942642+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-india-orders-takedown-of-jack-dorseys-bitcoin-messaging-app-bitchat"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "india",
+      "bitcoin",
+      "messaging",
+      "protests",
+      "mesh-networks",
+      "censorship"
+    ]
+  }
+}

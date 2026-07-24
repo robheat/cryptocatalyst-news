@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance",
+  "title": "Flow Traders Pilots Lombard's Bitcoin-Backed Credit Strategy for Stablecoin Borrowing",
+  "summary": "Lombard Finance is launching its Bitcoin Onchain Credit Strategy, with Flow Traders as the pilot partner. The strategy enables traders to borrow stablecoins using Bitcoin as collateral, potentially lowering borrowing costs and increasing capital efficiency.",
+  "body": "Lombard Finance has introduced its Bitcoin Onchain Credit Strategy, with Flow Traders serving as the pilot partner. This new service enables traders to borrow stablecoins by using Bitcoin as collateral, a move that could reduce borrowing costs and increase capital efficiency in the crypto markets.\n\nThe strategy leverages Bitcoin's value as collateral to provide stablecoin loans, which can be used for trading or other financial activities. Lombard Finance aims to expand this service to additional partners following the successful pilot with Flow Traders. This initiative highlights the growing integration of Bitcoin into structured credit and lending strategies.\n\nFor everyday crypto users, this development could mean more flexible borrowing options and potentially lower interest rates compared to traditional crypto lending platforms. As more institutions adopt similar strategies, overall liquidity and capital efficiency in the crypto market may improve, benefiting both traders and investors.\n\nThis pilot program represents a significant step toward mainstream adoption of Bitcoin-backed credit strategies. Users should monitor announcements from Lombard Finance and other financial institutions regarding the availability of similar services, which could open new opportunities for leveraging Bitcoin holdings for stablecoin loans.",
+  "sourceUrl": "https://www.theblock.co/post/409516/flow-traders-pilots-lombards-new-bitcoin-backed-credit-strategy-for-stablecoin-borrowing?utm_source=rss&utm_medium=rss",
+  "sourceName": "The Block",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "stablecoin",
+    "lombard-finance",
+    "flow-traders",
+    "credit-strategy"
+  ],
+  "publishedAt": "2026-07-24T13:20:18.753146+00:00",
+  "imageUrl": "/images/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance.webp",
+  "twitterThread": [
+    "Flow Traders is piloting Lombard Finance's new Bitcoin Onchain Credit Strategy, enabling stablecoin borrowing backed by Bitcoin as collateral.",
+    "Lombard Finance's Bitcoin Onchain Credit Strategy lets traders borrow stablecoins using Bitcoin as collateral. This could increase capital efficiency and reduce borrowing costs.",
+    "If successful, this pilot could lead to more flexible borrowing options for crypto users. Watch for announcements on similar services → https://www.cryptocatalyst.news/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance"
+  ],
+  "standaloneTweet": "Flow Traders is piloting Lombard Finance's new Bitcoin Onchain Credit Strategy for stablecoin borrowing using Bitcoin as collateral. Could this mean lower borrowing costs for crypto traders?",
+  "seoTitle": "Flow Traders Pilots Lombard Bitcoin-Backed Stablecoin Loans",
+  "metaDescription": "Lombard Finance launches Bitcoin Onchain Credit Strategy with Flow Traders as pilot partner. Borrow stablecoins using Bitcoin collateral, potentially lowering costs and boosting ca",
+  "llmSummary": "Lombard Finance has launched its Bitcoin Onchain Credit Strategy, with Flow Traders as the pilot partner. The strategy allows traders to borrow stablecoins using Bitcoin as collateral, aiming to reduce borrowing costs and increase capital efficiency. Lombard plans to expand the service to additional partners after the pilot.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Flow Traders Pilots Lombard's Bitcoin-Backed Credit Strategy for Stablecoin Borrowing",
+    "description": "Lombard Finance is launching its Bitcoin Onchain Credit Strategy, with Flow Traders as the pilot partner. The strategy enables traders to borrow stablecoins using Bitcoin as collateral, potentially lowering borrowing costs and increasing capital efficiency.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance",
+    "datePublished": "2026-07-24T13:20:18.753146+00:00",
+    "dateModified": "2026-07-24T13:20:18.753146+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance"
+    },
+    "image": null,
+    "articleSection": "Bitcoin",
+    "keywords": [
+      "bitcoin",
+      "stablecoin",
+      "lombard-finance",
+      "flow-traders",
+      "credit-strategy"
+    ]
+  }
+}

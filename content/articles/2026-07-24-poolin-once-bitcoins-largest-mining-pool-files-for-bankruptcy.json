@@ -1,0 +1,57 @@
+{
+  "slug": "2026-07-24-poolin-once-bitcoins-largest-mining-pool-files-for-bankruptcy",
+  "title": "Poolin, Once Bitcoin's Largest Mining Pool, Files for Bankruptcy",
+  "summary": "Poolin, a Singapore-based company that once controlled nearly 20% of Bitcoin's global hashrate, is filing for bankruptcy. The company owes $173 million and is selling off its remaining assets.",
+  "body": "Poolin, which at its peak controlled nearly a fifth of Bitcoin's global hashrate, is filing for bankruptcy. The Singapore-based company is selling off its remaining assets after accumulating $173 million in debt.\n\nPoolin was once the largest mining pool in the Bitcoin network, playing a crucial role in securing the blockchain. The company's downfall comes as a significant shift in the mining landscape, highlighting the financial pressures faced by even the largest players in the industry.\n\nThis bankruptcy filing is a stark reminder of the volatility and financial risks in the cryptocurrency mining sector. For everyday users, it underscores the importance of diversification and risk management in the crypto space. The sale of Poolin's assets could also lead to shifts in the distribution of Bitcoin's hashrate, potentially affecting the network's security and decentralization.\n\nFor those invested in or interested in Bitcoin mining, this news serves as a cautionary tale. It's essential to monitor the aftermath of Poolin's bankruptcy, particularly how the sale of its assets might impact the mining landscape and the overall health of the Bitcoin network. Keep an eye on announcements from other major mining pools and any regulatory responses to this development.",
+  "sourceUrl": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "bitcoin",
+    "mining",
+    "bankruptcy",
+    "poolin",
+    "cryptocurrency"
+  ],
+  "publishedAt": "2026-07-24T13:15:34.401698+00:00",
+  "imageUrl": "/images/articles/2026-07-24-poolin-once-bitcoins-largest-mining-pool-files-for-bankruptcy.webp",
+  "twitterThread": [
+    "Poolin, once Bitcoin's biggest mining pool, is filing for bankruptcy. The company owes $173 million and is selling off its assets.",
+    "At its peak, Poolin controlled nearly 20% of Bitcoin's global hashrate. Its downfall highlights the financial risks in crypto mining.",
+    "For Bitcoin users, this is a reminder of the volatility in the mining sector. Watch how asset sales impact the network's security. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-poolin-once-bitcoins-largest-mining-pool-files-for-bankruptcy"
+  ],
+  "standaloneTweet": "Poolin, once Bitcoin's largest mining pool, is filing for bankruptcy. The company's $173 million debt highlights the financial risks in crypto mining.",
+  "seoTitle": "Poolin, Once Bitcoin's Largest Mining Pool, Files for Bankruptcy",
+  "metaDescription": "Poolin, a Singapore-based company that once controlled nearly 20% of Bitcoin's global hashrate, is filing for bankruptcy. The company owes $173 million and is selling off its remai",
+  "llmSummary": "Poolin, a Singapore-based company that once controlled nearly 20% of Bitcoin's global hashrate, is filing for bankruptcy. The company owes $173 million and is selling off its remaining assets.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Poolin, Once Bitcoin's Largest Mining Pool, Files for Bankruptcy",
+    "description": "Poolin, a Singapore-based company that once controlled nearly 20% of Bitcoin's global hashrate, is filing for bankruptcy. The company owes $173 million and is selling off its remaining assets.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-poolin-once-bitcoins-largest-mining-pool-files-for-bankruptcy",
+    "datePublished": "2026-07-24T13:15:34.401698+00:00",
+    "dateModified": "2026-07-24T13:15:34.401698+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-poolin-once-bitcoins-largest-mining-pool-files-for-bankruptcy"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": [
+      "bitcoin",
+      "mining",
+      "bankruptcy",
+      "poolin",
+      "cryptocurrency"
+    ]
+  }
+}

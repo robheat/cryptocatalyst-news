@@ -1,0 +1,59 @@
+{
+  "slug": "2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge",
+  "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
+  "summary": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, launched the Bitcoin Security Consortium with a $15 million pledge to support Bitcoin security research and long-term resilience, including quantum readiness.",
+  "body": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, have launched the Bitcoin Security Consortium. This new group aims to bolster Bitcoin's security through research and development, with an initial pledge of $15 million.\n\nThe consortium's focus includes enhancing Bitcoin's long-term resilience and preparing for potential threats like quantum computing. Other members include firms like BitGo, Galaxy Digital, and NYDIG, showcasing a broad industry commitment to Bitcoin's security.\n\nThis initiative is significant for everyday Bitcoin users because it ensures the network remains secure against evolving threats. As Bitcoin continues to grow in adoption, maintaining its security is crucial for user trust and the ecosystem's stability.\n\nThe $15 million pledge is just the beginning. The consortium plans to fund various research projects and initiatives aimed at improving Bitcoin's security infrastructure. Users should watch for updates on these projects and how they might enhance the safety of their Bitcoin holdings.\n\nFor those interested in the technical aspects, the consortium will likely publish findings and recommendations. Staying informed about these developments can help users make better decisions about their Bitcoin investments and security practices.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "security",
+    "consortium",
+    "blackrock",
+    "coinbase",
+    "quantum"
+  ],
+  "publishedAt": "2026-07-24T13:22:44.904458+00:00",
+  "imageUrl": "/images/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge.webp",
+  "twitterThread": [
+    "Big news: BlackRock, Coinbase, and Strategy are among nine firms launching the Bitcoin Security Consortium with a $15M pledge to boost BTC security.",
+    "The group will focus on long-term resilience and quantum readiness. This is a major step in preparing Bitcoin for future threats.",
+    "If you're a Bitcoin user, keep an eye on their research. It could mean better security for your holdings. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge"
+  ],
+  "standaloneTweet": "BlackRock, Coinbase, and Strategy are among nine firms pledging $15M to boost Bitcoin security via the new Bitcoin Security Consortium. This could mean better protection for your BTC holdings.",
+  "seoTitle": "BlackRock, Coinbase, Strategy Lead $15M Bitcoin Security Consortium",
+  "metaDescription": "BlackRock, Coinbase, and Strategy join seven other firms to launch the Bitcoin Security Consortium, pledging $15 million for Bitcoin security research and quantum readiness.",
+  "llmSummary": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, launched the Bitcoin Security Consortium with a $15 million pledge to fund Bitcoin security research and development. The consortium focuses on long-term resilience and quantum computing preparedness, with members including BitGo, Galaxy Digital, and NYDIG.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
+    "description": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, launched the Bitcoin Security Consortium with a $15 million pledge to support Bitcoin security research and long-term resilience, including quantum readiness.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge",
+    "datePublished": "2026-07-24T13:22:44.904458+00:00",
+    "dateModified": "2026-07-24T13:22:44.904458+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": [
+      "bitcoin",
+      "security",
+      "consortium",
+      "blackrock",
+      "coinbase",
+      "quantum"
+    ]
+  }
+}

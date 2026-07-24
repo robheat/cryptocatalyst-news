@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-24-coinbase-prepares-for-quantum-threats-with-new-bitcoin-custody-system",
+  "title": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin’s Crypto Upgrade",
+  "summary": "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum computing threats. While the threat is not imminent, quantum computers could one day break Bitcoin's cryptography.",
+  "body": "Coinbase is building a post-quantum custody system to safeguard Bitcoin against potential threats from quantum computing. While the threat is not imminent, the company acknowledges that quantum computers could eventually break Bitcoin's cryptography. To address this, Coinbase is investing in both internal solutions and external funding for Bitcoin's cryptographic upgrades.\n\nThe post-quantum custody system is designed to protect Bitcoin holdings from future quantum attacks. Coinbase is collaborating with researchers and developers to ensure that the system is robust and secure. Additionally, the company is funding Bitcoin's cryptographic upgrades, which aim to strengthen the network's resistance to quantum computing threats.\n\nThis initiative is significant for everyday Bitcoin users because it ensures that their investments remain secure even as technology evolves. Quantum computing poses a theoretical risk to cryptographic systems, and Coinbase's proactive approach helps mitigate this risk. By investing in both internal and external solutions, Coinbase is demonstrating a commitment to long-term security and innovation.\n\nFor those interested in the future of Bitcoin security, it's important to stay updated on developments in quantum computing and cryptographic upgrades. Coinbase's efforts highlight the importance of preemptive measures in maintaining the security of digital assets. Users should keep an eye on announcements from Coinbase and the Bitcoin community regarding these advancements.",
+  "sourceUrl": "https://bitcoinmagazine.com/news/coinbase-building-post-quantum-solutions",
+  "sourceName": "Bitcoin Magazine",
+  "category": "bitcoin",
+  "tags": [
+    "bitcoin",
+    "coinbase",
+    "quantum-computing",
+    "custody",
+    "security",
+    "cryptography"
+  ],
+  "publishedAt": "2026-07-24T13:21:59.799695+00:00",
+  "imageUrl": "/images/articles/2026-07-24-coinbase-prepares-for-quantum-threats-with-new-bitcoin-custody-system.webp",
+  "twitterThread": [
+    "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum threats. While not imminent, quantum computers could one day break Bitcoin's cryptography.",
+    "The company is investing in both internal solutions and external funding for Bitcoin's cryptographic upgrades. This proactive approach aims to ensure long-term security for Bitcoin users.",
+    "If you hold Bitcoin, stay updated on developments in quantum computing and cryptographic upgrades. Coinbase's efforts highlight the importance of preemptive security measures. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-coinbase-prepares-for-quantum-threats-with-new-bitcoin-custody-system"
+  ],
+  "standaloneTweet": "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum threats. While not imminent, quantum computers could one day break Bitcoin's cryptography.",
+  "seoTitle": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin Crypto Upgr",
+  "metaDescription": "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum computing threats. While not imminent, quantum com",
+  "llmSummary": "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum computing threats. While the threat is not imminent, quantum computers could one day break Bitcoin's cryptography. The company is collaborating with researchers and developers to ensure robust security.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin’s Crypto Upgrade",
+    "description": "Coinbase is building a post-quantum custody system and funding Bitcoin's cryptographic upgrades to protect against future quantum computing threats. While not imminent, quantum computers could one day break Bitcoin's cryptography.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-coinbase-prepares-for-quantum-threats-with-new-bitcoin-custody-system",
+    "datePublished": "2026-07-24T13:21:59.799695+00:00",
+    "dateModified": "2026-07-24T13:21:59.799695+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-coinbase-prepares-for-quantum-threats-with-new-bitcoin-custody-system"
+    },
+    "image": null,
+    "articleSection": "bitcoin",
+    "keywords": "bitcoin, coinbase, quantum-computing, custody, security, cryptography"
+  }
+}

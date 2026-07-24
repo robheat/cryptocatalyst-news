@@ -1,0 +1,52 @@
+{
+  "slug": "2026-07-24-eu-targets-120b-crypto-network-in-21st-russia-sanctions-package",
+  "title": "EU Considers First-Ever Ban on Third-Country Crypto Providers in 21st Russia Sanctions Package",
+  "summary": "The EU is considering a ban on third-country crypto service providers for the first time and is targeting 14 crypto companies, which it has not named yet, as part of its 21st sanctions package against Russia.",
+  "body": "The European Union is considering its 21st sanctions package against Russia, which for the first time would include a ban on third-country crypto service providers. The proposed measures target 14 crypto companies that have not yet been publicly named. This expansion is part of a broader effort to restrict financial flows to Russia, which has increasingly relied on crypto to circumvent traditional sanctions.\n\nThe EU's decision to target crypto services highlights the growing importance of digital assets in global finance. The 14 companies targeted are believed to facilitate transactions worth over $120 billion, underscoring the scale of the financial network the EU aims to disrupt. While the specific companies have not been named, the sanctions are expected to impact both Russian and international crypto firms operating in the region.\n\nFor everyday users, this move could lead to increased scrutiny and potential restrictions on crypto transactions involving Russian entities. It may also affect the availability of certain crypto services in Europe, as companies comply with the new regulations. The sanctions could further isolate Russia from the global financial system, making it harder for individuals and businesses to conduct transactions.\n\nMoving forward, crypto users should be aware of the potential for increased regulatory oversight and the possibility of service disruptions. Those with ties to Russian entities may need to review their transactions and ensure compliance with the new sanctions. The EU's actions signal a broader trend of governments cracking down on crypto to enforce geopolitical policies, a trend likely to continue in the coming months.",
+  "sourceUrl": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+  "sourceName": "CoinDesk",
+  "category": "general",
+  "tags": [
+    "eu",
+    "sanctions",
+    "russia",
+    "cryptocurrency",
+    "regulation",
+    "finance"
+  ],
+  "publishedAt": "2026-07-24T13:14:13.474159+00:00",
+  "imageUrl": "/images/articles/2026-07-24-eu-targets-120b-crypto-network-in-21st-russia-sanctions-package.webp",
+  "twitterThread": [
+    "The EU is considering its 21st sanctions package against Russia, which for the first time would ban third-country crypto service providers. 14 companies are targeted but haven't been named yet.",
+    "This is the first time the EU has explicitly gone after crypto services. The goal? Cutting off financial flows to Russia as it leans on digital assets to bypass traditional sanctions.",
+    "If you're in crypto, watch for increased scrutiny and potential service disruptions. The EU's move signals a broader crackdown on crypto for geopolitical ends. Read more → https://www.cryptocatalyst.news/articles/2026-07-24-eu-targets-120b-crypto-network-in-21st-russia-sanctions-package"
+  ],
+  "standaloneTweet": "The EU is considering a ban on third-country crypto providers for the first time, targeting a $120B crypto network in its 21st sanctions package against Russia. If you're in crypto, be ready for more scrutiny and potential service changes.",
+  "seoTitle": "EU Considers First Ban on Third-Country Crypto Providers in Russia San",
+  "metaDescription": "The EU is considering a ban on third-country crypto service providers for the first time, targeting 14 unnamed companies in its 21st sanctions package against Russia.",
+  "llmSummary": "The EU is considering its 21st sanctions package against Russia, which for the first time would include a ban on third-country crypto service providers. The package targets 14 unnamed crypto companies believed to facilitate transactions worth over $120 billion.",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "EU Considers First-Ever Ban on Third-Country Crypto Providers in 21st Russia Sanctions Package",
+    "description": "The EU is considering a ban on third-country crypto service providers for the first time and is targeting 14 crypto companies, which it has not named yet, as part of its 21st sanctions package against Russia.",
+    "url": "https://www.cryptocatalyst.news/articles/2026-07-24-eu-targets-120b-crypto-network-in-21st-russia-sanctions-package",
+    "datePublished": "2026-07-24T13:14:13.474159+00:00",
+    "dateModified": "2026-07-24T13:14:13.474159+00:00",
+    "author": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CryptoCatalyst"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.cryptocatalyst.news/articles/2026-07-24-eu-targets-120b-crypto-network-in-21st-russia-sanctions-package"
+    },
+    "image": null,
+    "articleSection": "general",
+    "keywords": "eu, sanctions, russia, cryptocurrency, regulation, finance"
+  }
+}
