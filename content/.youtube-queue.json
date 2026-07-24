@@ -10010,6 +10010,119 @@
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_2.jpg",
         "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-22-lightning-labs-launches-wavelength-simplifies-bitcoin-for-developers-and-ai_bg_3.jpg"
       ]
+    },
+    {
+      "slug": "2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge",
+      "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "security",
+        "consortium",
+        "blackrock",
+        "coinbase",
+        "quantum"
+      ],
+      "articleSummary": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, launched the Bitcoin Security Consortium with a $15 million pledge to support Bitcoin security research and long-term resilience, including quantum readiness.",
+      "articleBody": "Nine major Bitcoin firms, including BlackRock, Coinbase, and Strategy, have launched the Bitcoin Security Consortium. This new group aims to bolster Bitcoin's security through research and development, with an initial pledge of $15 million.\n\nThe consortium's focus includes enhancing Bitcoin's long-term resilience and preparing for potential threats like quantum computing. Other members include firms like BitGo, Galaxy Digital, and NYDIG, showcasing a broad industry commitment to Bitcoin's security.\n\nThis initiative is significant for everyday Bitcoin users because it ensures the network remains secure against evolving threats. As Bitcoin continues to grow in adoption, maintaining its security is crucial for user trust and the ecosystem's stability.\n\nThe $15 million pledge is just the beginning. The consortium plans to fund various research projects and initiatives aimed at improving Bitcoin's security infrastructure. Users should watch for updates on these projects and how they might enhance the safety of their Bitcoin holdings.\n\nFor those interested in the technical aspects, the consortium will likely publish findings and recommendations. Staying informed about these developments can help users make better decisions about their Bitcoin investments and security practices.",
+      "imageUrl": "/images/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge",
+      "script": {
+        "hook": "Big names in cryptocurrency are teaming up to protect your Bitcoin from future threats.",
+        "narration_lines": [
+          "BlackRock, Coinbase, and seven other firms just launched the Bitcoin Security Consortium.",
+          "They're putting $15 million into research to keep Bitcoin safe, even from quantum computing.",
+          "This means your Bitcoin could be better protected against advanced hacking in the future.",
+          "For example, they might develop new ways to secure your wallet or transactions.",
+          "As a Bitcoin user, you should keep an eye on their findings to stay ahead of security risks.",
+          "This is a big step towards making Bitcoin more resilient for everyone."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "c4ff1ad4bf1e1bbb",
+      "scriptText": "Big names in cryptocurrency are teaming up to protect your Bitcoin from future threats. BlackRock, Coinbase, and seven other firms just launched the Bitcoin Security Consortium. They're putting $15 million into research to keep Bitcoin safe, even from quantum computing. This means your Bitcoin could be better protected against advanced hacking in the future. For example, they might develop new ways to secure your wallet or transactions. As a Bitcoin user, you should keep an eye on their findings to stay ahead of security risks. This is a big step towards making Bitcoin more resilient for everyone. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "DuavwYOryao",
+      "youtubeUrl": "https://youtube.com/watch?v=DuavwYOryao",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-24T16:32:53.711826+00:00",
+      "uploadedAt": "2026-07-24T16:41:03.833781+00:00",
+      "audioLineDurations": [
+        5.077333333333334,
+        5.504,
+        5.973333333333334,
+        4.970666666666666,
+        4.672,
+        4.842666666666666,
+        4.1386666666666665,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-nine-major-firms-launch-bitcoin-security-consortium-with-15m-pledge_bg_3.jpg"
+      ]
+    },
+    {
+      "slug": "2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance",
+      "title": "Flow Traders Pilots Lombard's Bitcoin-Backed Credit Strategy for Stablecoin Borrowing",
+      "category": "bitcoin",
+      "tags": [
+        "bitcoin",
+        "stablecoin",
+        "lombard-finance",
+        "flow-traders",
+        "credit-strategy"
+      ],
+      "articleSummary": "Lombard Finance is launching its Bitcoin Onchain Credit Strategy, with Flow Traders as the pilot partner. The strategy enables traders to borrow stablecoins using Bitcoin as collateral, potentially lowering borrowing costs and increasing capital efficiency.",
+      "articleBody": "Lombard Finance has introduced its Bitcoin Onchain Credit Strategy, with Flow Traders serving as the pilot partner. This new service enables traders to borrow stablecoins by using Bitcoin as collateral, a move that could reduce borrowing costs and increase capital efficiency in the crypto markets.\n\nThe strategy leverages Bitcoin's value as collateral to provide stablecoin loans, which can be used for trading or other financial activities. Lombard Finance aims to expand this service to additional partners following the successful pilot with Flow Traders. This initiative highlights the growing integration of Bitcoin into structured credit and lending strategies.\n\nFor everyday crypto users, this development could mean more flexible borrowing options and potentially lower interest rates compared to traditional crypto lending platforms. As more institutions adopt similar strategies, overall liquidity and capital efficiency in the crypto market may improve, benefiting both traders and investors.\n\nThis pilot program represents a significant step toward mainstream adoption of Bitcoin-backed credit strategies. Users should monitor announcements from Lombard Finance and other financial institutions regarding the availability of similar services, which could open new opportunities for leveraging Bitcoin holdings for stablecoin loans.",
+      "imageUrl": "/images/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance.webp",
+      "articleUrl": "https://www.cryptocatalyst.news/articles/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance",
+      "script": {
+        "hook": "Your Bitcoin could soon help you borrow stablecoins at lower rates.",
+        "narration_lines": [
+          "Lombard Finance just launched a new way to use Bitcoin as collateral for stablecoin loans.",
+          "This means traders like Flow Traders can borrow stablecoins without selling their Bitcoin, keeping their investment intact.",
+          "Think of it like using your car as collateral for a loan, but instead of your car, it's your Bitcoin.",
+          "This could lower borrowing costs and make trading more efficient for everyone in the crypto market.",
+          "For regular users, this could mean more flexible borrowing options and potentially lower interest rates in the future.",
+          "Keep an eye on Lombard Finance for updates on this service."
+        ],
+        "cta": "For more crypto news made simple, visit cryptocatalyst dot news.",
+        "total_words": 110
+      },
+      "scriptHash": "5a701788384d31d1",
+      "scriptText": "Your Bitcoin could soon help you borrow stablecoins at lower rates. Lombard Finance just launched a new way to use Bitcoin as collateral for stablecoin loans. This means traders like Flow Traders can borrow stablecoins without selling their Bitcoin, keeping their investment intact. Think of it like using your car as collateral for a loan, but instead of your car, it's your Bitcoin. This could lower borrowing costs and make trading more efficient for everyone in the crypto market. For regular users, this could mean more flexible borrowing options and potentially lower interest rates in the future. Keep an eye on Lombard Finance for updates on this service. For more crypto news made simple, visit cryptocatalyst dot news.",
+      "audioFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance.wav",
+      "videoFile": "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance.mp4",
+      "status": "uploaded",
+      "youtubeVideoId": "D2rrP_otdIA",
+      "youtubeUrl": "https://youtube.com/watch?v=D2rrP_otdIA",
+      "privacy": "public",
+      "error": null,
+      "createdAt": "2026-07-24T16:32:59.898114+00:00",
+      "uploadedAt": "2026-07-24T16:41:05.537348+00:00",
+      "audioLineDurations": [
+        3.7333333333333334,
+        5.674666666666667,
+        7.594666666666667,
+        5.525333333333333,
+        5.269333333333333,
+        6.784,
+        3.648,
+        4.032
+      ],
+      "brollImages": [
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance_bg_0.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance_bg_1.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance_bg_2.jpg",
+        "/home/runner/work/cryptocatalyst-news/cryptocatalyst-news/pipeline/cache/youtube/2026-07-24-flow-traders-tests-bitcoin-backed-stablecoin-loans-with-lombard-finance_bg_3.jpg"
+      ]
     }
   ]
 }
